@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-10-08T21:33:01.674309Z",
+  "threats": [
+    {
+      "name": "demo.indicator",
+      "type": "domain",
+      "risk": "low"
+    },
+    {
+      "name": "1.2.3.4",
+      "type": "ip",
+      "risk": "medium"
+    }
+  ],
+  "rss": [
+    {
+      "title": "Demo security headline",
+      "source": "Example Feed",
+      "published": "2025-10-08"
+    }
+  ],
+  "summary": "This card summarizes the last 24 hours of activity across leaks, threat map, and headlines."
+}

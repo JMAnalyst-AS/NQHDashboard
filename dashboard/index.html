@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>North Quay — OSINT TV (Quadrants)</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta http-equiv="refresh" content="7200">
+</head>
+<body>
+  <header class="topbar">
+    <img src="assets/logo.jpg" alt="North Quay" class="logo" />
+    <div class="title">
+      <h1>OSINT TV — All‑Source Overview</h1>
+      <p class="subtitle">Non‑interactive wallboard · auto‑refreshed</p>
+    </div>
+    <div class="timestamp" id="timestamp">—</div>
+  </header>
+
+  <main class="grid4">
+    <section class="panel" id="q1">
+      <h2 class="h">Breach / Leak Intelligence <span class="badge">24h</span></h2>
+      <div class="list" id="breaches"></div>
+    </section>
+
+    <section class="panel" id="q2">
+      <h2 class="h">Live Global Threat Map</h2>
+      <div class="map-wrap">
+        <iframe
+          src="https://cybermap.kaspersky.com/en/widget/dynamic/dark"
+          title="Kaspersky CyberMap"
+          loading="lazy"
+          allow="fullscreen"
+          referrerpolicy="no-referrer"
+          style="border:0;width:100%;height:100%;"></iframe>
+        <div class="map-fallback">If the widget fails, open: <code>https://cybermap.kaspersky.com/</code></div>
+      </div>
+    </section>
+
+    <section class="panel" id="q3">
+      <h2 class="h">Security News (RSS)</h2>
+      <div class="list" id="rss"></div>
+    </section>
+
+    <section class="panel" id="q4">
+      <h2 class="h">Daily Intelligence Summary</h2>
+      <div class="card" id="summary">Loading…</div>
+    </section>
+  </main>
+
+  <script src="app.js?v=clean-1"></script>
+</body>
+</html>
