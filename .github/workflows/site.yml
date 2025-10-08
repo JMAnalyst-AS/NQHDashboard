@@ -1,0 +1,53 @@
+name: Build data & Deploy Pages (single workflow)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"   # hourly
+  push:
+    branches: [ main ]
+    paths:
+      - 'dashboard/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build data.json from open feeds
+        run: |
+          python scripts/fetch_feeds.py
+
+      - name: Commit data.json if changed
+        run: |
+          git config user.name "gh-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add dashboard/data.json || true
+          git commit -m "update data.json [skip ci]" || echo "no changes"
+          git push || true
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard/ as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
