@@ -48,7 +48,7 @@ jobs:
             echo "No changes to commit."
           fi
 
-      # ---- GitHub Pages deploy (static site from repository) ----
+      # ---- GitHub Pages deploy (static site from repository) ------
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
