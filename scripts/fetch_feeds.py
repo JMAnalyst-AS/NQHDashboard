@@ -98,7 +98,7 @@ def build_payload():
 
         # Segment 3 (cyber + OSINT)
         "segment3": rss,
-        "rss": rss        # alias for existing front-ends
+        "rss": rss        # alias for existing front-ends now
     }
     return payload
 
