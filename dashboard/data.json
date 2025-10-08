@@ -1,30 +1,6 @@
 {
-  "generated_at": "2025-10-08T22:49:26.159498Z",
+  "generated_at": "2025-10-08T23:06:13.693859Z",
   "breaches": [
-    {
-      "org": "LockBit, Qilin &amp; DragonForce Join",
-      "title": "LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel'",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel",
-      "published": "Wed, 08 Oct 2025 19:56:33 GMT",
-      "ts": "2025-10-08T19:56:33Z"
-    },
-    {
-      "org": "DragonForce, LockBit, and Qilin, a",
-      "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
-      "source": "DataBreaches.net",
-      "link": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
-      "published": "Wed, 08 Oct 2025 19:21:47 +0000",
-      "ts": "2025-10-08T19:21:47Z"
-    },
-    {
-      "org": "Framelink Figma MCP Server Opens",
-      "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise",
-      "published": "Wed, 08 Oct 2025 17:14:02 GMT",
-      "ts": "2025-10-08T17:14:02Z"
-    },
     {
       "org": "Qantas says \u2018legal protections in",
       "title": "Qantas says \u2018legal protections in place\u2019 as ScatteredLAPSUS$Hunters group threatens to release personal data",
@@ -52,7 +28,7 @@
     {
       "org": "Ransomware Group Claims Attack on",
       "title": "Ransomware Group Claims Attack on Beer Giant Asahi",
-      "source": "SecurityWeek",
+      "source": "SecurityWeek \u00b7 Data Breaches",
       "link": "https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/",
       "published": "Wed, 08 Oct 2025 09:15:35 +0000",
       "ts": "2025-10-08T09:15:35Z"
@@ -60,26 +36,10 @@
     {
       "org": "DraftKings Warns Users of Credential",
       "title": "DraftKings Warns Users of Credential Stuffing Attacks",
-      "source": "SecurityWeek",
+      "source": "SecurityWeek \u00b7 Data Breaches",
       "link": "https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/",
       "published": "Wed, 08 Oct 2025 08:59:18 +0000",
       "ts": "2025-10-08T08:59:18Z"
-    },
-    {
-      "org": "Cyberattack Leads to Beer Shortage",
-      "title": "Cyberattack Leads to Beer Shortage as Asahi Recovers",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers",
-      "published": "Wed, 08 Oct 2025 01:00:00 GMT",
-      "ts": "2025-10-08T01:00:00Z"
-    },
-    {
-      "org": "Attackers Season Spam With a",
-      "title": "Attackers Season Spam With a Touch of 'Salt'",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt",
-      "published": "Tue, 07 Oct 2025 21:18:57 GMT",
-      "ts": "2025-10-07T21:18:57Z"
     },
     {
       "org": "U.K.",
@@ -90,20 +50,20 @@
       "ts": "2025-10-07T21:06:54Z"
     },
     {
-      "org": "Medusa Ransomware Actors Exploit Critical",
-      "title": "Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw",
-      "published": "Tue, 07 Oct 2025 16:59:27 GMT",
-      "ts": "2025-10-07T16:59:27Z"
-    },
-    {
       "org": "California hospitals can escape fines",
       "title": "California hospitals can escape fines if workers expose patient info",
       "source": "DataBreaches.net",
       "link": "https://databreaches.net/2025/10/07/california-hospitals-can-escape-fines-if-workers-expose-patient-info/?pk_campaign=feed&pk_kwd=california-hospitals-can-escape-fines-if-workers-expose-patient-info",
       "published": "Tue, 07 Oct 2025 16:18:28 +0000",
       "ts": "2025-10-07T16:18:28Z"
+    },
+    {
+      "org": "Hackers Stole Data From Public",
+      "title": "Hackers Stole Data From Public Safety Comms Firm BK Technologies",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/hackers-stole-data-from-public-safety-comms-firm-bk-technologies/",
+      "published": "Tue, 07 Oct 2025 13:15:33 +0000",
+      "ts": "2025-10-07T13:15:33Z"
     },
     {
       "org": "Harris Health discloses insider",
@@ -122,28 +82,20 @@
       "ts": "2025-10-07T01:25:07Z"
     },
     {
-      "org": "Cyberattackers Exploit Zimbra Zero",
-      "title": "Cyberattackers Exploit Zimbra Zero-Day Via ICS",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics",
-      "published": "Mon, 06 Oct 2025 20:12:51 GMT",
-      "ts": "2025-10-06T20:12:51Z"
-    },
-    {
-      "org": "Clop Ransomware Hits Oracle Customers Via Zero",
-      "title": "Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw",
-      "published": "Mon, 06 Oct 2025 19:05:37 GMT",
-      "ts": "2025-10-06T19:05:37Z"
-    },
-    {
       "org": "I called American Income Life Insurance to alert them to a",
       "title": "I called American Income Life Insurance to alert them to a data breach involving 150,000 customers. Here\u2019s why they didn\u2019t find out.",
       "source": "DataBreaches.net",
       "link": "https://databreaches.net/2025/10/06/i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out/?pk_campaign=feed&pk_kwd=i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out",
       "published": "Mon, 06 Oct 2025 15:21:55 +0000",
       "ts": "2025-10-06T15:21:55Z"
+    },
+    {
+      "org": "Discord Says User Information Stolen in Third",
+      "title": "Discord Says User Information Stolen in Third-Party Data Breach",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/discord-says-user-information-stolen-in-third-party-data-breach/",
+      "published": "Mon, 06 Oct 2025 14:44:50 +0000",
+      "ts": "2025-10-06T14:44:50Z"
     },
     {
       "org": "NSW gov contractor uploaded Excel",
@@ -154,36 +106,52 @@
       "ts": "2025-10-06T12:28:09Z"
     },
     {
-      "org": "Scattered Lapsus$ Hunters Returns With",
-      "title": "Scattered Lapsus$ Hunters Returns With Salesforce Leak Site",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site",
-      "published": "Fri, 03 Oct 2025 19:27:09 GMT",
-      "ts": "2025-10-03T19:27:09Z"
+      "org": "Hackers Extorting Salesforce After Stealing",
+      "title": "Hackers Extorting Salesforce After Stealing Data From Dozens of Customers",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/",
+      "published": "Mon, 06 Oct 2025 11:24:35 +0000",
+      "ts": "2025-10-06T11:24:35Z"
     },
     {
-      "org": "Jaguar Land Rover Shows Cyberattacks",
-      "title": "Jaguar Land Rover Shows Cyberattacks Mean (Bad) Business",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyberattacks-bad-business",
-      "published": "Fri, 03 Oct 2025 15:30:00 GMT",
-      "ts": "2025-10-03T15:30:00Z"
+      "org": "Data Breach at Doctors Imaging",
+      "title": "Data Breach at Doctors Imaging Group Impacts 171,000 People",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/",
+      "published": "Mon, 06 Oct 2025 10:46:16 +0000",
+      "ts": "2025-10-06T10:46:16Z"
     },
     {
-      "org": "Red Hat Investigates Widespread",
-      "title": "Red Hat Investigates Widespread Breach of Private GitLab Repositories",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories",
-      "published": "Thu, 02 Oct 2025 15:46:58 GMT",
-      "ts": "2025-10-02T15:46:58Z"
+      "org": "Beer Giant Asahi Says Data",
+      "title": "Beer Giant Asahi Says Data Stolen in Ransomware Attack",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/beer-giant-asahi-says-data-stolen-in-ransomware-attack/",
+      "published": "Mon, 06 Oct 2025 07:58:49 +0000",
+      "ts": "2025-10-06T07:58:49Z"
     },
     {
-      "org": "The Ongoing Fallout from a",
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "source": "Krebs on Security",
-      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
-      "ts": "2025-09-01T21:55:04Z"
+      "org": "Oracle E",
+      "title": "Oracle E-Business Suite Zero-Day Exploited in Cl0p Attacks",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/oracle-e-business-suite-zero-day-exploited-in-cl0p-attacks/",
+      "published": "Mon, 06 Oct 2025 07:43:51 +0000",
+      "ts": "2025-10-06T07:43:51Z"
+    },
+    {
+      "org": "Oracle Says Known Vulnerabilities Possibly",
+      "title": "Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/oracle-says-known-vulnerabilities-possibly-exploited-in-recent-extortion-attacks/",
+      "published": "Fri, 03 Oct 2025 09:55:49 +0000",
+      "ts": "2025-10-03T09:55:49Z"
+    },
+    {
+      "org": "Red Hat Confirms GitLab Instance",
+      "title": "Red Hat Confirms GitLab Instance Hack, Data Theft",
+      "source": "SecurityWeek \u00b7 Data Breaches",
+      "link": "https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/",
+      "published": "Fri, 03 Oct 2025 06:55:26 +0000",
+      "ts": "2025-10-03T06:55:26Z"
     }
   ],
   "rss": [
@@ -195,32 +163,11 @@
       "ts": "2025-10-08T21:02:42Z"
     },
     {
-      "title": "Red Hat Hackers Team Up With Scattered Lapsus$ Hunters",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters",
-      "published": "Wed, 08 Oct 2025 20:40:36 GMT",
-      "ts": "2025-10-08T20:40:36Z"
-    },
-    {
-      "title": "LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel'",
-      "source": "Dark Reading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel",
-      "published": "Wed, 08 Oct 2025 19:56:33 GMT",
-      "ts": "2025-10-08T19:56:33Z"
-    },
-    {
       "title": "New FileFix attack uses cache smuggling to evade security software",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
       "published": "Wed, 08 Oct 2025 15:49:47 -0400",
       "ts": "2025-10-08T19:49:47Z"
-    },
-    {
-      "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
-      "published": "Wed, 08 Oct 2025 14:42:22 -0400",
-      "ts": "2025-10-08T18:42:22Z"
     },
     {
       "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
@@ -237,25 +184,11 @@
       "ts": "2025-10-08T17:49:59Z"
     },
     {
-      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
-      "published": "Wed, 08 Oct 2025 13:33:38 -0400",
-      "ts": "2025-10-08T17:33:38Z"
-    },
-    {
       "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
       "source": "Dark Reading",
       "link": "https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise",
       "published": "Wed, 08 Oct 2025 17:14:02 GMT",
       "ts": "2025-10-08T17:14:02Z"
-    },
-    {
-      "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
-      "published": "Wed, 08 Oct 2025 22:13:00 +0530",
-      "ts": "2025-10-08T16:43:00Z"
     },
     {
       "title": "AI Takes Center Stage at DataTribe\u2019s Cyber Innovation Day",
@@ -272,13 +205,6 @@
       "ts": "2025-10-08T16:26:04Z"
     },
     {
-      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
-      "published": "Wed, 08 Oct 2025 11:57:53 -0400",
-      "ts": "2025-10-08T15:57:53Z"
-    },
-    {
       "title": "Virtual Event Today: Zero Trust & Identity Strategies Summit",
       "source": "SecurityWeek",
       "link": "https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/",
@@ -293,11 +219,11 @@
       "ts": "2025-10-08T14:02:28Z"
     },
     {
-      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-      "published": "Wed, 08 Oct 2025 19:26:00 +0530",
-      "ts": "2025-10-08T13:56:00Z"
+      "title": "Defend the Target, Not Just the Door: A Modern Plan for Google Workspace",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/",
+      "published": "Wed, 08 Oct 2025 10:02:12 -0400",
+      "ts": "2025-10-08T14:02:12Z"
     },
     {
       "title": "Calling All Influencers: Spear-Phishers Dangle Tesla, Red Bull Jobs",
@@ -328,25 +254,11 @@
       "ts": "2025-10-08T12:08:00Z"
     },
     {
-      "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
-      "published": "Wed, 08 Oct 2025 17:34:00 +0530",
-      "ts": "2025-10-08T12:04:00Z"
-    },
-    {
-      "title": "North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025",
+      "title": "Radiflow Unveils New OT Security Platform",
       "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/",
-      "published": "Wed, 08 Oct 2025 11:09:29 +0000",
-      "ts": "2025-10-08T11:09:29Z"
-    },
-    {
-      "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely \u2014 Patch Now",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
-      "published": "Wed, 08 Oct 2025 16:28:00 +0530",
-      "ts": "2025-10-08T10:58:00Z"
+      "link": "https://www.securityweek.com/radiflow-unveils-new-ot-security-platform/",
+      "published": "Wed, 08 Oct 2025 10:07:03 +0000",
+      "ts": "2025-10-08T10:07:03Z"
     },
     {
       "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
@@ -356,11 +268,39 @@
       "ts": "2025-10-08T08:57:00Z"
     },
     {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "source": "Krebs on Security",
-      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "ts": "2025-10-07T22:45:35Z"
+      "title": "Cyberattack Leads to Beer Shortage as Asahi Recovers",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers",
+      "published": "Wed, 08 Oct 2025 01:00:00 GMT",
+      "ts": "2025-10-08T01:00:00Z"
+    },
+    {
+      "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
+      "published": "Tue, 07 Oct 2025 20:17:17 -0400",
+      "ts": "2025-10-08T00:17:17Z"
+    },
+    {
+      "title": "Docker makes Hardened Images Catalog affordable for small businesses",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
+      "published": "Tue, 07 Oct 2025 18:09:48 -0400",
+      "ts": "2025-10-07T22:09:48Z"
+    },
+    {
+      "title": "Attackers Season Spam With a Touch of 'Salt'",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt",
+      "published": "Tue, 07 Oct 2025 21:18:57 GMT",
+      "ts": "2025-10-07T21:18:57Z"
+    },
+    {
+      "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+      "published": "Tue, 07 Oct 2025 22:34:00 +0530",
+      "ts": "2025-10-07T17:04:00Z"
     },
     {
       "title": "Disrupting threats targeting Microsoft Teams",
@@ -382,6 +322,27 @@
       "link": "https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/",
       "published": "Tue, 07 Oct 2025 15:39:01 +0000",
       "ts": "2025-10-07T15:39:01Z"
+    },
+    {
+      "title": "Google's New AI Doesn't Just Find Vulnerabilities \u2014 It Rewrites Code to Patch Them",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+      "published": "Tue, 07 Oct 2025 20:48:00 +0530",
+      "ts": "2025-10-07T15:18:00Z"
+    },
+    {
+      "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+      "published": "Tue, 07 Oct 2025 16:30:00 +0530",
+      "ts": "2025-10-07T11:00:00Z"
+    },
+    {
+      "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+      "published": "Tue, 07 Oct 2025 16:06:00 +0530",
+      "ts": "2025-10-07T10:36:00Z"
     },
     {
       "title": "Inside Microsoft Threat Intelligence: Calm in the chaos",
@@ -440,13 +401,6 @@
       "ts": "2025-09-19T08:55:00Z"
     },
     {
-      "title": "Small businesses, big targets: Protecting your business against ransomware",
-      "source": "ESET WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/business-security/small-businesses-big-targets-protecting-business-ransomware/",
-      "published": "Thu, 18 Sep 2025 09:00:00 +0000",
-      "ts": "2025-09-18T09:00:00Z"
-    },
-    {
       "title": "Self-Replicating Worm Hits 180+ Software Packages",
       "source": "Krebs on Security",
       "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
@@ -466,7 +420,21 @@
       "link": "https://www.bellingcat.com/news/2025/09/15/active-club-fight-night-2025-san-diego/",
       "published": "Mon, 15 Sep 2025 16:06:39 +0000",
       "ts": "2025-09-15T16:06:39Z"
+    },
+    {
+      "title": "Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure Boot bypass",
+      "source": "ESET WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/eset-research/introducing-hybridpetya-petya-notpetya-copycat-uefi-secure-boot-bypass/",
+      "published": "Fri, 12 Sep 2025 09:00:00 +0000",
+      "ts": "2025-09-12T09:00:00Z"
+    },
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
+      "ts": "2025-09-11T17:40:22Z"
     }
   ],
-  "summary": "Open-source wallboard: company breach/leak headlines + curated security & OSINT RSS."
+  "summary": "Unique companies with most-recent breach/leak, plus curated security & OSINT RSS."
 }
