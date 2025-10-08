@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-10-08T22:34:19.458429Z",
+  "generated_at": "2025-10-08T22:40:23.338588Z",
   "breaches": [
+    {
+      "org": "LockBit, Qilin &amp; DragonForce Join",
+      "title": "LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel'",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel",
+      "published": "Wed, 08 Oct 2025 19:56:33 GMT",
+      "ts": "2025-10-08T19:56:33Z"
+    },
     {
       "org": "DragonForce, LockBit, and Qilin, a",
       "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
@@ -8,6 +16,14 @@
       "link": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
       "published": "Wed, 08 Oct 2025 19:21:47 +0000",
       "ts": "2025-10-08T19:21:47Z"
+    },
+    {
+      "org": "Framelink Figma MCP Server Opens",
+      "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise",
+      "published": "Wed, 08 Oct 2025 17:14:02 GMT",
+      "ts": "2025-10-08T17:14:02Z"
     },
     {
       "org": "Qantas says \u2018legal protections in",
@@ -34,12 +50,52 @@
       "ts": "2025-10-08T12:03:50Z"
     },
     {
+      "org": "Ransomware Group Claims Attack on",
+      "title": "Ransomware Group Claims Attack on Beer Giant Asahi",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/",
+      "published": "Wed, 08 Oct 2025 09:15:35 +0000",
+      "ts": "2025-10-08T09:15:35Z"
+    },
+    {
+      "org": "DraftKings Warns Users of Credential",
+      "title": "DraftKings Warns Users of Credential Stuffing Attacks",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/",
+      "published": "Wed, 08 Oct 2025 08:59:18 +0000",
+      "ts": "2025-10-08T08:59:18Z"
+    },
+    {
+      "org": "Cyberattack Leads to Beer Shortage",
+      "title": "Cyberattack Leads to Beer Shortage as Asahi Recovers",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers",
+      "published": "Wed, 08 Oct 2025 01:00:00 GMT",
+      "ts": "2025-10-08T01:00:00Z"
+    },
+    {
+      "org": "Attackers Season Spam With a",
+      "title": "Attackers Season Spam With a Touch of 'Salt'",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt",
+      "published": "Tue, 07 Oct 2025 21:18:57 GMT",
+      "ts": "2025-10-07T21:18:57Z"
+    },
+    {
       "org": "U.K.",
       "title": "U.K.: Two arrested over cyber attack which stole thousands of nursery children\u2019s data (1)",
       "source": "DataBreaches.net",
       "link": "https://databreaches.net/2025/10/07/u-k-two-arrested-over-cyber-attack-which-stole-thousands-of-nursery-childrens-data/?pk_campaign=feed&pk_kwd=u-k-two-arrested-over-cyber-attack-which-stole-thousands-of-nursery-childrens-data",
       "published": "Tue, 07 Oct 2025 21:06:54 +0000",
       "ts": "2025-10-07T21:06:54Z"
+    },
+    {
+      "org": "Medusa Ransomware Actors Exploit Critical",
+      "title": "Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw",
+      "published": "Tue, 07 Oct 2025 16:59:27 GMT",
+      "ts": "2025-10-07T16:59:27Z"
     },
     {
       "org": "California hospitals can escape fines",
@@ -50,7 +106,7 @@
       "ts": "2025-10-07T16:18:28Z"
     },
     {
-      "org": "Harris Health discloses insider-wrongdoing",
+      "org": "Harris Health discloses insider",
       "title": "Harris Health discloses insider-wrongdoing breach that went on for a decade",
       "source": "DataBreaches.net",
       "link": "https://databreaches.net/2025/10/07/harris-health-discloses-insider-wrongdoing-breach-that-went-on-for-a-decade/?pk_campaign=feed&pk_kwd=harris-health-discloses-insider-wrongdoing-breach-that-went-on-for-a-decade",
@@ -64,6 +120,22 @@
       "link": "https://databreaches.net/2025/10/06/developing-salesforce-data-leak-site-being-seized-looks-like-it/?pk_campaign=feed&pk_kwd=developing-salesforce-data-leak-site-being-seized-looks-like-it",
       "published": "Tue, 07 Oct 2025 01:25:07 +0000",
       "ts": "2025-10-07T01:25:07Z"
+    },
+    {
+      "org": "Cyberattackers Exploit Zimbra Zero",
+      "title": "Cyberattackers Exploit Zimbra Zero-Day Via ICS",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics",
+      "published": "Mon, 06 Oct 2025 20:12:51 GMT",
+      "ts": "2025-10-06T20:12:51Z"
+    },
+    {
+      "org": "Clop Ransomware Hits Oracle Customers Via Zero",
+      "title": "Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw",
+      "published": "Mon, 06 Oct 2025 19:05:37 GMT",
+      "ts": "2025-10-06T19:05:37Z"
     },
     {
       "org": "I called American Income Life Insurance to alert them to a",
@@ -80,6 +152,38 @@
       "link": "https://databreaches.net/2025/10/06/nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt/?pk_campaign=feed&pk_kwd=nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt",
       "published": "Mon, 06 Oct 2025 12:28:09 +0000",
       "ts": "2025-10-06T12:28:09Z"
+    },
+    {
+      "org": "Scattered Lapsus$ Hunters Returns With",
+      "title": "Scattered Lapsus$ Hunters Returns With Salesforce Leak Site",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site",
+      "published": "Fri, 03 Oct 2025 19:27:09 GMT",
+      "ts": "2025-10-03T19:27:09Z"
+    },
+    {
+      "org": "Jaguar Land Rover Shows Cyberattacks",
+      "title": "Jaguar Land Rover Shows Cyberattacks Mean (Bad) Business",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyberattacks-bad-business",
+      "published": "Fri, 03 Oct 2025 15:30:00 GMT",
+      "ts": "2025-10-03T15:30:00Z"
+    },
+    {
+      "org": "Red Hat Investigates Widespread",
+      "title": "Red Hat Investigates Widespread Breach of Private GitLab Repositories",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories",
+      "published": "Thu, 02 Oct 2025 15:46:58 GMT",
+      "ts": "2025-10-02T15:46:58Z"
+    },
+    {
+      "org": "The Ongoing Fallout from a",
+      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
+      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
+      "ts": "2025-09-01T21:55:04Z"
     }
   ],
   "rss": [
@@ -364,5 +468,5 @@
       "ts": "2025-09-15T16:06:39Z"
     }
   ],
-  "summary": "Open-source wallboard: breach/leak headlines + curated security & OSINT RSS."
+  "summary": "Open-source wallboard: company breach/leak headlines + curated security & OSINT RSS."
 }
