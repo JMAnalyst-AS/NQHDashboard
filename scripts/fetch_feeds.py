@@ -1,189 +1,117 @@
 #!/usr/bin/env python3
-# Builds dashboard/data.json:
-# - breaches: unique companies w/ most-recent breach/leak item
-# - rss: broader cyber/OSINT (breach-y items filtered out)
+# -*- coding: utf-8 -*-
+"""
+Builds dashboard/data.json with:
+- segment1 / hacks: single-source "recent hacks on companies"
+- segment3 / rss: multi-source Cyber + OSINT feed
 
-import os, sys, subprocess
-HERE = os.path.dirname(__file__)
-VENDOR = os.path.join(HERE, "_vendor")
-os.makedirs(VENDOR, exist_ok=True)
-subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "--target", VENDOR, "feedparser"])
-sys.path.insert(0, VENDOR)
+No Pulsedive. Uses only public RSS/Atom endpoints.
+"""
 
-import json, datetime, time, re
+import json
+import os
+import datetime
+import requests
 import feedparser
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "dashboard", "data.json")
+UA = "NQHDashboard/1.0 (+https://github.com/JMAnalyst-AS/NQHDashboard)"
+TIMEOUT = 20
 
-# ---------- Sources ----------
-# Focused, incident-style feeds
-BREACH_FEEDS = [
-    ("DataBreaches.net", "https://www.databreaches.net/feed/"),
-    ("SecurityWeek · Data Breaches", "https://www.securityweek.com/category/data-breaches/feed/"),
-    ("BleepingComputer · Data Breach", "https://www.bleepingcomputer.com/feed/tag/data-breach/"),
-    ("The Hacker News · Data Breach", "https://thehackernews.com/search/label/Data%20Breach?max-results=20&by-date=true&alt=rss"),
+S = requests.Session()
+S.headers.update({
+    "User-Agent": UA,
+    "Accept": "application/rss+xml, application/atom+xml, */*"
+})
+
+# -------- Segment 1: a SINGLE reliable feed for company hacks ----------
+# DataBreaches.net — focused on breaches/hacks against organisations
+HACKS_FEED = "https://databreaches.net/feed/"
+
+# -------- Segment 3: mixed Cyber + OSINT sources -----------------------
+# Keep this broad and high-signal. Add/remove as you like.
+CYBER_OSINT_FEEDS = [
+    # Official/Gov security advisories & news
+    "https://www.cisa.gov/news-events/cybersecurity-advisories.xml",   # CISA advisories
+    "https://www.cisa.gov/news-events/alerts.xml",                      # CISA alerts
+    "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed",           # NCSC (UK) aggregate
+    # News & analysis
+    "https://krebsonsecurity.com/feed/",
+    "https://www.bleepingcomputer.com/feed/",
+    "https://thehackernews.com/feeds/posts/default",                    # Atom
+    # OSINT-focused publications
+    "https://www.bellingcat.com/feed/",
+    "https://osintcurio.us/feed/",
+    "https://sector035.nl/feed"                                         # Weekly OSINT roundup
 ]
 
-# Wider security/OSINT for Q3; we’ll filter out breach-like items
-NEWS_FEEDS = [
-    ("US-CERT Alerts", "https://www.cisa.gov/uscert/ncas/alerts.xml"),
-    ("CISA Current Activity", "https://www.cisa.gov/news-events/cybersecurity-advisories/all.xml"),
-    ("NCSC UK News", "https://www.ncsc.gov.uk/api/1/services/v1/news.rss"),
-    ("BleepingComputer", "https://www.bleepingcomputer.com/feed/"),
-    ("The Hacker News", "https://feeds.feedburner.com/TheHackersNews"),
-    ("SecurityWeek", "https://feeds.feedburner.com/Securityweek"),
-    ("Dark Reading", "https://www.darkreading.com/rss.xml"),
-    ("Krebs on Security", "https://krebsonsecurity.com/feed/"),
-    ("Microsoft Security Blog", "https://www.microsoft.com/en-us/security/blog/feed/"),
-    ("Google Cloud Security", "https://cloud.google.com/blog/topics/identity-security/rss/"),
-    ("Cisco Talos", "https://blog.talosintelligence.com/feeds/posts/default"),
-    ("ESET WeLiveSecurity", "https://www.welivesecurity.com/feed/"),
-    ("Rapid7 Blog", "https://www.rapid7.com/blog/rss/"),
-    ("Elastic Security", "https://www.elastic.co/security-labs/rss.xml"),
-    ("Wiz Research", "https://www.wiz.io/blog/rss.xml"),
-    ("Bellingcat", "https://www.bellingcat.com/feed/"),
-    ("OSINTCurious", "https://osintcurio.us/feed/"),
-]
+def fetch_feed(url: str, limit: int = 25):
+    """Fetch a feed with a real UA from CI, parse once, and normalize items."""
+    try:
+        r = S.get(url, timeout=TIMEOUT)
+        r.raise_for_status()
+        parsed = feedparser.parse(r.content)
+    except Exception:
+        return []
 
-# Keywords that indicate a breach/leak headline (used to filter OUT of Q3)
-BREACH_KEYWORDS = re.compile(
-    r"(data breach|breach|leak|database leak|stolen data|exposed data|ransomware|extortion|hack(ed)?)",
-    re.IGNORECASE,
-)
-
-# Threat-actor / group names to avoid treating as "org"
-ACTOR_STOPWORDS = {
-    "lockbit","alphv","blackcat","qilin","dragondforce","dragonforce","clop","conti",
-    "revil","maze","babuk","blackbasta","lapssus","lapsus","ragnar","snatch","play",
-    "cuba","ransomexx","royal","blackbyte","akira","medusa","hive","trigona","noescape",
-    "ransomhouse","8base","hunters","blacksuit","mangozero","zedo","bandidos"
-}
-
-# Company suffixes removed for normalization
-SUFFIXES = [
-    "inc","inc.","ltd","ltd.","llc","plc","gmbh","ag","s.a.","s.a","s.p.a","spa",
-    "co","co.","corp","corp.","corporation","company","group","holdings","limited"
-]
-
-def _ts(entry):
-    s = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
-    return time.strftime("%Y-%m-%dT%H:%M:%SZ", s) if s else datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-
-def _org_from_title(title: str) -> str:
-    """Grab likely company name from the start of the headline."""
-    t = re.sub(r"[“”\"']", "", (title or "")).strip()
-    # Try common separators first
-    for pat in (r"^(.*?)\s*:\s*", r"^(.*?)\s*[–—-]\s*", r"^(.*?)\s*\|\s*"):
-        m = re.search(pat, t)
-        if m and m.group(1): return m.group(1).strip()
-    # Fallback: take words before breach-y keyword
-    m = re.search(r"^(.*?)\s*(?:data breach|breach|leak|hacked|cyber attack)", t, flags=re.IGNORECASE)
-    if m and m.group(1): return m.group(1).strip()
-    # Final fallback: first 5 words
-    return " ".join(t.split()[:5])
-
-def _normalize_org(s: str) -> str:
-    s = s.lower()
-    s = re.sub(r"[^\w\s]", " ", s)               # remove punctuation
-    parts = [p for p in s.split() if p not in SUFFIXES]
-    s = " ".join(parts)
-    s = re.sub(r"\s+", " ", s).strip()
-    return s
-
-def _looks_like_actor(org_norm: str) -> bool:
-    return any(token in ACTOR_STOPWORDS for token in org_norm.split())
-
-def _dedupe(items, key="title"):
-    seen, out = set(), []
-    for it in items:
-        k = it.get(key, "")
-        if k and k not in seen:
-            seen.add(k)
-            out.append(it)
+    src_title = parsed.feed.get("title") or url
+    out = []
+    for e in parsed.entries[:limit]:
+        out.append({
+            "title": getattr(e, "title", "") or "",
+            "url": getattr(e, "link", "") or "",
+            "published": getattr(e, "published", "") \
+                or getattr(e, "updated", "") \
+                or getattr(e, "dc_date", "") \
+                or "",
+            "source": src_title
+        })
     return out
 
-def build_breaches(per_feed=12, cap=25):
-    """Return ONE item per company (most recent), excluding actor names."""
-    candidates = []
-    for name, url in BREACH_FEEDS:
-        feed = feedparser.parse(url)
-        taken = 0
-        for e in feed.entries:
-            if taken >= per_feed: break
-            title = (e.get("title") or "").strip()
-            if not title: continue
-            ts = _ts(e)
-            org = _org_from_title(title)
-            org_norm = _normalize_org(org)
-            # skip if it looks like a threat-actor headline
-            if not org_norm or _looks_like_actor(org_norm):
-                continue
-            candidates.append({
-                "org": org.strip(),
-                "org_norm": org_norm,
-                "title": title,
-                "source": name,
-                "link": e.get("link", ""),
-                "published": e.get("published", "") or ts,
-                "ts": ts,
-            })
-            taken += 1
 
-    # Keep only the newest item per org_norm
-    latest_by_org = {}
-    for it in candidates:
-        k = it["org_norm"]
-        if k not in latest_by_org or it["ts"] > latest_by_org[k]["ts"]:
-            latest_by_org[k] = it
-
-    items = list(latest_by_org.values())
-    items.sort(key=lambda x: x["ts"], reverse=True)
-    if not items:
-        now = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-        items = [
-            {"org": "ExampleCo", "title": "ExampleCo confirms data breach", "source": "Demo", "link": "", "published": now, "ts": now},
-        ]
-    # Strip helper field before writing
+def dedupe_by_url(items):
+    seen, result = set(), []
     for it in items:
-        it.pop("org_norm", None)
-    return items[:cap]
+        u = (it.get("url") or "").strip()
+        if u and u not in seen:
+            seen.add(u)
+            result.append(it)
+    return result
 
-def build_news(per_feed=6, cap=40):
-    items = []
-    for name, url in NEWS_FEEDS:
-        feed = feedparser.parse(url)
-        taken = 0
-        for e in feed.entries:
-            if taken >= per_feed: break
-            title = (e.get("title") or "").strip()
-            if not title: continue
-            # filter OUT breach-like items so Q3 doesn’t duplicate Q1
-            if BREACH_KEYWORDS.search(title): 
-                continue
-            ts = _ts(e)
-            items.append({
-                "title": title,
-                "source": name,
-                "link": e.get("link", ""),
-                "published": e.get("published", "") or ts,
-                "ts": ts,
-            })
-            taken += 1
-    items = _dedupe(items, key="title")
-    items.sort(key=lambda x: x["ts"], reverse=True)
-    return items[:cap]
 
-def build():
+def build_payload():
+    # Segment 1 (single feed: recent hacks on companies)
+    hacks = fetch_feed(HACKS_FEED, limit=30)
+
+    # Segment 3 (Cyber + OSINT multi-source)
+    all_items = []
+    for url in CYBER_OSINT_FEEDS:
+        all_items.extend(fetch_feed(url, limit=20))
+    rss = dedupe_by_url(all_items)
+
+    now = datetime.datetime.utcnow().isoformat() + "Z"
     payload = {
-        "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
-        "breaches": build_breaches(),
-        "rss": build_news(),
-        "summary": "Unique companies with most-recent breach/leak, plus curated security & OSINT RSS.",
+        "generated_at": now,
+
+        # Segment 1 (top-left)
+        "segment1": hacks,
+        "hacks": hacks,   # alias for existing front-ends
+
+        # Segment 3 (cyber + OSINT)
+        "segment3": rss,
+        "rss": rss        # alias for existing front-ends
     }
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2)
-    print("[ok] wrote", OUT)
+    return payload
+
+
+def main():
+    data = build_payload()
+    os.makedirs("dashboard", exist_ok=True)
+    out_path = os.path.join("dashboard", "data.json")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {out_path} with {len(data['segment1'])} hacks "
+          f"and {len(data['segment3'])} cyber/OSINT items at {data['generated_at']}.")
+
 
 if __name__ == "__main__":
-    build()
+    main()
