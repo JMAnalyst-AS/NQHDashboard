@@ -3,13 +3,22 @@
 # - Pulsedive indicators (Breach/Leak quadrant)
 # - URLhaus recent URLs (fallback/augment)
 # - Curated RSS feeds (Security News quadrant)
+# Robust: vendored deps so imports always work on GitHub Actions.
 
-# --- ensure feedparser is available immediately ---
-import subprocess, sys
-subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "feedparser"])
+import os, sys, subprocess
 
-import os, json, datetime, time, ssl, urllib.request, re
-import feedparser  # now guaranteed installed
+# ---- ensure local vendor dir with feedparser ----
+HERE = os.path.dirname(__file__)
+VENDOR = os.path.join(HERE, "_vendor")
+os.makedirs(VENDOR, exist_ok=True)
+# Install (or upgrade) into the repo-local vendor folder
+subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "--target", VENDOR, "feedparser"])
+# Prepend vendor to sys.path so imports resolve
+sys.path.insert(0, VENDOR)
+
+# ---- normal imports after vendor setup ----
+import json, datetime, time, ssl, urllib.request, re
+import feedparser  # from _vendor
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "dashboard", "data.json")
 
