@@ -26,10 +26,15 @@ async function fetchData(){
 
 function render(data){
   // Q1 — Breaches
-  mountList(el('#breaches'), data.threats, t =>
-    `<b>${t.name || t.indicator || 'Indicator'}</b>
-     <div class="small">${t.type || ''}${t.risk ? ' • risk ' + t.risk : ''}</div>`
-  );
+  const breaches = Array.isArray(data.breaches) ? data.breaches : [];
+  if (breaches.length === 0) {
+    el('#breaches').innerHTML = '<div class="card">No recent breach/leak headlines yet. Will retry on the next update.</div>';  
+  } else {
+    mountList(el('#breaches'), breaches, b =>
+      `<b>${b.org || b.title}</b>
+       <div class="small">${b.source || ''} • ${b.published || ''}</div>`
+    );
+  }
 
   // Q3 — RSS
   mountList(el('#rss'), data.rss, r =>
