@@ -1,23 +1,107 @@
 {
-  "generated_at": "2025-10-08T21:33:01.674309Z",
-  "threats": [
-    {
-      "name": "demo.indicator",
-      "type": "domain",
-      "risk": "low"
-    },
-    {
-      "name": "1.2.3.4",
-      "type": "ip",
-      "risk": "medium"
-    }
-  ],
+  "generated_at": "2025-10-08T21:45:18.614371Z",
+  "threats": [],
   "rss": [
     {
-      "title": "Demo security headline",
-      "source": "Example Feed",
-      "published": "2025-10-08"
+      "title": "CISA Shares Lessons Learned from an Incident Response Engagement",
+      "published": "Mon, 22 Sep 2025 11:12:49 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System",
+      "published": "Mon, 25 Aug 2025 09:36:40 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "CISA and USCG Identify Areas for Cyber Hygiene Improvement After Conducting Proactive Threat Hunt at US Critical Infrastructure Organization",
+      "published": "Tue, 29 Jul 2025 13:53:52 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "#StopRansomware: Interlock",
+      "published": "Mon, 21 Jul 2025 10:11:24 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "Ransomware Actors Exploit Unpatched SimpleHelp Remote Monitoring and Management to Compromise Utility Billing Software Provider",
+      "published": "Thu, 12 Jun 2025 10:29:54 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations",
+      "published": "Tue, 20 May 2025 15:20:23 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "Russian GRU Targeting Western Logistics Entities and Technology Companies",
+      "published": "Mon, 12 May 2025 12:49:12 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "Fast Flux: A National Security Threat",
+      "published": "Tue, 01 Apr 2025 15:00:21 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "#StopRansomware: Medusa Ransomware",
+      "published": "Tue, 11 Mar 2025 10:52:42 EDT",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "#StopRansomware: Ghost (Cring) Ransomware",
+      "published": "Wed, 19 Feb 2025 11:38:21 EST",
+      "source": "US-CERT Alerts"
+    },
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
+      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "published": "Tue, 16 Sep 2025 14:08:02 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
+      "published": "Mon, 08 Sep 2025 22:53:41 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "GOP Cries Censorship Over Spam Filters That Work",
+      "published": "Sat, 06 Sep 2025 03:23:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
+      "published": "Thu, 28 Aug 2025 17:21:32 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
+      "published": "Tue, 26 Aug 2025 14:05:12 +0000",
+      "source": "Krebs on Security"
     }
   ],
-  "summary": "This card summarizes the last 24 hours of activity across leaks, threat map, and headlines."
+  "summary": "Open-source wallboard: Pulsedive indicators + curated security RSS. Add internal/commercial sources server-side as needed."
 }
