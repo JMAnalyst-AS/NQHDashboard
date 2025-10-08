@@ -1,107 +1,298 @@
 {
-  "generated_at": "2025-10-08T21:46:01.258138Z",
-  "threats": [],
+  "generated_at": "2025-10-08T22:12:22.537964Z",
+  "threats": [
+    {
+      "name": "demo.indicator",
+      "type": "domain",
+      "risk": "low"
+    },
+    {
+      "name": "1.2.3.4",
+      "type": "ip",
+      "risk": "medium"
+    }
+  ],
   "rss": [
     {
-      "title": "CISA Shares Lessons Learned from an Incident Response Engagement",
-      "published": "Mon, 22 Sep 2025 11:12:49 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Vampire Bot Malware Sinks Fangs Into Job Hunters",
+      "published": "Wed, 08 Oct 2025 21:02:42 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters",
+      "ts": "2025-10-08T21:02:42Z"
     },
     {
-      "title": "Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System",
-      "published": "Mon, 25 Aug 2025 09:36:40 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Red Hat Hackers Team Up With Scattered Lapsus$ Hunters",
+      "published": "Wed, 08 Oct 2025 20:40:36 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters",
+      "ts": "2025-10-08T20:40:36Z"
     },
     {
-      "title": "CISA and USCG Identify Areas for Cyber Hygiene Improvement After Conducting Proactive Threat Hunt at US Critical Infrastructure Organization",
-      "published": "Tue, 29 Jul 2025 13:53:52 EDT",
-      "source": "US-CERT Alerts"
+      "title": "LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel'",
+      "published": "Wed, 08 Oct 2025 19:56:33 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel",
+      "ts": "2025-10-08T19:56:33Z"
     },
     {
-      "title": "#StopRansomware: Interlock",
-      "published": "Mon, 21 Jul 2025 10:11:24 EDT",
-      "source": "US-CERT Alerts"
+      "title": "New FileFix attack uses cache smuggling to evade security software",
+      "published": "Wed, 08 Oct 2025 15:49:47 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
+      "ts": "2025-10-08T19:49:47Z"
     },
     {
-      "title": "Ransomware Actors Exploit Unpatched SimpleHelp Remote Monitoring and Management to Compromise Utility Billing Software Provider",
-      "published": "Thu, 12 Jun 2025 10:29:54 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
+      "published": "Wed, 08 Oct 2025 14:42:22 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
+      "ts": "2025-10-08T18:42:22Z"
     },
     {
-      "title": "Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations",
-      "published": "Tue, 20 May 2025 15:20:23 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
+      "published": "Wed, 08 Oct 2025 14:35:01 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
+      "ts": "2025-10-08T18:35:01Z"
     },
     {
-      "title": "Russian GRU Targeting Western Logistics Entities and Technology Companies",
-      "published": "Mon, 12 May 2025 12:49:12 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Microsoft enables Exchange Online auto-archiving by default",
+      "published": "Wed, 08 Oct 2025 13:49:59 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
+      "ts": "2025-10-08T17:49:59Z"
     },
     {
-      "title": "Fast Flux: A National Security Threat",
-      "published": "Tue, 01 Apr 2025 15:00:21 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
+      "published": "Wed, 08 Oct 2025 13:33:38 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
+      "ts": "2025-10-08T17:33:38Z"
     },
     {
-      "title": "#StopRansomware: Medusa Ransomware",
-      "published": "Tue, 11 Mar 2025 10:52:42 EDT",
-      "source": "US-CERT Alerts"
+      "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
+      "published": "Wed, 08 Oct 2025 17:14:02 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise",
+      "ts": "2025-10-08T17:14:02Z"
     },
     {
-      "title": "#StopRansomware: Ghost (Cring) Ransomware",
-      "published": "Wed, 19 Feb 2025 11:38:21 EST",
-      "source": "US-CERT Alerts"
+      "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+      "published": "Wed, 08 Oct 2025 22:13:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+      "ts": "2025-10-08T16:43:00Z"
+    },
+    {
+      "title": "AI Takes Center Stage at DataTribe\u2019s Cyber Innovation Day",
+      "published": "Wed, 08 Oct 2025 16:40:07 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ai-takes-center-stage-at-datatribes-cyber-innovation-day/",
+      "ts": "2025-10-08T16:40:07Z"
+    },
+    {
+      "title": "Will AI-SPM Become the Standard Security Layer for Safe AI Adoption?",
+      "published": "Wed, 08 Oct 2025 16:26:04 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/will-ai-spm-become-the-standard-security-layer-for-safe-ai-adoption/",
+      "ts": "2025-10-08T16:26:04Z"
+    },
+    {
+      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
+      "published": "Wed, 08 Oct 2025 11:57:53 -0400",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
+      "ts": "2025-10-08T15:57:53Z"
+    },
+    {
+      "title": "Virtual Event Today: Zero Trust & Identity Strategies Summit",
+      "published": "Wed, 08 Oct 2025 14:05:03 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/",
+      "ts": "2025-10-08T14:05:03Z"
+    },
+    {
+      "title": "China-Nexus Actors Weaponize 'Nezha' Open Source Tool",
+      "published": "Wed, 08 Oct 2025 14:02:28 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-nezha-open-source-tool",
+      "ts": "2025-10-08T14:02:28Z"
+    },
+    {
+      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
+      "published": "Wed, 08 Oct 2025 19:26:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
+      "ts": "2025-10-08T13:56:00Z"
+    },
+    {
+      "title": "Calling All Influencers: Spear-Phishers Dangle Tesla, Red Bull Jobs",
+      "published": "Wed, 08 Oct 2025 13:48:18 GMT",
+      "source": "Dark Reading",
+      "link": "https://www.darkreading.com/remote-workforce/influencers-phishers-tesla-red-bull-jobs",
+      "ts": "2025-10-08T13:48:18Z"
+    },
+    {
+      "title": "Google DeepMind\u2019s New AI Agent Finds and Fixes Vulnerabilities",
+      "published": "Wed, 08 Oct 2025 13:32:01 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-deepminds-new-ai-agent-finds-and-fixes-vulnerabilities/",
+      "ts": "2025-10-08T13:32:01Z"
+    },
+    {
+      "title": "Google Offers Up to $20,000 in New AI Bug Bounty Program",
+      "published": "Wed, 08 Oct 2025 12:28:46 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-offers-up-to-20000-in-new-ai-bug-bounty-program/",
+      "ts": "2025-10-08T12:28:46Z"
+    },
+    {
+      "title": "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)",
+      "published": "Wed, 08 Oct 2025 17:38:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+      "ts": "2025-10-08T12:08:00Z"
+    },
+    {
+      "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
+      "published": "Wed, 08 Oct 2025 17:34:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
+      "ts": "2025-10-08T12:04:00Z"
+    },
+    {
+      "title": "North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025",
+      "published": "Wed, 08 Oct 2025 11:09:29 +0000",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/",
+      "ts": "2025-10-08T11:09:29Z"
+    },
+    {
+      "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely \u2014 Patch Now",
+      "published": "Wed, 08 Oct 2025 16:28:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+      "ts": "2025-10-08T10:58:00Z"
+    },
+    {
+      "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+      "published": "Wed, 08 Oct 2025 14:27:00 +0530",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+      "ts": "2025-10-08T08:57:00Z"
     },
     {
       "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
       "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "source": "Krebs on Security"
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "ts": "2025-10-07T22:45:35Z"
+    },
+    {
+      "title": "Disrupting threats targeting Microsoft Teams",
+      "published": "Tue, 07 Oct 2025 17:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/",
+      "ts": "2025-10-07T17:00:00Z"
+    },
+    {
+      "title": "New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security",
+      "published": "Tue, 07 Oct 2025 16:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/",
+      "ts": "2025-10-07T16:00:00Z"
+    },
+    {
+      "title": "Wildfires Ravage One of Africa\u2019s Largest Nature Reserves",
+      "published": "Tue, 07 Oct 2025 15:39:01 +0000",
+      "source": "Bellingcat",
+      "link": "https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/",
+      "ts": "2025-10-07T15:39:01Z"
+    },
+    {
+      "title": "Inside Microsoft Threat Intelligence: Calm in the chaos",
+      "published": "Mon, 06 Oct 2025 21:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video",
+      "ts": "2025-10-06T21:00:00Z"
+    },
+    {
+      "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
+      "published": "Mon, 06 Oct 2025 17:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/",
+      "ts": "2025-10-06T17:00:00Z"
+    },
+    {
+      "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
+      "published": "Thu, 02 Oct 2025 17:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/",
+      "ts": "2025-10-02T17:00:00Z"
+    },
+    {
+      "title": "Cybersecurity Awareness Month: Security starts with you",
+      "published": "Wed, 01 Oct 2025 16:00:00 +0000",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/",
+      "ts": "2025-10-01T16:00:00Z"
+    },
+    {
+      "title": "Australian Cocaine Pilot Killed in Brazil Plane Crash Linked to Kinahan Drug Cartel",
+      "published": "Sat, 27 Sep 2025 15:57:08 +0000",
+      "source": "Bellingcat",
+      "link": "https://www.bellingcat.com/news/2025/09/27/australian-cocaine-pilot-killed-in-brazil-plane-crash-linked-to-kinahan-drug-cartel/",
+      "ts": "2025-09-27T15:57:08Z"
     },
     {
       "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
       "published": "Wed, 24 Sep 2025 11:48:31 +0000",
-      "source": "Krebs on Security"
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "ts": "2025-09-24T11:48:31Z"
+    },
+    {
+      "title": "CISA Shares Lessons Learned from an Incident Response Engagement",
+      "published": "Mon, 22 Sep 2025 11:12:49 EDT",
+      "source": "US-CERT Alerts",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a",
+      "ts": "2025-09-22T15:12:49Z"
+    },
+    {
+      "title": "Gamaredon X Turla collab",
+      "published": "Fri, 19 Sep 2025 08:55:00 +0000",
+      "source": "ESET WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-x-turla-collab/",
+      "ts": "2025-09-19T08:55:00Z"
+    },
+    {
+      "title": "Small businesses, big targets: Protecting your business against ransomware",
+      "published": "Thu, 18 Sep 2025 09:00:00 +0000",
+      "source": "ESET WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/business-security/small-businesses-big-targets-protecting-business-ransomware/",
+      "ts": "2025-09-18T09:00:00Z"
     },
     {
       "title": "Self-Replicating Worm Hits 180+ Software Packages",
       "published": "Tue, 16 Sep 2025 14:08:02 +0000",
-      "source": "Krebs on Security"
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "ts": "2025-09-16T14:08:02Z"
     },
     {
-      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
-      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
-      "source": "Krebs on Security"
+      "title": "HybridPetya: The Petya/NotPetya copycat comes with a twist",
+      "published": "Tue, 16 Sep 2025 11:33:45 +0000",
+      "source": "ESET WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/videos/hybridpetya-petya-notpetya-copycat-twist/",
+      "ts": "2025-09-16T11:33:45Z"
     },
     {
-      "title": "Microsoft Patch Tuesday, September 2025 Edition",
-      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
-      "published": "Mon, 08 Sep 2025 22:53:41 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "GOP Cries Censorship Over Spam Filters That Work",
-      "published": "Sat, 06 Sep 2025 03:23:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
-      "published": "Thu, 28 Aug 2025 17:21:32 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
-      "published": "Tue, 26 Aug 2025 14:05:12 +0000",
-      "source": "Krebs on Security"
+      "title": "Like Clockwork: An Orange Wall Exposes Yet Another Active Club \u2018Fight Night\u2019",
+      "published": "Mon, 15 Sep 2025 16:06:39 +0000",
+      "source": "Bellingcat",
+      "link": "https://www.bellingcat.com/news/2025/09/15/active-club-fight-night-2025-san-diego/",
+      "ts": "2025-09-15T16:06:39Z"
     }
   ],
-  "summary": "Open-source wallboard: Pulsedive indicators + curated security RSS. Add internal/commercial sources server-side as needed."
+  "summary": "Open-source wallboard: Pulsedive + URLhaus indicators; curated security & OSINT RSS. Add internal/commercial sources server-side as needed."
 }
