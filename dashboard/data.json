@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-08T23:56:07.989039Z",
+  "generated_at": "2025-10-09T03:11:10.840541Z",
   "segment1": [
+    {
+      "title": "Policyholder Plot Twist: Cyber Insurer Sues Policyholder’s Cyber Pros",
+      "url": "https://databreaches.net/2025/10/08/policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros/?pk_campaign=feed&pk_kwd=policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros",
+      "published": "Thu, 09 Oct 2025 01:41:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
       "url": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
@@ -53,17 +59,17 @@
       "title": "I called American Income Life Insurance to alert them to a data breach involving 150,000 customers. Here’s why they didn’t find out.",
       "url": "https://databreaches.net/2025/10/06/i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out/?pk_campaign=feed&pk_kwd=i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out",
       "published": "Mon, 06 Oct 2025 15:21:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NSW gov contractor uploaded Excel spreadsheet of flood victims’ data to ChatGPT",
-      "url": "https://databreaches.net/2025/10/06/nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt/?pk_campaign=feed&pk_kwd=nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt",
-      "published": "Mon, 06 Oct 2025 12:28:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Policyholder Plot Twist: Cyber Insurer Sues Policyholder’s Cyber Pros",
+      "url": "https://databreaches.net/2025/10/08/policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros/?pk_campaign=feed&pk_kwd=policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros",
+      "published": "Thu, 09 Oct 2025 01:41:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
       "url": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
       "published": "Wed, 08 Oct 2025 19:21:47 +0000",
@@ -115,12 +121,6 @@
       "title": "I called American Income Life Insurance to alert them to a data breach involving 150,000 customers. Here’s why they didn’t find out.",
       "url": "https://databreaches.net/2025/10/06/i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out/?pk_campaign=feed&pk_kwd=i-called-american-income-life-insurance-to-alert-them-to-a-data-breach-involving-150000-customers-heres-why-they-didnt-find-out",
       "published": "Mon, 06 Oct 2025 15:21:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NSW gov contractor uploaded Excel spreadsheet of flood victims’ data to ChatGPT",
-      "url": "https://databreaches.net/2025/10/06/nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt/?pk_campaign=feed&pk_kwd=nsw-gov-contractor-uploaded-excel-spreadsheet-of-flood-victims-data-to-chatgpt",
-      "published": "Mon, 06 Oct 2025 12:28:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
       "published": "Tue, 26 Aug 2025 14:05:12 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers claim Discord breach exposed data of 5.5 million users",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/",
+      "published": "Wed, 08 Oct 2025 20:22:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New FileFix attack uses cache smuggling to evade security software",
@@ -738,6 +744,12 @@
       "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
       "published": "Tue, 26 Aug 2025 14:05:12 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers claim Discord breach exposed data of 5.5 million users",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/",
+      "published": "Wed, 08 Oct 2025 20:22:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New FileFix attack uses cache smuggling to evade security software",
