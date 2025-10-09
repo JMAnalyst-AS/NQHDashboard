@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T19:25:51.163060Z",
+  "generated_at": "2025-10-09T19:40:32.182573Z",
   "segment1": [
     {
       "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Hackers target universities in “payroll pirate” attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
+      "published": "Thu, 09 Oct 2025 15:38:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
+      "published": "Thu, 09 Oct 2025 15:31:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
       "published": "Thu, 09 Oct 2025 14:09:26 -0400",
@@ -369,18 +381,6 @@
       "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
       "published": "Wed, 08 Oct 2025 14:35:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft enables Exchange Online auto-archiving by default",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
-      "published": "Wed, 08 Oct 2025 13:49:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
-      "published": "Wed, 08 Oct 2025 13:33:38 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Hackers target universities in “payroll pirate” attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
+      "published": "Thu, 09 Oct 2025 15:38:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
+      "published": "Thu, 09 Oct 2025 15:31:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
       "published": "Thu, 09 Oct 2025 14:09:26 -0400",
@@ -809,18 +821,6 @@
       "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
       "published": "Wed, 08 Oct 2025 14:35:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft enables Exchange Online auto-archiving by default",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
-      "published": "Wed, 08 Oct 2025 13:49:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
-      "published": "Wed, 08 Oct 2025 13:33:38 -0400",
       "source": "BleepingComputer"
     },
     {
