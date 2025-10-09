@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-09T13:38:35.086589Z",
+  "generated_at": "2025-10-09T14:52:26.909760Z",
   "segment1": [
+    {
+      "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
+      "url": "https://databreaches.net/2025/10/09/missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019/?pk_campaign=feed&pk_kwd=missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019",
+      "published": "Thu, 09 Oct 2025 13:41:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Discord Confirms 70,000 Government IDs Exposed in Third-Party Breach",
       "url": "https://databreaches.net/2025/10/09/discord-confirms-70000-government-ids-exposed-in-third-party-breach/?pk_campaign=feed&pk_kwd=discord-confirms-70000-government-ids-exposed-in-third-party-breach",
@@ -53,17 +59,17 @@
       "title": "US law firm with major political clients hacked in spying spree linked to China",
       "url": "https://databreaches.net/2025/10/08/us-law-firm-with-major-political-clients-hacked-in-spying-spree-linked-to-china/?pk_campaign=feed&pk_kwd=us-law-firm-with-major-political-clients-hacked-in-spying-spree-linked-to-china",
       "published": "Wed, 08 Oct 2025 13:02:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Salesforce Tells Clients It Won’t Pay Hackers for Extortion",
-      "url": "https://databreaches.net/2025/10/08/salesforce-tells-clients-it-wont-pay-hackers-for-extortion/?pk_campaign=feed&pk_kwd=salesforce-tells-clients-it-wont-pay-hackers-for-extortion",
-      "published": "Wed, 08 Oct 2025 12:03:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
+      "url": "https://databreaches.net/2025/10/09/missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019/?pk_campaign=feed&pk_kwd=missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019",
+      "published": "Thu, 09 Oct 2025 13:41:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Discord Confirms 70,000 Government IDs Exposed in Third-Party Breach",
       "url": "https://databreaches.net/2025/10/09/discord-confirms-70000-government-ids-exposed-in-third-party-breach/?pk_campaign=feed&pk_kwd=discord-confirms-70000-government-ids-exposed-in-third-party-breach",
       "published": "Thu, 09 Oct 2025 11:34:04 +0000",
@@ -115,12 +121,6 @@
       "title": "US law firm with major political clients hacked in spying spree linked to China",
       "url": "https://databreaches.net/2025/10/08/us-law-firm-with-major-political-clients-hacked-in-spying-spree-linked-to-china/?pk_campaign=feed&pk_kwd=us-law-firm-with-major-political-clients-hacked-in-spying-spree-linked-to-china",
       "published": "Wed, 08 Oct 2025 13:02:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Salesforce Tells Clients It Won’t Pay Hackers for Extortion",
-      "url": "https://databreaches.net/2025/10/08/salesforce-tells-clients-it-wont-pay-hackers-for-extortion/?pk_campaign=feed&pk_kwd=salesforce-tells-clients-it-wont-pay-hackers-for-extortion",
-      "published": "Wed, 08 Oct 2025 12:03:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
+      "published": "Thu, 09 Oct 2025 10:13:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
+      "url": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
+      "published": "Thu, 09 Oct 2025 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
       "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
       "published": "Thu, 09 Oct 2025 08:38:27 -0400",
@@ -372,10 +384,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
-      "published": "Tue, 07 Oct 2025 20:17:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
+      "url": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
+      "published": "Thu, 09 Oct 2025 19:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
+      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
+      "published": "Thu, 09 Oct 2025 17:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
@@ -420,7 +438,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+      "title": "Severe Framelink Figma MCP Vulnerability Lets Hackers Execute Code Remotely",
       "url": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
       "published": "Wed, 08 Oct 2025 16:28:00 +0530",
       "source": "The Hacker News"
@@ -483,18 +501,6 @@
       "title": "New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations",
       "url": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
       "published": "Mon, 06 Oct 2025 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
-      "url": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
-      "published": "Mon, 06 Oct 2025 17:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "5 Critical Questions For Adopting an AI Security Solution",
-      "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
-      "published": "Mon, 06 Oct 2025 17:08:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
+      "published": "Thu, 09 Oct 2025 10:13:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
+      "url": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
+      "published": "Thu, 09 Oct 2025 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
       "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
       "published": "Thu, 09 Oct 2025 08:38:27 -0400",
@@ -806,10 +824,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
-      "published": "Tue, 07 Oct 2025 20:17:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
+      "url": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
+      "published": "Thu, 09 Oct 2025 19:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
+      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
+      "published": "Thu, 09 Oct 2025 17:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
@@ -854,7 +878,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+      "title": "Severe Framelink Figma MCP Vulnerability Lets Hackers Execute Code Remotely",
       "url": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
       "published": "Wed, 08 Oct 2025 16:28:00 +0530",
       "source": "The Hacker News"
@@ -917,18 +941,6 @@
       "title": "New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations",
       "url": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
       "published": "Mon, 06 Oct 2025 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
-      "url": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
-      "published": "Mon, 06 Oct 2025 17:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "5 Critical Questions For Adopting an AI Security Solution",
-      "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
-      "published": "Mon, 06 Oct 2025 17:08:00 +0530",
       "source": "The Hacker News"
     },
     {
