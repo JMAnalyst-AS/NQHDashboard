@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T17:34:10.068005Z",
+  "generated_at": "2025-10-09T18:49:42.350021Z",
   "segment1": [
     {
       "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
+      "published": "Thu, 09 Oct 2025 14:09:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
       "published": "Thu, 09 Oct 2025 13:17:28 -0400",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
-      "published": "Wed, 08 Oct 2025 11:57:53 -0400",
-      "source": "BleepingComputer"
+      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+      "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+      "published": "Thu, 09 Oct 2025 22:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
@@ -495,12 +501,6 @@
       "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
       "url": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
       "published": "Tue, 07 Oct 2025 13:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
-      "url": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
-      "published": "Tue, 07 Oct 2025 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
+      "published": "Thu, 09 Oct 2025 14:09:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
       "published": "Thu, 09 Oct 2025 13:17:28 -0400",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
-      "published": "Wed, 08 Oct 2025 11:57:53 -0400",
-      "source": "BleepingComputer"
+      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+      "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+      "published": "Thu, 09 Oct 2025 22:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
@@ -935,12 +941,6 @@
       "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
       "url": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
       "published": "Tue, 07 Oct 2025 13:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
-      "url": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
-      "published": "Tue, 07 Oct 2025 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
