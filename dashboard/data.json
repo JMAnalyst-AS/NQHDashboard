@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-09T11:41:59.917194Z",
+  "generated_at": "2025-10-09T13:38:35.086589Z",
   "segment1": [
     {
       "title": "Discord Confirms 70,000 Government IDs Exposed in Third-Party Breach",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
+      "published": "Thu, 09 Oct 2025 08:38:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacktivists target critical infrastructure, hit decoy plant",
       "url": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
       "published": "Thu, 09 Oct 2025 07:13:49 -0400",
@@ -372,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Docker makes Hardened Images Catalog affordable for small businesses",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
-      "published": "Tue, 07 Oct 2025 18:09:48 -0400",
-      "source": "BleepingComputer"
+      "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
+      "url": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
+      "published": "Thu, 09 Oct 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
@@ -489,12 +495,6 @@
       "title": "5 Critical Questions For Adopting an AI Security Solution",
       "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
       "published": "Mon, 06 Oct 2025 17:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-      "url": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-      "published": "Mon, 06 Oct 2025 17:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
+      "published": "Thu, 09 Oct 2025 08:38:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacktivists target critical infrastructure, hit decoy plant",
       "url": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
       "published": "Thu, 09 Oct 2025 07:13:49 -0400",
@@ -806,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Docker makes Hardened Images Catalog affordable for small businesses",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
-      "published": "Tue, 07 Oct 2025 18:09:48 -0400",
-      "source": "BleepingComputer"
+      "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
+      "url": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
+      "published": "Thu, 09 Oct 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
@@ -923,12 +929,6 @@
       "title": "5 Critical Questions For Adopting an AI Security Solution",
       "url": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
       "published": "Mon, 06 Oct 2025 17:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-      "url": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-      "published": "Mon, 06 Oct 2025 17:07:00 +0530",
       "source": "The Hacker News"
     },
     {
