@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-10T11:40:47.179734Z",
+  "generated_at": "2025-10-10T13:25:06.138585Z",
   "segment1": [
+    {
+      "title": "Don’t breathe that sigh of relief just yet: BreachForums is gone, but the Salesforce leak site isn’t",
+      "url": "https://databreaches.net/2025/10/10/dont-breathe-that-sigh-of-relief-just-yet-breachforums-is-gone-but-a-leak-site-isnt/?pk_campaign=feed&pk_kwd=dont-breathe-that-sigh-of-relief-just-yet-breachforums-is-gone-but-a-leak-site-isnt",
+      "published": "Fri, 10 Oct 2025 12:06:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "BreachForums Seized — Again!",
       "url": "https://databreaches.net/2025/10/09/breachforums-seized-again/?pk_campaign=feed&pk_kwd=breachforums-seized-again",
@@ -53,17 +59,17 @@
       "title": "Policyholder Plot Twist: Cyber Insurer Sues Policyholder’s Cyber Pros",
       "url": "https://databreaches.net/2025/10/08/policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros/?pk_campaign=feed&pk_kwd=policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros",
       "published": "Thu, 09 Oct 2025 01:41:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
-      "url": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
-      "published": "Wed, 08 Oct 2025 19:21:47 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Don’t breathe that sigh of relief just yet: BreachForums is gone, but the Salesforce leak site isn’t",
+      "url": "https://databreaches.net/2025/10/10/dont-breathe-that-sigh-of-relief-just-yet-breachforums-is-gone-but-a-leak-site-isnt/?pk_campaign=feed&pk_kwd=dont-breathe-that-sigh-of-relief-just-yet-breachforums-is-gone-but-a-leak-site-isnt",
+      "published": "Fri, 10 Oct 2025 12:06:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "BreachForums Seized — Again!",
       "url": "https://databreaches.net/2025/10/09/breachforums-seized-again/?pk_campaign=feed&pk_kwd=breachforums-seized-again",
       "published": "Thu, 09 Oct 2025 23:18:33 +0000",
@@ -115,12 +121,6 @@
       "title": "Policyholder Plot Twist: Cyber Insurer Sues Policyholder’s Cyber Pros",
       "url": "https://databreaches.net/2025/10/08/policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros/?pk_campaign=feed&pk_kwd=policyholder-plot-twist-cyber-insurer-sues-policyholders-cyber-pros",
       "published": "Thu, 09 Oct 2025 01:41:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape",
-      "url": "https://databreaches.net/2025/10/08/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape/?pk_campaign=feed&pk_kwd=dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape",
-      "published": "Wed, 08 Oct 2025 19:21:47 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -378,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New FileFix attack uses cache smuggling to evade security software",
-      "url": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
-      "published": "Wed, 08 Oct 2025 15:49:47 -0400",
-      "source": "BleepingComputer"
+      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
+      "url": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+      "published": "Fri, 10 Oct 2025 17:12:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
@@ -495,12 +495,6 @@
       "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
       "url": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
       "published": "Tue, 07 Oct 2025 22:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
-      "url": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
-      "published": "Tue, 07 Oct 2025 20:48:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -818,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New FileFix attack uses cache smuggling to evade security software",
-      "url": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
-      "published": "Wed, 08 Oct 2025 15:49:47 -0400",
-      "source": "BleepingComputer"
+      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
+      "url": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+      "published": "Fri, 10 Oct 2025 17:12:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
@@ -935,12 +929,6 @@
       "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
       "url": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
       "published": "Tue, 07 Oct 2025 22:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
-      "url": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
-      "published": "Tue, 07 Oct 2025 20:48:00 +0530",
       "source": "The Hacker News"
     },
     {
