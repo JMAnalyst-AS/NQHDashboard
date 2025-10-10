@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T16:43:42.278119Z",
+  "generated_at": "2025-10-10T17:34:55.304510Z",
   "segment1": [
     {
       "title": "Don’t breathe that sigh of relief just yet: BreachForums is gone, but the Salesforce leak site isn’t",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Chrome to revoke notification access for inactive sites",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
+      "published": "Fri, 10 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/",
+      "published": "Fri, 10 Oct 2025 12:50:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Copilot on Windows can now connect to email, create Office docs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
       "published": "Fri, 10 Oct 2025 10:49:09 -0400",
@@ -369,18 +381,6 @@
       "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
       "url": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
       "published": "Thu, 09 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
-      "published": "Thu, 09 Oct 2025 08:38:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacktivists target critical infrastructure, hit decoy plant",
-      "url": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
-      "published": "Thu, 09 Oct 2025 07:13:49 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Chrome to revoke notification access for inactive sites",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
+      "published": "Fri, 10 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/",
+      "published": "Fri, 10 Oct 2025 12:50:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Copilot on Windows can now connect to email, create Office docs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
       "published": "Fri, 10 Oct 2025 10:49:09 -0400",
@@ -809,18 +821,6 @@
       "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
       "url": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
       "published": "Thu, 09 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
-      "published": "Thu, 09 Oct 2025 08:38:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacktivists target critical infrastructure, hit decoy plant",
-      "url": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
-      "published": "Thu, 09 Oct 2025 07:13:49 -0400",
       "source": "BleepingComputer"
     },
     {
