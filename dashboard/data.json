@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T09:34:24.947745Z",
+  "generated_at": "2025-10-10T10:39:58.785752Z",
   "segment1": [
     {
       "title": "BreachForums Seized — Again!",
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
+      "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
+      "published": "Fri, 10 Oct 2025 15:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
       "url": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
       "published": "Fri, 10 Oct 2025 12:11:00 +0530",
@@ -495,12 +501,6 @@
       "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
       "url": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
       "published": "Tue, 07 Oct 2025 16:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
-      "published": "Tue, 07 Oct 2025 14:03:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
+      "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
+      "published": "Fri, 10 Oct 2025 15:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
       "url": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
       "published": "Fri, 10 Oct 2025 12:11:00 +0530",
@@ -935,12 +941,6 @@
       "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
       "url": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
       "published": "Tue, 07 Oct 2025 16:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
-      "published": "Tue, 07 Oct 2025 14:03:00 +0530",
       "source": "The Hacker News"
     },
     {
