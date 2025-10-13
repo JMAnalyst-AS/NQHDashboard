@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T15:38:55.485612Z",
+  "generated_at": "2025-10-13T16:50:10.087379Z",
   "segment1": [
     {
       "title": "From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1)",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
+      "published": "Mon, 13 Oct 2025 11:58:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft investigates outage affecting Microsoft 365 apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/",
+      "published": "Mon, 13 Oct 2025 11:58:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Oracle releases emergency patch for new E-Business Suite flaw",
       "url": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
       "published": "Mon, 13 Oct 2025 10:42:16 -0400",
@@ -363,18 +375,6 @@
       "title": "Google Chrome to revoke browser notifications for inactive sites",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
       "published": "Fri, 10 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/",
-      "published": "Fri, 10 Oct 2025 12:50:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Copilot on Windows can now connect to email, create Office docs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
-      "published": "Fri, 10 Oct 2025 10:49:09 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
+      "published": "Mon, 13 Oct 2025 11:58:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft investigates outage affecting Microsoft 365 apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/",
+      "published": "Mon, 13 Oct 2025 11:58:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Oracle releases emergency patch for new E-Business Suite flaw",
       "url": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
       "published": "Mon, 13 Oct 2025 10:42:16 -0400",
@@ -797,18 +809,6 @@
       "title": "Google Chrome to revoke browser notifications for inactive sites",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
       "published": "Fri, 10 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/",
-      "published": "Fri, 10 Oct 2025 12:50:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Copilot on Windows can now connect to email, create Office docs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
-      "published": "Fri, 10 Oct 2025 10:49:09 -0400",
       "source": "BleepingComputer"
     },
     {
