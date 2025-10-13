@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-13T19:40:03.628139Z",
+  "generated_at": "2025-10-13T20:34:17.837646Z",
   "segment1": [
+    {
+      "title": "Months After Being Notified, a Software Vendor is Still Exposing Confidential and Sealed Court Records",
+      "url": "https://databreaches.net/2025/10/13/months-after-being-notified-a-software-vendor-is-still-exposing-confidential-and-sealed-court-records/?pk_campaign=feed&pk_kwd=months-after-being-notified-a-software-vendor-is-still-exposing-confidential-and-sealed-court-records",
+      "published": "Mon, 13 Oct 2025 19:49:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1)",
       "url": "https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt",
@@ -53,17 +59,17 @@
       "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
       "url": "https://databreaches.net/2025/10/09/missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019/?pk_campaign=feed&pk_kwd=missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019",
       "published": "Thu, 09 Oct 2025 13:41:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Discord Confirms 70,000 Government IDs Exposed in Third-Party Breach",
-      "url": "https://databreaches.net/2025/10/09/discord-confirms-70000-government-ids-exposed-in-third-party-breach/?pk_campaign=feed&pk_kwd=discord-confirms-70000-government-ids-exposed-in-third-party-breach",
-      "published": "Thu, 09 Oct 2025 11:34:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Months After Being Notified, a Software Vendor is Still Exposing Confidential and Sealed Court Records",
+      "url": "https://databreaches.net/2025/10/13/months-after-being-notified-a-software-vendor-is-still-exposing-confidential-and-sealed-court-records/?pk_campaign=feed&pk_kwd=months-after-being-notified-a-software-vendor-is-still-exposing-confidential-and-sealed-court-records",
+      "published": "Mon, 13 Oct 2025 19:49:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1)",
       "url": "https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt",
       "published": "Sun, 12 Oct 2025 15:52:32 +0000",
@@ -115,12 +121,6 @@
       "title": "Missing Risk Analysis Cost NY CPA Firm $175K—But Not the Big Group Whose Data Was Breached in 2019",
       "url": "https://databreaches.net/2025/10/09/missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019/?pk_campaign=feed&pk_kwd=missing-risk-analysis-cost-ny-cpa-firm-175k-but-not-the-big-group-whose-data-was-breached-in-2019",
       "published": "Thu, 09 Oct 2025 13:41:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Discord Confirms 70,000 Government IDs Exposed in Third-Party Breach",
-      "url": "https://databreaches.net/2025/10/09/discord-confirms-70000-government-ids-exposed-in-third-party-breach/?pk_campaign=feed&pk_kwd=discord-confirms-70000-government-ids-exposed-in-third-party-breach",
-      "published": "Thu, 09 Oct 2025 11:34:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SimonMed says 1.2 million patients impacted in January data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
+      "published": "Mon, 13 Oct 2025 16:12:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Massive multi-country botnet targets RDP services in the US",
       "url": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
       "published": "Mon, 13 Oct 2025 14:05:56 -0400",
@@ -369,12 +375,6 @@
       "title": "Hackers exploiting zero-day in Gladinet file sharing software",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
       "published": "Fri, 10 Oct 2025 15:08:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
-      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
-      "published": "Fri, 10 Oct 2025 14:11:25 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SimonMed says 1.2 million patients impacted in January data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
+      "published": "Mon, 13 Oct 2025 16:12:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Massive multi-country botnet targets RDP services in the US",
       "url": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
       "published": "Mon, 13 Oct 2025 14:05:56 -0400",
@@ -803,12 +809,6 @@
       "title": "Hackers exploiting zero-day in Gladinet file sharing software",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
       "published": "Fri, 10 Oct 2025 15:08:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
-      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
-      "published": "Fri, 10 Oct 2025 14:11:25 -0400",
       "source": "BleepingComputer"
     },
     {
