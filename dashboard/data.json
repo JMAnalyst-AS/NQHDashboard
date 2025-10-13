@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T21:38:01.609932Z",
+  "generated_at": "2025-10-13T22:34:08.087053Z",
   "segment1": [
     {
       "title": "Months After Being Notified, a Software Vendor is Still Exposing Confidential and Sealed Court Records",
@@ -126,6 +126,18 @@
   ],
   "segment3": [
     {
+      "title": "Maintaining a sustainable strengthened cyber security posture",
+      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
+      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Phishing attacks: defending your organisation",
+      "url": "https://www.ncsc.gov.uk/guidance/phishing",
+      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
       "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
       "published": "Wed, 08 Oct 2025 13:04:05 GMT",
@@ -144,15 +156,9 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Phishing attacks: defending your organisation",
-      "url": "https://www.ncsc.gov.uk/guidance/phishing",
-      "published": "Wed, 01 Oct 2025 14:38:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Maintaining a sustainable strengthened cyber security posture",
-      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
-      "published": "Wed, 01 Oct 2025 13:54:07 GMT",
+      "title": "Moving your business from the physical to the digital",
+      "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
+      "published": "Wed, 01 Oct 2025 14:32:53 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -240,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Cyber Assessment Framework v4.0 released in response to growing threat",
-      "url": "https://www.ncsc.gov.uk/blog-post/caf-v4-0-released-in-response-to-growing-threat",
-      "published": "Thu, 07 Aug 2025 14:59:57 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
       "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
       "published": "Fri, 10 Oct 2025 16:10:43 +0000",
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
       "published": "Thu, 28 Aug 2025 17:21:32 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
+      "published": "Mon, 13 Oct 2025 17:51:47 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
@@ -369,12 +375,6 @@
       "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
       "published": "Fri, 10 Oct 2025 15:34:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting zero-day in Gladinet file sharing software",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
-      "published": "Fri, 10 Oct 2025 15:08:12 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -560,6 +560,18 @@
   ],
   "rss": [
     {
+      "title": "Maintaining a sustainable strengthened cyber security posture",
+      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
+      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Phishing attacks: defending your organisation",
+      "url": "https://www.ncsc.gov.uk/guidance/phishing",
+      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
       "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
       "published": "Wed, 08 Oct 2025 13:04:05 GMT",
@@ -578,15 +590,9 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Phishing attacks: defending your organisation",
-      "url": "https://www.ncsc.gov.uk/guidance/phishing",
-      "published": "Wed, 01 Oct 2025 14:38:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Maintaining a sustainable strengthened cyber security posture",
-      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
-      "published": "Wed, 01 Oct 2025 13:54:07 GMT",
+      "title": "Moving your business from the physical to the digital",
+      "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
+      "published": "Wed, 01 Oct 2025 14:32:53 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -674,12 +680,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Cyber Assessment Framework v4.0 released in response to growing threat",
-      "url": "https://www.ncsc.gov.uk/blog-post/caf-v4-0-released-in-response-to-growing-threat",
-      "published": "Thu, 07 Aug 2025 14:59:57 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
       "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
       "published": "Fri, 10 Oct 2025 16:10:43 +0000",
@@ -738,6 +738,12 @@
       "url": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
       "published": "Thu, 28 Aug 2025 17:21:32 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
+      "published": "Mon, 13 Oct 2025 17:51:47 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
@@ -803,12 +809,6 @@
       "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
       "published": "Fri, 10 Oct 2025 15:34:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting zero-day in Gladinet file sharing software",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
-      "published": "Fri, 10 Oct 2025 15:08:12 -0400",
       "source": "BleepingComputer"
     },
     {
