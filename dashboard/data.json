@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T17:42:52.573204Z",
+  "generated_at": "2025-10-14T18:51:41.936493Z",
   "segment1": [
     {
       "title": "Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’",
@@ -306,6 +306,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Android Pixnapping attack steals MFA codes pixel-by-pixel",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/",
+      "published": "Tue, 14 Oct 2025 14:46:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
+      "published": "Tue, 14 Oct 2025 14:26:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
+      "published": "Tue, 14 Oct 2025 14:02:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5066835 and KB5066793 updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/",
+      "published": "Tue, 14 Oct 2025 13:46:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US seizes $15 billion in crypto from 'pig butchering' kingpin",
       "url": "https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/",
       "published": "Tue, 14 Oct 2025 13:37:43 -0400",
@@ -357,36 +381,6 @@
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
       "url": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
       "published": "Mon, 13 Oct 2025 16:12:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Massive multi-country botnet targets RDP services in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
-      "published": "Mon, 13 Oct 2025 14:05:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
-      "published": "Mon, 13 Oct 2025 11:58:45 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates outage affecting Microsoft 365 apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/",
-      "published": "Mon, 13 Oct 2025 11:58:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oracle releases emergency patch for new E-Business Suite flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
-      "published": "Mon, 13 Oct 2025 10:42:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Meet Varonis Interceptor: AI-Native Email Security",
-      "url": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
-      "published": "Mon, 13 Oct 2025 10:04:14 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -752,6 +746,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Android Pixnapping attack steals MFA codes pixel-by-pixel",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/",
+      "published": "Tue, 14 Oct 2025 14:46:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
+      "published": "Tue, 14 Oct 2025 14:26:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
+      "published": "Tue, 14 Oct 2025 14:02:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5066835 and KB5066793 updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/",
+      "published": "Tue, 14 Oct 2025 13:46:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US seizes $15 billion in crypto from 'pig butchering' kingpin",
       "url": "https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/",
       "published": "Tue, 14 Oct 2025 13:37:43 -0400",
@@ -803,36 +821,6 @@
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
       "url": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
       "published": "Mon, 13 Oct 2025 16:12:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Massive multi-country botnet targets RDP services in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
-      "published": "Mon, 13 Oct 2025 14:05:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
-      "published": "Mon, 13 Oct 2025 11:58:45 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates outage affecting Microsoft 365 apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/",
-      "published": "Mon, 13 Oct 2025 11:58:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oracle releases emergency patch for new E-Business Suite flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
-      "published": "Mon, 13 Oct 2025 10:42:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Meet Varonis Interceptor: AI-Native Email Security",
-      "url": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
-      "published": "Mon, 13 Oct 2025 10:04:14 -0400",
       "source": "BleepingComputer"
     },
     {
