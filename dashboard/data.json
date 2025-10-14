@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T11:41:37.361317Z",
+  "generated_at": "2025-10-14T13:44:02.437211Z",
   "segment1": [
     {
       "title": "$19M in Settlements Underscore Cybersecurity Risks for TPAs and Insurers",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Secure Boot bypass risk on nearly 200,000 Linux Framework sytems",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/",
+      "published": "Tue, 14 Oct 2025 09:22:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
+      "published": "Tue, 14 Oct 2025 08:28:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
       "published": "Mon, 13 Oct 2025 17:51:47 -0400",
@@ -366,16 +378,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain dismantles “GXC Team” cybercrime syndicate, arrests leader",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
-      "published": "Sat, 11 Oct 2025 10:17:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+      "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+      "published": "Tue, 14 Oct 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
-      "published": "Fri, 10 Oct 2025 15:34:13 -0400",
-      "source": "BleepingComputer"
+      "title": "RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
+      "published": "Tue, 14 Oct 2025 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
+      "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+      "published": "Tue, 14 Oct 2025 16:48:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "What AI Reveals About Web Applications— and Why It Matters",
+      "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
+      "published": "Tue, 14 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
@@ -471,30 +495,6 @@
       "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
       "url": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
       "published": "Fri, 10 Oct 2025 16:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-      "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-      "published": "Fri, 10 Oct 2025 15:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
-      "url": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
-      "published": "Fri, 10 Oct 2025 12:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
-      "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-      "published": "Thu, 09 Oct 2025 22:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
-      "url": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
-      "published": "Thu, 09 Oct 2025 21:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Secure Boot bypass risk on nearly 200,000 Linux Framework sytems",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/",
+      "published": "Tue, 14 Oct 2025 09:22:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
+      "published": "Tue, 14 Oct 2025 08:28:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
       "published": "Mon, 13 Oct 2025 17:51:47 -0400",
@@ -800,16 +812,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain dismantles “GXC Team” cybercrime syndicate, arrests leader",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
-      "published": "Sat, 11 Oct 2025 10:17:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+      "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+      "published": "Tue, 14 Oct 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
-      "published": "Fri, 10 Oct 2025 15:34:13 -0400",
-      "source": "BleepingComputer"
+      "title": "RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
+      "published": "Tue, 14 Oct 2025 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
+      "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+      "published": "Tue, 14 Oct 2025 16:48:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "What AI Reveals About Web Applications— and Why It Matters",
+      "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
+      "published": "Tue, 14 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
@@ -905,30 +929,6 @@
       "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
       "url": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
       "published": "Fri, 10 Oct 2025 16:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-      "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-      "published": "Fri, 10 Oct 2025 15:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
-      "url": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
-      "published": "Fri, 10 Oct 2025 12:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
-      "url": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-      "published": "Thu, 09 Oct 2025 22:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
-      "url": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
-      "published": "Thu, 09 Oct 2025 21:00:00 +0530",
       "source": "The Hacker News"
     },
     {
