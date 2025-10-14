@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T21:28:01.149071Z",
+  "generated_at": "2025-10-14T21:40:44.613332Z",
   "segment1": [
     {
       "title": "Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious crypto-stealing VSCode extensions resurface on OpenVSX",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/",
+      "published": "Tue, 14 Oct 2025 17:35:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Final Windows 10 Patch Tuesday update rolls out as support ends",
       "url": "https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/",
       "published": "Tue, 14 Oct 2025 15:07:49 -0400",
@@ -375,12 +381,6 @@
       "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
       "published": "Tue, 14 Oct 2025 08:28:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
-      "published": "Mon, 13 Oct 2025 17:51:47 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious crypto-stealing VSCode extensions resurface on OpenVSX",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/",
+      "published": "Tue, 14 Oct 2025 17:35:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Final Windows 10 Patch Tuesday update rolls out as support ends",
       "url": "https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/",
       "published": "Tue, 14 Oct 2025 15:07:49 -0400",
@@ -815,12 +821,6 @@
       "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
       "published": "Tue, 14 Oct 2025 08:28:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
-      "published": "Mon, 13 Oct 2025 17:51:47 -0400",
       "source": "BleepingComputer"
     },
     {
