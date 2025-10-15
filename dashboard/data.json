@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T17:38:17.106838Z",
+  "generated_at": "2025-10-15T18:56:08.925654Z",
   "segment1": [
     {
       "title": "Capita hit with £14m fine for personal data breach in 2023 cyber attack",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
+      "published": "Wed, 15 Oct 2025 14:01:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Sept Windows Server updates cause Active Directory issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/",
       "published": "Wed, 15 Oct 2025 11:54:51 -0400",
@@ -372,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Oracle silently fixes zero-day exploit leaked by ShinyHunters",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
-      "published": "Tue, 14 Oct 2025 12:38:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft warns that Windows 10 reaches end of support today",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
-      "published": "Tue, 14 Oct 2025 10:54:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+      "url": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+      "published": "Wed, 15 Oct 2025 22:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion",
@@ -495,12 +495,6 @@
       "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
       "url": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
       "published": "Mon, 13 Oct 2025 12:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-      "url": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-      "published": "Mon, 13 Oct 2025 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
+      "published": "Wed, 15 Oct 2025 14:01:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Sept Windows Server updates cause Active Directory issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/",
       "published": "Wed, 15 Oct 2025 11:54:51 -0400",
@@ -812,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Oracle silently fixes zero-day exploit leaked by ShinyHunters",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
-      "published": "Tue, 14 Oct 2025 12:38:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft warns that Windows 10 reaches end of support today",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
-      "published": "Tue, 14 Oct 2025 10:54:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+      "url": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+      "published": "Wed, 15 Oct 2025 22:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion",
@@ -935,12 +929,6 @@
       "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
       "url": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
       "published": "Mon, 13 Oct 2025 12:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-      "url": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-      "published": "Mon, 13 Oct 2025 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
