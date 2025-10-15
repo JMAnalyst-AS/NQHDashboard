@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T07:33:16.021733Z",
+  "generated_at": "2025-10-15T08:51:45.825607Z",
   "segment1": [
     {
       "title": "Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’",
@@ -384,6 +384,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+      "url": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+      "published": "Wed, 15 Oct 2025 12:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+      "url": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+      "published": "Wed, 15 Oct 2025 11:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
       "url": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
       "published": "Wed, 15 Oct 2025 11:06:00 +0530",
@@ -489,18 +501,6 @@
       "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
       "url": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
       "published": "Fri, 10 Oct 2025 19:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries",
-      "url": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-      "published": "Fri, 10 Oct 2025 19:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
-      "url": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-      "published": "Fri, 10 Oct 2025 17:12:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+      "url": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+      "published": "Wed, 15 Oct 2025 12:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+      "url": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+      "published": "Wed, 15 Oct 2025 11:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
       "url": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
       "published": "Wed, 15 Oct 2025 11:06:00 +0530",
@@ -929,18 +941,6 @@
       "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
       "url": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
       "published": "Fri, 10 Oct 2025 19:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries",
-      "url": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-      "published": "Fri, 10 Oct 2025 19:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
-      "url": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-      "published": "Fri, 10 Oct 2025 17:12:00 +0530",
       "source": "The Hacker News"
     },
     {
