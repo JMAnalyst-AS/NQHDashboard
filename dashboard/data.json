@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T14:45:48.857780Z",
+  "generated_at": "2025-10-16T15:40:26.873370Z",
   "segment1": [
     {
       "title": "The Alliance That Wasn’t: A Critical Analysis of ReliaQuest’s Q3 2025 Ransomware Report",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Gladinet fixes actively exploited zero-day in file-sharing software",
+      "url": "https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/",
+      "published": "Thu, 16 Oct 2025 11:11:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Maximum-severity Adobe flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/",
       "published": "Thu, 16 Oct 2025 10:28:38 -0400",
@@ -378,10 +384,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How to spot dark web threats on your network using NDR",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/",
-      "published": "Wed, 15 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
+      "url": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
+      "published": "Thu, 16 Oct 2025 20:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
+      "url": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
+      "published": "Thu, 16 Oct 2025 20:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
+      "url": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
+      "published": "Thu, 16 Oct 2025 19:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform",
@@ -483,24 +501,6 @@
       "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
       "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
       "published": "Tue, 14 Oct 2025 16:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What AI Reveals About Web Applications— and Why It Matters",
-      "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-      "published": "Tue, 14 Oct 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-      "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-      "published": "Tue, 14 Oct 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-      "published": "Tue, 14 Oct 2025 10:58:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Gladinet fixes actively exploited zero-day in file-sharing software",
+      "url": "https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/",
+      "published": "Thu, 16 Oct 2025 11:11:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Maximum-severity Adobe flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/",
       "published": "Thu, 16 Oct 2025 10:28:38 -0400",
@@ -818,10 +824,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How to spot dark web threats on your network using NDR",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/",
-      "published": "Wed, 15 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
+      "url": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
+      "published": "Thu, 16 Oct 2025 20:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
+      "url": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
+      "published": "Thu, 16 Oct 2025 20:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
+      "url": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
+      "published": "Thu, 16 Oct 2025 19:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform",
@@ -923,24 +941,6 @@
       "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
       "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
       "published": "Tue, 14 Oct 2025 16:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What AI Reveals About Web Applications— and Why It Matters",
-      "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-      "published": "Tue, 14 Oct 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-      "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-      "published": "Tue, 14 Oct 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-      "published": "Tue, 14 Oct 2025 10:58:00 +0530",
       "source": "The Hacker News"
     },
     {
