@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T17:39:19.266840Z",
+  "generated_at": "2025-10-16T18:56:42.342323Z",
   "segment1": [
     {
       "title": "The Alliance That Wasn’t: A Critical Analysis of ReliaQuest’s Q3 2025 Ransomware Report",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
+      "published": "Thu, 16 Oct 2025 14:13:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft disrupts ransomware attacks targeting Teams users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/",
       "published": "Thu, 16 Oct 2025 12:58:36 -0400",
@@ -375,12 +381,6 @@
       "title": "Fake LastPass, Bitwarden breach alerts lead to PC hijacks",
       "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/",
       "published": "Wed, 15 Oct 2025 15:22:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
-      "published": "Wed, 15 Oct 2025 14:01:34 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
+      "published": "Thu, 16 Oct 2025 14:13:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft disrupts ransomware attacks targeting Teams users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/",
       "published": "Thu, 16 Oct 2025 12:58:36 -0400",
@@ -815,12 +821,6 @@
       "title": "Fake LastPass, Bitwarden breach alerts lead to PC hijacks",
       "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/",
       "published": "Wed, 15 Oct 2025 15:22:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
-      "published": "Wed, 15 Oct 2025 14:01:34 -0400",
       "source": "BleepingComputer"
     },
     {
