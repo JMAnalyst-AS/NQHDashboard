@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T11:27:00.081789Z",
+  "generated_at": "2025-10-17T11:41:27.238929Z",
   "segment1": [
     {
       "title": "The Alliance That Wasn’t: A Critical Analysis of ReliaQuest’s Q3 2025 Ransomware Report",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
       "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
       "published": "Tue, 14 Oct 2025 22:57:38 +0000",
@@ -297,12 +303,6 @@
       "title": "GOP Cries Censorship Over Spam Filters That Work",
       "url": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
       "published": "Sat, 06 Sep 2025 03:23:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "url": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -382,6 +382,12 @@
       "url": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
       "published": "Wed, 15 Oct 2025 20:09:53 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "url": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+      "published": "Fri, 17 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
@@ -495,12 +501,6 @@
       "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
       "url": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
       "published": "Tue, 14 Oct 2025 22:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
-      "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
-      "published": "Tue, 14 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -686,6 +686,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
       "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
       "published": "Tue, 14 Oct 2025 22:57:38 +0000",
@@ -737,12 +743,6 @@
       "title": "GOP Cries Censorship Over Spam Filters That Work",
       "url": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
       "published": "Sat, 06 Sep 2025 03:23:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "url": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "published": "Mon, 01 Sep 2025 21:55:04 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -822,6 +822,12 @@
       "url": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
       "published": "Wed, 15 Oct 2025 20:09:53 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "url": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+      "published": "Fri, 17 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
@@ -935,12 +941,6 @@
       "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
       "url": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
       "published": "Tue, 14 Oct 2025 22:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
-      "url": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
-      "published": "Tue, 14 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
