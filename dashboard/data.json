@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-20T14:40:42.918310Z",
+  "generated_at": "2025-10-20T15:34:28.928433Z",
   "segment1": [
+    {
+      "title": "John Bolton Indictment Provides Interesting Details About Hack of His AOL Account and Extortion Attempt",
+      "url": "https://databreaches.net/2025/10/20/john-bolton-indictment-provides-interesting-details-about-hack-of-his-aol-account-and-extortion-attempt/?pk_campaign=feed&pk_kwd=john-bolton-indictment-provides-interesting-details-about-hack-of-his-aol-account-and-extortion-attempt",
+      "published": "Mon, 20 Oct 2025 15:08:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web",
       "url": "https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web",
@@ -53,17 +59,17 @@
       "title": "The Alliance That Wasn’t: A Critical Analysis of ReliaQuest’s Q3 2025 Ransomware Report",
       "url": "https://databreaches.net/2025/10/16/the-alliance-that-wasnt-a-critical-analysis-of-reliaquests-q3-2025-ransomware-report/?pk_campaign=feed&pk_kwd=the-alliance-that-wasnt-a-critical-analysis-of-reliaquests-q3-2025-ransomware-report",
       "published": "Thu, 16 Oct 2025 12:16:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Heritage Provider Network $49.99M Class Action Settlement",
-      "url": "https://databreaches.net/2025/10/16/heritage-provider-network-49-99m-class-action-settlement/?pk_campaign=feed&pk_kwd=heritage-provider-network-49-99m-class-action-settlement",
-      "published": "Thu, 16 Oct 2025 10:55:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "John Bolton Indictment Provides Interesting Details About Hack of His AOL Account and Extortion Attempt",
+      "url": "https://databreaches.net/2025/10/20/john-bolton-indictment-provides-interesting-details-about-hack-of-his-aol-account-and-extortion-attempt/?pk_campaign=feed&pk_kwd=john-bolton-indictment-provides-interesting-details-about-hack-of-his-aol-account-and-extortion-attempt",
+      "published": "Mon, 20 Oct 2025 15:08:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web",
       "url": "https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web",
       "published": "Sun, 19 Oct 2025 15:58:32 +0000",
@@ -115,12 +121,6 @@
       "title": "The Alliance That Wasn’t: A Critical Analysis of ReliaQuest’s Q3 2025 Ransomware Report",
       "url": "https://databreaches.net/2025/10/16/the-alliance-that-wasnt-a-critical-analysis-of-reliaquests-q3-2025-ransomware-report/?pk_campaign=feed&pk_kwd=the-alliance-that-wasnt-a-critical-analysis-of-reliaquests-q3-2025-ransomware-report",
       "published": "Thu, 16 Oct 2025 12:16:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Heritage Provider Network $49.99M Class Action Settlement",
-      "url": "https://databreaches.net/2025/10/16/heritage-provider-network-49-99m-class-action-settlement/?pk_campaign=feed&pk_kwd=heritage-provider-network-49-99m-class-action-settlement",
-      "published": "Thu, 16 Oct 2025 10:55:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Windows Server Active Directory sync issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
+      "published": "Mon, 20 Oct 2025 11:27:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft warns of Windows smart card auth issues after October updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
       "published": "Mon, 20 Oct 2025 10:21:54 -0400",
@@ -369,12 +375,6 @@
       "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
       "published": "Fri, 17 Oct 2025 13:01:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
-      "published": "Fri, 17 Oct 2025 11:35:49 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Windows Server Active Directory sync issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
+      "published": "Mon, 20 Oct 2025 11:27:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft warns of Windows smart card auth issues after October updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
       "published": "Mon, 20 Oct 2025 10:21:54 -0400",
@@ -803,12 +809,6 @@
       "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
       "published": "Fri, 17 Oct 2025 13:01:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
-      "published": "Fri, 17 Oct 2025 11:35:49 -0400",
       "source": "BleepingComputer"
     },
     {
