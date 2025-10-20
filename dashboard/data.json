@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T13:39:00.548276Z",
+  "generated_at": "2025-10-20T14:40:42.918310Z",
   "segment1": [
     {
       "title": "UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web",
@@ -306,7 +306,19 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more",
+      "title": "Microsoft warns of Windows smart card auth issues after October updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
+      "published": "Mon, 20 Oct 2025 10:21:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Find hidden malicious OAuth apps in Microsoft 365 using Cazadora",
+      "url": "https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/",
+      "published": "Mon, 20 Oct 2025 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
       "url": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
       "published": "Mon, 20 Oct 2025 04:24:25 -0400",
       "source": "BleepingComputer"
@@ -363,18 +375,6 @@
       "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
       "published": "Fri, 17 Oct 2025 11:35:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "VMware Certification: Your Next Career Power Move",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/",
-      "published": "Fri, 17 Oct 2025 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
-      "published": "Fri, 17 Oct 2025 09:58:27 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,7 +740,19 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more",
+      "title": "Microsoft warns of Windows smart card auth issues after October updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
+      "published": "Mon, 20 Oct 2025 10:21:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Find hidden malicious OAuth apps in Microsoft 365 using Cazadora",
+      "url": "https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/",
+      "published": "Mon, 20 Oct 2025 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
       "url": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
       "published": "Mon, 20 Oct 2025 04:24:25 -0400",
       "source": "BleepingComputer"
@@ -797,18 +809,6 @@
       "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
       "published": "Fri, 17 Oct 2025 11:35:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "VMware Certification: Your Next Career Power Move",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/",
-      "published": "Fri, 17 Oct 2025 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
-      "published": "Fri, 17 Oct 2025 09:58:27 -0400",
       "source": "BleepingComputer"
     },
     {
