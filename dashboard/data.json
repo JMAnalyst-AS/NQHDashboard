@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T16:47:59.292203Z",
+  "generated_at": "2025-10-20T17:33:10.415958Z",
   "segment1": [
     {
       "title": "Hackers Say They Have Personal Data of Thousands of NSA and Other Government Officials",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 20 Oct 2025 13:18:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
       "url": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
       "published": "Mon, 20 Oct 2025 12:13:20 -0400",
@@ -369,12 +375,6 @@
       "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
       "url": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
       "published": "Fri, 17 Oct 2025 15:11:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
-      "published": "Fri, 17 Oct 2025 13:22:16 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 20 Oct 2025 13:18:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
       "url": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
       "published": "Mon, 20 Oct 2025 12:13:20 -0400",
@@ -803,12 +809,6 @@
       "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
       "url": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
       "published": "Fri, 17 Oct 2025 15:11:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
-      "published": "Fri, 17 Oct 2025 13:22:16 -0400",
       "source": "BleepingComputer"
     },
     {
