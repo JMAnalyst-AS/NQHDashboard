@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T20:39:57.171135Z",
+  "generated_at": "2025-10-21T21:30:10.889457Z",
   "segment1": [
     {
       "title": "KT Chief to Resign After Cybersecurity Breach Resolution",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
+      "published": "Tue, 21 Oct 2025 17:11:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
       "published": "Tue, 21 Oct 2025 15:15:34 -0400",
@@ -375,12 +381,6 @@
       "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
       "url": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
       "published": "Mon, 20 Oct 2025 13:42:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 20 Oct 2025 13:18:16 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
+      "published": "Tue, 21 Oct 2025 17:11:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
       "published": "Tue, 21 Oct 2025 15:15:34 -0400",
@@ -815,12 +821,6 @@
       "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
       "url": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
       "published": "Mon, 20 Oct 2025 13:42:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 20 Oct 2025 13:18:16 -0400",
       "source": "BleepingComputer"
     },
     {
