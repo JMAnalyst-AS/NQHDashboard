@@ -13,3 +13,16 @@ if (breaches.length === 0) {
      <div class="small dim">${b.source || ''} • ${b.published || ''}</div>`
   );
 }
+// Q3 – Security News (RSS)
+const rss = Array.isArray(data.segment1) ? data.segment1 : [];
+if (rss.length === 0) {
+  el('#rss-feed').innerHTML = '<div class="card">No recent security news.</div>';
+} else {
+  mountList(el('#rss-feed'), rss, r => `
+    <div class="title-line">
+      <a href="${r.url}" target="_blank" class="org">${r.title || 'Untitled'}</a>
+    </div>
+    <div class="small dim">${r.source || ''} • ${r.published || ''}</div>
+  `);
+}
+
