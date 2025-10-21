@@ -6,7 +6,7 @@ html,body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,
 .title h1{margin:0;font-size:22px;letter-spacing:.02em}
 .subtitle{margin:2px 0 0 0;opacity:.7;font-size:14px}
 .timestamp{margin-left:auto;opacity:.8;font-size:13px}
-.intel-image {width: 100%;height: 100%;object-fit: contain;display: block;margin: auto;padding: 10px;}
+.intel-image {width: 100%;height: 100%;object-fit: cover;border-radius: 12px;}
 
 .grid4{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:16px;padding:16px;height:calc(100vh - 70px)}
 .panel{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:12px;overflow:hidden;display:flex;flex-direction:column;min-height:0}
