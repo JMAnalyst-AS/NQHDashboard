@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T17:32:40.763802Z",
+  "generated_at": "2025-10-22T18:53:12.932428Z",
   "segment1": [
     {
       "title": "Resource: NY DFS Issues New Cybersecurity Guidance to Address Risks Associated with the Use of Third-Party Service Providers",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
+      "published": "Wed, 22 Oct 2025 14:52:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
+      "published": "Wed, 22 Oct 2025 14:41:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
       "published": "Wed, 22 Oct 2025 13:21:24 -0400",
@@ -366,22 +378,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates cause login issues on some PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/",
-      "published": "Tue, 21 Oct 2025 12:56:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+      "url": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+      "published": "Wed, 22 Oct 2025 22:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Russian hackers evolve malware pushed in \"I am not a robot\" captchas",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/",
-      "published": "Tue, 21 Oct 2025 11:13:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Maximizing gateway security: Beyond the basic configuration",
-      "url": "https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/",
-      "published": "Tue, 21 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+      "url": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+      "published": "Wed, 22 Oct 2025 22:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
@@ -489,18 +495,6 @@
       "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
       "url": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
       "published": "Sun, 19 Oct 2025 11:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
-      "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
-      "published": "Sat, 18 Oct 2025 17:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
-      "url": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
-      "published": "Sat, 18 Oct 2025 12:21:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
+      "published": "Wed, 22 Oct 2025 14:52:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
+      "published": "Wed, 22 Oct 2025 14:41:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
       "published": "Wed, 22 Oct 2025 13:21:24 -0400",
@@ -806,22 +812,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates cause login issues on some PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/",
-      "published": "Tue, 21 Oct 2025 12:56:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+      "url": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+      "published": "Wed, 22 Oct 2025 22:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Russian hackers evolve malware pushed in \"I am not a robot\" captchas",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/",
-      "published": "Tue, 21 Oct 2025 11:13:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Maximizing gateway security: Beyond the basic configuration",
-      "url": "https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/",
-      "published": "Tue, 21 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+      "url": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+      "published": "Wed, 22 Oct 2025 22:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
@@ -929,18 +929,6 @@
       "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
       "url": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
       "published": "Sun, 19 Oct 2025 11:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
-      "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
-      "published": "Sat, 18 Oct 2025 17:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
-      "url": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
-      "published": "Sat, 18 Oct 2025 12:21:00 +0530",
       "source": "The Hacker News"
     },
     {
