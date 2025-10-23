@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-23T10:43:02.074627Z",
+  "generated_at": "2025-10-23T11:29:04.473458Z",
   "segment1": [
+    {
+      "title": "Kaufman County’s data breach was their second one in three weeks",
+      "url": "https://databreaches.net/2025/10/23/kaufman-countys-data-breach-was-their-second-one-in-three-weeks/?pk_campaign=feed&pk_kwd=kaufman-countys-data-breach-was-their-second-one-in-three-weeks",
+      "published": "Thu, 23 Oct 2025 11:12:02 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs",
       "url": "https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs",
@@ -53,17 +59,17 @@
       "title": "Attorney General James Announces Settlement with Wojeski & Company Accounting Firm",
       "url": "https://databreaches.net/2025/10/21/attorney-general-james-announces-settlement-with-wojeski-company-accounting-firm/?pk_campaign=feed&pk_kwd=attorney-general-james-announces-settlement-with-wojeski-company-accounting-firm",
       "published": "Tue, 21 Oct 2025 11:28:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romanian prisoner hacks prison IT system in plot made for a Netflix movie",
-      "url": "https://databreaches.net/2025/10/21/romanian-prisoner-hacks-prison-it-system-in-plot-made-for-a-netflix-movie/?pk_campaign=feed&pk_kwd=romanian-prisoner-hacks-prison-it-system-in-plot-made-for-a-netflix-movie",
-      "published": "Tue, 21 Oct 2025 10:42:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Kaufman County’s data breach was their second one in three weeks",
+      "url": "https://databreaches.net/2025/10/23/kaufman-countys-data-breach-was-their-second-one-in-three-weeks/?pk_campaign=feed&pk_kwd=kaufman-countys-data-breach-was-their-second-one-in-three-weeks",
+      "published": "Thu, 23 Oct 2025 11:12:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs",
       "url": "https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs",
       "published": "Thu, 23 Oct 2025 00:04:02 +0000",
@@ -115,12 +121,6 @@
       "title": "Attorney General James Announces Settlement with Wojeski & Company Accounting Firm",
       "url": "https://databreaches.net/2025/10/21/attorney-general-james-announces-settlement-with-wojeski-company-accounting-firm/?pk_campaign=feed&pk_kwd=attorney-general-james-announces-settlement-with-wojeski-company-accounting-firm",
       "published": "Tue, 21 Oct 2025 11:28:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romanian prisoner hacks prison IT system in plot made for a Netflix movie",
-      "url": "https://databreaches.net/2025/10/21/romanian-prisoner-hacks-prison-it-system-in-plot-made-for-a-netflix-movie/?pk_campaign=feed&pk_kwd=romanian-prisoner-hacks-prison-it-system-in-plot-made-for-a-netflix-movie",
-      "published": "Tue, 21 Oct 2025 10:42:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -378,6 +378,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+      "url": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+      "published": "Thu, 23 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "published": "Thu, 23 Oct 2025 13:22:00 +0530",
@@ -489,12 +495,6 @@
       "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
       "url": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
       "published": "Mon, 20 Oct 2025 17:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
-      "url": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-      "published": "Mon, 20 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -812,6 +812,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+      "url": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+      "published": "Thu, 23 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "published": "Thu, 23 Oct 2025 13:22:00 +0530",
@@ -923,12 +929,6 @@
       "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
       "url": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
       "published": "Mon, 20 Oct 2025 17:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
-      "url": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-      "published": "Mon, 20 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
