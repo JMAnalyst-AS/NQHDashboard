@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T15:36:46.942135Z",
+  "generated_at": "2025-10-23T16:48:17.634339Z",
   "segment1": [
     {
       "title": "Kaufman County’s data breach was their second one in three weeks",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
+      "published": "Thu, 23 Oct 2025 12:24:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft disables File Explorer preview for downloads to block attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/",
+      "published": "Thu, 23 Oct 2025 11:57:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zero Trust Has a Blind Spot—Your AI Agents",
       "url": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
       "published": "Thu, 23 Oct 2025 10:15:25 -0400",
@@ -366,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
-      "url": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
-      "published": "Wed, 22 Oct 2025 06:24:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
-      "url": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
-      "published": "Tue, 21 Oct 2025 18:26:02 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
+      "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
+      "published": "Thu, 23 Oct 2025 20:59:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
@@ -489,12 +495,6 @@
       "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
       "url": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
       "published": "Tue, 21 Oct 2025 12:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
-      "url": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
-      "published": "Tue, 21 Oct 2025 12:53:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
+      "published": "Thu, 23 Oct 2025 12:24:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft disables File Explorer preview for downloads to block attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/",
+      "published": "Thu, 23 Oct 2025 11:57:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zero Trust Has a Blind Spot—Your AI Agents",
       "url": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
       "published": "Thu, 23 Oct 2025 10:15:25 -0400",
@@ -800,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
-      "url": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
-      "published": "Wed, 22 Oct 2025 06:24:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
-      "url": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
-      "published": "Tue, 21 Oct 2025 18:26:02 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
+      "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
+      "published": "Thu, 23 Oct 2025 20:59:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
@@ -923,12 +929,6 @@
       "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
       "url": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
       "published": "Tue, 21 Oct 2025 12:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
-      "url": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
-      "published": "Tue, 21 Oct 2025 12:53:00 +0530",
       "source": "The Hacker News"
     },
     {
