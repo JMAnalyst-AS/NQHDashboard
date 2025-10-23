@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T13:42:59.712066Z",
+  "generated_at": "2025-10-23T14:43:47.835708Z",
   "segment1": [
     {
       "title": "Kaufman County’s data breach was their second one in three weeks",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zero Trust Has a Blind Spot—Your AI Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
+      "published": "Thu, 23 Oct 2025 10:15:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
+      "url": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
+      "published": "Thu, 23 Oct 2025 10:09:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean Lazarus hackers targeted European defense companies",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
       "published": "Thu, 23 Oct 2025 08:38:39 -0400",
@@ -363,18 +375,6 @@
       "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
       "url": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
       "published": "Tue, 21 Oct 2025 18:26:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
-      "published": "Tue, 21 Oct 2025 17:11:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
-      "published": "Tue, 21 Oct 2025 15:15:34 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zero Trust Has a Blind Spot—Your AI Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
+      "published": "Thu, 23 Oct 2025 10:15:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
+      "url": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
+      "published": "Thu, 23 Oct 2025 10:09:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean Lazarus hackers targeted European defense companies",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
       "published": "Thu, 23 Oct 2025 08:38:39 -0400",
@@ -797,18 +809,6 @@
       "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
       "url": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
       "published": "Tue, 21 Oct 2025 18:26:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
-      "published": "Tue, 21 Oct 2025 17:11:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
-      "published": "Tue, 21 Oct 2025 15:15:34 -0400",
       "source": "BleepingComputer"
     },
     {
