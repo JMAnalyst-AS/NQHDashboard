@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T15:38:28.882468Z",
+  "generated_at": "2025-10-24T16:51:08.726466Z",
   "segment1": [
     {
       "title": "ModMed revealed they were victims of a cyberattack in July. Then some data showed up for sale.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
+      "published": "Fri, 24 Oct 2025 12:28:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Amazon: This week’s AWS outage caused by major DNS failure",
       "url": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
       "published": "Fri, 24 Oct 2025 11:33:58 -0400",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
-      "url": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
-      "published": "Thu, 23 Oct 2025 10:09:18 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+      "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+      "published": "Fri, 24 Oct 2025 22:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
@@ -432,7 +438,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+      "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "published": "Thu, 23 Oct 2025 13:22:00 +0530",
       "source": "The Hacker News"
@@ -495,12 +501,6 @@
       "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
       "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
       "published": "Wed, 22 Oct 2025 12:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-      "published": "Wed, 22 Oct 2025 10:08:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
+      "published": "Fri, 24 Oct 2025 12:28:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Amazon: This week’s AWS outage caused by major DNS failure",
       "url": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
       "published": "Fri, 24 Oct 2025 11:33:58 -0400",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
-      "url": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
-      "published": "Thu, 23 Oct 2025 10:09:18 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+      "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+      "published": "Fri, 24 Oct 2025 22:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
@@ -872,7 +878,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+      "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "published": "Thu, 23 Oct 2025 13:22:00 +0530",
       "source": "The Hacker News"
@@ -935,12 +941,6 @@
       "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
       "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
       "published": "Wed, 22 Oct 2025 12:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-      "published": "Wed, 22 Oct 2025 10:08:00 +0530",
       "source": "The Hacker News"
     },
     {
