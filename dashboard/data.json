@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T06:50:36.258003Z",
+  "generated_at": "2025-10-24T07:30:40.637943Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -182,6 +182,12 @@
       "url": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
       "published": "Mon, 08 Sep 2025 22:53:41 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
+      "published": "Fri, 24 Oct 2025 03:27:56 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
@@ -616,6 +622,12 @@
       "url": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
       "published": "Mon, 08 Sep 2025 22:53:41 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
+      "published": "Fri, 24 Oct 2025 03:27:56 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
