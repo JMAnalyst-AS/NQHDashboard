@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T05:35:47.003629Z",
+  "generated_at": "2025-10-24T06:50:36.258003Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -184,6 +184,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
+      "published": "Fri, 24 Oct 2025 02:36:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Toys “R” Us Canada warns customers' info leaked in data breach",
       "url": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
       "published": "Thu, 23 Oct 2025 18:25:35 -0400",
@@ -238,7 +244,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000",
+      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
       "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
       "published": "Wed, 22 Oct 2025 14:52:53 -0400",
       "source": "BleepingComputer"
@@ -247,12 +253,6 @@
       "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
       "published": "Wed, 22 Oct 2025 14:41:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
-      "published": "Wed, 22 Oct 2025 13:21:24 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -618,6 +618,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
+      "published": "Fri, 24 Oct 2025 02:36:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Toys “R” Us Canada warns customers' info leaked in data breach",
       "url": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
       "published": "Thu, 23 Oct 2025 18:25:35 -0400",
@@ -672,7 +678,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000",
+      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
       "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
       "published": "Wed, 22 Oct 2025 14:52:53 -0400",
       "source": "BleepingComputer"
@@ -681,12 +687,6 @@
       "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
       "published": "Wed, 22 Oct 2025 14:41:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
-      "published": "Wed, 22 Oct 2025 13:21:24 -0400",
       "source": "BleepingComputer"
     },
     {
