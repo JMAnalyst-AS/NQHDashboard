@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T11:43:03.437797Z",
+  "generated_at": "2025-10-24T13:41:32.990739Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -184,6 +184,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mozilla: New Firefox extensions must disclose data collection practices",
+      "url": "https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/",
+      "published": "Fri, 24 Oct 2025 09:17:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
       "published": "Fri, 24 Oct 2025 03:27:56 -0400",
@@ -250,16 +256,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
-      "published": "Wed, 22 Oct 2025 14:52:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
-      "published": "Wed, 22 Oct 2025 14:41:37 -0400",
-      "source": "BleepingComputer"
+      "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+      "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+      "published": "Fri, 24 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
@@ -373,12 +373,6 @@
       "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
       "url": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
       "published": "Tue, 21 Oct 2025 20:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
-      "url": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
-      "published": "Tue, 21 Oct 2025 19:17:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -624,6 +618,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mozilla: New Firefox extensions must disclose data collection practices",
+      "url": "https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/",
+      "published": "Fri, 24 Oct 2025 09:17:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
       "published": "Fri, 24 Oct 2025 03:27:56 -0400",
@@ -690,16 +690,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
-      "published": "Wed, 22 Oct 2025 14:52:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
-      "published": "Wed, 22 Oct 2025 14:41:37 -0400",
-      "source": "BleepingComputer"
+      "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+      "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+      "published": "Fri, 24 Oct 2025 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
@@ -813,12 +807,6 @@
       "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
       "url": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
       "published": "Tue, 21 Oct 2025 20:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
-      "url": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
-      "published": "Tue, 21 Oct 2025 19:17:00 +0530",
       "source": "The Hacker News"
     },
     {
