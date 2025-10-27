@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-27T19:40:38.634825Z",
+  "generated_at": "2025-10-27T20:34:50.639361Z",
   "segment1": [
+    {
+      "title": "Another plastic surgery practice fell prey to a cyberattack that acquired patient photos and info",
+      "url": "https://databreaches.net/2025/10/27/another-plastic-surgery-practice-fell-prey-to-a-cyberattack-that-acquired-patient-photos-and-info/?pk_campaign=feed&pk_kwd=another-plastic-surgery-practice-fell-prey-to-a-cyberattack-that-acquired-patient-photos-and-info",
+      "published": "Mon, 27 Oct 2025 20:12:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "How a hacking gang held Italy’s political elites to ransom",
       "url": "https://databreaches.net/2025/10/27/how-a-hacking-gang-held-italys-political-elites-to-ransom/?pk_campaign=feed&pk_kwd=how-a-hacking-gang-held-italys-political-elites-to-ransom",
@@ -53,17 +59,17 @@
       "title": "ModMed revealed they were victims of a cyberattack in July. Then some data showed up for sale.",
       "url": "https://databreaches.net/2025/10/24/modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale/?pk_campaign=feed&pk_kwd=modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale",
       "published": "Fri, 24 Oct 2025 12:54:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Toys “R” Us Canada customers notified of breach of personal information",
-      "url": "https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information",
-      "published": "Fri, 24 Oct 2025 12:28:28 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Another plastic surgery practice fell prey to a cyberattack that acquired patient photos and info",
+      "url": "https://databreaches.net/2025/10/27/another-plastic-surgery-practice-fell-prey-to-a-cyberattack-that-acquired-patient-photos-and-info/?pk_campaign=feed&pk_kwd=another-plastic-surgery-practice-fell-prey-to-a-cyberattack-that-acquired-patient-photos-and-info",
+      "published": "Mon, 27 Oct 2025 20:12:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "How a hacking gang held Italy’s political elites to ransom",
       "url": "https://databreaches.net/2025/10/27/how-a-hacking-gang-held-italys-political-elites-to-ransom/?pk_campaign=feed&pk_kwd=how-a-hacking-gang-held-italys-political-elites-to-ransom",
       "published": "Mon, 27 Oct 2025 12:13:03 +0000",
@@ -115,12 +121,6 @@
       "title": "ModMed revealed they were victims of a cyberattack in July. Then some data showed up for sale.",
       "url": "https://databreaches.net/2025/10/24/modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale/?pk_campaign=feed&pk_kwd=modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale",
       "published": "Fri, 24 Oct 2025 12:54:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Toys “R” Us Canada customers notified of breach of personal information",
-      "url": "https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information",
-      "published": "Fri, 24 Oct 2025 12:28:28 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google disputes false claims of massive Gmail data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
+      "published": "Mon, 27 Oct 2025 16:32:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
       "url": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
       "published": "Mon, 27 Oct 2025 15:36:11 -0400",
@@ -369,12 +375,6 @@
       "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
       "url": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
       "published": "Sat, 25 Oct 2025 12:16:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
-      "published": "Fri, 24 Oct 2025 15:28:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google disputes false claims of massive Gmail data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
+      "published": "Mon, 27 Oct 2025 16:32:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
       "url": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
       "published": "Mon, 27 Oct 2025 15:36:11 -0400",
@@ -803,12 +809,6 @@
       "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
       "url": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
       "published": "Sat, 25 Oct 2025 12:16:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
-      "published": "Fri, 24 Oct 2025 15:28:42 -0400",
       "source": "BleepingComputer"
     },
     {
