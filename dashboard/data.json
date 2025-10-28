@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T16:53:18.200979Z",
+  "generated_at": "2025-10-28T17:39:27.179083Z",
   "segment1": [
     {
       "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
+      "url": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
+      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Chrome to warn users before opening insecure HTTP sites",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
+      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
       "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
       "published": "Tue, 28 Oct 2025 10:05:15 -0400",
@@ -375,12 +387,6 @@
       "title": "The State of Exposure Management in 2025: Insights From 3,000+ Organizations",
       "url": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
       "published": "Mon, 27 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
-      "published": "Mon, 27 Oct 2025 09:27:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +752,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
+      "url": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
+      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Chrome to warn users before opening insecure HTTP sites",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
+      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
       "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
       "published": "Tue, 28 Oct 2025 10:05:15 -0400",
@@ -815,12 +833,6 @@
       "title": "The State of Exposure Management in 2025: Insights From 3,000+ Organizations",
       "url": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
       "published": "Mon, 27 Oct 2025 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
-      "published": "Mon, 27 Oct 2025 09:27:35 -0400",
       "source": "BleepingComputer"
     },
     {
