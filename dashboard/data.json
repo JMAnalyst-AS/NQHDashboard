@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T13:39:26.427049Z",
+  "generated_at": "2025-10-28T14:44:18.111801Z",
   "segment1": [
     {
       "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "External attack surface management (EASM) buyer's guide",
+      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
+      "published": "Tue, 28 Oct 2025 14:40:33 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Cyber security is business survival",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
       "published": "Tue, 21 Oct 2025 10:59:30 GMT",
@@ -195,12 +201,6 @@
       "title": "EASM buyer's guide now available",
       "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
       "published": "Thu, 18 Sep 2025 09:13:49 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "External attack surface management (EASM) buyer's guide",
-      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
-      "published": "Wed, 17 Sep 2025 16:34:37 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
+      "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
+      "published": "Tue, 28 Oct 2025 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Atroposia malware comes with a local vulnerability scanner",
       "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
       "published": "Tue, 28 Oct 2025 09:15:11 -0400",
@@ -375,12 +381,6 @@
       "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
       "published": "Mon, 27 Oct 2025 09:27:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
-      "published": "Sun, 26 Oct 2025 10:26:36 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -566,6 +566,12 @@
   ],
   "rss": [
     {
+      "title": "External attack surface management (EASM) buyer's guide",
+      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
+      "published": "Tue, 28 Oct 2025 14:40:33 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Cyber security is business survival",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
       "published": "Tue, 21 Oct 2025 10:59:30 GMT",
@@ -635,12 +641,6 @@
       "title": "EASM buyer's guide now available",
       "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
       "published": "Thu, 18 Sep 2025 09:13:49 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "External attack surface management (EASM) buyer's guide",
-      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
-      "published": "Wed, 17 Sep 2025 16:34:37 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
+      "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
+      "published": "Tue, 28 Oct 2025 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Atroposia malware comes with a local vulnerability scanner",
       "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
       "published": "Tue, 28 Oct 2025 09:15:11 -0400",
@@ -815,12 +821,6 @@
       "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
       "published": "Mon, 27 Oct 2025 09:27:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
-      "published": "Sun, 26 Oct 2025 10:26:36 -0400",
       "source": "BleepingComputer"
     },
     {
