@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T18:54:34.660497Z",
+  "generated_at": "2025-10-28T19:27:19.292900Z",
   "segment1": [
     {
       "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
+      "published": "Tue, 28 Oct 2025 15:11:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/",
+      "published": "Tue, 28 Oct 2025 14:59:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Copilot now lets you build apps, automate workflows",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
       "published": "Tue, 28 Oct 2025 13:59:18 -0400",
@@ -369,18 +381,6 @@
       "title": "Windows will soon prompt for memory scans after BSOD crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
       "published": "Mon, 27 Oct 2025 14:36:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
-      "published": "Mon, 27 Oct 2025 12:55:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Italian spyware vendor linked to Chrome zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
-      "published": "Mon, 27 Oct 2025 12:37:28 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
+      "published": "Tue, 28 Oct 2025 15:11:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/",
+      "published": "Tue, 28 Oct 2025 14:59:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Copilot now lets you build apps, automate workflows",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
       "published": "Tue, 28 Oct 2025 13:59:18 -0400",
@@ -809,18 +821,6 @@
       "title": "Windows will soon prompt for memory scans after BSOD crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
       "published": "Mon, 27 Oct 2025 14:36:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
-      "published": "Mon, 27 Oct 2025 12:55:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Italian spyware vendor linked to Chrome zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
-      "published": "Mon, 27 Oct 2025 12:37:28 -0400",
       "source": "BleepingComputer"
     },
     {
