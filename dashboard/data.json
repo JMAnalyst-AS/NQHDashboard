@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-29T15:42:54.613306Z",
+  "generated_at": "2025-10-29T16:54:01.461987Z",
   "segment1": [
     {
       "title": "The 4TB time bomb: when EY’s cloud went public (and what it taught us)",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
+      "published": "Wed, 29 Oct 2025 12:49:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "PhantomRaven attack floods npm with credential-stealing packages",
+      "url": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
+      "published": "Wed, 29 Oct 2025 12:26:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
       "published": "Wed, 29 Oct 2025 10:32:56 -0400",
@@ -369,18 +381,6 @@
       "title": "Google Chrome to warn users before opening insecure HTTP sites",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
       "published": "Tue, 28 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
-      "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
-      "published": "Tue, 28 Oct 2025 10:05:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Atroposia malware comes with a local vulnerability scanner",
-      "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
-      "published": "Tue, 28 Oct 2025 09:15:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
+      "published": "Wed, 29 Oct 2025 12:49:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "PhantomRaven attack floods npm with credential-stealing packages",
+      "url": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
+      "published": "Wed, 29 Oct 2025 12:26:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
       "published": "Wed, 29 Oct 2025 10:32:56 -0400",
@@ -809,18 +821,6 @@
       "title": "Google Chrome to warn users before opening insecure HTTP sites",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
       "published": "Tue, 28 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
-      "url": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
-      "published": "Tue, 28 Oct 2025 10:05:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Atroposia malware comes with a local vulnerability scanner",
-      "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
-      "published": "Tue, 28 Oct 2025 09:15:11 -0400",
       "source": "BleepingComputer"
     },
     {
