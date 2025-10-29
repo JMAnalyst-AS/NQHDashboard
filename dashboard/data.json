@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-10-29T13:46:08.447751Z",
+  "generated_at": "2025-10-29T14:45:01.191930Z",
   "segment1": [
+    {
+      "title": "The 4TB time bomb: when EY’s cloud went public (and what it taught us)",
+      "url": "https://databreaches.net/2025/10/29/the-4tb-time-bomb-when-eys-cloud-went-public-and-what-it-taught-us/?pk_campaign=feed&pk_kwd=the-4tb-time-bomb-when-eys-cloud-went-public-and-what-it-taught-us",
+      "published": "Wed, 29 Oct 2025 14:32:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "China Amends Cybersecurity Law and Incident Reporting Regime to Address AI and Infrastructure Risks",
       "url": "https://databreaches.net/2025/10/29/china-amends-cybersecurity-law-and-incident-reporting-regime-to-address-ai-and-infrastructure-risks/?pk_campaign=feed&pk_kwd=china-amends-cybersecurity-law-and-incident-reporting-regime-to-address-ai-and-infrastructure-risks",
@@ -53,17 +59,17 @@
       "title": "Predatory Sparrow Strikes: Coordinated Cyberattacks Seek to Cripple Iran’s Critical Infrastructure",
       "url": "https://databreaches.net/2025/10/27/predatory-sparrow-strikes-coordinated-cyberattacks-seek-to-cripple-irans-critical-infrastructure/?pk_campaign=feed&pk_kwd=predatory-sparrow-strikes-coordinated-cyberattacks-seek-to-cripple-irans-critical-infrastructure",
       "published": "Mon, 27 Oct 2025 12:12:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ex-CISA head thinks AI might fix code so fast we won’t need security teams",
-      "url": "https://databreaches.net/2025/10/27/ex-cisa-head-thinks-ai-might-fix-code-so-fast-we-wont-need-security-teams/?pk_campaign=feed&pk_kwd=ex-cisa-head-thinks-ai-might-fix-code-so-fast-we-wont-need-security-teams",
-      "published": "Mon, 27 Oct 2025 12:12:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The 4TB time bomb: when EY’s cloud went public (and what it taught us)",
+      "url": "https://databreaches.net/2025/10/29/the-4tb-time-bomb-when-eys-cloud-went-public-and-what-it-taught-us/?pk_campaign=feed&pk_kwd=the-4tb-time-bomb-when-eys-cloud-went-public-and-what-it-taught-us",
+      "published": "Wed, 29 Oct 2025 14:32:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "China Amends Cybersecurity Law and Incident Reporting Regime to Address AI and Infrastructure Risks",
       "url": "https://databreaches.net/2025/10/29/china-amends-cybersecurity-law-and-incident-reporting-regime-to-address-ai-and-infrastructure-risks/?pk_campaign=feed&pk_kwd=china-amends-cybersecurity-law-and-incident-reporting-regime-to-address-ai-and-infrastructure-risks",
       "published": "Wed, 29 Oct 2025 13:30:30 +0000",
@@ -115,12 +121,6 @@
       "title": "Predatory Sparrow Strikes: Coordinated Cyberattacks Seek to Cripple Iran’s Critical Infrastructure",
       "url": "https://databreaches.net/2025/10/27/predatory-sparrow-strikes-coordinated-cyberattacks-seek-to-cripple-irans-critical-infrastructure/?pk_campaign=feed&pk_kwd=predatory-sparrow-strikes-coordinated-cyberattacks-seek-to-cripple-irans-critical-infrastructure",
       "published": "Mon, 27 Oct 2025 12:12:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ex-CISA head thinks AI might fix code so fast we won’t need security teams",
-      "url": "https://databreaches.net/2025/10/27/ex-cisa-head-thinks-ai-might-fix-code-so-fast-we-wont-need-security-teams/?pk_campaign=feed&pk_kwd=ex-cisa-head-thinks-ai-might-fix-code-so-fast-we-wont-need-security-teams",
-      "published": "Mon, 27 Oct 2025 12:12:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
+      "published": "Wed, 29 Oct 2025 10:32:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Visibility Gaps: Streamlining Patching and Vulnerability Remediation",
+      "url": "https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/",
+      "published": "Wed, 29 Oct 2025 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
       "published": "Tue, 28 Oct 2025 19:31:28 -0400",
@@ -369,18 +381,6 @@
       "title": "New Atroposia malware comes with a local vulnerability scanner",
       "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
       "published": "Tue, 28 Oct 2025 09:15:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Herodotus Android malware fakes human typing to avoid detection",
-      "url": "https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/",
-      "published": "Tue, 28 Oct 2025 06:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google disputes false claims of massive Gmail data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
-      "published": "Mon, 27 Oct 2025 16:32:01 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
+      "published": "Wed, 29 Oct 2025 10:32:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Visibility Gaps: Streamlining Patching and Vulnerability Remediation",
+      "url": "https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/",
+      "published": "Wed, 29 Oct 2025 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
       "published": "Tue, 28 Oct 2025 19:31:28 -0400",
@@ -809,18 +821,6 @@
       "title": "New Atroposia malware comes with a local vulnerability scanner",
       "url": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
       "published": "Tue, 28 Oct 2025 09:15:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Herodotus Android malware fakes human typing to avoid detection",
-      "url": "https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/",
-      "published": "Tue, 28 Oct 2025 06:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google disputes false claims of massive Gmail data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
-      "published": "Mon, 27 Oct 2025 16:32:01 -0400",
       "source": "BleepingComputer"
     },
     {
