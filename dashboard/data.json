@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-29T17:39:47.683385Z",
+  "generated_at": "2025-10-29T18:52:47.305570Z",
   "segment1": [
     {
       "title": "The 4TB time bomb: when EY’s cloud went public (and what it taught us)",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Media Creation Tool broken on some Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/",
+      "published": "Wed, 29 Oct 2025 13:41:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
       "published": "Wed, 29 Oct 2025 12:49:33 -0400",
@@ -369,18 +375,6 @@
       "title": "Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/",
       "published": "Tue, 28 Oct 2025 13:59:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
-      "url": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
-      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Chrome to warn users before opening insecure HTTP sites",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
-      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Media Creation Tool broken on some Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/",
+      "published": "Wed, 29 Oct 2025 13:41:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
       "published": "Wed, 29 Oct 2025 12:49:33 -0400",
@@ -809,18 +809,6 @@
       "title": "Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/",
       "published": "Tue, 28 Oct 2025 13:59:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
-      "url": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
-      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Chrome to warn users before opening insecure HTTP sites",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
-      "published": "Tue, 28 Oct 2025 13:00:00 -0400",
       "source": "BleepingComputer"
     },
     {
