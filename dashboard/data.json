@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-10-28T23:31:05.454423Z",
+  "generated_at": "2025-10-29T03:39:47.846939Z",
   "segment1": [
     {
-      "title": "Some lower-tier ransomware gangs have formed a new RaaS alliance — or have they?",
+      "title": "Some lower-tier ransomware gangs have formed a new RaaS alliance — or have they? (1)",
       "url": "https://databreaches.net/2025/10/28/some-lower-tier-ransomware-gangs-have-formed-a-new-raas-alliance-or-have-they/?pk_campaign=feed&pk_kwd=some-lower-tier-ransomware-gangs-have-formed-a-new-raas-alliance-or-have-they",
       "published": "Tue, 28 Oct 2025 19:38:50 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "Some lower-tier ransomware gangs have formed a new RaaS alliance — or have they?",
+      "title": "Some lower-tier ransomware gangs have formed a new RaaS alliance — or have they? (1)",
       "url": "https://databreaches.net/2025/10/28/some-lower-tier-ransomware-gangs-have-formed-a-new-raas-alliance-or-have-they/?pk_campaign=feed&pk_kwd=some-lower-tier-ransomware-gangs-have-formed-a-new-raas-alliance-or-have-they",
       "published": "Tue, 28 Oct 2025 19:38:50 +0000",
       "source": "DataBreaches.Net"
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
       "published": "Wed, 22 Oct 2025 17:21:36 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
-      "url": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
-      "published": "Mon, 08 Sep 2025 22:53:41 +0000",
-      "source": "Krebs on Security"
+      "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
+      "published": "Tue, 28 Oct 2025 19:31:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
@@ -375,12 +381,6 @@
       "title": "Google disputes false claims of massive Gmail data breach",
       "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
       "published": "Mon, 27 Oct 2025 16:32:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
-      "url": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
-      "published": "Mon, 27 Oct 2025 15:36:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -686,6 +686,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
       "published": "Wed, 22 Oct 2025 17:21:36 +0000",
@@ -740,10 +746,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
-      "url": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
-      "published": "Mon, 08 Sep 2025 22:53:41 +0000",
-      "source": "Krebs on Security"
+      "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
+      "published": "Tue, 28 Oct 2025 19:31:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
@@ -815,12 +821,6 @@
       "title": "Google disputes false claims of massive Gmail data breach",
       "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
       "published": "Mon, 27 Oct 2025 16:32:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
-      "url": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
-      "published": "Mon, 27 Oct 2025 15:36:11 -0400",
       "source": "BleepingComputer"
     },
     {
