@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-29T07:33:35.404311Z",
+  "generated_at": "2025-10-29T08:51:16.246854Z",
   "segment1": [
     {
       "title": "Some lower-tier ransomware gangs have formed a new RaaS alliance — or have they? (1)",
@@ -246,66 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
-      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Self-Replicating Worm Hits 180+ Software Packages",
-      "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
-      "published": "Tue, 16 Sep 2025 14:08:02 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
-      "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
-      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, September 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
-      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
       "published": "Tue, 28 Oct 2025 19:31:28 -0400",
@@ -382,6 +322,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
       "published": "Mon, 27 Oct 2025 16:32:01 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack",
+      "url": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+      "published": "Wed, 29 Oct 2025 13:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
@@ -495,12 +441,6 @@
       "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
       "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
       "published": "Thu, 23 Oct 2025 20:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
-      "url": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-      "published": "Thu, 23 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -686,66 +626,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
-      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Self-Replicating Worm Hits 180+ Software Packages",
-      "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
-      "published": "Tue, 16 Sep 2025 14:08:02 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
-      "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
-      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, September 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
-      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
       "published": "Tue, 28 Oct 2025 19:31:28 -0400",
@@ -822,6 +702,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
       "published": "Mon, 27 Oct 2025 16:32:01 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack",
+      "url": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+      "published": "Wed, 29 Oct 2025 13:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
@@ -935,12 +821,6 @@
       "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
       "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
       "published": "Thu, 23 Oct 2025 20:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
-      "url": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-      "published": "Thu, 23 Oct 2025 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
