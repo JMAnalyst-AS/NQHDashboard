@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T10:43:07.848346Z",
+  "generated_at": "2025-10-30T11:29:12.271638Z",
   "segment1": [
     {
       "title": "US company with access to biggest telecom firms uncovers breach by nation-state hackers",
@@ -384,6 +384,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
+      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
+      "published": "Thu, 30 Oct 2025 16:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
+      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
+      "published": "Thu, 30 Oct 2025 15:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
       "url": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
       "published": "Wed, 29 Oct 2025 21:08:00 +0530",
@@ -489,18 +501,6 @@
       "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
       "url": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
       "published": "Mon, 27 Oct 2025 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
-      "url": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
-      "published": "Mon, 27 Oct 2025 12:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
-      "url": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-      "published": "Sat, 25 Oct 2025 00:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
+      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
+      "published": "Thu, 30 Oct 2025 16:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
+      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
+      "published": "Thu, 30 Oct 2025 15:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
       "url": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
       "published": "Wed, 29 Oct 2025 21:08:00 +0530",
@@ -929,18 +941,6 @@
       "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
       "url": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
       "published": "Mon, 27 Oct 2025 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
-      "url": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
-      "published": "Mon, 27 Oct 2025 12:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
-      "url": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-      "published": "Sat, 25 Oct 2025 00:05:00 +0530",
       "source": "The Hacker News"
     },
     {
