@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-31T11:41:28.884438Z",
+  "generated_at": "2025-10-31T13:43:16.995690Z",
   "segment1": [
     {
       "title": "Revealed: Afghan data breach after MoD official left laptop open on train",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Fri, 31 Oct 2025 09:05:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google says Search AI Mode will know everything about you",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/",
+      "published": "Fri, 31 Oct 2025 07:55:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows zero-day actively exploited to spy on European diplomats",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
       "published": "Fri, 31 Oct 2025 07:29:29 -0400",
@@ -372,16 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LinkedIn phishing targets finance execs with fake board invites",
-      "url": "https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/",
-      "published": "Thu, 30 Oct 2025 09:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
-      "published": "Thu, 30 Oct 2025 07:42:03 -0400",
-      "source": "BleepingComputer"
+      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+      "url": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+      "published": "Fri, 31 Oct 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
@@ -495,12 +501,6 @@
       "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
       "url": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
       "published": "Tue, 28 Oct 2025 22:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-      "published": "Tue, 28 Oct 2025 21:42:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Fri, 31 Oct 2025 09:05:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google says Search AI Mode will know everything about you",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/",
+      "published": "Fri, 31 Oct 2025 07:55:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows zero-day actively exploited to spy on European diplomats",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
       "published": "Fri, 31 Oct 2025 07:29:29 -0400",
@@ -812,16 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LinkedIn phishing targets finance execs with fake board invites",
-      "url": "https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/",
-      "published": "Thu, 30 Oct 2025 09:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
-      "published": "Thu, 30 Oct 2025 07:42:03 -0400",
-      "source": "BleepingComputer"
+      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+      "url": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+      "published": "Fri, 31 Oct 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
@@ -935,12 +941,6 @@
       "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
       "url": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
       "published": "Tue, 28 Oct 2025 22:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-      "published": "Tue, 28 Oct 2025 21:42:00 +0530",
       "source": "The Hacker News"
     },
     {
