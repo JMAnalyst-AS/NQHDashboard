@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-31T11:28:01.422599Z",
+  "generated_at": "2025-10-31T11:41:28.884438Z",
   "segment1": [
     {
       "title": "Revealed: Afghan data breach after MoD official left laptop open on train",
@@ -246,6 +246,72 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
+      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
+      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "published": "Tue, 16 Sep 2025 14:08:02 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows zero-day actively exploited to spy on European diplomats",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
+      "published": "Fri, 31 Oct 2025 07:29:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/",
       "published": "Fri, 31 Oct 2025 05:40:17 -0400",
@@ -315,12 +381,6 @@
       "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
       "published": "Thu, 30 Oct 2025 07:42:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages fetch infostealer for Windows, Linux, macOS",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/",
-      "published": "Wed, 29 Oct 2025 19:16:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -626,6 +686,72 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
+      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
+      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "published": "Tue, 16 Sep 2025 14:08:02 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "published": "Thu, 11 Sep 2025 17:40:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "published": "Tue, 09 Sep 2025 21:21:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows zero-day actively exploited to spy on European diplomats",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
+      "published": "Fri, 31 Oct 2025 07:29:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/",
       "published": "Fri, 31 Oct 2025 05:40:17 -0400",
@@ -695,12 +821,6 @@
       "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
       "published": "Thu, 30 Oct 2025 07:42:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages fetch infostealer for Windows, Linux, macOS",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/",
-      "published": "Wed, 29 Oct 2025 19:16:10 -0400",
       "source": "BleepingComputer"
     },
     {
