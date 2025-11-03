@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-03T14:42:46.471011Z",
+  "generated_at": "2025-11-03T15:39:49.591228Z",
   "segment1": [
     {
       "title": "Canadian woman stuck since 2021 in Mauritius after passport withheld",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
+      "published": "Mon, 03 Nov 2025 10:22:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
+      "published": "Mon, 03 Nov 2025 10:11:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows Task Manager won’t quit after KB5067036 update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
       "published": "Mon, 03 Nov 2025 05:12:47 -0500",
@@ -366,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Australia warns of BadCandy infections on unpatched Cisco devices",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/",
-      "published": "Fri, 31 Oct 2025 11:38:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why password controls still matter in cybersecurity",
-      "url": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
-      "published": "Fri, 31 Oct 2025 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
+      "url": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
+      "published": "Mon, 03 Nov 2025 18:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
@@ -489,12 +495,6 @@
       "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
       "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
       "published": "Thu, 30 Oct 2025 16:24:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-      "published": "Thu, 30 Oct 2025 15:46:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
+      "published": "Mon, 03 Nov 2025 10:22:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
+      "published": "Mon, 03 Nov 2025 10:11:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows Task Manager won’t quit after KB5067036 update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
       "published": "Mon, 03 Nov 2025 05:12:47 -0500",
@@ -800,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Australia warns of BadCandy infections on unpatched Cisco devices",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/",
-      "published": "Fri, 31 Oct 2025 11:38:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why password controls still matter in cybersecurity",
-      "url": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
-      "published": "Fri, 31 Oct 2025 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
+      "url": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
+      "published": "Mon, 03 Nov 2025 18:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
@@ -923,12 +929,6 @@
       "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
       "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
       "published": "Thu, 30 Oct 2025 16:24:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-      "published": "Thu, 30 Oct 2025 15:46:00 +0530",
       "source": "The Hacker News"
     },
     {
