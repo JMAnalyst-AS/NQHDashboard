@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-04T11:31:32.478391Z",
+  "generated_at": "2025-11-04T13:45:09.083049Z",
   "segment1": [
+    {
+      "title": "Chicago firm that resolves ransomware attacks had rogue workers carrying out their own hacks, FBI says",
+      "url": "https://databreaches.net/2025/11/04/chicago-firm-that-resolves-ransomware-attacks-had-rogue-workers-carrying-out-their-own-hacks-fbi-says/?pk_campaign=feed&pk_kwd=chicago-firm-that-resolves-ransomware-attacks-had-rogue-workers-carrying-out-their-own-hacks-fbi-says",
+      "published": "Tue, 04 Nov 2025 13:23:34 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Canadian woman stuck since 2021 in Mauritius after passport withheld",
       "url": "https://databreaches.net/2025/11/03/canadian-woman-stuck-since-2021-in-mauritius-after-passport-withheld/?pk_campaign=feed&pk_kwd=canadian-woman-stuck-since-2021-in-mauritius-after-passport-withheld",
@@ -53,17 +59,17 @@
       "title": "Landmark civil penalty of AU$5.8 million issued under Australia’s Privacy Act",
       "url": "https://databreaches.net/2025/10/31/landmark-civil-penalty-of-au5-8-million-issued-under-australias-privacy-act/?pk_campaign=feed&pk_kwd=landmark-civil-penalty-of-au5-8-million-issued-under-australias-privacy-act",
       "published": "Fri, 31 Oct 2025 14:17:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How many courts have had sealed and sensitive files exposed by one vendor’s error?",
-      "url": "https://databreaches.net/2025/10/31/how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error/?pk_campaign=feed&pk_kwd=how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error",
-      "published": "Fri, 31 Oct 2025 14:17:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Chicago firm that resolves ransomware attacks had rogue workers carrying out their own hacks, FBI says",
+      "url": "https://databreaches.net/2025/11/04/chicago-firm-that-resolves-ransomware-attacks-had-rogue-workers-carrying-out-their-own-hacks-fbi-says/?pk_campaign=feed&pk_kwd=chicago-firm-that-resolves-ransomware-attacks-had-rogue-workers-carrying-out-their-own-hacks-fbi-says",
+      "published": "Tue, 04 Nov 2025 13:23:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Canadian woman stuck since 2021 in Mauritius after passport withheld",
       "url": "https://databreaches.net/2025/11/03/canadian-woman-stuck-since-2021-in-mauritius-after-passport-withheld/?pk_campaign=feed&pk_kwd=canadian-woman-stuck-since-2021-in-mauritius-after-passport-withheld",
       "published": "Mon, 03 Nov 2025 13:24:21 +0000",
@@ -115,12 +121,6 @@
       "title": "Landmark civil penalty of AU$5.8 million issued under Australia’s Privacy Act",
       "url": "https://databreaches.net/2025/10/31/landmark-civil-penalty-of-au5-8-million-issued-under-australias-privacy-act/?pk_campaign=feed&pk_kwd=landmark-civil-penalty-of-au5-8-million-issued-under-australias-privacy-act",
       "published": "Fri, 31 Oct 2025 14:17:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How many courts have had sealed and sensitive files exposed by one vendor’s error?",
-      "url": "https://databreaches.net/2025/10/31/how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error/?pk_campaign=feed&pk_kwd=how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error",
-      "published": "Fri, 31 Oct 2025 14:17:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
+      "published": "Tue, 04 Nov 2025 08:31:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
       "published": "Tue, 04 Nov 2025 02:49:31 -0500",
@@ -372,16 +378,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/",
-      "published": "Sat, 01 Nov 2025 16:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+      "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+      "published": "Tue, 04 Nov 2025 16:36:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google confirms AI search will have ads, but they may look different",
-      "url": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
-      "published": "Sat, 01 Nov 2025 12:56:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+      "url": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+      "published": "Tue, 04 Nov 2025 16:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
@@ -489,18 +495,6 @@
       "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
       "url": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
       "published": "Fri, 31 Oct 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-      "url": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-      "published": "Fri, 31 Oct 2025 09:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month",
-      "url": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
-      "published": "Thu, 30 Oct 2025 22:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
+      "published": "Tue, 04 Nov 2025 08:31:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
       "published": "Tue, 04 Nov 2025 02:49:31 -0500",
@@ -812,16 +812,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/",
-      "published": "Sat, 01 Nov 2025 16:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+      "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+      "published": "Tue, 04 Nov 2025 16:36:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google confirms AI search will have ads, but they may look different",
-      "url": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
-      "published": "Sat, 01 Nov 2025 12:56:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+      "url": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+      "published": "Tue, 04 Nov 2025 16:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
@@ -929,18 +929,6 @@
       "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
       "url": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
       "published": "Fri, 31 Oct 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-      "url": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-      "published": "Fri, 31 Oct 2025 09:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google's Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month",
-      "url": "https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html",
-      "published": "Thu, 30 Oct 2025 22:30:00 +0530",
       "source": "The Hacker News"
     },
     {
