@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T14:44:27.711556Z",
+  "generated_at": "2025-11-04T15:40:50.600413Z",
   "segment1": [
     {
       "title": "Chicago firm that resolves ransomware attacks had rogue workers carrying out their own hacks, FBI says",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police arrests suspects linked to €600 million crypto fraud ring",
+      "url": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
+      "published": "Tue, 04 Nov 2025 10:09:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools",
+      "url": "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/",
+      "published": "Tue, 04 Nov 2025 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
       "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
       "published": "Tue, 04 Nov 2025 09:00:00 -0500",
@@ -372,16 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
-      "published": "Sun, 02 Nov 2025 17:07:14 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Open VSX rotates access tokens used in supply-chain malware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
-      "published": "Sun, 02 Nov 2025 10:09:19 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+      "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+      "published": "Tue, 04 Nov 2025 19:54:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
@@ -495,12 +501,6 @@
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
       "url": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
       "published": "Fri, 31 Oct 2025 14:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
-      "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-      "published": "Fri, 31 Oct 2025 13:32:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police arrests suspects linked to €600 million crypto fraud ring",
+      "url": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
+      "published": "Tue, 04 Nov 2025 10:09:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools",
+      "url": "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/",
+      "published": "Tue, 04 Nov 2025 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
       "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
       "published": "Tue, 04 Nov 2025 09:00:00 -0500",
@@ -812,16 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
-      "published": "Sun, 02 Nov 2025 17:07:14 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Open VSX rotates access tokens used in supply-chain malware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
-      "published": "Sun, 02 Nov 2025 10:09:19 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+      "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+      "published": "Tue, 04 Nov 2025 19:54:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
@@ -935,12 +941,6 @@
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
       "url": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
       "published": "Fri, 31 Oct 2025 14:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
-      "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-      "published": "Fri, 31 Oct 2025 13:32:00 +0530",
       "source": "The Hacker News"
     },
     {
