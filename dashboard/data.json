@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T13:45:09.083049Z",
+  "generated_at": "2025-11-04T14:44:27.711556Z",
   "segment1": [
     {
       "title": "Chicago firm that resolves ransomware attacks had rogue workers carrying out their own hacks, FBI says",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
+      "published": "Tue, 04 Nov 2025 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
       "published": "Tue, 04 Nov 2025 08:31:05 -0500",
@@ -376,6 +382,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
       "published": "Sun, 02 Nov 2025 10:09:19 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+      "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+      "published": "Tue, 04 Nov 2025 19:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ransomware Defense Using the Wazuh Open Source Platform",
@@ -489,12 +501,6 @@
       "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
       "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
       "published": "Fri, 31 Oct 2025 13:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
-      "url": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-      "published": "Fri, 31 Oct 2025 12:39:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
+      "published": "Tue, 04 Nov 2025 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
       "published": "Tue, 04 Nov 2025 08:31:05 -0500",
@@ -810,6 +822,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
       "published": "Sun, 02 Nov 2025 10:09:19 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+      "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+      "published": "Tue, 04 Nov 2025 19:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ransomware Defense Using the Wazuh Open Source Platform",
@@ -923,12 +941,6 @@
       "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
       "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
       "published": "Fri, 31 Oct 2025 13:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
-      "url": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-      "published": "Fri, 31 Oct 2025 12:39:00 +0530",
       "source": "The Hacker News"
     },
     {
