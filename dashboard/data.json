@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T07:32:35.704427Z",
+  "generated_at": "2025-11-05T08:58:31.111833Z",
   "segment1": [
     {
       "title": "“Louvre” as a password, outdated software, impossible updates… Ten years of IT security breaches at the world’s leading museum",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows updates trigger BitLocker recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
+      "published": "Wed, 05 Nov 2025 03:56:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
       "published": "Tue, 04 Nov 2025 16:46:50 -0500",
@@ -375,12 +381,6 @@
       "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
       "published": "Mon, 03 Nov 2025 16:53:35 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
-      "published": "Mon, 03 Nov 2025 15:50:10 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows updates trigger BitLocker recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
+      "published": "Wed, 05 Nov 2025 03:56:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
       "published": "Tue, 04 Nov 2025 16:46:50 -0500",
@@ -815,12 +821,6 @@
       "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
       "published": "Mon, 03 Nov 2025 16:53:35 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
-      "published": "Mon, 03 Nov 2025 15:50:10 -0500",
       "source": "BleepingComputer"
     },
     {
