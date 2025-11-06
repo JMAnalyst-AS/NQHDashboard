@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T09:40:28.101353Z",
+  "generated_at": "2025-11-06T10:46:03.065530Z",
   "segment1": [
     {
       "title": "Hack exposes Kansas City, Kansas, Police’s secret officer misconduct list",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "NCSC to retire Web Check and Mail Check",
+      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
+      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "External attack surface management (EASM) buyer's guide",
       "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
       "published": "Tue, 04 Nov 2025 08:31:06 GMT",
@@ -240,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Ransomware: 'WannaCry' guidance for enterprise administrators",
-      "url": "https://www.ncsc.gov.uk/guidance/ransomware-wannacry-guidance-enterprise-administrators-1",
-      "published": "Wed, 13 Aug 2025 10:05:05 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
       "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
       "published": "Thu, 06 Nov 2025 02:04:36 +0000",
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
       "published": "Tue, 16 Sep 2025 14:08:02 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/",
+      "published": "Thu, 06 Nov 2025 05:01:28 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Gootloader malware is back with new tricks after 7-month break",
@@ -375,12 +381,6 @@
       "title": "Microsoft: October Windows updates trigger BitLocker recovery",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
       "published": "Wed, 05 Nov 2025 03:56:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
-      "published": "Tue, 04 Nov 2025 16:46:50 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -566,6 +566,12 @@
   ],
   "rss": [
     {
+      "title": "NCSC to retire Web Check and Mail Check",
+      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
+      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "External attack surface management (EASM) buyer's guide",
       "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
       "published": "Tue, 04 Nov 2025 08:31:06 GMT",
@@ -680,12 +686,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Ransomware: 'WannaCry' guidance for enterprise administrators",
-      "url": "https://www.ncsc.gov.uk/guidance/ransomware-wannacry-guidance-enterprise-administrators-1",
-      "published": "Wed, 13 Aug 2025 10:05:05 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
       "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
       "published": "Thu, 06 Nov 2025 02:04:36 +0000",
@@ -744,6 +744,12 @@
       "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
       "published": "Tue, 16 Sep 2025 14:08:02 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/",
+      "published": "Thu, 06 Nov 2025 05:01:28 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Gootloader malware is back with new tricks after 7-month break",
@@ -815,12 +821,6 @@
       "title": "Microsoft: October Windows updates trigger BitLocker recovery",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
       "published": "Wed, 05 Nov 2025 03:56:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
-      "published": "Tue, 04 Nov 2025 16:46:50 -0500",
       "source": "BleepingComputer"
     },
     {
