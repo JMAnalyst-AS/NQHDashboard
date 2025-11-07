@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T17:33:58.517228Z",
+  "generated_at": "2025-11-07T18:46:42.583023Z",
   "segment1": [
     {
       "title": "Everest Group Interview on Collins Aerospace Breach — Daily Dark Web",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
+      "published": "Fri, 07 Nov 2025 13:24:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
+      "published": "Fri, 07 Nov 2025 13:23:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
       "published": "Fri, 07 Nov 2025 10:44:31 -0500",
@@ -366,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Gootloader malware is back with new tricks after 7-month break",
-      "url": "https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/",
-      "published": "Wed, 05 Nov 2025 16:52:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
-      "published": "Wed, 05 Nov 2025 16:19:02 -0500",
-      "source": "BleepingComputer"
+      "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+      "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+      "published": "Fri, 07 Nov 2025 23:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
@@ -489,12 +495,6 @@
       "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
       "url": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
       "published": "Wed, 05 Nov 2025 11:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-      "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-      "published": "Tue, 04 Nov 2025 22:55:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
+      "published": "Fri, 07 Nov 2025 13:24:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
+      "published": "Fri, 07 Nov 2025 13:23:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
       "published": "Fri, 07 Nov 2025 10:44:31 -0500",
@@ -800,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Gootloader malware is back with new tricks after 7-month break",
-      "url": "https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/",
-      "published": "Wed, 05 Nov 2025 16:52:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
-      "published": "Wed, 05 Nov 2025 16:19:02 -0500",
-      "source": "BleepingComputer"
+      "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+      "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+      "published": "Fri, 07 Nov 2025 23:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
@@ -923,12 +929,6 @@
       "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
       "url": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
       "published": "Wed, 05 Nov 2025 11:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-      "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-      "published": "Tue, 04 Nov 2025 22:55:00 +0530",
       "source": "The Hacker News"
     },
     {
