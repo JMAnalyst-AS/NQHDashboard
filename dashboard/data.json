@@ -1,6 +1,18 @@
 {
-  "generated_at": "2025-11-07T11:42:44.351945Z",
+  "generated_at": "2025-11-07T13:36:05.954292Z",
   "segment1": [
+    {
+      "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
+      "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
+      "published": "Fri, 07 Nov 2025 13:02:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Attorney General James and Multistate Coalition Secure $5.1 Million from Illuminate Education For Failing to Protect Students’ Data",
+      "url": "https://databreaches.net/2025/11/07/attorney-general-james-and-multistate-coalition-secure-5-1-million-from-illuminate-education-for-failing-to-protect-students-data/?pk_campaign=feed&pk_kwd=attorney-general-james-and-multistate-coalition-secure-5-1-million-from-illuminate-education-for-failing-to-protect-students-data",
+      "published": "Fri, 07 Nov 2025 12:49:20 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "The Congressional Budget Office was hacked. It says it has implemented new security measures.",
       "url": "https://databreaches.net/2025/11/06/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures/?pk_campaign=feed&pk_kwd=the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures",
@@ -47,23 +59,23 @@
       "title": "Hackers defraud multiple lawmakers, a Pakistan Senate committee told",
       "url": "https://databreaches.net/2025/11/06/hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told/?pk_campaign=feed&pk_kwd=hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told",
       "published": "Thu, 06 Nov 2025 12:40:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hack exposes Kansas City, Kansas, Police’s secret officer misconduct list",
-      "url": "https://databreaches.net/2025/11/05/hack-exposes-kansas-city-kansas-polices-secret-officer-misconduct-list/?pk_campaign=feed&pk_kwd=hack-exposes-kansas-city-kansas-polices-secret-officer-misconduct-list",
-      "published": "Wed, 05 Nov 2025 14:18:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Swedish IT Company Data Breach Exposes Personal Details of 1.5 Million Users",
-      "url": "https://databreaches.net/2025/11/05/swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users/?pk_campaign=feed&pk_kwd=swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users",
-      "published": "Wed, 05 Nov 2025 14:12:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
+      "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
+      "published": "Fri, 07 Nov 2025 13:02:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Attorney General James and Multistate Coalition Secure $5.1 Million from Illuminate Education For Failing to Protect Students’ Data",
+      "url": "https://databreaches.net/2025/11/07/attorney-general-james-and-multistate-coalition-secure-5-1-million-from-illuminate-education-for-failing-to-protect-students-data/?pk_campaign=feed&pk_kwd=attorney-general-james-and-multistate-coalition-secure-5-1-million-from-illuminate-education-for-failing-to-protect-students-data",
+      "published": "Fri, 07 Nov 2025 12:49:20 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "The Congressional Budget Office was hacked. It says it has implemented new security measures.",
       "url": "https://databreaches.net/2025/11/06/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures/?pk_campaign=feed&pk_kwd=the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures",
       "published": "Fri, 07 Nov 2025 00:56:35 +0000",
@@ -109,18 +121,6 @@
       "title": "Hackers defraud multiple lawmakers, a Pakistan Senate committee told",
       "url": "https://databreaches.net/2025/11/06/hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told/?pk_campaign=feed&pk_kwd=hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told",
       "published": "Thu, 06 Nov 2025 12:40:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hack exposes Kansas City, Kansas, Police’s secret officer misconduct list",
-      "url": "https://databreaches.net/2025/11/05/hack-exposes-kansas-city-kansas-polices-secret-officer-misconduct-list/?pk_campaign=feed&pk_kwd=hack-exposes-kansas-city-kansas-polices-secret-officer-misconduct-list",
-      "published": "Wed, 05 Nov 2025 14:18:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Swedish IT Company Data Breach Exposes Personal Details of 1.5 Million Users",
-      "url": "https://databreaches.net/2025/11/05/swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users/?pk_campaign=feed&pk_kwd=swedish-it-company-data-breach-exposes-personal-details-of-1-5-million-users",
-      "published": "Wed, 05 Nov 2025 14:12:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
+      "published": "Fri, 07 Nov 2025 08:06:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
       "published": "Thu, 06 Nov 2025 19:22:30 -0500",
@@ -366,16 +372,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 Store gets Ninite-style multi-app installer feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/",
-      "published": "Wed, 05 Nov 2025 12:28:34 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall says state-sponsored hackers behind September security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/",
-      "published": "Wed, 05 Nov 2025 12:13:07 -0500",
-      "source": "BleepingComputer"
+      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+      "url": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+      "published": "Fri, 07 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
@@ -489,12 +489,6 @@
       "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
       "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
       "published": "Tue, 04 Nov 2025 21:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-      "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-      "published": "Tue, 04 Nov 2025 19:54:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +734,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
+      "published": "Fri, 07 Nov 2025 08:06:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
       "published": "Thu, 06 Nov 2025 19:22:30 -0500",
@@ -800,16 +800,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 Store gets Ninite-style multi-app installer feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/",
-      "published": "Wed, 05 Nov 2025 12:28:34 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall says state-sponsored hackers behind September security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/",
-      "published": "Wed, 05 Nov 2025 12:13:07 -0500",
-      "source": "BleepingComputer"
+      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+      "url": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+      "published": "Fri, 07 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
@@ -923,12 +917,6 @@
       "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
       "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
       "published": "Tue, 04 Nov 2025 21:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-      "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-      "published": "Tue, 04 Nov 2025 19:54:00 +0530",
       "source": "The Hacker News"
     },
     {
