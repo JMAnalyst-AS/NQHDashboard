@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-07T14:40:29.140237Z",
+  "generated_at": "2025-11-07T15:37:39.083282Z",
   "segment1": [
+    {
+      "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
+      "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
+      "published": "Fri, 07 Nov 2025 14:58:44 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
       "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
@@ -53,17 +59,17 @@
       "title": "Kr: Investigation shows KT concealed malware infections, security failures leading to hacking breach",
       "url": "https://databreaches.net/2025/11/06/kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach/?pk_campaign=feed&pk_kwd=kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach",
       "published": "Thu, 06 Nov 2025 12:40:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers defraud multiple lawmakers, a Pakistan Senate committee told",
-      "url": "https://databreaches.net/2025/11/06/hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told/?pk_campaign=feed&pk_kwd=hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told",
-      "published": "Thu, 06 Nov 2025 12:40:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
+      "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
+      "published": "Fri, 07 Nov 2025 14:58:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
       "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
       "published": "Fri, 07 Nov 2025 13:02:51 +0000",
@@ -115,12 +121,6 @@
       "title": "Kr: Investigation shows KT concealed malware infections, security failures leading to hacking breach",
       "url": "https://databreaches.net/2025/11/06/kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach/?pk_campaign=feed&pk_kwd=kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach",
       "published": "Thu, 06 Nov 2025 12:40:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers defraud multiple lawmakers, a Pakistan Senate committee told",
-      "url": "https://databreaches.net/2025/11/06/hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told/?pk_campaign=feed&pk_kwd=hackers-defraud-multiple-lawmakers-a-pakistan-senate-committee-told",
-      "published": "Thu, 06 Nov 2025 12:40:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ID verification laws are fueling the next wave of breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
+      "published": "Fri, 07 Nov 2025 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
       "published": "Fri, 07 Nov 2025 08:06:11 -0500",
@@ -363,12 +369,6 @@
       "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
       "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
       "published": "Wed, 05 Nov 2025 16:19:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/",
-      "published": "Wed, 05 Nov 2025 13:26:25 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -734,6 +734,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ID verification laws are fueling the next wave of breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
+      "published": "Fri, 07 Nov 2025 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
       "published": "Fri, 07 Nov 2025 08:06:11 -0500",
@@ -791,12 +797,6 @@
       "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
       "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
       "published": "Wed, 05 Nov 2025 16:19:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/",
-      "published": "Wed, 05 Nov 2025 13:26:25 -0500",
       "source": "BleepingComputer"
     },
     {
