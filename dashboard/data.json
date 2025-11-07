@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-07T15:37:39.083282Z",
+  "generated_at": "2025-11-07T16:45:18.215445Z",
   "segment1": [
+    {
+      "title": "Breaking Up With Edtech Is Hard to Do",
+      "url": "https://databreaches.net/2025/11/07/breaking-up-with-edtech-is-hard-to-do/?pk_campaign=feed&pk_kwd=breaking-up-with-edtech-is-hard-to-do",
+      "published": "Fri, 07 Nov 2025 15:50:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
       "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
@@ -53,17 +59,17 @@
       "title": "Journalists going solo on Substack at risk from hackers",
       "url": "https://databreaches.net/2025/11/06/journalists-going-solo-on-substack-at-risk-from-hackers/?pk_campaign=feed&pk_kwd=journalists-going-solo-on-substack-at-risk-from-hackers",
       "published": "Thu, 06 Nov 2025 12:40:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kr: Investigation shows KT concealed malware infections, security failures leading to hacking breach",
-      "url": "https://databreaches.net/2025/11/06/kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach/?pk_campaign=feed&pk_kwd=kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach",
-      "published": "Thu, 06 Nov 2025 12:40:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Breaking Up With Edtech Is Hard to Do",
+      "url": "https://databreaches.net/2025/11/07/breaking-up-with-edtech-is-hard-to-do/?pk_campaign=feed&pk_kwd=breaking-up-with-edtech-is-hard-to-do",
+      "published": "Fri, 07 Nov 2025 15:50:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
       "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
       "published": "Fri, 07 Nov 2025 14:58:44 +0000",
@@ -115,12 +121,6 @@
       "title": "Journalists going solo on Substack at risk from hackers",
       "url": "https://databreaches.net/2025/11/06/journalists-going-solo-on-substack-at-risk-from-hackers/?pk_campaign=feed&pk_kwd=journalists-going-solo-on-substack-at-risk-from-hackers",
       "published": "Thu, 06 Nov 2025 12:40:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kr: Investigation shows KT concealed malware infections, security failures leading to hacking breach",
-      "url": "https://databreaches.net/2025/11/06/kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach/?pk_campaign=feed&pk_kwd=kr-investigation-shows-kt-concealed-malware-infections-security-failures-leading-to-hacking-breach",
-      "published": "Thu, 06 Nov 2025 12:40:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
+      "published": "Fri, 07 Nov 2025 10:44:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ID verification laws are fueling the next wave of breaches",
       "url": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
       "published": "Fri, 07 Nov 2025 10:05:15 -0500",
@@ -370,6 +376,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
       "published": "Wed, 05 Nov 2025 16:19:02 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
+      "url": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+      "published": "Fri, 07 Nov 2025 21:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
@@ -483,12 +495,6 @@
       "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
       "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
       "published": "Tue, 04 Nov 2025 22:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
-      "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-      "published": "Tue, 04 Nov 2025 21:27:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -734,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
+      "published": "Fri, 07 Nov 2025 10:44:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ID verification laws are fueling the next wave of breaches",
       "url": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
       "published": "Fri, 07 Nov 2025 10:05:15 -0500",
@@ -798,6 +810,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
       "published": "Wed, 05 Nov 2025 16:19:02 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
+      "url": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+      "published": "Fri, 07 Nov 2025 21:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
@@ -911,12 +929,6 @@
       "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
       "url": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
       "published": "Tue, 04 Nov 2025 22:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
-      "url": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-      "published": "Tue, 04 Nov 2025 21:27:00 +0530",
       "source": "The Hacker News"
     },
     {
