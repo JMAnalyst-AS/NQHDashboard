@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-09T23:37:48.156798Z",
+  "generated_at": "2025-11-10T01:41:45.698945Z",
   "segment1": [
+    {
+      "title": "Manassas City Public Schools close on Monday due to cyberattack",
+      "url": "https://databreaches.net/2025/11/09/manassas-city-public-schools-close-on-monday-due-to-cyberattack/?pk_campaign=feed&pk_kwd=manassas-city-public-schools-close-on-monday-due-to-cyberattack",
+      "published": "Sun, 09 Nov 2025 23:43:41 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "San Joaquin County Superior Court concludes sensitive info leaked in data breach",
       "url": "https://databreaches.net/2025/11/09/san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach/?pk_campaign=feed&pk_kwd=san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach",
@@ -53,17 +59,17 @@
       "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
       "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
       "published": "Fri, 07 Nov 2025 14:58:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
-      "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
-      "published": "Fri, 07 Nov 2025 13:02:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Manassas City Public Schools close on Monday due to cyberattack",
+      "url": "https://databreaches.net/2025/11/09/manassas-city-public-schools-close-on-monday-due-to-cyberattack/?pk_campaign=feed&pk_kwd=manassas-city-public-schools-close-on-monday-due-to-cyberattack",
+      "published": "Sun, 09 Nov 2025 23:43:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "San Joaquin County Superior Court concludes sensitive info leaked in data breach",
       "url": "https://databreaches.net/2025/11/09/san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach/?pk_campaign=feed&pk_kwd=san-joaquin-county-superior-court-concludes-sensitive-info-leaked-in-data-breach",
       "published": "Sun, 09 Nov 2025 13:07:20 +0000",
@@ -115,12 +121,6 @@
       "title": "Benworth Capital Partners negotiated with threat actors after more than 25,000 lenders had data stolen",
       "url": "https://databreaches.net/2025/11/07/benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen/?pk_campaign=feed&pk_kwd=benworth-capital-partners-negotiated-with-threat-actors-after-more-than-25000-lenders-had-data-stolen",
       "published": "Fri, 07 Nov 2025 14:58:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
-      "url": "https://databreaches.net/2025/11/07/android-hit-by-0-click-rce-vulnerability-in-core-system-component/?pk_campaign=feed&pk_kwd=android-hit-by-0-click-rce-vulnerability-in-core-system-component",
-      "published": "Fri, 07 Nov 2025 13:02:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
