@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T22:19:19.360885Z",
+  "generated_at": "2025-11-11T22:41:24.261337Z",
   "segment1": [
     {
       "title": "A jailed hacking kingpin reveals all about the gang that left a trail of destruction",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
+      "published": "Tue, 11 Nov 2025 17:34:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
       "published": "Tue, 11 Nov 2025 15:01:59 -0500",
@@ -375,12 +381,6 @@
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mozilla Firefox gets new anti-fingerprinting defenses",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/",
-      "published": "Mon, 10 Nov 2025 17:25:55 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
+      "published": "Tue, 11 Nov 2025 17:34:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
       "published": "Tue, 11 Nov 2025 15:01:59 -0500",
@@ -815,12 +821,6 @@
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mozilla Firefox gets new anti-fingerprinting defenses",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/",
-      "published": "Mon, 10 Nov 2025 17:25:55 -0500",
       "source": "BleepingComputer"
     },
     {
