@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T14:20:59.898264Z",
+  "generated_at": "2025-11-11T14:45:07.527310Z",
   "segment1": [
     {
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
+      "published": "Tue, 11 Nov 2025 08:10:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
@@ -369,18 +375,6 @@
       "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
       "url": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
       "published": "Sun, 09 Nov 2025 10:11:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
-      "published": "Sat, 08 Nov 2025 17:29:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
-      "published": "Sat, 08 Nov 2025 11:17:28 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
+      "published": "Tue, 11 Nov 2025 08:10:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
@@ -809,18 +809,6 @@
       "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
       "url": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
       "published": "Sun, 09 Nov 2025 10:11:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
-      "published": "Sat, 08 Nov 2025 17:29:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
-      "published": "Sat, 08 Nov 2025 11:17:28 -0500",
       "source": "BleepingComputer"
     },
     {
