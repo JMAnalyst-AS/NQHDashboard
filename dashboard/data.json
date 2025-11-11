@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T15:21:24.620530Z",
+  "generated_at": "2025-11-11T15:42:58.365264Z",
   "segment1": [
     {
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
@@ -306,6 +306,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/",
+      "published": "Tue, 11 Nov 2025 10:38:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GlobalLogic warns 10,000 employees of data theft after Oracle breach",
+      "url": "https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/",
+      "published": "Tue, 11 Nov 2025 10:24:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How a CPU spike led to uncovering a RansomHub ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/",
+      "published": "Tue, 11 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
       "published": "Tue, 11 Nov 2025 08:10:18 -0500",
@@ -363,18 +381,6 @@
       "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
       "url": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
       "published": "Sun, 09 Nov 2025 10:30:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Lost iPhone? Don’t fall for phishing texts saying it was found",
-      "url": "https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/",
-      "published": "Sun, 09 Nov 2025 10:12:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
-      "url": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
-      "published": "Sun, 09 Nov 2025 10:11:12 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +746,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/",
+      "published": "Tue, 11 Nov 2025 10:38:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GlobalLogic warns 10,000 employees of data theft after Oracle breach",
+      "url": "https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/",
+      "published": "Tue, 11 Nov 2025 10:24:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How a CPU spike led to uncovering a RansomHub ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/",
+      "published": "Tue, 11 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
       "published": "Tue, 11 Nov 2025 08:10:18 -0500",
@@ -797,18 +821,6 @@
       "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
       "url": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
       "published": "Sun, 09 Nov 2025 10:30:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Lost iPhone? Don’t fall for phishing texts saying it was found",
-      "url": "https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/",
-      "published": "Sun, 09 Nov 2025 10:12:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
-      "url": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
-      "published": "Sun, 09 Nov 2025 10:11:12 -0500",
       "source": "BleepingComputer"
     },
     {
