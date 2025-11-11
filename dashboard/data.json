@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-11T17:42:03.593414Z",
+  "generated_at": "2025-11-11T18:28:47.434304Z",
   "segment1": [
+    {
+      "title": "The Case for Making EdTech Companies Liable Under FERPA",
+      "url": "https://databreaches.net/2025/11/11/the-case-for-making-edtech-companies-liable-under-ferpa/?pk_campaign=feed&pk_kwd=the-case-for-making-edtech-companies-liable-under-ferpa",
+      "published": "Tue, 11 Nov 2025 17:51:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
       "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
@@ -53,17 +59,17 @@
       "title": "NCCIA arrests man over massive data breach involving millions of Pakistanis",
       "url": "https://databreaches.net/2025/11/08/nccia-arrests-man-over-massive-data-breach-involving-millions-of-pakistanis/?pk_campaign=feed&pk_kwd=nccia-arrests-man-over-massive-data-breach-involving-millions-of-pakistanis",
       "published": "Sat, 08 Nov 2025 13:01:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Defense Contractors Are Silencing Their Cybersecurity Watchdogs",
-      "url": "https://databreaches.net/2025/11/08/defense-contractors-are-silencing-their-cybersecurity-watchdogs/?pk_campaign=feed&pk_kwd=defense-contractors-are-silencing-their-cybersecurity-watchdogs",
-      "published": "Sat, 08 Nov 2025 12:53:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The Case for Making EdTech Companies Liable Under FERPA",
+      "url": "https://databreaches.net/2025/11/11/the-case-for-making-edtech-companies-liable-under-ferpa/?pk_campaign=feed&pk_kwd=the-case-for-making-edtech-companies-liable-under-ferpa",
+      "published": "Tue, 11 Nov 2025 17:51:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
       "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
       "published": "Tue, 11 Nov 2025 14:03:24 +0000",
@@ -115,12 +121,6 @@
       "title": "NCCIA arrests man over massive data breach involving millions of Pakistanis",
       "url": "https://databreaches.net/2025/11/08/nccia-arrests-man-over-massive-data-breach-involving-millions-of-pakistanis/?pk_campaign=feed&pk_kwd=nccia-arrests-man-over-massive-data-breach-involving-millions-of-pakistanis",
       "published": "Sat, 08 Nov 2025 13:01:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Defense Contractors Are Silencing Their Cybersecurity Watchdogs",
-      "url": "https://databreaches.net/2025/11/08/defense-contractors-are-silencing-their-cybersecurity-watchdogs/?pk_campaign=feed&pk_kwd=defense-contractors-are-silencing-their-cybersecurity-watchdogs",
-      "published": "Sat, 08 Nov 2025 12:53:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
+      "published": "Tue, 11 Nov 2025 13:28:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "“Bitcoin Queen” gets 11 years in prison for $7.3 billion Bitcoin scam",
       "url": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
       "published": "Tue, 11 Nov 2025 12:07:44 -0500",
@@ -375,12 +381,6 @@
       "title": "5 reasons why attackers are phishing over LinkedIn",
       "url": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
       "published": "Mon, 10 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to use the new Windows 11 Start menu, now rolling out",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/",
-      "published": "Sun, 09 Nov 2025 18:28:57 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
+      "published": "Tue, 11 Nov 2025 13:28:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "“Bitcoin Queen” gets 11 years in prison for $7.3 billion Bitcoin scam",
       "url": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
       "published": "Tue, 11 Nov 2025 12:07:44 -0500",
@@ -815,12 +821,6 @@
       "title": "5 reasons why attackers are phishing over LinkedIn",
       "url": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
       "published": "Mon, 10 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to use the new Windows 11 Start menu, now rolling out",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/",
-      "published": "Sun, 09 Nov 2025 18:28:57 -0500",
       "source": "BleepingComputer"
     },
     {
