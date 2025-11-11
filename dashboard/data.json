@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T11:39:18.789304Z",
+  "generated_at": "2025-11-11T12:41:32.131647Z",
   "segment1": [
     {
       "title": "Short-term renewal of cyber information sharing law appears in bill to end shutdown",
@@ -246,6 +246,66 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
+      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
+      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
@@ -322,6 +382,24 @@
       "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
       "published": "Sat, 08 Nov 2025 11:17:28 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+      "url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+      "published": "Tue, 11 Nov 2025 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "url": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+      "published": "Tue, 11 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+      "url": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+      "published": "Tue, 11 Nov 2025 17:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
@@ -423,24 +501,6 @@
       "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
       "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
       "published": "Thu, 06 Nov 2025 17:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response",
-      "url": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
-      "published": "Thu, 06 Nov 2025 16:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
-      "url": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-      "published": "Thu, 06 Nov 2025 12:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
-      "url": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
-      "published": "Thu, 06 Nov 2025 11:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -626,6 +686,66 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
+      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
+      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "published": "Mon, 10 Nov 2025 19:46:40 -0500",
@@ -702,6 +822,24 @@
       "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
       "published": "Sat, 08 Nov 2025 11:17:28 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+      "url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+      "published": "Tue, 11 Nov 2025 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "url": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+      "published": "Tue, 11 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+      "url": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+      "published": "Tue, 11 Nov 2025 17:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
@@ -803,24 +941,6 @@
       "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
       "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
       "published": "Thu, 06 Nov 2025 17:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response",
-      "url": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
-      "published": "Thu, 06 Nov 2025 16:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
-      "url": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-      "published": "Thu, 06 Nov 2025 12:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
-      "url": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
-      "published": "Thu, 06 Nov 2025 11:10:00 +0530",
       "source": "The Hacker News"
     },
     {
