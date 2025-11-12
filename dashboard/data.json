@@ -1,6 +1,18 @@
 {
-  "generated_at": "2025-11-12T17:41:25.338777Z",
+  "generated_at": "2025-11-12T18:28:47.019384Z",
   "segment1": [
+    {
+      "title": "A Wiltshire police breach posed possible safety concerns for violent crime victims as well as prison officers",
+      "url": "https://databreaches.net/2025/11/12/a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers/?pk_campaign=feed&pk_kwd=a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers",
+      "published": "Wed, 12 Nov 2025 18:27:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Amendment 13 is gamechanger on data security enforcement in Israel",
+      "url": "https://databreaches.net/2025/11/12/amendment-13-is-gamechanger-on-data-security-enforcement-in-israel/?pk_campaign=feed&pk_kwd=amendment-13-is-gamechanger-on-data-security-enforcement-in-israel",
+      "published": "Wed, 12 Nov 2025 18:18:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Almost two years later, Alpha Omega Winery notifies those affected by a data breach.",
       "url": "https://databreaches.net/2025/11/12/almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach/?pk_campaign=feed&pk_kwd=almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach",
@@ -47,23 +59,23 @@
       "title": "Short-term renewal of cyber information sharing law appears in bill to end shutdown",
       "url": "https://databreaches.net/2025/11/10/short-term-renewal-of-cyber-information-sharing-law-appears-in-bill-to-end-shutdown/?pk_campaign=feed&pk_kwd=short-term-renewal-of-cyber-information-sharing-law-appears-in-bill-to-end-shutdown",
       "published": "Mon, 10 Nov 2025 17:39:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Yanluowang ransomware IAB pleads guilty",
-      "url": "https://databreaches.net/2025/11/10/yanluowang-ransomware-iab-pleads-guilty/?pk_campaign=feed&pk_kwd=yanluowang-ransomware-iab-pleads-guilty",
-      "published": "Mon, 10 Nov 2025 13:40:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lawsuit Alleges Ex-Intel Employee Hid 18,000 Sensitive Documents Prior to Leaving the Company",
-      "url": "https://databreaches.net/2025/11/10/lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company/?pk_campaign=feed&pk_kwd=lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company",
-      "published": "Mon, 10 Nov 2025 13:29:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "A Wiltshire police breach posed possible safety concerns for violent crime victims as well as prison officers",
+      "url": "https://databreaches.net/2025/11/12/a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers/?pk_campaign=feed&pk_kwd=a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers",
+      "published": "Wed, 12 Nov 2025 18:27:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Amendment 13 is gamechanger on data security enforcement in Israel",
+      "url": "https://databreaches.net/2025/11/12/amendment-13-is-gamechanger-on-data-security-enforcement-in-israel/?pk_campaign=feed&pk_kwd=amendment-13-is-gamechanger-on-data-security-enforcement-in-israel",
+      "published": "Wed, 12 Nov 2025 18:18:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Almost two years later, Alpha Omega Winery notifies those affected by a data breach.",
       "url": "https://databreaches.net/2025/11/12/almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach/?pk_campaign=feed&pk_kwd=almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach",
       "published": "Wed, 12 Nov 2025 15:00:14 +0000",
@@ -109,18 +121,6 @@
       "title": "Short-term renewal of cyber information sharing law appears in bill to end shutdown",
       "url": "https://databreaches.net/2025/11/10/short-term-renewal-of-cyber-information-sharing-law-appears-in-bill-to-end-shutdown/?pk_campaign=feed&pk_kwd=short-term-renewal-of-cyber-information-sharing-law-appears-in-bill-to-end-shutdown",
       "published": "Mon, 10 Nov 2025 17:39:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Yanluowang ransomware IAB pleads guilty",
-      "url": "https://databreaches.net/2025/11/10/yanluowang-ransomware-iab-pleads-guilty/?pk_campaign=feed&pk_kwd=yanluowang-ransomware-iab-pleads-guilty",
-      "published": "Mon, 10 Nov 2025 13:40:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lawsuit Alleges Ex-Intel Employee Hid 18,000 Sensitive Documents Prior to Leaving the Company",
-      "url": "https://databreaches.net/2025/11/10/lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company/?pk_campaign=feed&pk_kwd=lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company",
-      "published": "Mon, 10 Nov 2025 13:29:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 now supports 3rd-party apps for native passkey management",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
+      "published": "Wed, 12 Nov 2025 13:18:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DanaBot malware is back to infecting Windows after 6-month break",
       "url": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
       "published": "Wed, 12 Nov 2025 11:34:54 -0500",
@@ -375,12 +381,6 @@
       "title": "Microsoft releases KB5068781 — The first Windows 10 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
       "published": "Tue, 11 Nov 2025 14:09:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
-      "published": "Tue, 11 Nov 2025 13:45:29 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 now supports 3rd-party apps for native passkey management",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
+      "published": "Wed, 12 Nov 2025 13:18:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DanaBot malware is back to infecting Windows after 6-month break",
       "url": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
       "published": "Wed, 12 Nov 2025 11:34:54 -0500",
@@ -815,12 +821,6 @@
       "title": "Microsoft releases KB5068781 — The first Windows 10 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
       "published": "Tue, 11 Nov 2025 14:09:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
-      "published": "Tue, 11 Nov 2025 13:45:29 -0500",
       "source": "BleepingComputer"
     },
     {
