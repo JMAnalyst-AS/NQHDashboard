@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-12T11:38:35.991847Z",
+  "generated_at": "2025-11-12T12:42:17.144814Z",
   "segment1": [
     {
       "title": "A jailed hacking kingpin reveals all about the gang that left a trail of destruction",
@@ -246,64 +246,10 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
-      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
-      "source": "Krebs on Security"
+      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
+      "published": "Wed, 12 Nov 2025 07:28:42 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft fixes Windows Task Manager bug affecting performance",
@@ -378,16 +324,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How a CPU spike led to uncovering a RansomHub ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/",
-      "published": "Tue, 11 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
-      "published": "Tue, 11 Nov 2025 08:10:18 -0500",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
+      "url": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
+      "published": "Wed, 12 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
@@ -501,12 +441,6 @@
       "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
       "url": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
       "published": "Fri, 07 Nov 2025 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-      "url": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-      "published": "Fri, 07 Nov 2025 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -692,64 +626,10 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "published": "Wed, 22 Oct 2025 17:21:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "published": "Fri, 17 Oct 2025 11:26:27 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "published": "Tue, 07 Oct 2025 22:45:35 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
-      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "published": "Wed, 24 Sep 2025 11:48:31 +0000",
-      "source": "Krebs on Security"
+      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
+      "published": "Wed, 12 Nov 2025 07:28:42 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft fixes Windows Task Manager bug affecting performance",
@@ -824,16 +704,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How a CPU spike led to uncovering a RansomHub ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/",
-      "published": "Tue, 11 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Modern Patch Management – Strategies to patch faster with less risk",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
-      "published": "Tue, 11 Nov 2025 08:10:18 -0500",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
+      "url": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
+      "published": "Wed, 12 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
@@ -947,12 +821,6 @@
       "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
       "url": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
       "published": "Fri, 07 Nov 2025 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-      "url": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-      "published": "Fri, 07 Nov 2025 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
