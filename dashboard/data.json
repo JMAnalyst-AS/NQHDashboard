@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-12T20:43:02.449949Z",
+  "generated_at": "2025-11-12T21:18:42.423706Z",
   "segment1": [
+    {
+      "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
+      "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
+      "published": "Wed, 12 Nov 2025 20:52:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
       "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
@@ -53,17 +59,17 @@
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
       "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
       "published": "Tue, 11 Nov 2025 14:03:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gates Down: Third Circuit Says Breaking Employer Computer Access Policies Is Not Hacking",
-      "url": "https://databreaches.net/2025/11/11/gates-down-third-circuit-says-breaking-employer-computer-access-policies-is-not-hacking/?pk_campaign=feed&pk_kwd=gates-down-third-circuit-says-breaking-employer-computer-access-policies-is-not-hacking",
-      "published": "Tue, 11 Nov 2025 14:02:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
+      "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
+      "published": "Wed, 12 Nov 2025 20:52:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
       "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
       "published": "Wed, 12 Nov 2025 18:45:20 +0000",
@@ -115,12 +121,6 @@
       "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
       "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
       "published": "Tue, 11 Nov 2025 14:03:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gates Down: Third Circuit Says Breaking Employer Computer Access Policies Is Not Hacking",
-      "url": "https://databreaches.net/2025/11/11/gates-down-third-circuit-says-breaking-employer-computer-access-policies-is-not-hacking/?pk_campaign=feed&pk_kwd=gates-down-third-circuit-says-breaking-employer-computer-access-policies-is-not-hacking",
-      "published": "Tue, 11 Nov 2025 14:02:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google sues to dismantle Chinese platform behind global toll scams",
+      "url": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-platform-behind-global-toll-scams/",
+      "published": "Wed, 12 Nov 2025 15:59:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
       "published": "Wed, 12 Nov 2025 13:18:11 -0500",
@@ -375,12 +381,6 @@
       "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
       "published": "Tue, 11 Nov 2025 14:12:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases KB5068781 — The first Windows 10 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
-      "published": "Tue, 11 Nov 2025 14:09:57 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google sues to dismantle Chinese platform behind global toll scams",
+      "url": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-platform-behind-global-toll-scams/",
+      "published": "Wed, 12 Nov 2025 15:59:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
       "published": "Wed, 12 Nov 2025 13:18:11 -0500",
@@ -815,12 +821,6 @@
       "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
       "published": "Tue, 11 Nov 2025 14:12:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases KB5068781 — The first Windows 10 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
-      "published": "Tue, 11 Nov 2025 14:09:57 -0500",
       "source": "BleepingComputer"
     },
     {
