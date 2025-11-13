@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T22:19:34.352720Z",
+  "generated_at": "2025-11-13T22:41:45.661454Z",
   "segment1": [
     {
       "title": "District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
+      "published": "Thu, 13 Nov 2025 17:32:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ‘IndonesianFoods’ worm floods npm with 100,000 packages",
       "url": "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/",
       "published": "Thu, 13 Nov 2025 17:07:05 -0500",
@@ -369,12 +375,6 @@
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
       "published": "Wed, 12 Nov 2025 13:18:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DanaBot malware is back to infecting Windows after 6-month break",
-      "url": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
-      "published": "Wed, 12 Nov 2025 11:34:54 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
+      "published": "Thu, 13 Nov 2025 17:32:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ‘IndonesianFoods’ worm floods npm with 100,000 packages",
       "url": "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/",
       "published": "Thu, 13 Nov 2025 17:07:05 -0500",
@@ -803,12 +809,6 @@
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "url": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
       "published": "Wed, 12 Nov 2025 13:18:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DanaBot malware is back to infecting Windows after 6-month break",
-      "url": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
-      "published": "Wed, 12 Nov 2025 11:34:54 -0500",
       "source": "BleepingComputer"
     },
     {
