@@ -1,6 +1,18 @@
 {
-  "generated_at": "2025-11-13T11:38:49.195424Z",
+  "generated_at": "2025-11-13T12:43:09.686212Z",
   "segment1": [
+    {
+      "title": "District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive",
+      "url": "https://databreaches.net/2025/11/13/district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive/?pk_campaign=feed&pk_kwd=district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive",
+      "published": "Thu, 13 Nov 2025 12:19:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "End of the game for cybercrime infrastructure: 1025 servers taken down",
+      "url": "https://databreaches.net/2025/11/13/end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down/?pk_campaign=feed&pk_kwd=end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down",
+      "published": "Thu, 13 Nov 2025 12:13:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
       "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
@@ -47,23 +59,23 @@
       "title": "Army gynecologist took secret videos of patients during intimate exams, lawsuit says",
       "url": "https://databreaches.net/2025/11/11/army-gynecologist-took-secret-videos-of-patients-during-intimate-exams-lawsuit-says/?pk_campaign=feed&pk_kwd=army-gynecologist-took-secret-videos-of-patients-during-intimate-exams-lawsuit-says",
       "published": "Tue, 11 Nov 2025 19:25:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Case for Making EdTech Companies Liable Under FERPA",
-      "url": "https://databreaches.net/2025/11/11/the-case-for-making-edtech-companies-liable-under-ferpa/?pk_campaign=feed&pk_kwd=the-case-for-making-edtech-companies-liable-under-ferpa",
-      "published": "Tue, 11 Nov 2025 17:51:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
-      "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
-      "published": "Tue, 11 Nov 2025 14:03:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive",
+      "url": "https://databreaches.net/2025/11/13/district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive/?pk_campaign=feed&pk_kwd=district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive",
+      "published": "Thu, 13 Nov 2025 12:19:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "End of the game for cybercrime infrastructure: 1025 servers taken down",
+      "url": "https://databreaches.net/2025/11/13/end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down/?pk_campaign=feed&pk_kwd=end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down",
+      "published": "Thu, 13 Nov 2025 12:13:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
       "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
       "published": "Wed, 12 Nov 2025 20:52:37 +0000",
@@ -109,18 +121,6 @@
       "title": "Army gynecologist took secret videos of patients during intimate exams, lawsuit says",
       "url": "https://databreaches.net/2025/11/11/army-gynecologist-took-secret-videos-of-patients-during-intimate-exams-lawsuit-says/?pk_campaign=feed&pk_kwd=army-gynecologist-took-secret-videos-of-patients-during-intimate-exams-lawsuit-says",
       "published": "Tue, 11 Nov 2025 19:25:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Case for Making EdTech Companies Liable Under FERPA",
-      "url": "https://databreaches.net/2025/11/11/the-case-for-making-edtech-companies-liable-under-ferpa/?pk_campaign=feed&pk_kwd=the-case-for-making-edtech-companies-liable-under-ferpa",
-      "published": "Tue, 11 Nov 2025 17:51:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NHS providers reviewing stolen Synnovis data published by cyber criminals",
-      "url": "https://databreaches.net/2025/11/11/nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals/?pk_campaign=feed&pk_kwd=nhs-providers-reviewing-stolen-synnovis-data-published-by-cyber-criminals",
-      "published": "Tue, 11 Nov 2025 14:03:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
+      "published": "Thu, 13 Nov 2025 07:05:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
       "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
       "published": "Thu, 13 Nov 2025 05:53:39 -0500",
@@ -375,12 +381,6 @@
       "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
       "url": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
       "published": "Tue, 11 Nov 2025 19:14:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
-      "published": "Tue, 11 Nov 2025 17:34:46 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
+      "published": "Thu, 13 Nov 2025 07:05:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
       "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
       "published": "Thu, 13 Nov 2025 05:53:39 -0500",
@@ -815,12 +821,6 @@
       "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
       "url": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
       "published": "Tue, 11 Nov 2025 19:14:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
-      "published": "Tue, 11 Nov 2025 17:34:46 -0500",
       "source": "BleepingComputer"
     },
     {
