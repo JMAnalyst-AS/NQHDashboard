@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T15:42:14.187025Z",
+  "generated_at": "2025-11-13T16:25:16.195417Z",
   "segment1": [
     {
       "title": "District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Washington Post data breach impacts nearly 10K employees, contractors",
+      "url": "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/",
+      "published": "Thu, 13 Nov 2025 11:00:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kerberoasting in 2025: How to protect your service accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/",
+      "published": "Thu, 13 Nov 2025 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft rolls out screen capture prevention for Teams users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/",
       "published": "Thu, 13 Nov 2025 08:50:58 -0500",
@@ -369,18 +381,6 @@
       "title": "New UK laws to strengthen critical infrastructure cyber defenses",
       "url": "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/",
       "published": "Wed, 12 Nov 2025 09:08:54 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/",
-      "published": "Wed, 12 Nov 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
-      "published": "Wed, 12 Nov 2025 07:28:42 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Washington Post data breach impacts nearly 10K employees, contractors",
+      "url": "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/",
+      "published": "Thu, 13 Nov 2025 11:00:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kerberoasting in 2025: How to protect your service accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/",
+      "published": "Thu, 13 Nov 2025 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft rolls out screen capture prevention for Teams users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/",
       "published": "Thu, 13 Nov 2025 08:50:58 -0500",
@@ -809,18 +821,6 @@
       "title": "New UK laws to strengthen critical infrastructure cyber defenses",
       "url": "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/",
       "published": "Wed, 12 Nov 2025 09:08:54 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/",
-      "published": "Wed, 12 Nov 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
-      "published": "Wed, 12 Nov 2025 07:28:42 -0500",
       "source": "BleepingComputer"
     },
     {
