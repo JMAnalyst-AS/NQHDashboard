@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T10:46:35.198905Z",
+  "generated_at": "2025-11-13T11:18:12.367720Z",
   "segment1": [
     {
       "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
+      "published": "Thu, 13 Nov 2025 05:53:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
       "published": "Thu, 13 Nov 2025 05:03:52 -0500",
@@ -375,12 +381,6 @@
       "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
       "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
       "published": "Tue, 11 Nov 2025 17:34:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
-      "published": "Tue, 11 Nov 2025 15:01:59 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
+      "published": "Thu, 13 Nov 2025 05:53:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
       "published": "Thu, 13 Nov 2025 05:03:52 -0500",
@@ -815,12 +821,6 @@
       "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
       "url": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
       "published": "Tue, 11 Nov 2025 17:34:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
-      "published": "Tue, 11 Nov 2025 15:01:59 -0500",
       "source": "BleepingComputer"
     },
     {
