@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-14T11:38:28.765949Z",
+  "generated_at": "2025-11-14T12:41:13.899247Z",
   "segment1": [
     {
       "title": "District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google backpedals on new Android developer registration rules",
+      "url": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
+      "published": "Fri, 14 Nov 2025 06:54:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
       "published": "Fri, 14 Nov 2025 04:52:37 -0500",
@@ -375,12 +381,6 @@
       "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
       "published": "Thu, 13 Nov 2025 07:05:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
-      "published": "Thu, 13 Nov 2025 05:53:39 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -505,7 +505,7 @@
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
-      "url": "https://www.bellingcat.com/uncategorized/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
+      "url": "https://www.bellingcat.com/news/uk-and-europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
       "source": "bellingcat"
     },
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google backpedals on new Android developer registration rules",
+      "url": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
+      "published": "Fri, 14 Nov 2025 06:54:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
       "published": "Fri, 14 Nov 2025 04:52:37 -0500",
@@ -815,12 +821,6 @@
       "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
       "published": "Thu, 13 Nov 2025 07:05:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
-      "published": "Thu, 13 Nov 2025 05:53:39 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -945,7 +945,7 @@
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
-      "url": "https://www.bellingcat.com/uncategorized/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
+      "url": "https://www.bellingcat.com/news/uk-and-europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
       "source": "bellingcat"
     },
