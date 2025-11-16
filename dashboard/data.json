@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-16T15:38:18.711915Z",
+  "generated_at": "2025-11-16T16:22:20.247531Z",
   "segment1": [
     {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google to flag Android apps with excessive battery use on the Play Store",
+      "url": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
+      "published": "Sun, 16 Nov 2025 10:15:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
       "published": "Sat, 15 Nov 2025 15:42:45 -0500",
@@ -369,18 +375,6 @@
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
       "published": "Fri, 14 Nov 2025 04:52:37 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DoorDash hit by new data breach in October exposing user information",
-      "url": "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/",
-      "published": "Thu, 13 Nov 2025 23:38:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users",
-      "url": "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/",
-      "published": "Thu, 13 Nov 2025 21:41:28 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google to flag Android apps with excessive battery use on the Play Store",
+      "url": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
+      "published": "Sun, 16 Nov 2025 10:15:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
       "published": "Sat, 15 Nov 2025 15:42:45 -0500",
@@ -809,18 +809,6 @@
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
       "published": "Fri, 14 Nov 2025 04:52:37 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DoorDash hit by new data breach in October exposing user information",
-      "url": "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/",
-      "published": "Thu, 13 Nov 2025 23:38:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users",
-      "url": "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/",
-      "published": "Thu, 13 Nov 2025 21:41:28 -0500",
       "source": "BleepingComputer"
     },
     {
