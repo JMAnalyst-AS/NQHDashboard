@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T23:39:09.717743Z",
+  "generated_at": "2025-11-18T01:37:39.105006Z",
   "segment1": [
     {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
       "published": "Mon, 17 Nov 2025 17:56:28 -0500",
@@ -369,18 +381,6 @@
       "title": "Google to flag Android apps with excessive battery use on the Play Store",
       "url": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
       "published": "Sun, 16 Nov 2025 10:15:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
-      "published": "Sat, 15 Nov 2025 15:42:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Decades-old ‘Finger’ protocol abused in ClickFix malware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
-      "published": "Sat, 15 Nov 2025 13:46:19 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
       "published": "Mon, 17 Nov 2025 17:56:28 -0500",
@@ -809,18 +821,6 @@
       "title": "Google to flag Android apps with excessive battery use on the Play Store",
       "url": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
       "published": "Sun, 16 Nov 2025 10:15:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
-      "published": "Sat, 15 Nov 2025 15:42:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Decades-old ‘Finger’ protocol abused in ClickFix malware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
-      "published": "Sat, 15 Nov 2025 13:46:19 -0500",
       "source": "BleepingComputer"
     },
     {
