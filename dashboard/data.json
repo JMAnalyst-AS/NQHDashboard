@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T15:22:42.640296Z",
+  "generated_at": "2025-11-18T15:45:29.681255Z",
   "segment1": [
     {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
@@ -306,6 +306,210 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Tycoon 2FA and the Collapse of Legacy MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon-2fa-and-the-collapse-of-legacy-mfa/",
+      "published": "Tue, 18 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloudflare hit by outage affecting global network services",
+      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
+      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
+      "published": "Mon, 17 Nov 2025 17:56:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
+      "published": "Mon, 17 Nov 2025 17:41:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
+      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
+      "published": "Mon, 17 Nov 2025 16:14:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Princeton University discloses data breach affecting donors, alumni",
+      "url": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
+      "published": "Mon, 17 Nov 2025 14:36:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch police seizes 250 servers used by “bulletproof hosting” service",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
+      "published": "Mon, 17 Nov 2025 14:19:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
+      "published": "Mon, 17 Nov 2025 12:13:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+      "url": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+      "published": "Mon, 17 Nov 2025 11:32:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
+      "url": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
+      "published": "Mon, 17 Nov 2025 10:57:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "url": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "published": "Tue, 18 Nov 2025 20:55:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
+      "url": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
+      "published": "Tue, 18 Nov 2025 19:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
+      "url": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
+      "published": "Tue, 18 Nov 2025 18:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
+      "url": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
+      "published": "Tue, 18 Nov 2025 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
+      "url": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
+      "published": "Tue, 18 Nov 2025 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
+      "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+      "published": "Tue, 18 Nov 2025 13:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
+      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+      "published": "Tue, 18 Nov 2025 10:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+      "url": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+      "published": "Mon, 17 Nov 2025 22:23:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
+      "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
+      "published": "Mon, 17 Nov 2025 18:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
+      "url": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
+      "published": "Mon, 17 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
+      "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
+      "published": "Mon, 17 Nov 2025 16:50:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+      "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+      "published": "Mon, 17 Nov 2025 11:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+      "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+      "published": "Sat, 15 Nov 2025 22:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
+      "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
+      "published": "Sat, 15 Nov 2025 15:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
+      "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+      "published": "Fri, 14 Nov 2025 23:55:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+      "url": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+      "published": "Fri, 14 Nov 2025 20:50:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
+      "url": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+      "published": "Fri, 14 Nov 2025 20:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+      "url": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+      "published": "Fri, 14 Nov 2025 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+      "url": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+      "published": "Fri, 14 Nov 2025 15:23:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
+      "url": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+      "published": "Fri, 14 Nov 2025 14:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
       "url": "https://www.bellingcat.com/news/uk-and-europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
@@ -546,6 +750,210 @@
       "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
       "published": "Fri, 10 Oct 2025 16:10:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Tycoon 2FA and the Collapse of Legacy MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon-2fa-and-the-collapse-of-legacy-mfa/",
+      "published": "Tue, 18 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloudflare hit by outage affecting global network services",
+      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
+      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
+      "published": "Mon, 17 Nov 2025 17:56:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
+      "published": "Mon, 17 Nov 2025 17:41:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
+      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
+      "published": "Mon, 17 Nov 2025 16:14:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Princeton University discloses data breach affecting donors, alumni",
+      "url": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
+      "published": "Mon, 17 Nov 2025 14:36:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch police seizes 250 servers used by “bulletproof hosting” service",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
+      "published": "Mon, 17 Nov 2025 14:19:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
+      "published": "Mon, 17 Nov 2025 12:13:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+      "url": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+      "published": "Mon, 17 Nov 2025 11:32:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
+      "url": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
+      "published": "Mon, 17 Nov 2025 10:57:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "url": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "published": "Tue, 18 Nov 2025 20:55:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
+      "url": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
+      "published": "Tue, 18 Nov 2025 19:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
+      "url": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
+      "published": "Tue, 18 Nov 2025 18:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
+      "url": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
+      "published": "Tue, 18 Nov 2025 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
+      "url": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
+      "published": "Tue, 18 Nov 2025 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
+      "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+      "published": "Tue, 18 Nov 2025 13:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
+      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+      "published": "Tue, 18 Nov 2025 10:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+      "url": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+      "published": "Mon, 17 Nov 2025 22:23:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
+      "url": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
+      "published": "Mon, 17 Nov 2025 18:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
+      "url": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
+      "published": "Mon, 17 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
+      "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
+      "published": "Mon, 17 Nov 2025 16:50:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+      "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+      "published": "Mon, 17 Nov 2025 11:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+      "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+      "published": "Sat, 15 Nov 2025 22:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
+      "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
+      "published": "Sat, 15 Nov 2025 15:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
+      "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+      "published": "Fri, 14 Nov 2025 23:55:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+      "url": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+      "published": "Fri, 14 Nov 2025 20:50:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
+      "url": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+      "published": "Fri, 14 Nov 2025 20:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+      "url": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+      "published": "Fri, 14 Nov 2025 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+      "url": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+      "published": "Fri, 14 Nov 2025 15:23:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
+      "url": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+      "published": "Fri, 14 Nov 2025 14:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
