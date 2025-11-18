@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-18T17:42:29.356805Z",
+  "generated_at": "2025-11-18T18:30:42.048614Z",
   "segment1": [
+    {
+      "title": "Surveillance tech provider Protei was hacked, its data stolen, and its website defaced",
+      "url": "https://databreaches.net/2025/11/18/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/?pk_campaign=feed&pk_kwd=surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced",
+      "published": "Tue, 18 Nov 2025 17:44:49 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
       "url": "https://databreaches.net/2025/11/16/checkout-com-discloses-data-breach-after-extortion-attempt/?pk_campaign=feed&pk_kwd=checkout-com-discloses-data-breach-after-extortion-attempt",
@@ -53,17 +59,17 @@
       "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
       "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
       "published": "Wed, 12 Nov 2025 18:45:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A Wiltshire police breach posed possible safety concerns for violent crime victims as well as prison officers",
-      "url": "https://databreaches.net/2025/11/12/a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers/?pk_campaign=feed&pk_kwd=a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers",
-      "published": "Wed, 12 Nov 2025 18:27:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Surveillance tech provider Protei was hacked, its data stolen, and its website defaced",
+      "url": "https://databreaches.net/2025/11/18/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/?pk_campaign=feed&pk_kwd=surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced",
+      "published": "Tue, 18 Nov 2025 17:44:49 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
       "url": "https://databreaches.net/2025/11/16/checkout-com-discloses-data-breach-after-extortion-attempt/?pk_campaign=feed&pk_kwd=checkout-com-discloses-data-breach-after-extortion-attempt",
       "published": "Sun, 16 Nov 2025 13:29:24 +0000",
@@ -115,12 +121,6 @@
       "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
       "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
       "published": "Wed, 12 Nov 2025 18:45:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A Wiltshire police breach posed possible safety concerns for violent crime victims as well as prison officers",
-      "url": "https://databreaches.net/2025/11/12/a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers/?pk_campaign=feed&pk_kwd=a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers",
-      "published": "Wed, 12 Nov 2025 18:27:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,8 +306,8 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft is bringing native Sysmon support to Windows 11, Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-native-sysmon-support-to-windows-11-server-2025/",
+      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
       "published": "Tue, 18 Nov 2025 12:25:18 -0500",
       "source": "BleepingComputer"
     },
@@ -752,8 +752,8 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft is bringing native Sysmon support to Windows 11, Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-native-sysmon-support-to-windows-11-server-2025/",
+      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
       "published": "Tue, 18 Nov 2025 12:25:18 -0500",
       "source": "BleepingComputer"
     },
