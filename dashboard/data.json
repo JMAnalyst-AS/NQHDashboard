@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T14:44:41.694709Z",
+  "generated_at": "2025-11-18T15:22:42.640296Z",
   "segment1": [
     {
       "title": "Checkout.com Discloses Data Breach After Extortion Attempt",
@@ -306,90 +306,6 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Cloudflare hit by outage affecting global network services",
-      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
-      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
-      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
-      "published": "Mon, 17 Nov 2025 17:56:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
-      "published": "Mon, 17 Nov 2025 17:41:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
-      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
-      "published": "Mon, 17 Nov 2025 16:14:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Princeton University discloses data breach affecting donors, alumni",
-      "url": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
-      "published": "Mon, 17 Nov 2025 14:36:52 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch police seizes 250 servers used by “bulletproof hosting” service",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
-      "published": "Mon, 17 Nov 2025 14:19:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "published": "Mon, 17 Nov 2025 12:13:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
-      "url": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-      "published": "Mon, 17 Nov 2025 11:32:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
-      "url": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
-      "published": "Mon, 17 Nov 2025 10:57:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/",
-      "published": "Mon, 17 Nov 2025 09:54:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
       "url": "https://www.bellingcat.com/news/uk-and-europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
@@ -630,90 +546,6 @@
       "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
       "published": "Fri, 10 Oct 2025 16:10:43 +0000",
       "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare hit by outage affecting global network services",
-      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
-      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
-      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
-      "published": "Mon, 17 Nov 2025 17:56:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
-      "published": "Mon, 17 Nov 2025 17:41:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
-      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
-      "published": "Mon, 17 Nov 2025 16:14:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Princeton University discloses data breach affecting donors, alumni",
-      "url": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
-      "published": "Mon, 17 Nov 2025 14:36:52 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch police seizes 250 servers used by “bulletproof hosting” service",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
-      "published": "Mon, 17 Nov 2025 14:19:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "published": "Mon, 17 Nov 2025 12:13:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
-      "url": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
-      "published": "Mon, 17 Nov 2025 11:32:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
-      "url": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
-      "published": "Mon, 17 Nov 2025 10:57:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/",
-      "published": "Mon, 17 Nov 2025 09:54:31 -0500",
-      "source": "BleepingComputer"
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
