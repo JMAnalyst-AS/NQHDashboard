@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-18T20:24:09.339568Z",
+  "generated_at": "2025-11-18T21:41:03.647286Z",
   "segment1": [
+    {
+      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
+      "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
+      "published": "Tue, 18 Nov 2025 21:11:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Surveillance tech provider Protei was hacked, its data stolen, and its website defaced",
       "url": "https://databreaches.net/2025/11/18/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/?pk_campaign=feed&pk_kwd=surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced",
@@ -53,17 +59,17 @@
       "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
       "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
       "published": "Wed, 12 Nov 2025 20:52:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
-      "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
-      "published": "Wed, 12 Nov 2025 18:45:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
+      "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
+      "published": "Tue, 18 Nov 2025 21:11:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Surveillance tech provider Protei was hacked, its data stolen, and its website defaced",
       "url": "https://databreaches.net/2025/11/18/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/?pk_campaign=feed&pk_kwd=surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced",
       "published": "Tue, 18 Nov 2025 17:44:49 +0000",
@@ -115,12 +121,6 @@
       "title": "Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded",
       "url": "https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded",
       "published": "Wed, 12 Nov 2025 20:52:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston",
-      "url": "https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston",
-      "published": "Wed, 12 Nov 2025 18:45:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
+      "published": "Tue, 18 Nov 2025 15:56:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
       "published": "Tue, 18 Nov 2025 14:29:52 -0500",
@@ -375,12 +381,6 @@
       "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
       "published": "Mon, 17 Nov 2025 17:41:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
-      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
+      "published": "Tue, 18 Nov 2025 15:56:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
       "published": "Tue, 18 Nov 2025 14:29:52 -0500",
@@ -815,12 +821,6 @@
       "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
       "published": "Mon, 17 Nov 2025 17:41:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
-      "published": "Mon, 17 Nov 2025 16:52:21 -0500",
       "source": "BleepingComputer"
     },
     {
