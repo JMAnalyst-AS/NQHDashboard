@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T17:19:10.557787Z",
+  "generated_at": "2025-11-19T17:39:20.290310Z",
   "segment1": [
     {
       "title": "Report released on PowerSchool cyber attack",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
+      "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
+      "published": "Wed, 19 Nov 2025 12:34:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
       "published": "Wed, 19 Nov 2025 11:43:46 -0500",
@@ -375,12 +381,6 @@
       "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
       "published": "Tue, 18 Nov 2025 14:01:39 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
-      "published": "Tue, 18 Nov 2025 12:25:18 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
+      "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
+      "published": "Wed, 19 Nov 2025 12:34:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
       "published": "Wed, 19 Nov 2025 11:43:46 -0500",
@@ -815,12 +821,6 @@
       "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
       "published": "Tue, 18 Nov 2025 14:01:39 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
-      "published": "Tue, 18 Nov 2025 12:25:18 -0500",
       "source": "BleepingComputer"
     },
     {
