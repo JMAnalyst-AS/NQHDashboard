@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T16:27:29.915795Z",
+  "generated_at": "2025-11-19T16:51:49.518521Z",
   "segment1": [
     {
       "title": "Report released on PowerSchool cyber attack",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
+      "published": "Wed, 19 Nov 2025 11:43:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
       "url": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
       "published": "Wed, 19 Nov 2025 09:35:15 -0500",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Teams to let users report messages wrongly flagged as threats",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/",
-      "published": "Tue, 18 Nov 2025 12:14:34 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)",
+      "url": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "published": "Wed, 19 Nov 2025 21:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
@@ -495,12 +501,6 @@
       "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
       "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
       "published": "Mon, 17 Nov 2025 16:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
-      "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
-      "published": "Mon, 17 Nov 2025 11:32:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
+      "published": "Wed, 19 Nov 2025 11:43:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
       "url": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
       "published": "Wed, 19 Nov 2025 09:35:15 -0500",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Teams to let users report messages wrongly flagged as threats",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/",
-      "published": "Tue, 18 Nov 2025 12:14:34 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)",
+      "url": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "published": "Wed, 19 Nov 2025 21:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
@@ -935,12 +941,6 @@
       "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
       "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
       "published": "Mon, 17 Nov 2025 16:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
-      "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
-      "published": "Mon, 17 Nov 2025 11:32:00 +0530",
       "source": "The Hacker News"
     },
     {
