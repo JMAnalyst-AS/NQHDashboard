@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-11-19T13:31:49.077695Z",
+  "generated_at": "2025-11-19T14:20:06.101437Z",
   "segment1": [
     {
-      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
+      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor (1)",
       "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
       "published": "Tue, 18 Nov 2025 21:11:21 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
+      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor (1)",
       "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
       "published": "Tue, 18 Nov 2025 21:11:21 +0000",
       "source": "DataBreaches.Net"
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Patch Tuesday, November 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
       "published": "Sun, 16 Nov 2025 21:47:14 +0000",
@@ -300,10 +306,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
+      "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/",
+      "published": "Wed, 19 Nov 2025 08:44:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters",
+      "url": "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/",
+      "published": "Wed, 19 Nov 2025 08:01:09 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "California man admits to laundering crypto stolen in $230M heist",
@@ -369,12 +381,6 @@
       "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA",
       "url": "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/",
       "published": "Tue, 18 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cloudflare hit by outage affecting Global Network services",
-      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -680,6 +686,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Patch Tuesday, November 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
       "published": "Sun, 16 Nov 2025 21:47:14 +0000",
@@ -734,10 +746,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "Fri, 10 Oct 2025 16:10:43 +0000",
-      "source": "Krebs on Security"
+      "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/",
+      "published": "Wed, 19 Nov 2025 08:44:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters",
+      "url": "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/",
+      "published": "Wed, 19 Nov 2025 08:01:09 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "California man admits to laundering crypto stolen in $230M heist",
@@ -803,12 +821,6 @@
       "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA",
       "url": "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/",
       "published": "Tue, 18 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cloudflare hit by outage affecting Global Network services",
-      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-      "published": "Tue, 18 Nov 2025 07:24:59 -0500",
       "source": "BleepingComputer"
     },
     {
