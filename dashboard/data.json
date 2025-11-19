@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T21:37:21.770163Z",
+  "generated_at": "2025-11-19T22:19:17.429791Z",
   "segment1": [
     {
       "title": "Report released on PowerSchool cyber attack",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
+      "url": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
+      "published": "Wed, 19 Nov 2025 16:59:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
       "published": "Wed, 19 Nov 2025 15:39:28 -0500",
@@ -375,12 +381,6 @@
       "title": "Thunderbird adds native support for Microsoft Exchange accounts",
       "url": "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/",
       "published": "Tue, 18 Nov 2025 17:09:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
-      "published": "Tue, 18 Nov 2025 15:56:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
+      "url": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
+      "published": "Wed, 19 Nov 2025 16:59:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
       "published": "Wed, 19 Nov 2025 15:39:28 -0500",
@@ -815,12 +821,6 @@
       "title": "Thunderbird adds native support for Microsoft Exchange accounts",
       "url": "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/",
       "published": "Tue, 18 Nov 2025 17:09:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
-      "published": "Tue, 18 Nov 2025 15:56:00 -0500",
       "source": "BleepingComputer"
     },
     {
