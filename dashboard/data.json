@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-19T15:40:35.509702Z",
+  "generated_at": "2025-11-19T16:27:29.915795Z",
   "segment1": [
+    {
+      "title": "Report released on PowerSchool cyber attack",
+      "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
+      "published": "Wed, 19 Nov 2025 16:23:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Sue The Hackers – Google Sues Over Phishing as a Service",
       "url": "https://databreaches.net/2025/11/19/sue-the-hackers-google-sues-over-phishing-as-a-service/?pk_campaign=feed&pk_kwd=sue-the-hackers-google-sues-over-phishing-as-a-service",
@@ -53,17 +59,17 @@
       "title": "Washington Post hack exposes personal data of John Bolton, almost 10,000 others",
       "url": "https://databreaches.net/2025/11/15/washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others/?pk_campaign=feed&pk_kwd=washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others",
       "published": "Sat, 15 Nov 2025 12:19:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Draft UK Cyber Security and Resilience Bill Enters UK Parliament",
-      "url": "https://databreaches.net/2025/11/15/draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament/?pk_campaign=feed&pk_kwd=draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament",
-      "published": "Sat, 15 Nov 2025 12:19:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Report released on PowerSchool cyber attack",
+      "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
+      "published": "Wed, 19 Nov 2025 16:23:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Sue The Hackers – Google Sues Over Phishing as a Service",
       "url": "https://databreaches.net/2025/11/19/sue-the-hackers-google-sues-over-phishing-as-a-service/?pk_campaign=feed&pk_kwd=sue-the-hackers-google-sues-over-phishing-as-a-service",
       "published": "Wed, 19 Nov 2025 14:44:45 +0000",
@@ -115,12 +121,6 @@
       "title": "Washington Post hack exposes personal data of John Bolton, almost 10,000 others",
       "url": "https://databreaches.net/2025/11/15/washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others/?pk_campaign=feed&pk_kwd=washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others",
       "published": "Sat, 15 Nov 2025 12:19:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Draft UK Cyber Security and Resilience Bill Enters UK Parliament",
-      "url": "https://databreaches.net/2025/11/15/draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament/?pk_campaign=feed&pk_kwd=draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament",
-      "published": "Sat, 15 Nov 2025 12:19:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "url": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "published": "Wed, 19 Nov 2025 21:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
       "url": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
       "published": "Wed, 19 Nov 2025 18:30:00 +0530",
@@ -495,12 +501,6 @@
       "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
       "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
       "published": "Mon, 17 Nov 2025 11:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
-      "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
-      "published": "Sat, 15 Nov 2025 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "url": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "published": "Wed, 19 Nov 2025 21:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
       "url": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
       "published": "Wed, 19 Nov 2025 18:30:00 +0530",
@@ -935,12 +941,6 @@
       "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
       "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
       "published": "Mon, 17 Nov 2025 11:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
-      "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
-      "published": "Sat, 15 Nov 2025 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
