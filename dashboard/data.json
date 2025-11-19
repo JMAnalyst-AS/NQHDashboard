@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T10:46:03.627957Z",
+  "generated_at": "2025-11-19T11:17:52.146481Z",
   "segment1": [
     {
       "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cloudflare blames this week's massive outage on database issues",
+      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
+      "published": "Wed, 19 Nov 2025 05:54:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "‘PlushDaemon’ hackers hijack software updates in supply-chain attacks",
       "url": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
       "published": "Wed, 19 Nov 2025 05:00:00 -0500",
@@ -375,12 +381,6 @@
       "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
       "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
-      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cloudflare blames this week's massive outage on database issues",
+      "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
+      "published": "Wed, 19 Nov 2025 05:54:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "‘PlushDaemon’ hackers hijack software updates in supply-chain attacks",
       "url": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
       "published": "Wed, 19 Nov 2025 05:00:00 -0500",
@@ -815,12 +821,6 @@
       "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
       "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
-      "published": "Mon, 17 Nov 2025 18:47:46 -0500",
       "source": "BleepingComputer"
     },
     {
