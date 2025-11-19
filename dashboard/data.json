@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T10:22:57.623896Z",
+  "generated_at": "2025-11-19T10:46:03.627957Z",
   "segment1": [
     {
       "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
@@ -384,6 +384,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "url": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "published": "Wed, 19 Nov 2025 15:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "url": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "published": "Wed, 19 Nov 2025 15:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
       "url": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
       "published": "Wed, 19 Nov 2025 09:50:00 +0530",
@@ -489,18 +501,6 @@
       "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
       "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
       "published": "Fri, 14 Nov 2025 23:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
-      "url": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
-      "published": "Fri, 14 Nov 2025 20:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
-      "url": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
-      "published": "Fri, 14 Nov 2025 20:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "url": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "published": "Wed, 19 Nov 2025 15:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "url": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "published": "Wed, 19 Nov 2025 15:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
       "url": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
       "published": "Wed, 19 Nov 2025 09:50:00 +0530",
@@ -929,18 +941,6 @@
       "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
       "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
       "published": "Fri, 14 Nov 2025 23:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
-      "url": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
-      "published": "Fri, 14 Nov 2025 20:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
-      "url": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
-      "published": "Fri, 14 Nov 2025 20:10:00 +0530",
       "source": "The Hacker News"
     },
     {
