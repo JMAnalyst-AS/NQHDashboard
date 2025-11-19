@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T11:38:50.237636Z",
+  "generated_at": "2025-11-19T12:42:13.543298Z",
   "segment1": [
     {
       "title": "From bad to worse: Doctor Alliance hacked again by same threat actor",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "California man admits to laundering crypto stolen in $230M heist",
+      "url": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
+      "published": "Wed, 19 Nov 2025 07:13:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloudflare blames this week's massive outage on database issues",
       "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
       "published": "Wed, 19 Nov 2025 05:54:54 -0500",
@@ -372,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
-      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "url": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "published": "Wed, 19 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
@@ -495,12 +495,6 @@
       "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
       "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
       "published": "Sat, 15 Nov 2025 15:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
-      "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
-      "published": "Fri, 14 Nov 2025 23:55:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "California man admits to laundering crypto stolen in $230M heist",
+      "url": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
+      "published": "Wed, 19 Nov 2025 07:13:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloudflare blames this week's massive outage on database issues",
       "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
       "published": "Wed, 19 Nov 2025 05:54:54 -0500",
@@ -812,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 18 Nov 2025 05:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
-      "published": "Mon, 17 Nov 2025 19:22:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "url": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "published": "Wed, 19 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
@@ -935,12 +929,6 @@
       "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
       "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
       "published": "Sat, 15 Nov 2025 15:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
-      "url": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
-      "published": "Fri, 14 Nov 2025 23:55:00 +0530",
       "source": "The Hacker News"
     },
     {
