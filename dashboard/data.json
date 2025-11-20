@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T16:51:18.313098Z",
+  "generated_at": "2025-11-20T17:16:23.051380Z",
   "segment1": [
     {
       "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/",
+      "published": "Thu, 20 Nov 2025 12:08:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Salesforce investigates customer data theft via Gainsight breach",
       "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
       "published": "Thu, 20 Nov 2025 11:47:20 -0500",
@@ -375,12 +381,6 @@
       "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
       "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
       "published": "Wed, 19 Nov 2025 12:34:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
-      "published": "Wed, 19 Nov 2025 11:43:46 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/",
+      "published": "Thu, 20 Nov 2025 12:08:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Salesforce investigates customer data theft via Gainsight breach",
       "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
       "published": "Thu, 20 Nov 2025 11:47:20 -0500",
@@ -815,12 +821,6 @@
       "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
       "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
       "published": "Wed, 19 Nov 2025 12:34:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
-      "published": "Wed, 19 Nov 2025 11:43:46 -0500",
       "source": "BleepingComputer"
     },
     {
