@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-20T12:41:20.487822Z",
+  "generated_at": "2025-11-20T13:30:24.501268Z",
   "segment1": [
+    {
+      "title": "Russian hackers target IVF clinics across UK used by thousands of couples",
+      "url": "https://databreaches.net/2025/11/20/russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples/?pk_campaign=feed&pk_kwd=russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples",
+      "published": "Thu, 20 Nov 2025 13:22:53 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "US, allies sanction Russian bulletproof hosting services for ransomware support",
       "url": "https://databreaches.net/2025/11/20/us-allies-sanction-russian-bulletproof-hosting-services-for-ransomware-support/?pk_campaign=feed&pk_kwd=us-allies-sanction-russian-bulletproof-hosting-services-for-ransomware-support",
@@ -53,17 +59,17 @@
       "title": "French agency Pajemploi reports data breach affecting 1.2M people",
       "url": "https://databreaches.net/2025/11/19/french-agency-pajemploi-reports-data-breach-affecting-1-2m-people/?pk_campaign=feed&pk_kwd=french-agency-pajemploi-reports-data-breach-affecting-1-2m-people",
       "published": "Wed, 19 Nov 2025 14:44:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor (1)",
-      "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
-      "published": "Tue, 18 Nov 2025 21:11:21 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Russian hackers target IVF clinics across UK used by thousands of couples",
+      "url": "https://databreaches.net/2025/11/20/russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples/?pk_campaign=feed&pk_kwd=russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples",
+      "published": "Thu, 20 Nov 2025 13:22:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "US, allies sanction Russian bulletproof hosting services for ransomware support",
       "url": "https://databreaches.net/2025/11/20/us-allies-sanction-russian-bulletproof-hosting-services-for-ransomware-support/?pk_campaign=feed&pk_kwd=us-allies-sanction-russian-bulletproof-hosting-services-for-ransomware-support",
       "published": "Thu, 20 Nov 2025 11:59:41 +0000",
@@ -115,12 +121,6 @@
       "title": "French agency Pajemploi reports data breach affecting 1.2M people",
       "url": "https://databreaches.net/2025/11/19/french-agency-pajemploi-reports-data-breach-affecting-1-2m-people/?pk_campaign=feed&pk_kwd=french-agency-pajemploi-reports-data-breach-affecting-1-2m-people",
       "published": "Wed, 19 Nov 2025 14:44:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "From bad to worse: Doctor Alliance hacked again by same threat actor (1)",
-      "url": "https://databreaches.net/2025/11/18/from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor/?pk_campaign=feed&pk_kwd=from-bad-to-worse-doctor-alliance-hacked-again-by-same-threat-actor",
-      "published": "Tue, 18 Nov 2025 21:11:21 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+      "published": "Thu, 20 Nov 2025 17:59:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
       "url": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
       "published": "Thu, 20 Nov 2025 17:00:00 +0530",
@@ -495,12 +501,6 @@
       "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
       "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
       "published": "Tue, 18 Nov 2025 13:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
-      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-      "published": "Tue, 18 Nov 2025 10:14:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+      "published": "Thu, 20 Nov 2025 17:59:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
       "url": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
       "published": "Thu, 20 Nov 2025 17:00:00 +0530",
@@ -935,12 +941,6 @@
       "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
       "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
       "published": "Tue, 18 Nov 2025 13:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
-      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-      "published": "Tue, 18 Nov 2025 10:14:00 +0530",
       "source": "The Hacker News"
     },
     {
