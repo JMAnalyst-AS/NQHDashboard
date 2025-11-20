@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T18:52:58.054742Z",
+  "generated_at": "2025-11-20T19:16:28.528047Z",
   "segment1": [
     {
       "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "The Cloudflare Outage May Be a Security Roadmap",
       "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
       "published": "Wed, 19 Nov 2025 14:07:03 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
+      "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almavia",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/",
+      "published": "Thu, 20 Nov 2025 13:54:17 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
@@ -375,12 +381,6 @@
       "title": "Google Search is now using AI to create interactive UI to answer your questions",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/",
       "published": "Wed, 19 Nov 2025 14:45:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
-      "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
-      "published": "Wed, 19 Nov 2025 12:34:45 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -686,6 +686,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "The Cloudflare Outage May Be a Security Roadmap",
       "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
       "published": "Wed, 19 Nov 2025 14:07:03 +0000",
@@ -740,10 +746,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
-      "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "published": "Tue, 14 Oct 2025 22:57:38 +0000",
-      "source": "Krebs on Security"
+      "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almavia",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/",
+      "published": "Thu, 20 Nov 2025 13:54:17 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
@@ -815,12 +821,6 @@
       "title": "Google Search is now using AI to create interactive UI to answer your questions",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/",
       "published": "Wed, 19 Nov 2025 14:45:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
-      "url": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
-      "published": "Wed, 19 Nov 2025 12:34:45 -0500",
       "source": "BleepingComputer"
     },
     {
