@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-20T16:26:45.506152Z",
+  "generated_at": "2025-11-20T16:51:18.313098Z",
   "segment1": [
+    {
+      "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
+      "url": "https://databreaches.net/2025/11/20/threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce/?pk_campaign=feed&pk_kwd=threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce",
+      "published": "Thu, 20 Nov 2025 16:35:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Russian hackers target IVF clinics across UK used by thousands of couples",
       "url": "https://databreaches.net/2025/11/20/russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples/?pk_campaign=feed&pk_kwd=russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples",
@@ -53,17 +59,17 @@
       "title": "Five major changes to the regulation of cybersecurity in the UK under the Cyber Security and Resilience Bill",
       "url": "https://databreaches.net/2025/11/19/five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill/?pk_campaign=feed&pk_kwd=five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill",
       "published": "Wed, 19 Nov 2025 14:44:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French agency Pajemploi reports data breach affecting 1.2M people",
-      "url": "https://databreaches.net/2025/11/19/french-agency-pajemploi-reports-data-breach-affecting-1-2m-people/?pk_campaign=feed&pk_kwd=french-agency-pajemploi-reports-data-breach-affecting-1-2m-people",
-      "published": "Wed, 19 Nov 2025 14:44:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
+      "url": "https://databreaches.net/2025/11/20/threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce/?pk_campaign=feed&pk_kwd=threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce",
+      "published": "Thu, 20 Nov 2025 16:35:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Russian hackers target IVF clinics across UK used by thousands of couples",
       "url": "https://databreaches.net/2025/11/20/russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples/?pk_campaign=feed&pk_kwd=russian-hackers-target-ivf-clinics-across-uk-used-by-thousands-of-couples",
       "published": "Thu, 20 Nov 2025 13:22:53 +0000",
@@ -115,12 +121,6 @@
       "title": "Five major changes to the regulation of cybersecurity in the UK under the Cyber Security and Resilience Bill",
       "url": "https://databreaches.net/2025/11/19/five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill/?pk_campaign=feed&pk_kwd=five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill",
       "published": "Wed, 19 Nov 2025 14:44:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French agency Pajemploi reports data breach affecting 1.2M people",
-      "url": "https://databreaches.net/2025/11/19/french-agency-pajemploi-reports-data-breach-affecting-1-2m-people/?pk_campaign=feed&pk_kwd=french-agency-pajemploi-reports-data-breach-affecting-1-2m-people",
-      "published": "Wed, 19 Nov 2025 14:44:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Salesforce investigates customer data theft via Gainsight breach",
+      "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
+      "published": "Thu, 20 Nov 2025 11:47:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
       "published": "Thu, 20 Nov 2025 10:56:00 -0500",
@@ -375,12 +381,6 @@
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
       "published": "Wed, 19 Nov 2025 11:43:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
-      "published": "Wed, 19 Nov 2025 09:35:15 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Salesforce investigates customer data theft via Gainsight breach",
+      "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
+      "published": "Thu, 20 Nov 2025 11:47:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
       "published": "Thu, 20 Nov 2025 10:56:00 -0500",
@@ -815,12 +821,6 @@
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
       "published": "Wed, 19 Nov 2025 11:43:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
-      "published": "Wed, 19 Nov 2025 09:35:15 -0500",
       "source": "BleepingComputer"
     },
     {
