@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T12:40:05.001975Z",
+  "generated_at": "2025-11-21T13:28:29.123385Z",
   "segment1": [
     {
       "title": "Attleboro investigating ‘cybersecurity incident’ impacting city’s IT systems",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google begins showing ads in AI Mode (AI answers)",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
+      "published": "Fri, 21 Nov 2025 08:02:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google exposes BadAudio malware used in APT24 espionage campaigns",
       "url": "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/",
       "published": "Thu, 20 Nov 2025 17:12:32 -0500",
@@ -372,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
-      "url": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
-      "published": "Wed, 19 Nov 2025 16:59:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
-      "published": "Wed, 19 Nov 2025 15:39:28 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+      "published": "Fri, 21 Nov 2025 18:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why IT Admins Choose Samsung for Mobile Security",
@@ -495,12 +495,6 @@
       "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
       "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
       "published": "Wed, 19 Nov 2025 00:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
-      "url": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-      "published": "Tue, 18 Nov 2025 21:26:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google begins showing ads in AI Mode (AI answers)",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
+      "published": "Fri, 21 Nov 2025 08:02:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google exposes BadAudio malware used in APT24 espionage campaigns",
       "url": "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/",
       "published": "Thu, 20 Nov 2025 17:12:32 -0500",
@@ -812,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
-      "url": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
-      "published": "Wed, 19 Nov 2025 16:59:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
-      "published": "Wed, 19 Nov 2025 15:39:28 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+      "published": "Fri, 21 Nov 2025 18:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why IT Admins Choose Samsung for Mobile Security",
@@ -935,12 +929,6 @@
       "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
       "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
       "published": "Wed, 19 Nov 2025 00:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
-      "url": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-      "published": "Tue, 18 Nov 2025 21:26:00 +0530",
       "source": "The Hacker News"
     },
     {
