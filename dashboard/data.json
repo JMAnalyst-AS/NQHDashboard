@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-21T19:37:18.231423Z",
+  "generated_at": "2025-11-21T20:22:45.354418Z",
   "segment1": [
+    {
+      "title": "Des Moines Man Charged with Computer Fraud",
+      "url": "https://databreaches.net/2025/11/21/des-moines-man-charged-with-computer-fraud/?pk_campaign=feed&pk_kwd=des-moines-man-charged-with-computer-fraud",
+      "published": "Fri, 21 Nov 2025 20:19:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters",
       "url": "https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters",
@@ -53,17 +59,17 @@
       "title": "Large medical lab in South Africa suffers multiple data breaches",
       "url": "https://databreaches.net/2025/11/20/large-medical-lab-in-south-africa-suffers-multiple-data-breaches/?pk_campaign=feed&pk_kwd=large-medical-lab-in-south-africa-suffers-multiple-data-breaches",
       "published": "Thu, 20 Nov 2025 11:52:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Report released on PowerSchool cyber attack",
-      "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
-      "published": "Wed, 19 Nov 2025 16:23:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Des Moines Man Charged with Computer Fraud",
+      "url": "https://databreaches.net/2025/11/21/des-moines-man-charged-with-computer-fraud/?pk_campaign=feed&pk_kwd=des-moines-man-charged-with-computer-fraud",
+      "published": "Fri, 21 Nov 2025 20:19:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters",
       "url": "https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters",
       "published": "Fri, 21 Nov 2025 17:44:01 +0000",
@@ -115,12 +121,6 @@
       "title": "Large medical lab in South Africa suffers multiple data breaches",
       "url": "https://databreaches.net/2025/11/20/large-medical-lab-in-south-africa-suffers-multiple-data-breaches/?pk_campaign=feed&pk_kwd=large-medical-lab-in-south-africa-suffers-multiple-data-breaches",
       "published": "Thu, 20 Nov 2025 11:52:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Report released on PowerSchool cyber attack",
-      "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
-      "published": "Wed, 19 Nov 2025 16:23:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nvidia confirms October Windows updates cause gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
+      "published": "Fri, 21 Nov 2025 14:57:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
       "published": "Fri, 21 Nov 2025 13:02:05 -0500",
@@ -375,12 +381,6 @@
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
       "published": "Thu, 20 Nov 2025 10:56:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
-      "published": "Thu, 20 Nov 2025 10:38:56 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nvidia confirms October Windows updates cause gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
+      "published": "Fri, 21 Nov 2025 14:57:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
       "published": "Fri, 21 Nov 2025 13:02:05 -0500",
@@ -815,12 +821,6 @@
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
       "published": "Thu, 20 Nov 2025 10:56:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
-      "published": "Thu, 20 Nov 2025 10:38:56 -0500",
       "source": "BleepingComputer"
     },
     {
