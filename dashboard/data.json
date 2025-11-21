@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-21T17:40:32.501777Z",
+  "generated_at": "2025-11-21T18:27:02.070755Z",
   "segment1": [
+    {
+      "title": "CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters",
+      "url": "https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters",
+      "published": "Fri, 21 Nov 2025 17:44:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack",
       "url": "https://databreaches.net/2025/11/21/two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack/?pk_campaign=feed&pk_kwd=two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack",
@@ -53,17 +59,17 @@
       "title": "Report released on PowerSchool cyber attack",
       "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
       "published": "Wed, 19 Nov 2025 16:23:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sue The Hackers – Google Sues Over Phishing as a Service",
-      "url": "https://databreaches.net/2025/11/19/sue-the-hackers-google-sues-over-phishing-as-a-service/?pk_campaign=feed&pk_kwd=sue-the-hackers-google-sues-over-phishing-as-a-service",
-      "published": "Wed, 19 Nov 2025 14:44:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters",
+      "url": "https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters",
+      "published": "Fri, 21 Nov 2025 17:44:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack",
       "url": "https://databreaches.net/2025/11/21/two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack/?pk_campaign=feed&pk_kwd=two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack",
       "published": "Fri, 21 Nov 2025 15:05:51 +0000",
@@ -115,12 +121,6 @@
       "title": "Report released on PowerSchool cyber attack",
       "url": "https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack",
       "published": "Wed, 19 Nov 2025 16:23:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sue The Hackers – Google Sues Over Phishing as a Service",
-      "url": "https://databreaches.net/2025/11/19/sue-the-hackers-google-sues-over-phishing-as-a-service/?pk_campaign=feed&pk_kwd=sue-the-hackers-google-sues-over-phishing-as-a-service",
-      "published": "Wed, 19 Nov 2025 14:44:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
+      "published": "Fri, 21 Nov 2025 13:02:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Grafana warns of max severity admin spoofing vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/",
+      "published": "Fri, 21 Nov 2025 12:58:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CrowdStrike catches insider feeding information to hackers",
       "url": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
       "published": "Fri, 21 Nov 2025 11:48:41 -0500",
@@ -369,18 +381,6 @@
       "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
       "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
       "published": "Thu, 20 Nov 2025 10:38:56 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Turn your Windows 11 migration into a security opportunity",
-      "url": "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/",
-      "published": "Thu, 20 Nov 2025 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TV streaming piracy service with 26M yearly visits shut down",
-      "url": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
-      "published": "Thu, 20 Nov 2025 08:31:43 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
+      "published": "Fri, 21 Nov 2025 13:02:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Grafana warns of max severity admin spoofing vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/",
+      "published": "Fri, 21 Nov 2025 12:58:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CrowdStrike catches insider feeding information to hackers",
       "url": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
       "published": "Fri, 21 Nov 2025 11:48:41 -0500",
@@ -809,18 +821,6 @@
       "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
       "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
       "published": "Thu, 20 Nov 2025 10:38:56 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Turn your Windows 11 migration into a security opportunity",
-      "url": "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/",
-      "published": "Thu, 20 Nov 2025 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TV streaming piracy service with 26M yearly visits shut down",
-      "url": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
-      "published": "Thu, 20 Nov 2025 08:31:43 -0500",
       "source": "BleepingComputer"
     },
     {
