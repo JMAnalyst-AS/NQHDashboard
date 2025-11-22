@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T23:38:19.753266Z",
+  "generated_at": "2025-11-22T01:26:03.014072Z",
   "segment1": [
     {
       "title": "Des Moines Man Charged with Computer Fraud",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
+      "published": "Fri, 21 Nov 2025 18:50:27 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nvidia confirms October Windows updates cause gaming issues",
       "url": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
       "published": "Fri, 21 Nov 2025 14:57:48 -0500",
@@ -375,12 +381,6 @@
       "title": "Salesforce investigates customer data theft via Gainsight breach",
       "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
       "published": "Thu, 20 Nov 2025 11:47:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
-      "published": "Thu, 20 Nov 2025 10:56:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
+      "published": "Fri, 21 Nov 2025 18:50:27 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nvidia confirms October Windows updates cause gaming issues",
       "url": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
       "published": "Fri, 21 Nov 2025 14:57:48 -0500",
@@ -815,12 +821,6 @@
       "title": "Salesforce investigates customer data theft via Gainsight breach",
       "url": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
       "published": "Thu, 20 Nov 2025 11:47:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
-      "published": "Thu, 20 Nov 2025 10:56:00 -0500",
       "source": "BleepingComputer"
     },
     {
