@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T21:40:14.899921Z",
+  "generated_at": "2025-11-24T22:19:18.637298Z",
   "segment1": [
     {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious Blender model files deliver StealC infostealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
+      "published": "Mon, 24 Nov 2025 17:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ClickFix attack uses fake Windows Update screen to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
       "published": "Mon, 24 Nov 2025 15:42:35 -0500",
@@ -381,12 +387,6 @@
       "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
       "published": "Sat, 22 Nov 2025 13:53:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
-      "published": "Sat, 22 Nov 2025 10:16:23 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -752,6 +752,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious Blender model files deliver StealC infostealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
+      "published": "Mon, 24 Nov 2025 17:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ClickFix attack uses fake Windows Update screen to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
       "published": "Mon, 24 Nov 2025 15:42:35 -0500",
@@ -827,12 +833,6 @@
       "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
       "published": "Sat, 22 Nov 2025 13:53:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
-      "published": "Sat, 22 Nov 2025 10:16:23 -0500",
       "source": "BleepingComputer"
     },
     {
