@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T15:23:59.308214Z",
+  "generated_at": "2025-11-24T15:44:55.476899Z",
   "segment1": [
     {
       "title": "SEC Voluntarily Dismisses SolarWinds Litigation",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching",
+      "url": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
+      "published": "Mon, 24 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "published": "Mon, 24 Nov 2025 09:32:40 -0500",
@@ -375,12 +381,6 @@
       "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
       "url": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
       "published": "Sat, 22 Nov 2025 08:45:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "published": "Fri, 21 Nov 2025 18:50:27 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching",
+      "url": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
+      "published": "Mon, 24 Nov 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "published": "Mon, 24 Nov 2025 09:32:40 -0500",
@@ -815,12 +821,6 @@
       "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
       "url": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
       "published": "Sat, 22 Nov 2025 08:45:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "published": "Fri, 21 Nov 2025 18:50:27 -0500",
       "source": "BleepingComputer"
     },
     {
