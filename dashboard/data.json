@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-24T20:41:39.185700Z",
+  "generated_at": "2025-11-24T21:19:30.318858Z",
   "segment1": [
+    {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "url": "https://databreaches.net/2025/11/24/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/?pk_campaign=feed&pk_kwd=shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github",
+      "published": "Mon, 24 Nov 2025 20:46:34 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "SEC Voluntarily Dismisses SolarWinds Litigation",
       "url": "https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation",
@@ -53,17 +59,17 @@
       "title": "Fired techie admits sabotaging ex-employer, causing $862K in damage",
       "url": "https://databreaches.net/2025/11/21/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage/?pk_campaign=feed&pk_kwd=fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage",
       "published": "Fri, 21 Nov 2025 11:49:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
-      "url": "https://databreaches.net/2025/11/20/threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce/?pk_campaign=feed&pk_kwd=threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce",
-      "published": "Thu, 20 Nov 2025 16:35:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "url": "https://databreaches.net/2025/11/24/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/?pk_campaign=feed&pk_kwd=shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github",
+      "published": "Mon, 24 Nov 2025 20:46:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "SEC Voluntarily Dismisses SolarWinds Litigation",
       "url": "https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation",
       "published": "Sun, 23 Nov 2025 18:42:40 +0000",
@@ -115,12 +121,6 @@
       "title": "Fired techie admits sabotaging ex-employer, causing $862K in damage",
       "url": "https://databreaches.net/2025/11/21/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage/?pk_campaign=feed&pk_kwd=fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage",
       "published": "Fri, 21 Nov 2025 11:49:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce",
-      "url": "https://databreaches.net/2025/11/20/threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce/?pk_campaign=feed&pk_kwd=threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce",
-      "published": "Thu, 20 Nov 2025 16:35:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ClickFix attack uses fake Windows Update screen to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
+      "published": "Mon, 24 Nov 2025 15:42:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Real-estate finance services giant SitusAMC breach exposes client data",
       "url": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
       "published": "Mon, 24 Nov 2025 12:36:28 -0500",
@@ -381,12 +387,6 @@
       "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
       "url": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
       "published": "Sat, 22 Nov 2025 10:16:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
-      "published": "Sat, 22 Nov 2025 08:45:53 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -752,6 +752,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ClickFix attack uses fake Windows Update screen to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
+      "published": "Mon, 24 Nov 2025 15:42:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Real-estate finance services giant SitusAMC breach exposes client data",
       "url": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
       "published": "Mon, 24 Nov 2025 12:36:28 -0500",
@@ -827,12 +833,6 @@
       "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
       "url": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
       "published": "Sat, 22 Nov 2025 10:16:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
-      "published": "Sat, 22 Nov 2025 08:45:53 -0500",
       "source": "BleepingComputer"
     },
     {
