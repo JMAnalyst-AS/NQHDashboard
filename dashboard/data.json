@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T11:39:28.496746Z",
+  "generated_at": "2025-11-25T12:42:46.160429Z",
   "segment1": [
     {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Code-formatters expose thousands of secrets from banks, govt, tech orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/",
+      "published": "Tue, 25 Nov 2025 07:01:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dartmouth College confirms data breach after Clop extortion attack",
       "url": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
       "published": "Tue, 25 Nov 2025 06:12:19 -0500",
@@ -378,16 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Iberia discloses customer data leak after vendor security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/",
-      "published": "Sun, 23 Nov 2025 08:46:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card",
-      "url": "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/",
-      "published": "Sun, 23 Nov 2025 08:09:17 -0500",
-      "source": "BleepingComputer"
+      "title": "ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
+      "url": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
+      "published": "Tue, 25 Nov 2025 17:06:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3 SOC Challenges You Need to Solve Before 2026",
@@ -501,12 +501,6 @@
       "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
       "url": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
       "published": "Thu, 20 Nov 2025 22:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
-      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
-      "published": "Thu, 20 Nov 2025 17:59:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -752,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Code-formatters expose thousands of secrets from banks, govt, tech orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/",
+      "published": "Tue, 25 Nov 2025 07:01:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dartmouth College confirms data breach after Clop extortion attack",
       "url": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
       "published": "Tue, 25 Nov 2025 06:12:19 -0500",
@@ -824,16 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Iberia discloses customer data leak after vendor security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/",
-      "published": "Sun, 23 Nov 2025 08:46:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card",
-      "url": "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/",
-      "published": "Sun, 23 Nov 2025 08:09:17 -0500",
-      "source": "BleepingComputer"
+      "title": "ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
+      "url": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
+      "published": "Tue, 25 Nov 2025 17:06:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3 SOC Challenges You Need to Solve Before 2026",
@@ -947,12 +941,6 @@
       "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
       "url": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
       "published": "Thu, 20 Nov 2025 22:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
-      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
-      "published": "Thu, 20 Nov 2025 17:59:00 +0530",
       "source": "The Hacker News"
     },
     {
