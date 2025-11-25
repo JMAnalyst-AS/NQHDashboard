@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T17:20:18.577127Z",
+  "generated_at": "2025-11-25T17:44:24.104174Z",
   "segment1": [
     {
       "title": "Software companies must be held liable for British economic security, say MPs",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/",
+      "published": "Tue, 25 Nov 2025 12:23:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
       "url": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
       "published": "Tue, 25 Nov 2025 12:09:19 -0500",
@@ -382,6 +388,12 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/",
       "published": "Mon, 24 Nov 2025 08:08:08 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+      "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+      "published": "Tue, 25 Nov 2025 22:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
@@ -495,12 +507,6 @@
       "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
       "url": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
       "published": "Fri, 21 Nov 2025 11:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
-      "url": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
-      "published": "Thu, 20 Nov 2025 22:54:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +752,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/",
+      "published": "Tue, 25 Nov 2025 12:23:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
       "url": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
       "published": "Tue, 25 Nov 2025 12:09:19 -0500",
@@ -822,6 +834,12 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/",
       "published": "Mon, 24 Nov 2025 08:08:08 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+      "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+      "published": "Tue, 25 Nov 2025 22:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
@@ -935,12 +953,6 @@
       "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
       "url": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
       "published": "Fri, 21 Nov 2025 11:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
-      "url": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
-      "published": "Thu, 20 Nov 2025 22:54:00 +0530",
       "source": "The Hacker News"
     },
     {
