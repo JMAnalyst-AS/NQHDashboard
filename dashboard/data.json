@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T14:21:53.627284Z",
+  "generated_at": "2025-11-26T14:46:00.819326Z",
   "segment1": [
     {
       "title": "Little Rock Psychologist Indicted by Federal Grand Jury for Defrauding Medicare and Arkansas Blue Cross Blue Shield",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
+      "published": "Wed, 26 Nov 2025 09:43:57 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "published": "Wed, 26 Nov 2025 08:26:06 -0500",
@@ -315,6 +321,12 @@
       "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
       "published": "Wed, 26 Nov 2025 06:41:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams",
+      "url": "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/",
+      "published": "Wed, 26 Nov 2025 05:12:17 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -363,18 +375,6 @@
       "title": "Code beautifiers expose credentials from banks, govt, tech orgs",
       "url": "https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/",
       "published": "Tue, 25 Nov 2025 07:01:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dartmouth College confirms data breach after Clop extortion attack",
-      "url": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
-      "published": "Tue, 25 Nov 2025 06:12:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious Blender model files deliver StealC infostealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
-      "published": "Mon, 24 Nov 2025 17:00:45 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
+      "published": "Wed, 26 Nov 2025 09:43:57 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "published": "Wed, 26 Nov 2025 08:26:06 -0500",
@@ -749,6 +755,12 @@
       "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
       "published": "Wed, 26 Nov 2025 06:41:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams",
+      "url": "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/",
+      "published": "Wed, 26 Nov 2025 05:12:17 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -797,18 +809,6 @@
       "title": "Code beautifiers expose credentials from banks, govt, tech orgs",
       "url": "https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/",
       "published": "Tue, 25 Nov 2025 07:01:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dartmouth College confirms data breach after Clop extortion attack",
-      "url": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
-      "published": "Tue, 25 Nov 2025 06:12:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious Blender model files deliver StealC infostealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
-      "published": "Mon, 24 Nov 2025 17:00:45 -0500",
       "source": "BleepingComputer"
     },
     {
