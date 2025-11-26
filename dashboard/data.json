@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T11:39:06.613305Z",
+  "generated_at": "2025-11-26T12:43:43.506717Z",
   "segment1": [
     {
       "title": "Little Rock Psychologist Indicted by Federal Grand Jury for Defrauding Medicare and Arkansas Blue Cross Blue Shield",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
+      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+      "published": "Wed, 26 Nov 2025 06:41:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
       "url": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
       "published": "Tue, 25 Nov 2025 16:48:40 -0500",
@@ -378,10 +384,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching",
-      "url": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
-      "published": "Mon, 24 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
+      "url": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
+      "published": "Wed, 26 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+      "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+      "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
+      "url": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
+      "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
@@ -483,24 +501,6 @@
       "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
       "url": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
       "published": "Fri, 21 Nov 2025 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
-      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
-      "published": "Fri, 21 Nov 2025 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why IT Admins Choose Samsung for Mobile Security",
-      "url": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
-      "published": "Fri, 21 Nov 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
-      "url": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
-      "published": "Fri, 21 Nov 2025 16:12:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
+      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+      "published": "Wed, 26 Nov 2025 06:41:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
       "url": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
       "published": "Tue, 25 Nov 2025 16:48:40 -0500",
@@ -818,10 +824,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching",
-      "url": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
-      "published": "Mon, 24 Nov 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
+      "url": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
+      "published": "Wed, 26 Nov 2025 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+      "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+      "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
+      "url": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
+      "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
@@ -923,24 +941,6 @@
       "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
       "url": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
       "published": "Fri, 21 Nov 2025 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
-      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
-      "published": "Fri, 21 Nov 2025 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why IT Admins Choose Samsung for Mobile Security",
-      "url": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
-      "published": "Fri, 21 Nov 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
-      "url": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
-      "published": "Fri, 21 Nov 2025 16:12:00 +0530",
       "source": "The Hacker News"
     },
     {
