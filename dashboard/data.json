@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-28T15:40:36.356928Z",
+  "generated_at": "2025-11-28T16:26:13.831929Z",
   "segment1": [
+    {
+      "title": "‘Trickery and f…ery’: Agency under fire over senior manager’s ‘serious’ privacy breach",
+      "url": "https://databreaches.net/2025/11/28/trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach/?pk_campaign=feed&pk_kwd=trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach",
+      "published": "Fri, 28 Nov 2025 16:03:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Little Rock Psychologist Indicted by Federal Grand Jury for Defrauding Medicare and Arkansas Blue Cross Blue Shield",
       "url": "https://databreaches.net/2025/11/25/little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield/?pk_campaign=feed&pk_kwd=little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield",
@@ -53,17 +59,17 @@
       "title": "Cyberattack disables Onsolve Code Red emergency alert system across St. Louis region (1)",
       "url": "https://databreaches.net/2025/11/22/cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region/?pk_campaign=feed&pk_kwd=cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region",
       "published": "Sat, 22 Nov 2025 12:16:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Des Moines Man Charged with Computer Fraud",
-      "url": "https://databreaches.net/2025/11/21/des-moines-man-charged-with-computer-fraud/?pk_campaign=feed&pk_kwd=des-moines-man-charged-with-computer-fraud",
-      "published": "Fri, 21 Nov 2025 20:19:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "‘Trickery and f…ery’: Agency under fire over senior manager’s ‘serious’ privacy breach",
+      "url": "https://databreaches.net/2025/11/28/trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach/?pk_campaign=feed&pk_kwd=trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach",
+      "published": "Fri, 28 Nov 2025 16:03:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Little Rock Psychologist Indicted by Federal Grand Jury for Defrauding Medicare and Arkansas Blue Cross Blue Shield",
       "url": "https://databreaches.net/2025/11/25/little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield/?pk_campaign=feed&pk_kwd=little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield",
       "published": "Tue, 25 Nov 2025 18:48:12 +0000",
@@ -115,12 +121,6 @@
       "title": "Cyberattack disables Onsolve Code Red emergency alert system across St. Louis region (1)",
       "url": "https://databreaches.net/2025/11/22/cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region/?pk_campaign=feed&pk_kwd=cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region",
       "published": "Sat, 22 Nov 2025 12:16:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Des Moines Man Charged with Computer Fraud",
-      "url": "https://databreaches.net/2025/11/21/des-moines-man-charged-with-computer-fraud/?pk_campaign=feed&pk_kwd=des-moines-man-charged-with-computer-fraud",
-      "published": "Fri, 21 Nov 2025 20:19:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
       "published": "Wed, 29 Oct 2025 00:51:05 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "French Football Federation discloses data breach after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
+      "published": "Fri, 28 Nov 2025 11:12:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
@@ -726,6 +732,12 @@
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
       "published": "Wed, 29 Oct 2025 00:51:05 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "French Football Federation discloses data breach after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
+      "published": "Fri, 28 Nov 2025 11:12:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
