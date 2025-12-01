@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-12-01T11:40:21.025945Z",
+  "generated_at": "2025-12-01T12:43:51.745268Z",
   "segment1": [
     {
-      "title": "BREAKING:  Dos-Op exposes the Nova RaaS gang",
+      "title": "BREAKING:  Dos-Op exposes the Nova RaaS gang (1)",
       "url": "https://databreaches.net/2025/11/30/breaking-dos-op-exposes-the-nova-raas-gang/?pk_campaign=feed&pk_kwd=breaking-dos-op-exposes-the-nova-raas-gang",
       "published": "Sun, 30 Nov 2025 13:25:50 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "BREAKING:  Dos-Op exposes the Nova RaaS gang",
+      "title": "BREAKING:  Dos-Op exposes the Nova RaaS gang (1)",
       "url": "https://databreaches.net/2025/11/30/breaking-dos-op-exposes-the-nova-raas-gang/?pk_campaign=feed&pk_kwd=breaking-dos-op-exposes-the-nova-raas-gang",
       "published": "Sun, 30 Nov 2025 13:25:50 +0000",
       "source": "DataBreaches.Net"
@@ -126,6 +126,192 @@
   ],
   "segment3": [
     {
+      "title": "It's time for all small businesses to act",
+      "url": "https://www.ncsc.gov.uk/blog-post/time-small-businesses-act",
+      "published": "Thu, 27 Nov 2025 16:17:11 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "NCSC handing over the baton of smart meter security: a decade of progress",
+      "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
+      "published": "Thu, 27 Nov 2025 08:54:47 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Choosing a managed service provider (MSP)",
+      "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
+      "published": "Mon, 24 Nov 2025 09:10:25 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
+      "published": "Tue, 11 Nov 2025 16:36:41 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber Action Toolkit: breaking down the barriers to resilience",
+      "url": "https://www.ncsc.gov.uk/blog-post/cat-breaking-down-resilience-barriers",
+      "published": "Tue, 11 Nov 2025 07:59:36 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "NCSC to retire Web Check and Mail Check",
+      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
+      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "External attack surface management (EASM) buyer's guide",
+      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
+      "published": "Tue, 04 Nov 2025 08:31:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "EASM buyer's guide now available",
+      "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
+      "published": "Tue, 28 Oct 2025 14:10:51 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber security is business survival",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
+      "published": "Tue, 21 Oct 2025 10:59:30 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "There's a hole in my bucket",
+      "url": "https://www.ncsc.gov.uk/blog-post/theres-hole-my-bucket",
+      "published": "Tue, 14 Oct 2025 07:31:13 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Maintaining a sustainable strengthened cyber security posture",
+      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
+      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Phishing attacks: defending your organisation",
+      "url": "https://www.ncsc.gov.uk/guidance/phishing",
+      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
+      "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
+      "published": "Wed, 08 Oct 2025 13:04:05 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Strengthening national cyber resilience through observability and threat hunting",
+      "url": "https://www.ncsc.gov.uk/blog-post/strengthening-national-cyber-resilience-through-observability-threat-hunting",
+      "published": "Wed, 08 Oct 2025 06:26:07 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "RFC 9794: a new standard for post-quantum terminology",
+      "url": "https://www.ncsc.gov.uk/blog-post/new-standard-for-post-quantum-terminology",
+      "published": "Tue, 07 Oct 2025 15:31:41 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Moving your business from the physical to the digital",
+      "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
+      "published": "Wed, 01 Oct 2025 14:32:53 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Putting staff welfare at the heart of incident response",
+      "url": "https://www.ncsc.gov.uk/guidance/putting-staff-welfare-at-the-heart-of-incident-response",
+      "published": "Tue, 30 Sep 2025 15:29:54 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Understanding your OT environment: the first step to stronger cyber security",
+      "url": "https://www.ncsc.gov.uk/blog-post/understanding-ot-environment-1step-stronger-cyber-security",
+      "published": "Mon, 29 Sep 2025 07:21:59 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Early Years practitioners: using cyber security to protect your settings",
+      "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
+      "published": "Fri, 26 Sep 2025 10:46:20 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Buying, selling and donating second-hand devices",
+      "url": "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices",
+      "published": "Thu, 11 Sep 2025 13:37:24 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
+      "published": "Mon, 01 Dec 2025 07:23:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police takes down Cryptomixer cryptocurrency mixing service",
       "url": "https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/",
       "published": "Mon, 01 Dec 2025 04:00:00 -0500",
@@ -186,10 +372,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
-      "published": "Wed, 26 Nov 2025 17:24:14 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
+      "url": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+      "published": "Mon, 01 Dec 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
@@ -303,12 +489,6 @@
       "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
       "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
       "published": "Tue, 25 Nov 2025 22:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
-      "url": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
-      "published": "Tue, 25 Nov 2025 19:48:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -374,6 +554,192 @@
   ],
   "rss": [
     {
+      "title": "It's time for all small businesses to act",
+      "url": "https://www.ncsc.gov.uk/blog-post/time-small-businesses-act",
+      "published": "Thu, 27 Nov 2025 16:17:11 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "NCSC handing over the baton of smart meter security: a decade of progress",
+      "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
+      "published": "Thu, 27 Nov 2025 08:54:47 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Choosing a managed service provider (MSP)",
+      "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
+      "published": "Mon, 24 Nov 2025 09:10:25 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
+      "published": "Tue, 11 Nov 2025 16:36:41 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber Action Toolkit: breaking down the barriers to resilience",
+      "url": "https://www.ncsc.gov.uk/blog-post/cat-breaking-down-resilience-barriers",
+      "published": "Tue, 11 Nov 2025 07:59:36 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "NCSC to retire Web Check and Mail Check",
+      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
+      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "External attack surface management (EASM) buyer's guide",
+      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
+      "published": "Tue, 04 Nov 2025 08:31:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "EASM buyer's guide now available",
+      "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
+      "published": "Tue, 28 Oct 2025 14:10:51 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Cyber security is business survival",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
+      "published": "Tue, 21 Oct 2025 10:59:30 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "There's a hole in my bucket",
+      "url": "https://www.ncsc.gov.uk/blog-post/theres-hole-my-bucket",
+      "published": "Tue, 14 Oct 2025 07:31:13 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Maintaining a sustainable strengthened cyber security posture",
+      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
+      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Phishing attacks: defending your organisation",
+      "url": "https://www.ncsc.gov.uk/guidance/phishing",
+      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
+      "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
+      "published": "Wed, 08 Oct 2025 13:04:05 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Strengthening national cyber resilience through observability and threat hunting",
+      "url": "https://www.ncsc.gov.uk/blog-post/strengthening-national-cyber-resilience-through-observability-threat-hunting",
+      "published": "Wed, 08 Oct 2025 06:26:07 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "RFC 9794: a new standard for post-quantum terminology",
+      "url": "https://www.ncsc.gov.uk/blog-post/new-standard-for-post-quantum-terminology",
+      "published": "Tue, 07 Oct 2025 15:31:41 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Moving your business from the physical to the digital",
+      "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
+      "published": "Wed, 01 Oct 2025 14:32:53 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Putting staff welfare at the heart of incident response",
+      "url": "https://www.ncsc.gov.uk/guidance/putting-staff-welfare-at-the-heart-of-incident-response",
+      "published": "Tue, 30 Sep 2025 15:29:54 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Understanding your OT environment: the first step to stronger cyber security",
+      "url": "https://www.ncsc.gov.uk/blog-post/understanding-ot-environment-1step-stronger-cyber-security",
+      "published": "Mon, 29 Sep 2025 07:21:59 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Early Years practitioners: using cyber security to protect your settings",
+      "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
+      "published": "Fri, 26 Sep 2025 10:46:20 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Buying, selling and donating second-hand devices",
+      "url": "https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices",
+      "published": "Thu, 11 Sep 2025 13:37:24 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
+      "published": "Mon, 01 Dec 2025 07:23:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police takes down Cryptomixer cryptocurrency mixing service",
       "url": "https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/",
       "published": "Mon, 01 Dec 2025 04:00:00 -0500",
@@ -434,10 +800,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
-      "published": "Wed, 26 Nov 2025 17:24:14 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
+      "url": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+      "published": "Mon, 01 Dec 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
@@ -551,12 +917,6 @@
       "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
       "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
       "published": "Tue, 25 Nov 2025 22:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
-      "url": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
-      "published": "Tue, 25 Nov 2025 19:48:00 +0530",
       "source": "The Hacker News"
     },
     {
