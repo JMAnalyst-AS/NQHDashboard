@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-01T21:37:24.537933Z",
+  "generated_at": "2025-12-01T22:18:32.173108Z",
   "segment1": [
+    {
+      "title": "FTC Takes Action Against Education Technology Provider for Failing to Secure Students’ Personal Data",
+      "url": "https://databreaches.net/2025/12/01/ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data/?pk_campaign=feed&pk_kwd=ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data",
+      "published": "Mon, 01 Dec 2025 21:52:41 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Europol and partners shut down ‘Cryptomixer’",
       "url": "https://databreaches.net/2025/12/01/europol-and-partners-shut-down-cryptomixer/?pk_campaign=feed&pk_kwd=europol-and-partners-shut-down-cryptomixer",
@@ -53,17 +59,17 @@
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "url": "https://databreaches.net/2025/11/24/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/?pk_campaign=feed&pk_kwd=shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github",
       "published": "Mon, 24 Nov 2025 20:46:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SEC Voluntarily Dismisses SolarWinds Litigation",
-      "url": "https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation",
-      "published": "Sun, 23 Nov 2025 18:42:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FTC Takes Action Against Education Technology Provider for Failing to Secure Students’ Personal Data",
+      "url": "https://databreaches.net/2025/12/01/ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data/?pk_campaign=feed&pk_kwd=ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data",
+      "published": "Mon, 01 Dec 2025 21:52:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Europol and partners shut down ‘Cryptomixer’",
       "url": "https://databreaches.net/2025/12/01/europol-and-partners-shut-down-cryptomixer/?pk_campaign=feed&pk_kwd=europol-and-partners-shut-down-cryptomixer",
       "published": "Mon, 01 Dec 2025 17:01:48 +0000",
@@ -115,12 +121,6 @@
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "url": "https://databreaches.net/2025/11/24/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/?pk_campaign=feed&pk_kwd=shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github",
       "published": "Mon, 24 Nov 2025 20:46:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SEC Voluntarily Dismisses SolarWinds Litigation",
-      "url": "https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation",
-      "published": "Sun, 23 Nov 2025 18:42:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
