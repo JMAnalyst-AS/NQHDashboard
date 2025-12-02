@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T15:24:12.729074Z",
+  "generated_at": "2025-12-02T15:46:19.004125Z",
   "segment1": [
     {
       "title": "KR: Privacy Commissioner’s Office Urges the Public to Beware of Fraudsters Exploiting the Tai Po Fire Disaster",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
+      "published": "Tue, 02 Dec 2025 10:10:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
       "url": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
       "published": "Tue, 02 Dec 2025 09:57:26 -0500",
@@ -378,10 +384,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
-      "published": "Mon, 01 Dec 2025 07:23:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+      "url": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+      "published": "Tue, 02 Dec 2025 20:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+      "url": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+      "published": "Tue, 02 Dec 2025 20:31:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+      "url": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+      "published": "Tue, 02 Dec 2025 19:47:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
@@ -483,24 +501,6 @@
       "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
       "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
       "published": "Thu, 27 Nov 2025 20:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
-      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-      "published": "Thu, 27 Nov 2025 15:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-      "url": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-      "published": "Thu, 27 Nov 2025 12:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
-      "url": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
-      "published": "Wed, 26 Nov 2025 23:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
+      "published": "Tue, 02 Dec 2025 10:10:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
       "url": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
       "published": "Tue, 02 Dec 2025 09:57:26 -0500",
@@ -818,10 +824,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
-      "published": "Mon, 01 Dec 2025 07:23:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+      "url": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+      "published": "Tue, 02 Dec 2025 20:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+      "url": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+      "published": "Tue, 02 Dec 2025 20:31:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+      "url": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+      "published": "Tue, 02 Dec 2025 19:47:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
@@ -923,24 +941,6 @@
       "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
       "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
       "published": "Thu, 27 Nov 2025 20:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
-      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-      "published": "Thu, 27 Nov 2025 15:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-      "url": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-      "published": "Thu, 27 Nov 2025 12:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
-      "url": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
-      "published": "Wed, 26 Nov 2025 23:38:00 +0530",
       "source": "The Hacker News"
     },
     {
