@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-02T21:38:45.633987Z",
+  "generated_at": "2025-12-02T22:17:52.971193Z",
   "segment1": [
+    {
+      "title": "Update on Dos-OP’s report on Nova RaaS",
+      "url": "https://databreaches.net/2025/12/02/update-on-dos-ops-report-on-nova-raas/?pk_campaign=feed&pk_kwd=update-on-dos-ops-report-on-nova-raas",
+      "published": "Tue, 02 Dec 2025 21:49:00 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "KR: Privacy Commissioner’s Office Urges the Public to Beware of Fraudsters Exploiting the Tai Po Fire Disaster",
       "url": "https://databreaches.net/2025/12/02/kr-privacy-commissioners-office-urges-the-public-to-beware-of-fraudsters-exploiting-the-tai-po-fire-disaster/?pk_campaign=feed&pk_kwd=kr-privacy-commissioners-office-urges-the-public-to-beware-of-fraudsters-exploiting-the-tai-po-fire-disaster",
@@ -53,17 +59,17 @@
       "title": "FTC Takes Action Against Education Technology Provider for Failing to Secure Students’ Personal Data",
       "url": "https://databreaches.net/2025/12/01/ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data/?pk_campaign=feed&pk_kwd=ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data",
       "published": "Mon, 01 Dec 2025 21:52:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Europol and partners shut down ‘Cryptomixer’",
-      "url": "https://databreaches.net/2025/12/01/europol-and-partners-shut-down-cryptomixer/?pk_campaign=feed&pk_kwd=europol-and-partners-shut-down-cryptomixer",
-      "published": "Mon, 01 Dec 2025 17:01:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Update on Dos-OP’s report on Nova RaaS",
+      "url": "https://databreaches.net/2025/12/02/update-on-dos-ops-report-on-nova-raas/?pk_campaign=feed&pk_kwd=update-on-dos-ops-report-on-nova-raas",
+      "published": "Tue, 02 Dec 2025 21:49:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "KR: Privacy Commissioner’s Office Urges the Public to Beware of Fraudsters Exploiting the Tai Po Fire Disaster",
       "url": "https://databreaches.net/2025/12/02/kr-privacy-commissioners-office-urges-the-public-to-beware-of-fraudsters-exploiting-the-tai-po-fire-disaster/?pk_campaign=feed&pk_kwd=kr-privacy-commissioners-office-urges-the-public-to-beware-of-fraudsters-exploiting-the-tai-po-fire-disaster",
       "published": "Tue, 02 Dec 2025 14:43:54 +0000",
@@ -115,12 +121,6 @@
       "title": "FTC Takes Action Against Education Technology Provider for Failing to Secure Students’ Personal Data",
       "url": "https://databreaches.net/2025/12/01/ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data/?pk_campaign=feed&pk_kwd=ftc-takes-action-against-education-technology-provider-for-failing-to-secure-students-personal-data",
       "published": "Mon, 01 Dec 2025 21:52:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Europol and partners shut down ‘Cryptomixer’",
-      "url": "https://databreaches.net/2025/12/01/europol-and-partners-shut-down-cryptomixer/?pk_campaign=feed&pk_kwd=europol-and-partners-shut-down-cryptomixer",
-      "published": "Mon, 01 Dec 2025 17:01:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Korea arrests suspects selling intimate videos from hacked IP cameras",
+      "url": "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/",
+      "published": "Tue, 02 Dec 2025 16:42:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FTC settlement requires Illuminate to delete unnecessary student data",
       "url": "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/",
       "published": "Tue, 02 Dec 2025 15:50:13 -0500",
@@ -369,18 +375,6 @@
       "title": "Windows 11 KB5070311 update fixes File Explorer freezes, search issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
       "published": "Tue, 02 Dec 2025 06:19:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Glassworm malware returns in third wave of malicious VS Code packages",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/",
-      "published": "Mon, 01 Dec 2025 16:08:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
-      "url": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "published": "Mon, 01 Dec 2025 13:56:18 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Korea arrests suspects selling intimate videos from hacked IP cameras",
+      "url": "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/",
+      "published": "Tue, 02 Dec 2025 16:42:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FTC settlement requires Illuminate to delete unnecessary student data",
       "url": "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/",
       "published": "Tue, 02 Dec 2025 15:50:13 -0500",
@@ -809,18 +809,6 @@
       "title": "Windows 11 KB5070311 update fixes File Explorer freezes, search issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
       "published": "Tue, 02 Dec 2025 06:19:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Glassworm malware returns in third wave of malicious VS Code packages",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/",
-      "published": "Mon, 01 Dec 2025 16:08:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
-      "url": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "published": "Mon, 01 Dec 2025 13:56:18 -0500",
       "source": "BleepingComputer"
     },
     {
