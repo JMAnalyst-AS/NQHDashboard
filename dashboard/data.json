@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T09:25:34.124283Z",
+  "generated_at": "2025-12-03T09:46:07.599807Z",
   "segment1": [
     {
       "title": "Update on Dos-OP’s report on Nova RaaS",
@@ -318,8 +318,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT is down worldwide, conversations dissapeared for users",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/",
+      "title": "ChatGPT is down worldwide, conversations disappeared for users",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/",
       "published": "Tue, 02 Dec 2025 14:52:16 -0500",
       "source": "BleepingComputer"
     },
@@ -376,6 +376,18 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
       "published": "Tue, 02 Dec 2025 06:19:31 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
+      "url": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
+      "published": "Wed, 03 Dec 2025 15:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
+      "url": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
+      "published": "Wed, 03 Dec 2025 14:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
@@ -486,16 +498,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
-      "url": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-      "published": "Thu, 27 Nov 2025 23:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-      "url": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-      "published": "Thu, 27 Nov 2025 21:07:00 +0530",
-      "source": "The Hacker News"
+      "title": "Mali Under Siege: Tracking the Fuel Blockade Crippling Bamako",
+      "url": "https://www.bellingcat.com/news/2025/12/03/mali-under-siege-tracking-the-fuel-blockade-crippling-bamako/",
+      "published": "Wed, 03 Dec 2025 09:33:14 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
@@ -549,12 +555,6 @@
       "title": "Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row",
       "url": "https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/",
       "published": "Wed, 10 Sep 2025 15:23:07 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Trump’s Takeover of DC: Traffic Stops Turn Into Immigration Arrests for Delivery Riders and Workers",
-      "url": "https://www.bellingcat.com/news/2025/09/08/dc-trump-feds-immigration-delivery-riders/",
-      "published": "Mon, 08 Sep 2025 16:10:26 +0000",
       "source": "bellingcat"
     }
   ],
@@ -752,8 +752,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT is down worldwide, conversations dissapeared for users",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/",
+      "title": "ChatGPT is down worldwide, conversations disappeared for users",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/",
       "published": "Tue, 02 Dec 2025 14:52:16 -0500",
       "source": "BleepingComputer"
     },
@@ -810,6 +810,18 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
       "published": "Tue, 02 Dec 2025 06:19:31 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
+      "url": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
+      "published": "Wed, 03 Dec 2025 15:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
+      "url": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
+      "published": "Wed, 03 Dec 2025 14:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
@@ -920,16 +932,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
-      "url": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-      "published": "Thu, 27 Nov 2025 23:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-      "url": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-      "published": "Thu, 27 Nov 2025 21:07:00 +0530",
-      "source": "The Hacker News"
+      "title": "Mali Under Siege: Tracking the Fuel Blockade Crippling Bamako",
+      "url": "https://www.bellingcat.com/news/2025/12/03/mali-under-siege-tracking-the-fuel-blockade-crippling-bamako/",
+      "published": "Wed, 03 Dec 2025 09:33:14 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
@@ -983,12 +989,6 @@
       "title": "Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row",
       "url": "https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/",
       "published": "Wed, 10 Sep 2025 15:23:07 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Trump’s Takeover of DC: Traffic Stops Turn Into Immigration Arrests for Delivery Riders and Workers",
-      "url": "https://www.bellingcat.com/news/2025/09/08/dc-trump-feds-immigration-delivery-riders/",
-      "published": "Mon, 08 Sep 2025 16:10:26 +0000",
       "source": "bellingcat"
     }
   ]
