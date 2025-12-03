@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T16:56:21.539588Z",
+  "generated_at": "2025-12-03T17:25:06.833299Z",
   "segment1": [
     {
       "title": "Easy Question, Complicated Answer: What Does It Take to Stop Workers From Snooping?",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google expands Android scam protection feature to Chase, Cash App in U.S.",
+      "url": "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/",
+      "published": "Wed, 03 Dec 2025 12:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
       "published": "Wed, 03 Dec 2025 11:45:30 -0500",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
-      "published": "Tue, 02 Dec 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
+      "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+      "published": "Wed, 03 Dec 2025 22:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
@@ -495,12 +501,6 @@
       "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
       "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
       "published": "Sun, 30 Nov 2025 14:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-      "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-      "published": "Fri, 28 Nov 2025 21:57:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google expands Android scam protection feature to Chase, Cash App in U.S.",
+      "url": "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/",
+      "published": "Wed, 03 Dec 2025 12:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
       "published": "Wed, 03 Dec 2025 11:45:30 -0500",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
-      "published": "Tue, 02 Dec 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
+      "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+      "published": "Wed, 03 Dec 2025 22:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
@@ -935,12 +941,6 @@
       "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
       "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
       "published": "Sun, 30 Nov 2025 14:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-      "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-      "published": "Fri, 28 Nov 2025 21:57:00 +0530",
       "source": "The Hacker News"
     },
     {
