@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T18:32:54.854350Z",
+  "generated_at": "2025-12-03T19:18:10.248401Z",
   "segment1": [
     {
       "title": "Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies",
@@ -246,6 +246,66 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
       "url": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
       "published": "Wed, 03 Dec 2025 12:33:57 -0500",
@@ -324,6 +384,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+      "published": "Wed, 03 Dec 2025 23:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
+      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+      "published": "Wed, 03 Dec 2025 23:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
       "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
       "published": "Wed, 03 Dec 2025 23:16:36 +0530",
@@ -339,12 +411,6 @@
       "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
       "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
       "published": "Wed, 03 Dec 2025 21:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
-      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "published": "Wed, 03 Dec 2025 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -435,12 +501,6 @@
       "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
       "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
       "published": "Mon, 01 Dec 2025 14:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
-      "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
-      "published": "Mon, 01 Dec 2025 10:37:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -626,6 +686,66 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
       "url": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
       "published": "Wed, 03 Dec 2025 12:33:57 -0500",
@@ -704,6 +824,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+      "published": "Wed, 03 Dec 2025 23:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
+      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+      "published": "Wed, 03 Dec 2025 23:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
       "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
       "published": "Wed, 03 Dec 2025 23:16:36 +0530",
@@ -719,12 +851,6 @@
       "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
       "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
       "published": "Wed, 03 Dec 2025 21:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
-      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "published": "Wed, 03 Dec 2025 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -815,12 +941,6 @@
       "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
       "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
       "published": "Mon, 01 Dec 2025 14:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
-      "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
-      "published": "Mon, 01 Dec 2025 10:37:00 +0530",
       "source": "The Hacker News"
     },
     {
