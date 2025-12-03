@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T16:30:08.424370Z",
+  "generated_at": "2025-12-03T16:56:21.539588Z",
   "segment1": [
     {
       "title": "Easy Question, Complicated Answer: What Does It Take to Stop Workers From Snooping?",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
+      "published": "Wed, 03 Dec 2025 11:45:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection",
       "url": "https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/",
       "published": "Wed, 03 Dec 2025 10:05:15 -0500",
@@ -375,12 +381,6 @@
       "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
       "url": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
       "published": "Tue, 02 Dec 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/",
-      "published": "Tue, 02 Dec 2025 08:39:51 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
+      "published": "Wed, 03 Dec 2025 11:45:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection",
       "url": "https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/",
       "published": "Wed, 03 Dec 2025 10:05:15 -0500",
@@ -815,12 +821,6 @@
       "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
       "url": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
       "published": "Tue, 02 Dec 2025 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/",
-      "published": "Tue, 02 Dec 2025 08:39:51 -0500",
       "source": "BleepingComputer"
     },
     {
