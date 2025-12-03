@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-03T21:38:08.707474Z",
+  "generated_at": "2025-12-03T22:20:42.022901Z",
   "segment1": [
+    {
+      "title": "Virginia Twins Arrested for Conspiring to Destroy Government Databases",
+      "url": "https://databreaches.net/2025/12/03/virginia-twins-arrested-for-conspiring-to-destroy-government-databases/?pk_campaign=feed&pk_kwd=virginia-twins-arrested-for-conspiring-to-destroy-government-databases",
+      "published": "Wed, 03 Dec 2025 22:08:26 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies",
       "url": "https://databreaches.net/2025/12/03/cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies/?pk_campaign=feed&pk_kwd=cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies",
@@ -53,17 +59,17 @@
       "title": "HHS OCR Seeks Questions About HIPAA Security Rule Risk Management Requirement",
       "url": "https://databreaches.net/2025/12/01/hhs-ocr-seeks-questions-about-hipaa-security-rule-risk-management-requirement/?pk_campaign=feed&pk_kwd=hhs-ocr-seeks-questions-about-hipaa-security-rule-risk-management-requirement",
       "published": "Tue, 02 Dec 2025 01:10:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "John P. Meehan Agency was hacked in July 2024. Affected customers were first finding out in November 2025.",
-      "url": "https://databreaches.net/2025/12/01/john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025/?pk_campaign=feed&pk_kwd=john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025",
-      "published": "Mon, 01 Dec 2025 22:34:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Virginia Twins Arrested for Conspiring to Destroy Government Databases",
+      "url": "https://databreaches.net/2025/12/03/virginia-twins-arrested-for-conspiring-to-destroy-government-databases/?pk_campaign=feed&pk_kwd=virginia-twins-arrested-for-conspiring-to-destroy-government-databases",
+      "published": "Wed, 03 Dec 2025 22:08:26 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies",
       "url": "https://databreaches.net/2025/12/03/cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies/?pk_campaign=feed&pk_kwd=cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies",
       "published": "Wed, 03 Dec 2025 17:59:19 +0000",
@@ -115,12 +121,6 @@
       "title": "HHS OCR Seeks Questions About HIPAA Security Rule Risk Management Requirement",
       "url": "https://databreaches.net/2025/12/01/hhs-ocr-seeks-questions-about-hipaa-security-rule-risk-management-requirement/?pk_campaign=feed&pk_kwd=hhs-ocr-seeks-questions-about-hipaa-security-rule-risk-management-requirement",
       "published": "Tue, 02 Dec 2025 01:10:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "John P. Meehan Agency was hacked in July 2024. Affected customers were first finding out in November 2025.",
-      "url": "https://databreaches.net/2025/12/01/john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025/?pk_campaign=feed&pk_kwd=john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025",
-      "published": "Mon, 01 Dec 2025 22:34:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
       "published": "Wed, 29 Oct 2025 00:51:05 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Marquis data breach impacts over 74 US banks, credit unions",
+      "url": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
+      "published": "Wed, 03 Dec 2025 17:06:07 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
@@ -738,6 +744,12 @@
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
       "published": "Wed, 29 Oct 2025 00:51:05 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Marquis data breach impacts over 74 US banks, credit unions",
+      "url": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
+      "published": "Wed, 03 Dec 2025 17:06:07 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
