@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-03T17:45:53.202008Z",
+  "generated_at": "2025-12-03T18:32:54.854350Z",
   "segment1": [
+    {
+      "title": "Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies",
+      "url": "https://databreaches.net/2025/12/03/cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies/?pk_campaign=feed&pk_kwd=cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies",
+      "published": "Wed, 03 Dec 2025 17:59:19 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Easy Question, Complicated Answer: What Does It Take to Stop Workers From Snooping?",
       "url": "https://databreaches.net/2025/12/03/easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping/?pk_campaign=feed&pk_kwd=easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping",
@@ -53,17 +59,17 @@
       "title": "John P. Meehan Agency was hacked in July 2024. Affected customers were first finding out in November 2025.",
       "url": "https://databreaches.net/2025/12/01/john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025/?pk_campaign=feed&pk_kwd=john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025",
       "published": "Mon, 01 Dec 2025 22:34:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware blog claims New Horizons Medical has been attacked",
-      "url": "https://databreaches.net/2025/12/01/ransomware-blog-claims-new-horizons-medical-has-been-attacked/?pk_campaign=feed&pk_kwd=ransomware-blog-claims-new-horizons-medical-has-been-attacked",
-      "published": "Mon, 01 Dec 2025 22:27:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies",
+      "url": "https://databreaches.net/2025/12/03/cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies/?pk_campaign=feed&pk_kwd=cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies",
+      "published": "Wed, 03 Dec 2025 17:59:19 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Easy Question, Complicated Answer: What Does It Take to Stop Workers From Snooping?",
       "url": "https://databreaches.net/2025/12/03/easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping/?pk_campaign=feed&pk_kwd=easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping",
       "published": "Wed, 03 Dec 2025 15:33:45 +0000",
@@ -115,12 +121,6 @@
       "title": "John P. Meehan Agency was hacked in July 2024. Affected customers were first finding out in November 2025.",
       "url": "https://databreaches.net/2025/12/01/john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025/?pk_campaign=feed&pk_kwd=john-p-meehan-agency-was-hacked-in-july-2024-affected-customers-were-first-finding-out-in-november-2025",
       "published": "Mon, 01 Dec 2025 22:34:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware blog claims New Horizons Medical has been attacked",
-      "url": "https://databreaches.net/2025/12/01/ransomware-blog-claims-new-horizons-medical-has-been-attacked/?pk_campaign=feed&pk_kwd=ransomware-blog-claims-new-horizons-medical-has-been-attacked",
-      "published": "Mon, 01 Dec 2025 22:27:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,66 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
       "url": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
       "published": "Wed, 03 Dec 2025 12:33:57 -0500",
@@ -382,6 +322,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
       "published": "Tue, 02 Dec 2025 09:57:26 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
+      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
+      "published": "Wed, 03 Dec 2025 23:16:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
@@ -495,12 +441,6 @@
       "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
       "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
       "published": "Mon, 01 Dec 2025 10:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-      "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-      "published": "Sun, 30 Nov 2025 14:53:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -686,66 +626,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "published": "Sun, 02 Nov 2025 20:37:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
       "url": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
       "published": "Wed, 03 Dec 2025 12:33:57 -0500",
@@ -822,6 +702,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
       "published": "Tue, 02 Dec 2025 09:57:26 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
+      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
+      "published": "Wed, 03 Dec 2025 23:16:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
@@ -935,12 +821,6 @@
       "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
       "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
       "published": "Mon, 01 Dec 2025 10:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-      "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-      "published": "Sun, 30 Nov 2025 14:53:00 +0530",
       "source": "The Hacker News"
     },
     {
