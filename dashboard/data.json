@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T22:41:40.693054Z",
+  "generated_at": "2025-12-04T23:20:03.773246Z",
   "segment1": [
     {
       "title": "Marquis data breach impacts over 74 US banks, credit unions",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
       "published": "Wed, 26 Nov 2025 17:22:36 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
+      "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/",
+      "published": "Thu, 04 Dec 2025 18:05:05 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices",
@@ -680,6 +686,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
       "published": "Wed, 26 Nov 2025 17:22:36 +0000",
@@ -734,10 +746,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "Wed, 29 Oct 2025 00:51:05 +0000",
-      "source": "Krebs on Security"
+      "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/",
+      "published": "Thu, 04 Dec 2025 18:05:05 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices",
