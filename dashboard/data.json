@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-05T13:32:15.098071Z",
+  "generated_at": "2025-12-05T14:21:20.135011Z",
   "segment1": [
+    {
+      "title": "How old is the average hacker? What does a new research report suggest?",
+      "url": "https://databreaches.net/2025/12/05/how-old-is-the-average-hacker-what-does-a-new-research-report-suggest/?pk_campaign=feed&pk_kwd=how-old-is-the-average-hacker-what-does-a-new-research-report-suggest",
+      "published": "Fri, 05 Dec 2025 13:43:25 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Marquis data breach impacts over 74 US banks, credit unions",
       "url": "https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions",
@@ -53,17 +59,17 @@
       "title": "KR: Hacking scheme targeted 120,000 home cameras for sexual footage",
       "url": "https://databreaches.net/2025/12/02/kr-hacking-scheme-targeted-120000-home-cameras-for-sexual-footage/?pk_campaign=feed&pk_kwd=kr-hacking-scheme-targeted-120000-home-cameras-for-sexual-footage",
       "published": "Tue, 02 Dec 2025 14:42:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "GreyNoise launches free scanner to check if you’re part of a botnet",
-      "url": "https://databreaches.net/2025/12/01/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/?pk_campaign=feed&pk_kwd=greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet",
-      "published": "Tue, 02 Dec 2025 02:13:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "How old is the average hacker? What does a new research report suggest?",
+      "url": "https://databreaches.net/2025/12/05/how-old-is-the-average-hacker-what-does-a-new-research-report-suggest/?pk_campaign=feed&pk_kwd=how-old-is-the-average-hacker-what-does-a-new-research-report-suggest",
+      "published": "Fri, 05 Dec 2025 13:43:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Marquis data breach impacts over 74 US banks, credit unions",
       "url": "https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions",
       "published": "Thu, 04 Dec 2025 18:29:26 +0000",
@@ -115,12 +121,6 @@
       "title": "KR: Hacking scheme targeted 120,000 home cameras for sexual footage",
       "url": "https://databreaches.net/2025/12/02/kr-hacking-scheme-targeted-120000-home-cameras-for-sexual-footage/?pk_campaign=feed&pk_kwd=kr-hacking-scheme-targeted-120000-home-cameras-for-sexual-footage",
       "published": "Tue, 02 Dec 2025 14:42:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "GreyNoise launches free scanner to check if you’re part of a botnet",
-      "url": "https://databreaches.net/2025/12/01/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/?pk_campaign=feed&pk_kwd=greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet",
-      "published": "Tue, 02 Dec 2025 02:13:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
       "published": "Sun, 02 Nov 2025 20:37:24 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
+      "published": "Fri, 05 Dec 2025 08:53:26 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Pharma firm Inotiv discloses data breach after ransomware attack",
@@ -738,6 +744,12 @@
       "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
       "published": "Sun, 02 Nov 2025 20:37:24 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
+      "published": "Fri, 05 Dec 2025 08:53:26 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Pharma firm Inotiv discloses data breach after ransomware attack",
