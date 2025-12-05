@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T16:27:19.084417Z",
+  "generated_at": "2025-12-05T16:51:12.292519Z",
   "segment1": [
     {
       "title": "How old is the average hacker? What does a new research report suggest?",
@@ -306,13 +306,25 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of virtual kidnapping scams using altered social media photos",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
+      "published": "Fri, 05 Dec 2025 11:37:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "A Practical Guide to Continuous Attack Surface Visibility",
+      "url": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
+      "published": "Fri, 05 Dec 2025 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "EU fines X $140 million over deceptive blue checkmarks",
       "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
       "published": "Fri, 05 Dec 2025 09:41:01 -0500",
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "title": "Cloudflare blames today's outage on React2Shell mitigations",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "published": "Fri, 05 Dec 2025 08:53:26 -0500",
       "source": "BleepingComputer"
@@ -369,18 +381,6 @@
       "title": "Contractors with hacking records accused of wiping 96 govt databases",
       "url": "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/",
       "published": "Thu, 04 Dec 2025 11:30:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical React, Next.js flaw lets hackers execute code on servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
-      "published": "Thu, 04 Dec 2025 10:11:54 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How strong password policies secure OT systems against cyber threats",
-      "url": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
-      "published": "Thu, 04 Dec 2025 10:11:22 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,13 +746,25 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of virtual kidnapping scams using altered social media photos",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
+      "published": "Fri, 05 Dec 2025 11:37:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "A Practical Guide to Continuous Attack Surface Visibility",
+      "url": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
+      "published": "Fri, 05 Dec 2025 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "EU fines X $140 million over deceptive blue checkmarks",
       "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
       "published": "Fri, 05 Dec 2025 09:41:01 -0500",
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "title": "Cloudflare blames today's outage on React2Shell mitigations",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "published": "Fri, 05 Dec 2025 08:53:26 -0500",
       "source": "BleepingComputer"
@@ -809,18 +821,6 @@
       "title": "Contractors with hacking records accused of wiping 96 govt databases",
       "url": "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/",
       "published": "Thu, 04 Dec 2025 11:30:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical React, Next.js flaw lets hackers execute code on servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
-      "published": "Thu, 04 Dec 2025 10:11:54 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How strong password policies secure OT systems against cyber threats",
-      "url": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
-      "published": "Thu, 04 Dec 2025 10:11:22 -0500",
       "source": "BleepingComputer"
     },
     {
