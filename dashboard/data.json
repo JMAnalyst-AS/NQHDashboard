@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-05T14:21:20.135011Z",
+  "generated_at": "2025-12-05T14:44:54.829151Z",
   "segment1": [
     {
       "title": "How old is the average hacker? What does a new research report suggest?",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "EU fines X $140 million over deceptive blue checkmarks",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
+      "published": "Fri, 05 Dec 2025 09:41:01 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloudflare blames today's outage on emergency React2Shell patch",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "published": "Fri, 05 Dec 2025 08:53:26 -0500",
@@ -318,7 +324,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "React2Shell critical flaw actively exploited in China-linked attacks",
+      "title": "Critical React2Shell flaw actively exploited in China-linked attacks",
       "url": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
       "published": "Fri, 05 Dec 2025 06:26:07 -0500",
       "source": "BleepingComputer"
@@ -375,12 +381,6 @@
       "title": "How strong password policies secure OT systems against cyber threats",
       "url": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
       "published": "Thu, 04 Dec 2025 10:11:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft 365 license check bug blocks desktop app downloads",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
-      "published": "Thu, 04 Dec 2025 08:18:08 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "EU fines X $140 million over deceptive blue checkmarks",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
+      "published": "Fri, 05 Dec 2025 09:41:01 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloudflare blames today's outage on emergency React2Shell patch",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "published": "Fri, 05 Dec 2025 08:53:26 -0500",
@@ -758,7 +764,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "React2Shell critical flaw actively exploited in China-linked attacks",
+      "title": "Critical React2Shell flaw actively exploited in China-linked attacks",
       "url": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
       "published": "Fri, 05 Dec 2025 06:26:07 -0500",
       "source": "BleepingComputer"
@@ -815,12 +821,6 @@
       "title": "How strong password policies secure OT systems against cyber threats",
       "url": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
       "published": "Thu, 04 Dec 2025 10:11:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft 365 license check bug blocks desktop app downloads",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
-      "published": "Thu, 04 Dec 2025 08:18:08 -0500",
       "source": "BleepingComputer"
     },
     {
