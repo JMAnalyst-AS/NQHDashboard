@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T09:51:02.832268Z",
+  "generated_at": "2025-12-08T10:24:17.438164Z",
   "segment1": [
     {
       "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector",
@@ -126,6 +126,18 @@
   ],
   "segment3": [
     {
+      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
+      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
+      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Prompt injection is not SQL injection (it may be worse)",
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "published": "Mon, 08 Dec 2025 09:32:56 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Building trust in the digital age: a collaborative approach to content provenance technologies",
       "url": "https://www.ncsc.gov.uk/blog-post/building-trust-in-the-digital-age-a-collaborative-approach-to-content-provenance-technologies",
       "published": "Wed, 03 Dec 2025 09:02:50 GMT",
@@ -231,18 +243,6 @@
       "title": "Moving your business from the physical to the digital",
       "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
       "published": "Wed, 01 Oct 2025 14:32:53 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Putting staff welfare at the heart of incident response",
-      "url": "https://www.ncsc.gov.uk/guidance/putting-staff-welfare-at-the-heart-of-incident-response",
-      "published": "Tue, 30 Sep 2025 15:29:54 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Understanding your OT environment: the first step to stronger cyber security",
-      "url": "https://www.ncsc.gov.uk/blog-post/understanding-ot-environment-1step-stronger-cyber-security",
-      "published": "Mon, 29 Sep 2025 07:21:59 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -378,6 +378,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
+      "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
+      "published": "Mon, 08 Dec 2025 14:45:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
       "url": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
       "published": "Mon, 08 Dec 2025 12:16:00 +0530",
@@ -489,12 +495,6 @@
       "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
       "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
       "published": "Wed, 03 Dec 2025 22:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
-      "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
-      "published": "Wed, 03 Dec 2025 21:02:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -560,6 +560,18 @@
   ],
   "rss": [
     {
+      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
+      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
+      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Prompt injection is not SQL injection (it may be worse)",
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "published": "Mon, 08 Dec 2025 09:32:56 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Building trust in the digital age: a collaborative approach to content provenance technologies",
       "url": "https://www.ncsc.gov.uk/blog-post/building-trust-in-the-digital-age-a-collaborative-approach-to-content-provenance-technologies",
       "published": "Wed, 03 Dec 2025 09:02:50 GMT",
@@ -665,18 +677,6 @@
       "title": "Moving your business from the physical to the digital",
       "url": "https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital",
       "published": "Wed, 01 Oct 2025 14:32:53 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Putting staff welfare at the heart of incident response",
-      "url": "https://www.ncsc.gov.uk/guidance/putting-staff-welfare-at-the-heart-of-incident-response",
-      "published": "Tue, 30 Sep 2025 15:29:54 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Understanding your OT environment: the first step to stronger cyber security",
-      "url": "https://www.ncsc.gov.uk/blog-post/understanding-ot-environment-1step-stronger-cyber-security",
-      "published": "Mon, 29 Sep 2025 07:21:59 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -812,6 +812,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
+      "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
+      "published": "Mon, 08 Dec 2025 14:45:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
       "url": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
       "published": "Mon, 08 Dec 2025 12:16:00 +0530",
@@ -923,12 +929,6 @@
       "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
       "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
       "published": "Wed, 03 Dec 2025 22:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
-      "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
-      "published": "Wed, 03 Dec 2025 21:02:00 +0530",
       "source": "The Hacker News"
     },
     {
