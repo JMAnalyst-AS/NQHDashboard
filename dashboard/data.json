@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T22:20:01.994922Z",
+  "generated_at": "2025-12-08T22:43:15.931650Z",
   "segment1": [
     {
       "title": "Leavenworth, Kansas cyberattack disrupts city services",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
+      "published": "Mon, 08 Dec 2025 17:30:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
       "url": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
       "published": "Mon, 08 Dec 2025 16:07:30 -0500",
@@ -369,12 +375,6 @@
       "title": "A Practical Guide to Continuous Attack Surface Visibility",
       "url": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
       "published": "Fri, 05 Dec 2025 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EU fines X $140 million over deceptive blue checkmarks",
-      "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
-      "published": "Fri, 05 Dec 2025 09:41:01 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
+      "published": "Mon, 08 Dec 2025 17:30:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
       "url": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
       "published": "Mon, 08 Dec 2025 16:07:30 -0500",
@@ -803,12 +809,6 @@
       "title": "A Practical Guide to Continuous Attack Surface Visibility",
       "url": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
       "published": "Fri, 05 Dec 2025 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EU fines X $140 million over deceptive blue checkmarks",
-      "url": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
-      "published": "Fri, 05 Dec 2025 09:41:01 -0500",
       "source": "BleepingComputer"
     },
     {
