@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-08T12:43:11.260053Z",
+  "generated_at": "2025-12-08T13:34:49.959838Z",
   "segment1": [
+    {
+      "title": "Leavenworth, Kansas cyberattack disrupts city services",
+      "url": "https://databreaches.net/2025/12/08/leavenworth-kansas-cyberattack-disrupts-city-services/?pk_campaign=feed&pk_kwd=leavenworth-kansas-cyberattack-disrupts-city-services",
+      "published": "Mon, 08 Dec 2025 13:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector",
       "url": "https://databreaches.net/2025/12/07/theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector/?pk_campaign=feed&pk_kwd=theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector",
@@ -53,17 +59,17 @@
       "title": "How old is the average hacker? What does a new research report suggest? (1)",
       "url": "https://databreaches.net/2025/12/05/how-old-is-the-average-hacker-what-does-a-new-research-report-suggest/?pk_campaign=feed&pk_kwd=how-old-is-the-average-hacker-what-does-a-new-research-report-suggest",
       "published": "Fri, 05 Dec 2025 13:43:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Marquis data breach impacts over 74 US banks, credit unions",
-      "url": "https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions",
-      "published": "Thu, 04 Dec 2025 18:29:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Leavenworth, Kansas cyberattack disrupts city services",
+      "url": "https://databreaches.net/2025/12/08/leavenworth-kansas-cyberattack-disrupts-city-services/?pk_campaign=feed&pk_kwd=leavenworth-kansas-cyberattack-disrupts-city-services",
+      "published": "Mon, 08 Dec 2025 13:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector",
       "url": "https://databreaches.net/2025/12/07/theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector/?pk_campaign=feed&pk_kwd=theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector",
       "published": "Sun, 07 Dec 2025 22:06:07 +0000",
@@ -116,25 +122,19 @@
       "url": "https://databreaches.net/2025/12/05/how-old-is-the-average-hacker-what-does-a-new-research-report-suggest/?pk_campaign=feed&pk_kwd=how-old-is-the-average-hacker-what-does-a-new-research-report-suggest",
       "published": "Fri, 05 Dec 2025 13:43:25 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Marquis data breach impacts over 74 US banks, credit unions",
-      "url": "https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions",
-      "published": "Thu, 04 Dec 2025 18:29:26 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
     {
-      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
-      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
-      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "title": "Prompt injection is not SQL injection (it may be worse)",
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "published": "Mon, 08 Dec 2025 13:02:30 GMT",
       "source": "NCSC Feed"
     },
     {
-      "title": "Prompt injection is not SQL injection (it may be worse)",
-      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
-      "published": "Mon, 08 Dec 2025 09:32:56 GMT",
+      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
+      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
+      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -378,6 +378,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
+      "published": "Mon, 08 Dec 2025 18:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
+      "url": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
+      "published": "Mon, 08 Dec 2025 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
       "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
       "published": "Mon, 08 Dec 2025 16:30:00 +0530",
@@ -483,18 +495,6 @@
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
       "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
       "published": "Wed, 03 Dec 2025 23:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
-      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "published": "Wed, 03 Dec 2025 23:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
-      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-      "published": "Wed, 03 Dec 2025 23:16:36 +0530",
       "source": "The Hacker News"
     },
     {
@@ -560,15 +560,15 @@
   ],
   "rss": [
     {
-      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
-      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
-      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "title": "Prompt injection is not SQL injection (it may be worse)",
+      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "published": "Mon, 08 Dec 2025 13:02:30 GMT",
       "source": "NCSC Feed"
     },
     {
-      "title": "Prompt injection is not SQL injection (it may be worse)",
-      "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
-      "published": "Mon, 08 Dec 2025 09:32:56 GMT",
+      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
+      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
+      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -812,6 +812,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
+      "published": "Mon, 08 Dec 2025 18:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
+      "url": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
+      "published": "Mon, 08 Dec 2025 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
       "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
       "published": "Mon, 08 Dec 2025 16:30:00 +0530",
@@ -917,18 +929,6 @@
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
       "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
       "published": "Wed, 03 Dec 2025 23:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
-      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "published": "Wed, 03 Dec 2025 23:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
-      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-      "published": "Wed, 03 Dec 2025 23:16:36 +0530",
       "source": "The Hacker News"
     },
     {
