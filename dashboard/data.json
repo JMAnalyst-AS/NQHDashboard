@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T16:28:46.204418Z",
+  "generated_at": "2025-12-08T16:54:31.868649Z",
   "segment1": [
     {
       "title": "Leavenworth, Kansas cyberattack disrupts city services",
@@ -126,6 +126,36 @@
   ],
   "segment3": [
     {
+      "title": "Sextortion emails: how to protect yourself",
+      "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
+      "published": "Mon, 08 Dec 2025 16:44:29 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Shopping and paying safely online",
+      "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+      "published": "Mon, 08 Dec 2025 16:40:12 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "How to recover an infected device",
+      "url": "https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take",
+      "published": "Mon, 08 Dec 2025 16:33:45 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Mitigating malware and ransomware attacks",
+      "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
+      "published": "Mon, 08 Dec 2025 16:31:33 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Recovering a hacked account",
+      "url": "https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account",
+      "published": "Mon, 08 Dec 2025 16:28:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Early Years practitioners: using cyber security to protect your settings",
       "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
       "published": "Mon, 08 Dec 2025 16:26:12 GMT",
@@ -214,96 +244,6 @@
       "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
       "published": "Tue, 28 Oct 2025 14:10:51 GMT",
       "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber security is business survival",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
-      "published": "Tue, 21 Oct 2025 10:59:30 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "There's a hole in my bucket",
-      "url": "https://www.ncsc.gov.uk/blog-post/theres-hole-my-bucket",
-      "published": "Tue, 14 Oct 2025 07:31:13 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Maintaining a sustainable strengthened cyber security posture",
-      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
-      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Phishing attacks: defending your organisation",
-      "url": "https://www.ncsc.gov.uk/guidance/phishing",
-      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
-      "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
-      "published": "Wed, 08 Oct 2025 13:04:05 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
     },
     {
       "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies",
@@ -554,6 +494,36 @@
   ],
   "rss": [
     {
+      "title": "Sextortion emails: how to protect yourself",
+      "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
+      "published": "Mon, 08 Dec 2025 16:44:29 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Shopping and paying safely online",
+      "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+      "published": "Mon, 08 Dec 2025 16:40:12 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "How to recover an infected device",
+      "url": "https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take",
+      "published": "Mon, 08 Dec 2025 16:33:45 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Mitigating malware and ransomware attacks",
+      "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
+      "published": "Mon, 08 Dec 2025 16:31:33 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Recovering a hacked account",
+      "url": "https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account",
+      "published": "Mon, 08 Dec 2025 16:28:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Early Years practitioners: using cyber security to protect your settings",
       "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
       "published": "Mon, 08 Dec 2025 16:26:12 GMT",
@@ -642,96 +612,6 @@
       "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
       "published": "Tue, 28 Oct 2025 14:10:51 GMT",
       "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber security is business survival",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-is-business-survival",
-      "published": "Tue, 21 Oct 2025 10:59:30 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "There's a hole in my bucket",
-      "url": "https://www.ncsc.gov.uk/blog-post/theres-hole-my-bucket",
-      "published": "Tue, 14 Oct 2025 07:31:13 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Maintaining a sustainable strengthened cyber security posture",
-      "url": "https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture",
-      "published": "Mon, 13 Oct 2025 22:22:10 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Phishing attacks: defending your organisation",
-      "url": "https://www.ncsc.gov.uk/guidance/phishing",
-      "published": "Mon, 13 Oct 2025 22:19:23 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Getting your organisation ready for Windows 11 upgrade before Autumn 2025",
-      "url": "https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025",
-      "published": "Wed, 08 Oct 2025 13:04:05 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "Thu, 06 Nov 2025 02:04:36 +0000",
-      "source": "Krebs on Security"
     },
     {
       "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies",
