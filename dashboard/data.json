@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T20:40:33.777543Z",
+  "generated_at": "2025-12-09T21:18:22.072318Z",
   "segment1": [
     {
       "title": "Defense Bill Would Require New Cyber Requirements for Some DoD Telecom Contracts",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
+      "published": "Tue, 09 Dec 2025 15:45:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft releases Windows 10 KB5071546 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
       "published": "Tue, 09 Dec 2025 14:54:26 -0500",
@@ -375,12 +381,6 @@
       "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
       "published": "Mon, 08 Dec 2025 17:30:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
-      "url": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
-      "published": "Mon, 08 Dec 2025 16:07:30 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
+      "published": "Tue, 09 Dec 2025 15:45:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft releases Windows 10 KB5071546 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
       "published": "Tue, 09 Dec 2025 14:54:26 -0500",
@@ -815,12 +821,6 @@
       "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
       "published": "Mon, 08 Dec 2025 17:30:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
-      "url": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
-      "published": "Mon, 08 Dec 2025 16:07:30 -0500",
       "source": "BleepingComputer"
     },
     {
