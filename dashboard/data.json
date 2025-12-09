@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T16:53:54.054328Z",
+  "generated_at": "2025-12-09T17:20:42.530816Z",
   "segment1": [
     {
       "title": "Defense Bill Would Require New Cyber Requirements for Some DoD Telecom Contracts",
@@ -38,7 +38,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector",
+      "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector (1)",
       "url": "https://databreaches.net/2025/12/07/theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector/?pk_campaign=feed&pk_kwd=theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector",
       "published": "Sun, 07 Dec 2025 22:06:07 +0000",
       "source": "DataBreaches.Net"
@@ -100,7 +100,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector",
+      "title": "They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector (1)",
       "url": "https://databreaches.net/2025/12/07/theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector/?pk_campaign=feed&pk_kwd=theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector",
       "published": "Sun, 07 Dec 2025 22:06:07 +0000",
       "source": "DataBreaches.Net"
@@ -306,6 +306,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
+      "published": "Tue, 09 Dec 2025 12:10:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
+      "url": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
+      "published": "Tue, 09 Dec 2025 12:09:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spain arrests teen who stole 64 million personal data records",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
+      "published": "Tue, 09 Dec 2025 11:57:06 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
       "published": "Tue, 09 Dec 2025 10:43:05 -0500",
@@ -363,18 +381,6 @@
       "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
       "published": "Sun, 07 Dec 2025 15:51:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Portugal updates cybercrime law to exempt security researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
-      "published": "Sun, 07 Dec 2025 10:09:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
-      "url": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
-      "published": "Sat, 06 Dec 2025 14:07:33 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +746,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
+      "published": "Tue, 09 Dec 2025 12:10:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
+      "url": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
+      "published": "Tue, 09 Dec 2025 12:09:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spain arrests teen who stole 64 million personal data records",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
+      "published": "Tue, 09 Dec 2025 11:57:06 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
       "published": "Tue, 09 Dec 2025 10:43:05 -0500",
@@ -797,18 +821,6 @@
       "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
       "published": "Sun, 07 Dec 2025 15:51:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Portugal updates cybercrime law to exempt security researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
-      "published": "Sun, 07 Dec 2025 10:09:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
-      "url": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
-      "published": "Sat, 06 Dec 2025 14:07:33 -0500",
       "source": "BleepingComputer"
     },
     {
