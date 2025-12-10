@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T09:25:17.452728Z",
+  "generated_at": "2025-12-10T09:47:50.334085Z",
   "segment1": [
     {
       "title": "Defense Bill Would Require New Cyber Requirements for Some DoD Telecom Contracts",
@@ -174,15 +174,39 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Using IPsec to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-ipsec-protect-data",
+      "published": "Mon, 08 Dec 2025 13:16:52 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Prompt injection is not SQL injection (it may be worse)",
       "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
       "published": "Mon, 08 Dec 2025 13:02:30 GMT",
       "source": "NCSC Feed"
     },
     {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
       "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
       "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Provisioning and managing certificates in the Web PKI",
+      "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
+      "published": "Mon, 08 Dec 2025 08:36:15 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Updating our guidance on security certificates, TLS and IPsec",
+      "url": "https://www.ncsc.gov.uk/blog-post/updating-our-guidance-on-security-certificates-tls-ipsec",
+      "published": "Mon, 08 Dec 2025 08:04:39 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -219,30 +243,6 @@
       "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
       "published": "Tue, 11 Nov 2025 16:36:41 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber Action Toolkit: breaking down the barriers to resilience",
-      "url": "https://www.ncsc.gov.uk/blog-post/cat-breaking-down-resilience-barriers",
-      "published": "Tue, 11 Nov 2025 07:59:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "NCSC to retire Web Check and Mail Check",
-      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
-      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "External attack surface management (EASM) buyer's guide",
-      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
-      "published": "Tue, 04 Nov 2025 08:31:06 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "EASM buyer's guide now available",
-      "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
-      "published": "Tue, 28 Oct 2025 14:10:51 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -614,15 +614,39 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Using IPsec to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-ipsec-protect-data",
+      "published": "Mon, 08 Dec 2025 13:16:52 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Prompt injection is not SQL injection (it may be worse)",
       "url": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
       "published": "Mon, 08 Dec 2025 13:02:30 GMT",
       "source": "NCSC Feed"
     },
     {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
       "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
       "published": "Mon, 08 Dec 2025 09:58:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Provisioning and managing certificates in the Web PKI",
+      "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
+      "published": "Mon, 08 Dec 2025 08:36:15 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Updating our guidance on security certificates, TLS and IPsec",
+      "url": "https://www.ncsc.gov.uk/blog-post/updating-our-guidance-on-security-certificates-tls-ipsec",
+      "published": "Mon, 08 Dec 2025 08:04:39 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -659,30 +683,6 @@
       "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
       "published": "Tue, 11 Nov 2025 16:36:41 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber Action Toolkit: breaking down the barriers to resilience",
-      "url": "https://www.ncsc.gov.uk/blog-post/cat-breaking-down-resilience-barriers",
-      "published": "Tue, 11 Nov 2025 07:59:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "NCSC to retire Web Check and Mail Check",
-      "url": "https://www.ncsc.gov.uk/blog-post/retiring-mail-check-web-check",
-      "published": "Wed, 05 Nov 2025 11:30:22 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "External attack surface management (EASM) buyer's guide",
-      "url": "https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide",
-      "published": "Tue, 04 Nov 2025 08:31:06 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "EASM buyer's guide now available",
-      "url": "https://www.ncsc.gov.uk/blog-post/easm-buyers-guide-now-available",
-      "published": "Tue, 28 Oct 2025 14:10:51 GMT",
       "source": "NCSC Feed"
     },
     {
