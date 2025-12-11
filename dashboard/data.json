@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T09:48:02.653879Z",
+  "generated_at": "2025-12-11T10:25:39.285509Z",
   "segment1": [
     {
       "title": "Teen who allegedly stole millions of personal data records arrested in Spain",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
+      "published": "Thu, 11 Dec 2025 05:09:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
       "published": "Thu, 11 Dec 2025 03:01:21 -0500",
@@ -372,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
-      "published": "Tue, 09 Dec 2025 13:38:00 -0500",
-      "source": "BleepingComputer"
+      "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+      "url": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+      "published": "Thu, 11 Dec 2025 12:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
@@ -489,12 +495,6 @@
       "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
       "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
       "published": "Mon, 08 Dec 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
-      "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
-      "published": "Mon, 08 Dec 2025 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
+      "published": "Thu, 11 Dec 2025 05:09:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
       "published": "Thu, 11 Dec 2025 03:01:21 -0500",
@@ -806,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
-      "published": "Tue, 09 Dec 2025 13:38:00 -0500",
-      "source": "BleepingComputer"
+      "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+      "url": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+      "published": "Thu, 11 Dec 2025 12:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
@@ -923,12 +929,6 @@
       "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
       "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
       "published": "Mon, 08 Dec 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
-      "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
-      "published": "Mon, 08 Dec 2025 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
