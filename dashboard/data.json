@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T14:46:07.426725Z",
+  "generated_at": "2025-12-11T15:25:46.608823Z",
   "segment1": [
     {
       "title": "Teen who allegedly stole millions of personal data records arrested in Spain",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
+      "url": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
+      "published": "Thu, 11 Dec 2025 10:10:49 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI is accelerating cyberattacks. Is your network prepared?",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
+      "published": "Thu, 11 Dec 2025 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
       "published": "Thu, 11 Dec 2025 08:19:50 -0500",
@@ -363,18 +375,6 @@
       "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
       "published": "Wed, 10 Dec 2025 07:26:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SAP fixes three critical vulnerabilities across multiple products",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/",
-      "published": "Tue, 09 Dec 2025 17:41:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
-      "published": "Tue, 09 Dec 2025 15:45:20 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
+      "url": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
+      "published": "Thu, 11 Dec 2025 10:10:49 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI is accelerating cyberattacks. Is your network prepared?",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
+      "published": "Thu, 11 Dec 2025 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
       "published": "Thu, 11 Dec 2025 08:19:50 -0500",
@@ -797,18 +809,6 @@
       "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
       "published": "Wed, 10 Dec 2025 07:26:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SAP fixes three critical vulnerabilities across multiple products",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/",
-      "published": "Tue, 09 Dec 2025 17:41:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
-      "published": "Tue, 09 Dec 2025 15:45:20 -0500",
       "source": "BleepingComputer"
     },
     {
