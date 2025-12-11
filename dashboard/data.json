@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T07:43:27.160878Z",
+  "generated_at": "2025-12-11T08:30:28.442500Z",
   "segment1": [
     {
       "title": "Teen who allegedly stole millions of personal data records arrested in Spain",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Cyber deception trials: what we’ve learned so far",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
+      "published": "Thu, 11 Dec 2025 07:55:27 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Sextortion emails: how to protect yourself",
       "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
       "published": "Mon, 08 Dec 2025 16:44:29 GMT",
@@ -240,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
-      "published": "Tue, 11 Nov 2025 16:36:41 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
       "published": "Sun, 09 Nov 2025 18:14:40 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
+      "published": "Thu, 11 Dec 2025 03:01:21 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
@@ -369,12 +375,6 @@
       "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
       "published": "Tue, 09 Dec 2025 13:38:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/",
-      "published": "Tue, 09 Dec 2025 13:36:48 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -560,6 +560,12 @@
   ],
   "rss": [
     {
+      "title": "Cyber deception trials: what we’ve learned so far",
+      "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
+      "published": "Thu, 11 Dec 2025 07:55:27 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Sextortion emails: how to protect yourself",
       "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
       "published": "Mon, 08 Dec 2025 16:44:29 GMT",
@@ -674,12 +680,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Cyber Security and Resilience Policy Statement to strengthen regulation of critical sectors",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-security-resilience-bill-policy-statement",
-      "published": "Tue, 11 Nov 2025 16:36:41 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
@@ -738,6 +738,12 @@
       "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
       "published": "Sun, 09 Nov 2025 18:14:40 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
+      "published": "Thu, 11 Dec 2025 03:01:21 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
@@ -803,12 +809,6 @@
       "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
       "published": "Tue, 09 Dec 2025 13:38:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/",
-      "published": "Tue, 09 Dec 2025 13:36:48 -0500",
       "source": "BleepingComputer"
     },
     {
