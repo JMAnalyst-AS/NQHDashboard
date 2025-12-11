@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T12:47:18.190862Z",
+  "generated_at": "2025-12-11T13:39:47.810731Z",
   "segment1": [
     {
       "title": "Teen who allegedly stole millions of personal data records arrested in Spain",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
+      "published": "Thu, 11 Dec 2025 08:19:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
       "published": "Thu, 11 Dec 2025 05:09:52 -0500",
@@ -372,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5071546 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "published": "Tue, 09 Dec 2025 14:54:26 -0500",
-      "source": "BleepingComputer"
+      "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+      "url": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+      "published": "Thu, 11 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
@@ -489,12 +495,6 @@
       "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
       "url": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
       "published": "Mon, 08 Dec 2025 23:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
-      "url": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
-      "published": "Mon, 08 Dec 2025 18:14:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
+      "published": "Thu, 11 Dec 2025 08:19:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
       "published": "Thu, 11 Dec 2025 05:09:52 -0500",
@@ -806,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5071546 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "published": "Tue, 09 Dec 2025 14:54:26 -0500",
-      "source": "BleepingComputer"
+      "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+      "url": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+      "published": "Thu, 11 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
@@ -923,12 +929,6 @@
       "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
       "url": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
       "published": "Mon, 08 Dec 2025 23:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
-      "url": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
-      "published": "Mon, 08 Dec 2025 18:14:00 +0530",
       "source": "The Hacker News"
     },
     {
