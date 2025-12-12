@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T08:30:45.479251Z",
+  "generated_at": "2025-12-12T09:25:28.020096Z",
   "segment1": [
     {
       "title": "Village of Golf Manor considering paying ransom amid cyberattack (1)",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
+      "url": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
+      "published": "Fri, 12 Dec 2025 03:43:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
       "url": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
       "published": "Fri, 12 Dec 2025 02:14:31 -0500",
@@ -378,10 +384,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
-      "published": "Wed, 10 Dec 2025 18:50:56 -0500",
-      "source": "BleepingComputer"
+      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+      "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+      "published": "Fri, 12 Dec 2025 14:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+      "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+      "published": "Fri, 12 Dec 2025 14:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
@@ -489,18 +501,6 @@
       "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
       "url": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
       "published": "Tue, 09 Dec 2025 19:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
-      "url": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
-      "published": "Tue, 09 Dec 2025 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
-      "url": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-      "published": "Tue, 09 Dec 2025 16:44:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
+      "url": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
+      "published": "Fri, 12 Dec 2025 03:43:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
       "url": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
       "published": "Fri, 12 Dec 2025 02:14:31 -0500",
@@ -818,10 +824,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
-      "published": "Wed, 10 Dec 2025 18:50:56 -0500",
-      "source": "BleepingComputer"
+      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+      "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+      "published": "Fri, 12 Dec 2025 14:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+      "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+      "published": "Fri, 12 Dec 2025 14:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
@@ -929,18 +941,6 @@
       "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
       "url": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
       "published": "Tue, 09 Dec 2025 19:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
-      "url": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
-      "published": "Tue, 09 Dec 2025 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
-      "url": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-      "published": "Tue, 09 Dec 2025 16:44:00 +0530",
       "source": "The Hacker News"
     },
     {
