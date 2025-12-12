@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T15:23:18.872983Z",
+  "generated_at": "2025-12-12T15:44:59.510009Z",
   "segment1": [
     {
       "title": "Village of Golf Manor considering paying ransom amid cyberattack (1)",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
+      "published": "Fri, 12 Dec 2025 10:27:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Shadow spreadsheets: The security gap your tools can’t see",
+      "url": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
+      "published": "Fri, 12 Dec 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
       "published": "Fri, 12 Dec 2025 06:28:06 -0500",
@@ -369,18 +381,6 @@
       "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
       "url": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
       "published": "Thu, 11 Dec 2025 10:10:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AI is accelerating cyberattacks. Is your network prepared?",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
-      "published": "Thu, 11 Dec 2025 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
-      "published": "Thu, 11 Dec 2025 08:19:50 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
+      "published": "Fri, 12 Dec 2025 10:27:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Shadow spreadsheets: The security gap your tools can’t see",
+      "url": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
+      "published": "Fri, 12 Dec 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
       "published": "Fri, 12 Dec 2025 06:28:06 -0500",
@@ -809,18 +821,6 @@
       "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
       "url": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
       "published": "Thu, 11 Dec 2025 10:10:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AI is accelerating cyberattacks. Is your network prepared?",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
-      "published": "Thu, 11 Dec 2025 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
-      "published": "Thu, 11 Dec 2025 08:19:50 -0500",
       "source": "BleepingComputer"
     },
     {
