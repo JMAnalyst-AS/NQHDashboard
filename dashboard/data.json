@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T05:44:12.349813Z",
+  "generated_at": "2025-12-13T06:31:08.389654Z",
   "segment1": [
     {
       "title": "Google and Apple roll out emergency security updates after zero-day attacks",
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
+      "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
+      "published": "Sat, 13 Dec 2025 11:02:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
       "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
       "published": "Sat, 13 Dec 2025 00:20:00 +0530",
@@ -495,12 +501,6 @@
       "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
       "url": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
       "published": "Wed, 10 Dec 2025 14:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-      "url": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-      "published": "Wed, 10 Dec 2025 10:20:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
+      "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
+      "published": "Sat, 13 Dec 2025 11:02:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
       "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
       "published": "Sat, 13 Dec 2025 00:20:00 +0530",
@@ -935,12 +941,6 @@
       "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
       "url": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
       "published": "Wed, 10 Dec 2025 14:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-      "url": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-      "published": "Wed, 10 Dec 2025 10:20:00 +0530",
       "source": "The Hacker News"
     },
     {
