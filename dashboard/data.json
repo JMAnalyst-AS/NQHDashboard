@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T23:39:20.140203Z",
+  "generated_at": "2025-12-14T01:49:54.726662Z",
   "segment1": [
     {
       "title": "Google and Apple roll out emergency security updates after zero-day attacks",
@@ -244,6 +244,66 @@
       "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
       "published": "Mon, 24 Nov 2025 09:10:25 GMT",
       "source": "NCSC Feed"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
     },
     {
       "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
@@ -624,6 +684,66 @@
       "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
       "published": "Mon, 24 Nov 2025 09:10:25 GMT",
       "source": "NCSC Feed"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+      "source": "Krebs on Security"
     },
     {
       "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
