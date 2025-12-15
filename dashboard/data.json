@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T17:48:25.677803Z",
+  "generated_at": "2025-12-15T18:33:00.922408Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
+      "url": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
+      "published": "Mon, 15 Dec 2025 13:20:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "700Credit data breach impacts 5.8 million vehicle dealership customers",
       "url": "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/",
       "published": "Mon, 15 Dec 2025 11:49:03 -0500",
@@ -372,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
-      "url": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
-      "published": "Fri, 12 Dec 2025 10:27:16 -0500",
-      "source": "BleepingComputer"
+      "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+      "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+      "published": "Mon, 15 Dec 2025 23:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
@@ -489,12 +495,6 @@
       "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
       "url": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
       "published": "Thu, 11 Dec 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-      "url": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-      "published": "Thu, 11 Dec 2025 11:26:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
+      "url": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
+      "published": "Mon, 15 Dec 2025 13:20:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "700Credit data breach impacts 5.8 million vehicle dealership customers",
       "url": "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/",
       "published": "Mon, 15 Dec 2025 11:49:03 -0500",
@@ -806,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
-      "url": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
-      "published": "Fri, 12 Dec 2025 10:27:16 -0500",
-      "source": "BleepingComputer"
+      "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+      "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+      "published": "Mon, 15 Dec 2025 23:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
@@ -923,12 +929,6 @@
       "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
       "url": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
       "published": "Thu, 11 Dec 2025 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-      "url": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-      "published": "Thu, 11 Dec 2025 11:26:00 +0530",
       "source": "The Hacker News"
     },
     {
