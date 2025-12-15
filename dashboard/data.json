@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T14:26:28.762703Z",
+  "generated_at": "2025-12-15T14:53:47.077569Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
+      "published": "Mon, 15 Dec 2025 09:34:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google links more Chinese hacking groups to React2Shell attacks",
       "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
       "published": "Mon, 15 Dec 2025 07:46:50 -0500",
@@ -363,12 +369,6 @@
       "title": "Shadow spreadsheets: The security gap your tools can’t see",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
       "published": "Fri, 12 Dec 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
-      "published": "Fri, 12 Dec 2025 06:28:06 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -734,6 +734,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
+      "published": "Mon, 15 Dec 2025 09:34:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google links more Chinese hacking groups to React2Shell attacks",
       "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
       "published": "Mon, 15 Dec 2025 07:46:50 -0500",
@@ -791,12 +797,6 @@
       "title": "Shadow spreadsheets: The security gap your tools can’t see",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
       "published": "Fri, 12 Dec 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
-      "published": "Fri, 12 Dec 2025 06:28:06 -0500",
       "source": "BleepingComputer"
     },
     {
