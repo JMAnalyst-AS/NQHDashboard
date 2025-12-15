@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-15T11:41:32.027133Z",
+  "generated_at": "2025-12-15T12:48:31.723102Z",
   "segment1": [
+    {
+      "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
+      "url": "https://databreaches.net/2025/12/15/announce-a-new-resource-to-help-small-and-mid-sized-hipaa-regulated-entities/?pk_campaign=feed&pk_kwd=announce-a-new-resource-to-help-small-and-mid-sized-hipaa-regulated-entities",
+      "published": "Mon, 15 Dec 2025 12:00:07 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Askul says 740,000 sets of data breached in cyberattack",
       "url": "https://databreaches.net/2025/12/14/askul-says-740000-sets-of-data-breached-in-cyberattack/?pk_campaign=feed&pk_kwd=askul-says-740000-sets-of-data-breached-in-cyberattack",
@@ -53,17 +59,17 @@
       "title": "Examining impact of federal relief program after major healthcare cyberattack — Research Brief",
       "url": "https://databreaches.net/2025/12/10/examining-impact-of-federal-relief-program-after-major-healthcare-cyberattack-research-brief/?pk_campaign=feed&pk_kwd=examining-impact-of-federal-relief-program-after-major-healthcare-cyberattack-research-brief",
       "published": "Wed, 10 Dec 2025 12:19:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Justice Department Announces Actions to Combat Two Russian State-Sponsored Hacking Groups",
-      "url": "https://databreaches.net/2025/12/10/justice-department-announces-actions-to-combat-two-russian-state-sponsored-hacking-groups/?pk_campaign=feed&pk_kwd=justice-department-announces-actions-to-combat-two-russian-state-sponsored-hacking-groups",
-      "published": "Wed, 10 Dec 2025 12:15:28 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
+      "url": "https://databreaches.net/2025/12/15/announce-a-new-resource-to-help-small-and-mid-sized-hipaa-regulated-entities/?pk_campaign=feed&pk_kwd=announce-a-new-resource-to-help-small-and-mid-sized-hipaa-regulated-entities",
+      "published": "Mon, 15 Dec 2025 12:00:07 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Askul says 740,000 sets of data breached in cyberattack",
       "url": "https://databreaches.net/2025/12/14/askul-says-740000-sets-of-data-breached-in-cyberattack/?pk_campaign=feed&pk_kwd=askul-says-740000-sets-of-data-breached-in-cyberattack",
       "published": "Sun, 14 Dec 2025 13:56:06 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2025/12/10/examining-impact-of-federal-relief-program-after-major-healthcare-cyberattack-research-brief/?pk_campaign=feed&pk_kwd=examining-impact-of-federal-relief-program-after-major-healthcare-cyberattack-research-brief",
       "published": "Wed, 10 Dec 2025 12:19:34 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Justice Department Announces Actions to Combat Two Russian State-Sponsored Hacking Groups",
-      "url": "https://databreaches.net/2025/12/10/justice-department-announces-actions-to-combat-two-russian-state-sponsored-hacking-groups/?pk_campaign=feed&pk_kwd=justice-department-announces-actions-to-combat-two-russian-state-sponsored-hacking-groups",
-      "published": "Wed, 10 Dec 2025 12:15:28 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Data breaches: guidance for individuals and families",
+      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+      "published": "Mon, 15 Dec 2025 12:08:52 GMT",
+      "source": "NCSC Feed"
+    },
     {
       "title": "Cyber deception trials: what we’ve learned so far",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
@@ -165,12 +171,6 @@
       "title": "Early Years practitioners: using cyber security to protect your settings",
       "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
       "published": "Mon, 08 Dec 2025 16:26:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Data breaches: guidance for individuals and families",
-      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
-      "published": "Mon, 08 Dec 2025 16:24:56 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google links more Chinese hacking groups to React2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
+      "published": "Mon, 15 Dec 2025 07:46:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "French Interior Ministry confirms cyberattack on email servers",
       "url": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
       "published": "Mon, 15 Dec 2025 06:06:10 -0500",
@@ -366,16 +372,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Geoserver flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
-      "published": "Fri, 12 Dec 2025 04:48:31 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+      "published": "Mon, 15 Dec 2025 17:54:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
-      "url": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
-      "published": "Fri, 12 Dec 2025 03:43:16 -0500",
-      "source": "BleepingComputer"
+      "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+      "url": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+      "published": "Mon, 15 Dec 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
@@ -483,18 +489,6 @@
       "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
       "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
       "published": "Thu, 11 Dec 2025 01:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-      "url": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-      "published": "Thu, 11 Dec 2025 00:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
-      "url": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-      "published": "Wed, 10 Dec 2025 19:02:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -560,6 +554,12 @@
   ],
   "rss": [
     {
+      "title": "Data breaches: guidance for individuals and families",
+      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
+      "published": "Mon, 15 Dec 2025 12:08:52 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Cyber deception trials: what we’ve learned so far",
       "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
       "published": "Mon, 15 Dec 2025 08:17:28 GMT",
@@ -599,12 +599,6 @@
       "title": "Early Years practitioners: using cyber security to protect your settings",
       "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
       "published": "Mon, 08 Dec 2025 16:26:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Data breaches: guidance for individuals and families",
-      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
-      "published": "Mon, 08 Dec 2025 16:24:56 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -740,6 +734,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google links more Chinese hacking groups to React2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
+      "published": "Mon, 15 Dec 2025 07:46:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "French Interior Ministry confirms cyberattack on email servers",
       "url": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
       "published": "Mon, 15 Dec 2025 06:06:10 -0500",
@@ -800,16 +800,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Geoserver flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
-      "published": "Fri, 12 Dec 2025 04:48:31 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+      "published": "Mon, 15 Dec 2025 17:54:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
-      "url": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
-      "published": "Fri, 12 Dec 2025 03:43:16 -0500",
-      "source": "BleepingComputer"
+      "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+      "url": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+      "published": "Mon, 15 Dec 2025 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
@@ -917,18 +917,6 @@
       "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
       "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
       "published": "Thu, 11 Dec 2025 01:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-      "url": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-      "published": "Thu, 11 Dec 2025 00:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
-      "url": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-      "published": "Wed, 10 Dec 2025 19:02:00 +0530",
       "source": "The Hacker News"
     },
     {
