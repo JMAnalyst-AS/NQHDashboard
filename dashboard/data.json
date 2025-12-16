@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T12:46:12.929885Z",
+  "generated_at": "2025-12-16T13:38:53.765275Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
+      "published": "Tue, 16 Dec 2025 07:53:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "European authorities dismantle call center fraud ring in Ukraine",
       "url": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
       "published": "Tue, 16 Dec 2025 06:44:06 -0500",
@@ -378,16 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: December security updates cause Message Queuing failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
-      "published": "Mon, 15 Dec 2025 04:04:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-      "url": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-      "published": "Sun, 14 Dec 2025 11:06:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+      "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+      "published": "Tue, 16 Dec 2025 17:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Data Security and Privacy Need to Start in Code",
@@ -501,12 +501,6 @@
       "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
       "url": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
       "published": "Thu, 11 Dec 2025 19:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
-      "url": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
-      "published": "Thu, 11 Dec 2025 18:46:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -752,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
+      "published": "Tue, 16 Dec 2025 07:53:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "European authorities dismantle call center fraud ring in Ukraine",
       "url": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
       "published": "Tue, 16 Dec 2025 06:44:06 -0500",
@@ -824,16 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: December security updates cause Message Queuing failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
-      "published": "Mon, 15 Dec 2025 04:04:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-      "url": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-      "published": "Sun, 14 Dec 2025 11:06:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+      "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+      "published": "Tue, 16 Dec 2025 17:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Data Security and Privacy Need to Start in Code",
@@ -947,12 +941,6 @@
       "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
       "url": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
       "published": "Thu, 11 Dec 2025 19:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
-      "url": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
-      "published": "Thu, 11 Dec 2025 18:46:00 +0530",
       "source": "The Hacker News"
     },
     {
