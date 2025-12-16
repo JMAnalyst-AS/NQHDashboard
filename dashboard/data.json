@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T17:29:05.969378Z",
+  "generated_at": "2025-12-16T17:49:37.779661Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Texas sues TV makers for taking screenshots of what people watch",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
+      "published": "Tue, 16 Dec 2025 12:29:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
       "published": "Tue, 16 Dec 2025 10:57:34 -0500",
@@ -384,10 +390,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
-      "published": "Mon, 15 Dec 2025 09:34:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+      "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+      "published": "Tue, 16 Dec 2025 22:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
@@ -501,12 +507,6 @@
       "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
       "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
       "published": "Fri, 12 Dec 2025 14:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-      "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-      "published": "Fri, 12 Dec 2025 10:31:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -752,6 +752,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Texas sues TV makers for taking screenshots of what people watch",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
+      "published": "Tue, 16 Dec 2025 12:29:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
       "published": "Tue, 16 Dec 2025 10:57:34 -0500",
@@ -830,10 +836,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
-      "published": "Mon, 15 Dec 2025 09:34:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+      "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+      "published": "Tue, 16 Dec 2025 22:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
@@ -947,12 +953,6 @@
       "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
       "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
       "published": "Fri, 12 Dec 2025 14:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-      "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-      "published": "Fri, 12 Dec 2025 10:31:00 +0530",
       "source": "The Hacker News"
     },
     {
