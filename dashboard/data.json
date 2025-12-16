@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T08:31:12.501996Z",
+  "generated_at": "2025-12-16T09:26:39.120680Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Drawing good architecture diagrams",
+      "url": "https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams",
+      "published": "Tue, 16 Dec 2025 08:57:53 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Mitigating malware and ransomware attacks",
       "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
       "published": "Mon, 15 Dec 2025 13:04:57 GMT",
@@ -237,12 +243,6 @@
       "title": "NCSC handing over the baton of smart meter security: a decade of progress",
       "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
       "published": "Thu, 27 Nov 2025 08:54:47 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Choosing a managed service provider (MSP)",
-      "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
-      "published": "Mon, 24 Nov 2025 09:10:25 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
+      "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+      "published": "Tue, 16 Dec 2025 13:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
       "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
       "published": "Tue, 16 Dec 2025 11:32:00 +0530",
@@ -495,12 +501,6 @@
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
       "url": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
       "published": "Thu, 11 Dec 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
-      "url": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
-      "published": "Thu, 11 Dec 2025 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -566,6 +566,12 @@
   ],
   "rss": [
     {
+      "title": "Drawing good architecture diagrams",
+      "url": "https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams",
+      "published": "Tue, 16 Dec 2025 08:57:53 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Mitigating malware and ransomware attacks",
       "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
       "published": "Mon, 15 Dec 2025 13:04:57 GMT",
@@ -677,12 +683,6 @@
       "title": "NCSC handing over the baton of smart meter security: a decade of progress",
       "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
       "published": "Thu, 27 Nov 2025 08:54:47 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Choosing a managed service provider (MSP)",
-      "url": "https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp",
-      "published": "Mon, 24 Nov 2025 09:10:25 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
+      "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+      "published": "Tue, 16 Dec 2025 13:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
       "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
       "published": "Tue, 16 Dec 2025 11:32:00 +0530",
@@ -935,12 +941,6 @@
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
       "url": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
       "published": "Thu, 11 Dec 2025 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
-      "url": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
-      "published": "Thu, 11 Dec 2025 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
