@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T15:45:17.657598Z",
+  "generated_at": "2025-12-16T16:29:57.937061Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
+      "published": "Tue, 16 Dec 2025 10:57:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
       "published": "Tue, 16 Dec 2025 10:19:17 -0500",
@@ -384,10 +390,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google links more Chinese hacking groups to React2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
-      "published": "Mon, 15 Dec 2025 07:46:50 -0500",
-      "source": "BleepingComputer"
+      "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+      "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+      "published": "Tue, 16 Dec 2025 21:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
@@ -501,12 +507,6 @@
       "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
       "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
       "published": "Fri, 12 Dec 2025 10:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
-      "url": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
-      "published": "Thu, 11 Dec 2025 19:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -752,6 +752,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
+      "published": "Tue, 16 Dec 2025 10:57:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
       "published": "Tue, 16 Dec 2025 10:19:17 -0500",
@@ -830,10 +836,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google links more Chinese hacking groups to React2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
-      "published": "Mon, 15 Dec 2025 07:46:50 -0500",
-      "source": "BleepingComputer"
+      "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+      "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+      "published": "Tue, 16 Dec 2025 21:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
@@ -947,12 +953,6 @@
       "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
       "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
       "published": "Fri, 12 Dec 2025 10:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
-      "url": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
-      "published": "Thu, 11 Dec 2025 19:10:00 +0530",
       "source": "The Hacker News"
     },
     {
