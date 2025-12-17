@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T21:41:53.662368Z",
+  "generated_at": "2025-12-17T22:20:26.329687Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
+      "url": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
+      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
+      "published": "Wed, 17 Dec 2025 16:48:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WhatsApp device linking abused in account hijacking attacks",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
       "published": "Wed, 17 Dec 2025 14:14:30 -0500",
@@ -363,18 +375,6 @@
       "title": "Texas sues TV makers for taking screenshots of what people watch",
       "url": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
       "published": "Tue, 16 Dec 2025 12:29:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
-      "published": "Tue, 16 Dec 2025 10:57:34 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
-      "published": "Tue, 16 Dec 2025 10:19:17 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
+      "url": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
+      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
+      "published": "Wed, 17 Dec 2025 16:48:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WhatsApp device linking abused in account hijacking attacks",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
       "published": "Wed, 17 Dec 2025 14:14:30 -0500",
@@ -797,18 +809,6 @@
       "title": "Texas sues TV makers for taking screenshots of what people watch",
       "url": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
       "published": "Tue, 16 Dec 2025 12:29:22 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
-      "published": "Tue, 16 Dec 2025 10:57:34 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
-      "published": "Tue, 16 Dec 2025 10:19:17 -0500",
       "source": "BleepingComputer"
     },
     {
