@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T15:24:30.152088Z",
+  "generated_at": "2025-12-17T15:47:14.925964Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Home working: preparing your organisation and staff",
+      "url": "https://www.ncsc.gov.uk/guidance/home-working",
+      "published": "Wed, 17 Dec 2025 15:44:47 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Data breaches: guidance for individuals and families",
       "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
       "published": "Wed, 17 Dec 2025 15:16:01 GMT",
@@ -237,12 +243,6 @@
       "title": "It's time for all small businesses to act",
       "url": "https://www.ncsc.gov.uk/blog-post/time-small-businesses-act",
       "published": "Thu, 27 Nov 2025 16:17:11 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "NCSC handing over the baton of smart meter security: a decade of progress",
-      "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
-      "published": "Thu, 27 Nov 2025 08:54:47 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -378,6 +378,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+      "url": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+      "published": "Wed, 17 Dec 2025 21:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+      "url": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+      "published": "Wed, 17 Dec 2025 20:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
       "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
       "published": "Wed, 17 Dec 2025 17:00:00 +0530",
@@ -483,18 +495,6 @@
       "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
       "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
       "published": "Sat, 13 Dec 2025 11:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
-      "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-      "published": "Sat, 13 Dec 2025 00:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "published": "Fri, 12 Dec 2025 19:34:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -560,6 +560,12 @@
   ],
   "rss": [
     {
+      "title": "Home working: preparing your organisation and staff",
+      "url": "https://www.ncsc.gov.uk/guidance/home-working",
+      "published": "Wed, 17 Dec 2025 15:44:47 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Data breaches: guidance for individuals and families",
       "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
       "published": "Wed, 17 Dec 2025 15:16:01 GMT",
@@ -671,12 +677,6 @@
       "title": "It's time for all small businesses to act",
       "url": "https://www.ncsc.gov.uk/blog-post/time-small-businesses-act",
       "published": "Thu, 27 Nov 2025 16:17:11 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "NCSC handing over the baton of smart meter security: a decade of progress",
-      "url": "https://www.ncsc.gov.uk/blog-post/ncsc-handing-over-baton-smart-meter-security",
-      "published": "Thu, 27 Nov 2025 08:54:47 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -812,6 +812,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+      "url": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+      "published": "Wed, 17 Dec 2025 21:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+      "url": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+      "published": "Wed, 17 Dec 2025 20:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
       "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
       "published": "Wed, 17 Dec 2025 17:00:00 +0530",
@@ -917,18 +929,6 @@
       "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
       "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
       "published": "Sat, 13 Dec 2025 11:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
-      "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-      "published": "Sat, 13 Dec 2025 00:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "published": "Fri, 12 Dec 2025 19:34:00 +0530",
       "source": "The Hacker News"
     },
     {
