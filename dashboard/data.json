@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T11:41:10.814229Z",
+  "generated_at": "2025-12-17T12:46:17.367574Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft asks IT admins to reach out for Windows IIS failures fix",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
+      "published": "Wed, 17 Dec 2025 07:30:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cellik Android malware builds malicious versions from Google Play apps",
       "url": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
       "published": "Tue, 16 Dec 2025 17:59:35 -0500",
@@ -372,16 +378,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Askul confirms theft of 740k customer records in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/",
-      "published": "Mon, 15 Dec 2025 18:13:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+      "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+      "published": "Wed, 17 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New SantaStealer malware steals data from browsers, crypto wallets",
-      "url": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
-      "published": "Mon, 15 Dec 2025 17:43:10 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+      "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+      "published": "Wed, 17 Dec 2025 16:42:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
@@ -489,18 +495,6 @@
       "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
       "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
       "published": "Fri, 12 Dec 2025 19:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
-      "url": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-      "published": "Fri, 12 Dec 2025 15:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
-      "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-      "published": "Fri, 12 Dec 2025 14:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft asks IT admins to reach out for Windows IIS failures fix",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
+      "published": "Wed, 17 Dec 2025 07:30:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cellik Android malware builds malicious versions from Google Play apps",
       "url": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
       "published": "Tue, 16 Dec 2025 17:59:35 -0500",
@@ -812,16 +812,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Askul confirms theft of 740k customer records in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/",
-      "published": "Mon, 15 Dec 2025 18:13:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+      "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+      "published": "Wed, 17 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New SantaStealer malware steals data from browsers, crypto wallets",
-      "url": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
-      "published": "Mon, 15 Dec 2025 17:43:10 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+      "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+      "published": "Wed, 17 Dec 2025 16:42:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
@@ -929,18 +929,6 @@
       "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
       "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
       "published": "Fri, 12 Dec 2025 19:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
-      "url": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-      "published": "Fri, 12 Dec 2025 15:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
-      "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-      "published": "Fri, 12 Dec 2025 14:25:00 +0530",
       "source": "The Hacker News"
     },
     {
