@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T19:38:25.782437Z",
+  "generated_at": "2025-12-18T20:21:25.070659Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+      "published": "Thu, 18 Dec 2025 15:16:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New password spraying attacks target Cisco, PAN VPN gateways",
       "url": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
       "published": "Thu, 18 Dec 2025 12:27:25 -0500",
@@ -369,18 +375,6 @@
       "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
       "published": "Wed, 17 Dec 2025 13:45:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-      "published": "Wed, 17 Dec 2025 12:44:18 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical React2Shell flaw exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-      "published": "Wed, 17 Dec 2025 11:09:51 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+      "published": "Thu, 18 Dec 2025 15:16:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New password spraying attacks target Cisco, PAN VPN gateways",
       "url": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
       "published": "Thu, 18 Dec 2025 12:27:25 -0500",
@@ -809,18 +809,6 @@
       "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
       "published": "Wed, 17 Dec 2025 13:45:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-      "published": "Wed, 17 Dec 2025 12:44:18 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical React2Shell flaw exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-      "published": "Wed, 17 Dec 2025 11:09:51 -0500",
       "source": "BleepingComputer"
     },
     {
