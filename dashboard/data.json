@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T14:48:34.862535Z",
+  "generated_at": "2025-12-18T15:23:56.962758Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NIS2 compliance: How to get passwords and MFA right",
+      "url": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
+      "published": "Thu, 18 Dec 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "url": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
       "published": "Thu, 18 Dec 2025 08:47:59 -0500",
@@ -376,6 +382,12 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
       "published": "Wed, 17 Dec 2025 07:30:32 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+      "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
@@ -489,12 +501,6 @@
       "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
       "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
       "published": "Tue, 16 Dec 2025 13:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
-      "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-      "published": "Tue, 16 Dec 2025 11:32:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NIS2 compliance: How to get passwords and MFA right",
+      "url": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
+      "published": "Thu, 18 Dec 2025 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "url": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
       "published": "Thu, 18 Dec 2025 08:47:59 -0500",
@@ -810,6 +822,12 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
       "published": "Wed, 17 Dec 2025 07:30:32 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+      "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
@@ -923,12 +941,6 @@
       "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
       "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
       "published": "Tue, 16 Dec 2025 13:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
-      "url": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-      "published": "Tue, 16 Dec 2025 11:32:00 +0530",
       "source": "The Hacker News"
     },
     {
