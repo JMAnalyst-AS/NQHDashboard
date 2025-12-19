@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T14:46:46.783333Z",
+  "generated_at": "2025-12-19T15:22:42.478279Z",
   "segment1": [
     {
       "title": "System Status:  “Things Happen”",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
@@ -300,10 +306,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
+      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
+      "published": "Fri, 19 Dec 2025 10:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
+      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Denmark blames Russia for destructive cyberattack on water utility",
@@ -363,18 +375,6 @@
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "url": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
       "published": "Thu, 18 Dec 2025 08:47:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE warns of maximum severity RCE flaw in OneView software",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-      "published": "Thu, 18 Dec 2025 06:35:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates break RemoteApp connections",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
-      "published": "Thu, 18 Dec 2025 05:04:25 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -680,6 +680,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
@@ -734,10 +740,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-      "source": "Krebs on Security"
+      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
+      "published": "Fri, 19 Dec 2025 10:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
+      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Denmark blames Russia for destructive cyberattack on water utility",
@@ -797,18 +809,6 @@
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "url": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
       "published": "Thu, 18 Dec 2025 08:47:59 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE warns of maximum severity RCE flaw in OneView software",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-      "published": "Thu, 18 Dec 2025 06:35:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates break RemoteApp connections",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
-      "published": "Thu, 18 Dec 2025 05:04:25 -0500",
       "source": "BleepingComputer"
     },
     {
