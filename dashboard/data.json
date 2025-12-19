@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T11:39:59.022628Z",
+  "generated_at": "2025-12-19T12:42:17.120392Z",
   "segment1": [
     {
       "title": "ANNOUNCE: A new resource to help small and mid-sized HIPAA-regulated entities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Denmark blames Russia for destructive cyberattack on water utility",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
+      "published": "Fri, 19 Dec 2025 07:28:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
       "published": "Fri, 19 Dec 2025 05:25:06 -0500",
@@ -372,16 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-      "url": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-      "published": "Wed, 17 Dec 2025 18:09:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
-      "source": "BleepingComputer"
+      "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+      "url": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+      "published": "Fri, 19 Dec 2025 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
@@ -495,12 +495,6 @@
       "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
       "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
       "published": "Tue, 16 Dec 2025 21:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-      "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-      "published": "Tue, 16 Dec 2025 17:57:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Denmark blames Russia for destructive cyberattack on water utility",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
+      "published": "Fri, 19 Dec 2025 07:28:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
       "published": "Fri, 19 Dec 2025 05:25:06 -0500",
@@ -812,16 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-      "url": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-      "published": "Wed, 17 Dec 2025 18:09:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
-      "source": "BleepingComputer"
+      "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+      "url": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+      "published": "Fri, 19 Dec 2025 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
@@ -935,12 +929,6 @@
       "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
       "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
       "published": "Tue, 16 Dec 2025 21:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-      "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-      "published": "Tue, 16 Dec 2025 17:57:00 +0530",
       "source": "The Hacker News"
     },
     {
