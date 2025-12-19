@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T18:30:45.205502Z",
+  "generated_at": "2025-12-19T19:17:00.933987Z",
   "segment1": [
     {
       "title": "Trump signs defense bill allocating millions for Cyber Command, mandating Pentagon phone security",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
+      "published": "Fri, 19 Dec 2025 14:05:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
       "published": "Fri, 19 Dec 2025 12:19:04 -0500",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NIS2 compliance: How to get passwords and MFA right",
-      "url": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
-      "published": "Thu, 18 Dec 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+      "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+      "published": "Fri, 19 Dec 2025 23:24:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
@@ -495,12 +501,6 @@
       "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
       "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
       "published": "Wed, 17 Dec 2025 13:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-      "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-      "published": "Tue, 16 Dec 2025 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
+      "published": "Fri, 19 Dec 2025 14:05:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
       "published": "Fri, 19 Dec 2025 12:19:04 -0500",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NIS2 compliance: How to get passwords and MFA right",
-      "url": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
-      "published": "Thu, 18 Dec 2025 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+      "url": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+      "published": "Fri, 19 Dec 2025 23:24:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
@@ -935,12 +941,6 @@
       "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
       "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
       "published": "Wed, 17 Dec 2025 13:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-      "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-      "published": "Tue, 16 Dec 2025 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
