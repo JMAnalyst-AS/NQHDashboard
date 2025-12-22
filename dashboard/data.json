@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T20:23:49.049712Z",
+  "generated_at": "2025-12-22T20:44:28.983831Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
+      "published": "Mon, 22 Dec 2025 15:43:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "published": "Mon, 22 Dec 2025 13:38:08 -0500",
@@ -369,12 +375,6 @@
       "title": "Microsoft confirms Teams is down and messages are delayed",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
       "published": "Fri, 19 Dec 2025 15:04:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
-      "published": "Fri, 19 Dec 2025 14:05:32 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
+      "published": "Mon, 22 Dec 2025 15:43:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "published": "Mon, 22 Dec 2025 13:38:08 -0500",
@@ -803,12 +809,6 @@
       "title": "Microsoft confirms Teams is down and messages are delayed",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
       "published": "Fri, 19 Dec 2025 15:04:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
-      "published": "Fri, 19 Dec 2025 14:05:32 -0500",
       "source": "BleepingComputer"
     },
     {
