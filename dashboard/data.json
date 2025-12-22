@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T10:46:53.461189Z",
+  "generated_at": "2025-12-22T11:18:49.881887Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
+      "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "published": "Mon, 22 Dec 2025 06:09:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
       "published": "Mon, 22 Dec 2025 04:46:45 -0500",
@@ -369,12 +375,6 @@
       "title": "Denmark blames Russia for destructive cyberattack on water utility",
       "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
       "published": "Fri, 19 Dec 2025 07:28:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
-      "published": "Fri, 19 Dec 2025 05:25:06 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
+      "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "published": "Mon, 22 Dec 2025 06:09:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
       "published": "Mon, 22 Dec 2025 04:46:45 -0500",
@@ -803,12 +809,6 @@
       "title": "Denmark blames Russia for destructive cyberattack on water utility",
       "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
       "published": "Fri, 19 Dec 2025 07:28:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
-      "published": "Fri, 19 Dec 2025 05:25:06 -0500",
       "source": "BleepingComputer"
     },
     {
