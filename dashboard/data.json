@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T13:34:31.185502Z",
+  "generated_at": "2025-12-22T14:21:37.460159Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
+      "published": "Mon, 22 Dec 2025 09:18:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
+      "url": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
+      "published": "Mon, 22 Dec 2025 09:00:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
       "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
@@ -363,18 +375,6 @@
       "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
       "published": "Fri, 19 Dec 2025 10:00:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
-      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Denmark blames Russia for destructive cyberattack on water utility",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
-      "published": "Fri, 19 Dec 2025 07:28:48 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
+      "published": "Mon, 22 Dec 2025 09:18:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
+      "url": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
+      "published": "Mon, 22 Dec 2025 09:00:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
       "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
@@ -797,18 +809,6 @@
       "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
       "published": "Fri, 19 Dec 2025 10:00:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
-      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Denmark blames Russia for destructive cyberattack on water utility",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
-      "published": "Fri, 19 Dec 2025 07:28:48 -0500",
       "source": "BleepingComputer"
     },
     {
