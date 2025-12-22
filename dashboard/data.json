@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T18:32:03.546042Z",
+  "generated_at": "2025-12-22T19:17:35.898341Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
+      "published": "Mon, 22 Dec 2025 13:38:08 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious npm package steals WhatsApp accounts and messages",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
       "published": "Mon, 22 Dec 2025 11:08:46 -0500",
@@ -330,8 +336,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
-      "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
       "source": "BleepingComputer"
     },
@@ -369,12 +375,6 @@
       "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
       "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
       "published": "Fri, 19 Dec 2025 14:05:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
-      "published": "Fri, 19 Dec 2025 12:19:04 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
+      "published": "Mon, 22 Dec 2025 13:38:08 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious npm package steals WhatsApp accounts and messages",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
       "published": "Mon, 22 Dec 2025 11:08:46 -0500",
@@ -764,8 +770,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
-      "url": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
       "source": "BleepingComputer"
     },
@@ -803,12 +809,6 @@
       "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
       "url": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
       "published": "Fri, 19 Dec 2025 14:05:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
-      "published": "Fri, 19 Dec 2025 12:19:04 -0500",
       "source": "BleepingComputer"
     },
     {
