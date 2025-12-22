@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T08:31:36.140446Z",
+  "generated_at": "2025-12-22T09:29:09.194645Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+      "url": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Docker Hardened Images now open source and available for free",
       "url": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
       "published": "Sun, 21 Dec 2025 10:12:14 -0500",
@@ -369,12 +375,6 @@
       "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
       "url": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
       "published": "Fri, 19 Dec 2025 04:19:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-      "published": "Thu, 18 Dec 2025 20:15:19 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+      "url": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Docker Hardened Images now open source and available for free",
       "url": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
       "published": "Sun, 21 Dec 2025 10:12:14 -0500",
@@ -803,12 +809,6 @@
       "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
       "url": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
       "published": "Fri, 19 Dec 2025 04:19:40 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-      "published": "Thu, 18 Dec 2025 20:15:19 -0500",
       "source": "BleepingComputer"
     },
     {
