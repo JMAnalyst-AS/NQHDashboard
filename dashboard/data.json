@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T11:40:46.540722Z",
+  "generated_at": "2025-12-23T12:44:51.049734Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cyberattack knocks offline France's postal, banking services",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
+      "published": "Tue, 23 Dec 2025 07:26:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Italy fines Apple $116 million over App Store privacy policy issues",
       "url": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
       "published": "Tue, 23 Dec 2025 06:06:22 -0500",
@@ -378,10 +384,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Docker Hardened Images now open source and available for free",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
-      "published": "Sun, 21 Dec 2025 10:12:14 -0500",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
+      "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
+      "published": "Tue, 23 Dec 2025 17:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
+      "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
+      "published": "Tue, 23 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
@@ -489,18 +501,6 @@
       "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
       "url": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
       "published": "Thu, 18 Dec 2025 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-      "url": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-      "published": "Thu, 18 Dec 2025 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
-      "url": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
-      "published": "Thu, 18 Dec 2025 13:13:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cyberattack knocks offline France's postal, banking services",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
+      "published": "Tue, 23 Dec 2025 07:26:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Italy fines Apple $116 million over App Store privacy policy issues",
       "url": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
       "published": "Tue, 23 Dec 2025 06:06:22 -0500",
@@ -818,10 +824,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Docker Hardened Images now open source and available for free",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
-      "published": "Sun, 21 Dec 2025 10:12:14 -0500",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
+      "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
+      "published": "Tue, 23 Dec 2025 17:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
+      "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
+      "published": "Tue, 23 Dec 2025 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
@@ -929,18 +941,6 @@
       "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
       "url": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
       "published": "Thu, 18 Dec 2025 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-      "url": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-      "published": "Thu, 18 Dec 2025 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
-      "url": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
-      "published": "Thu, 18 Dec 2025 13:13:00 +0530",
       "source": "The Hacker News"
     },
     {
