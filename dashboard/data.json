@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T12:44:51.049734Z",
+  "generated_at": "2025-12-23T13:36:14.720798Z",
   "segment1": [
     {
       "title": "ANNOUNCE: Survey on threats experienced by journalists and security researchers",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious extensions in Chrome Web store steal user credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
+      "published": "Tue, 23 Dec 2025 08:31:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams strengthens messaging security by default in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
+      "published": "Tue, 23 Dec 2025 08:23:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cyberattack knocks offline France's postal, banking services",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
       "published": "Tue, 23 Dec 2025 07:26:44 -0500",
@@ -369,18 +381,6 @@
       "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
-      "published": "Mon, 22 Dec 2025 04:46:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
-      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious extensions in Chrome Web store steal user credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
+      "published": "Tue, 23 Dec 2025 08:31:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams strengthens messaging security by default in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
+      "published": "Tue, 23 Dec 2025 08:23:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cyberattack knocks offline France's postal, banking services",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
       "published": "Tue, 23 Dec 2025 07:26:44 -0500",
@@ -809,18 +821,6 @@
       "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
-      "published": "Mon, 22 Dec 2025 04:46:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
-      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
       "source": "BleepingComputer"
     },
     {
