@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T14:44:24.866574Z",
+  "generated_at": "2025-12-24T15:21:59.871906Z",
   "segment1": [
     {
       "title": "CISA loses key employee behind early ransomware warnings",
@@ -306,6 +306,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "published": "Wed, 24 Dec 2025 09:18:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
+      "published": "Wed, 24 Dec 2025 08:17:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
+      "published": "Tue, 23 Dec 2025 15:03:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
       "published": "Tue, 23 Dec 2025 14:31:53 -0500",
@@ -357,30 +375,6 @@
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "published": "Mon, 22 Dec 2025 13:38:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious npm package steals WhatsApp accounts and messages",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-      "published": "Mon, 22 Dec 2025 11:08:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Romanian water authority hit by ransomware attack over weekend",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-      "published": "Mon, 22 Dec 2025 10:25:50 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
-      "published": "Mon, 22 Dec 2025 09:18:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
-      "url": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
-      "published": "Mon, 22 Dec 2025 09:00:09 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "published": "Wed, 24 Dec 2025 09:18:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
+      "published": "Wed, 24 Dec 2025 08:17:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
+      "published": "Tue, 23 Dec 2025 15:03:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
       "published": "Tue, 23 Dec 2025 14:31:53 -0500",
@@ -797,30 +809,6 @@
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "published": "Mon, 22 Dec 2025 13:38:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious npm package steals WhatsApp accounts and messages",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-      "published": "Mon, 22 Dec 2025 11:08:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Romanian water authority hit by ransomware attack over weekend",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-      "published": "Mon, 22 Dec 2025 10:25:50 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
-      "published": "Mon, 22 Dec 2025 09:18:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
-      "url": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
-      "published": "Mon, 22 Dec 2025 09:00:09 -0500",
       "source": "BleepingComputer"
     },
     {
