@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T14:44:31.964787Z",
+  "generated_at": "2025-12-26T15:21:33.599180Z",
   "segment1": [
     {
       "title": "Hackers Unredact Epstein Files — What You Need To Know",
@@ -342,8 +342,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "title": "MongoDB warns admins to patch severe vulnerability immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
       "published": "Wed, 24 Dec 2025 09:18:36 -0500",
       "source": "BleepingComputer"
     },
@@ -364,6 +364,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
       "published": "Tue, 23 Dec 2025 14:31:53 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "url": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "published": "Fri, 26 Dec 2025 20:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
@@ -477,12 +483,6 @@
       "title": "How to Browse the Web More Sustainably With a Green Browser",
       "url": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
       "published": "Mon, 22 Dec 2025 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-      "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-      "published": "Mon, 22 Dec 2025 11:41:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -764,8 +764,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "title": "MongoDB warns admins to patch severe vulnerability immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
       "published": "Wed, 24 Dec 2025 09:18:36 -0500",
       "source": "BleepingComputer"
     },
@@ -786,6 +786,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
       "published": "Tue, 23 Dec 2025 14:31:53 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "url": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "published": "Fri, 26 Dec 2025 20:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
@@ -899,12 +905,6 @@
       "title": "How to Browse the Web More Sustainably With a Green Browser",
       "url": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
       "published": "Mon, 22 Dec 2025 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-      "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-      "published": "Mon, 22 Dec 2025 11:41:00 +0530",
       "source": "The Hacker News"
     },
     {
