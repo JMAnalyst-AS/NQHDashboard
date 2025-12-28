@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T20:23:33.026175Z",
+  "generated_at": "2025-12-28T20:44:13.644497Z",
   "segment1": [
     {
       "title": "Hacker Who Stole Millions in Seconds Finally Caught",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
+      "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
+      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacker claims to leak WIRED database with 2.3 million records",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
       "published": "Sun, 28 Dec 2025 12:57:34 -0500",
@@ -357,12 +363,6 @@
       "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
       "published": "Wed, 24 Dec 2025 12:44:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to let admins block external users via Defender portal",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
-      "published": "Wed, 24 Dec 2025 11:22:44 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -728,6 +728,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
+      "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
+      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacker claims to leak WIRED database with 2.3 million records",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
       "published": "Sun, 28 Dec 2025 12:57:34 -0500",
@@ -779,12 +785,6 @@
       "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
       "published": "Wed, 24 Dec 2025 12:44:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to let admins block external users via Defender portal",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
-      "published": "Wed, 24 Dec 2025 11:22:44 -0500",
       "source": "BleepingComputer"
     },
     {
