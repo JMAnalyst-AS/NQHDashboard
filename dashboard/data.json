@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T09:30:47.809004Z",
+  "generated_at": "2025-12-29T10:24:19.491751Z",
   "segment1": [
     {
       "title": "Hacker Who Stole Millions in Seconds Finally Caught",
@@ -368,7 +368,13 @@
     {
       "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
       "url": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-      "published": "Mon, 29 Dec 2025 13:19:00 +0530",
+      "published": "Mon, 29 Dec 2025 15:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+      "url": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+      "published": "Mon, 29 Dec 2025 15:14:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -477,12 +483,6 @@
       "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
       "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
       "published": "Tue, 23 Dec 2025 13:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-      "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-      "published": "Tue, 23 Dec 2025 13:04:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -790,7 +790,13 @@
     {
       "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
       "url": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-      "published": "Mon, 29 Dec 2025 13:19:00 +0530",
+      "published": "Mon, 29 Dec 2025 15:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+      "url": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+      "published": "Mon, 29 Dec 2025 15:14:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -899,12 +905,6 @@
       "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
       "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
       "published": "Tue, 23 Dec 2025 13:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-      "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-      "published": "Tue, 23 Dec 2025 13:04:00 +0530",
       "source": "The Hacker News"
     },
     {
