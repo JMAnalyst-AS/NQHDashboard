@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-29T11:41:14.158273Z",
+  "generated_at": "2025-12-29T12:46:25.766055Z",
   "segment1": [
+    {
+      "title": "Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach",
+      "url": "https://databreaches.net/2025/12/29/goldman-sachs-says-some-clients-data-may-have-been-exposed-in-law-firm-data-breach/?pk_campaign=feed&pk_kwd=goldman-sachs-says-some-clients-data-may-have-been-exposed-in-law-firm-data-breach",
+      "published": "Mon, 29 Dec 2025 12:00:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hacker Who Stole Millions in Seconds Finally Caught",
       "url": "https://databreaches.net/2025/12/28/hacker-who-stole-millions-in-seconds-finally-caught/?pk_campaign=feed&pk_kwd=hacker-who-stole-millions-in-seconds-finally-caught",
@@ -53,17 +59,17 @@
       "title": "Pen testers accused of ‘blackmail’ after reporting Eurostar chatbot flaws",
       "url": "https://databreaches.net/2025/12/25/pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws/?pk_campaign=feed&pk_kwd=pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws",
       "published": "Thu, 25 Dec 2025 15:30:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Condé Nast gets hacked, and DataBreaches gets “played” — Christmas lump of coal edition (1)",
-      "url": "https://databreaches.net/2025/12/25/conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition/?pk_campaign=feed&pk_kwd=conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition",
-      "published": "Thu, 25 Dec 2025 15:29:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Goldman Sachs Says Some Clients’ Data May Have Been Exposed in Law Firm Data Breach",
+      "url": "https://databreaches.net/2025/12/29/goldman-sachs-says-some-clients-data-may-have-been-exposed-in-law-firm-data-breach/?pk_campaign=feed&pk_kwd=goldman-sachs-says-some-clients-data-may-have-been-exposed-in-law-firm-data-breach",
+      "published": "Mon, 29 Dec 2025 12:00:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hacker Who Stole Millions in Seconds Finally Caught",
       "url": "https://databreaches.net/2025/12/28/hacker-who-stole-millions-in-seconds-finally-caught/?pk_campaign=feed&pk_kwd=hacker-who-stole-millions-in-seconds-finally-caught",
       "published": "Sun, 28 Dec 2025 20:04:56 +0000",
@@ -115,12 +121,6 @@
       "title": "Pen testers accused of ‘blackmail’ after reporting Eurostar chatbot flaws",
       "url": "https://databreaches.net/2025/12/25/pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws/?pk_campaign=feed&pk_kwd=pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws",
       "published": "Thu, 25 Dec 2025 15:30:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Condé Nast gets hacked, and DataBreaches gets “played” — Christmas lump of coal edition (1)",
-      "url": "https://databreaches.net/2025/12/25/conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition/?pk_campaign=feed&pk_kwd=conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition",
-      "published": "Thu, 25 Dec 2025 15:29:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
+      "published": "Mon, 29 Dec 2025 07:23:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
       "published": "Mon, 29 Dec 2025 06:16:03 -0500",
@@ -357,12 +363,6 @@
       "title": "Google will finally allow you to change your @gmail.com address",
       "url": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
       "published": "Thu, 25 Dec 2025 09:30:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
-      "published": "Wed, 24 Dec 2025 17:31:28 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -728,6 +728,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
+      "published": "Mon, 29 Dec 2025 07:23:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
       "published": "Mon, 29 Dec 2025 06:16:03 -0500",
@@ -779,12 +785,6 @@
       "title": "Google will finally allow you to change your @gmail.com address",
       "url": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
       "published": "Thu, 25 Dec 2025 09:30:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
-      "published": "Wed, 24 Dec 2025 17:31:28 -0500",
       "source": "BleepingComputer"
     },
     {
