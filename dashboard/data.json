@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T10:49:02.191996Z",
+  "generated_at": "2025-12-29T11:19:42.369980Z",
   "segment1": [
     {
       "title": "Hacker Who Stole Millions in Seconds Finally Caught",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
+      "published": "Mon, 29 Dec 2025 06:16:03 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "published": "Sun, 28 Dec 2025 15:38:15 -0500",
@@ -357,12 +363,6 @@
       "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
       "published": "Wed, 24 Dec 2025 17:31:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
-      "published": "Wed, 24 Dec 2025 12:44:46 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -728,6 +728,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
+      "published": "Mon, 29 Dec 2025 06:16:03 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "published": "Sun, 28 Dec 2025 15:38:15 -0500",
@@ -779,12 +785,6 @@
       "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
       "published": "Wed, 24 Dec 2025 17:31:28 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
-      "published": "Wed, 24 Dec 2025 12:44:46 -0500",
       "source": "BleepingComputer"
     },
     {
