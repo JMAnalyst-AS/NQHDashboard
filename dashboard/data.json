@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T15:22:50.959837Z",
+  "generated_at": "2025-12-30T15:44:38.637226Z",
   "segment1": [
     {
       "title": "Software company lacked ‘downstream’ liability for data breach",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
+      "published": "Tue, 30 Dec 2025 10:25:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
       "published": "Tue, 30 Dec 2025 09:40:13 -0500",
@@ -375,12 +381,6 @@
       "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
       "published": "Mon, 29 Dec 2025 06:16:03 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
-      "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
-      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
+      "published": "Tue, 30 Dec 2025 10:25:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
       "published": "Tue, 30 Dec 2025 09:40:13 -0500",
@@ -815,12 +821,6 @@
       "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
       "published": "Mon, 29 Dec 2025 06:16:03 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
-      "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
-      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
       "source": "BleepingComputer"
     },
     {
