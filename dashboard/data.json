@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T14:21:49.088504Z",
+  "generated_at": "2025-12-30T14:47:09.655133Z",
   "segment1": [
     {
       "title": "Software company lacked ‘downstream’ liability for data breach",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
+      "published": "Tue, 30 Dec 2025 09:40:13 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
       "published": "Mon, 29 Dec 2025 19:08:42 -0500",
@@ -375,12 +381,6 @@
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "published": "Sun, 28 Dec 2025 15:38:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacker claims to leak WIRED database with 2.3 million records",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
-      "published": "Sun, 28 Dec 2025 12:57:34 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
+      "published": "Tue, 30 Dec 2025 09:40:13 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
       "published": "Mon, 29 Dec 2025 19:08:42 -0500",
@@ -815,12 +821,6 @@
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "url": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "published": "Sun, 28 Dec 2025 15:38:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacker claims to leak WIRED database with 2.3 million records",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
-      "published": "Sun, 28 Dec 2025 12:57:34 -0500",
       "source": "BleepingComputer"
     },
     {
