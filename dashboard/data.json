@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-31T14:44:27.454142Z",
+  "generated_at": "2025-12-31T15:21:29.485412Z",
   "segment1": [
     {
       "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+      "published": "Wed, 31 Dec 2025 09:58:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "IBM warns of critical API Connect auth bypass vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
       "published": "Wed, 31 Dec 2025 05:34:38 -0500",
@@ -369,18 +375,6 @@
       "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
       "url": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
       "published": "Mon, 29 Dec 2025 11:43:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
-      "url": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
-      "published": "Mon, 29 Dec 2025 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
-      "published": "Mon, 29 Dec 2025 10:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+      "published": "Wed, 31 Dec 2025 09:58:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "IBM warns of critical API Connect auth bypass vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
       "published": "Wed, 31 Dec 2025 05:34:38 -0500",
@@ -809,18 +809,6 @@
       "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
       "url": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
       "published": "Mon, 29 Dec 2025 11:43:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
-      "url": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
-      "published": "Mon, 29 Dec 2025 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
-      "published": "Mon, 29 Dec 2025 10:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
