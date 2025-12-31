@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-31T15:43:04.230545Z",
+  "generated_at": "2025-12-31T16:26:56.393652Z",
   "segment1": [
+    {
+      "title": "Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information",
+      "url": "https://databreaches.net/2025/12/31/attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information/?pk_campaign=feed&pk_kwd=attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information",
+      "published": "Wed, 31 Dec 2025 16:16:47 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
       "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
@@ -53,17 +59,17 @@
       "title": "Steward Health Care insurance mess leaves doctors liable for settlements",
       "url": "https://databreaches.net/2025/12/28/steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements/?pk_campaign=feed&pk_kwd=steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements",
       "published": "Sun, 28 Dec 2025 13:28:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Thousands of medical records found in auctioned storage unit",
-      "url": "https://databreaches.net/2025/12/28/thousands-of-medical-records-found-in-auctioned-storage-unit/?pk_campaign=feed&pk_kwd=thousands-of-medical-records-found-in-auctioned-storage-unit",
-      "published": "Sun, 28 Dec 2025 13:27:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information",
+      "url": "https://databreaches.net/2025/12/31/attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information/?pk_campaign=feed&pk_kwd=attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information",
+      "published": "Wed, 31 Dec 2025 16:16:47 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
       "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
       "published": "Wed, 31 Dec 2025 13:57:33 +0000",
@@ -115,12 +121,6 @@
       "title": "Steward Health Care insurance mess leaves doctors liable for settlements",
       "url": "https://databreaches.net/2025/12/28/steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements/?pk_campaign=feed&pk_kwd=steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements",
       "published": "Sun, 28 Dec 2025 13:28:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Thousands of medical records found in auctioned storage unit",
-      "url": "https://databreaches.net/2025/12/28/thousands-of-medical-records-found-in-auctioned-storage-unit/?pk_campaign=feed&pk_kwd=thousands-of-medical-records-found-in-auctioned-storage-unit",
-      "published": "Sun, 28 Dec 2025 13:27:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+      "published": "Wed, 31 Dec 2025 10:54:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
       "published": "Wed, 31 Dec 2025 09:58:51 -0500",
@@ -372,10 +378,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
-      "url": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
-      "published": "Mon, 29 Dec 2025 11:43:02 -0500",
-      "source": "BleepingComputer"
+      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+      "url": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+      "published": "Wed, 31 Dec 2025 21:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
@@ -489,12 +495,6 @@
       "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
       "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
       "published": "Thu, 25 Dec 2025 13:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-      "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-      "published": "Wed, 24 Dec 2025 21:53:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+      "published": "Wed, 31 Dec 2025 10:54:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
       "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
       "published": "Wed, 31 Dec 2025 09:58:51 -0500",
@@ -806,10 +812,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
-      "url": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
-      "published": "Mon, 29 Dec 2025 11:43:02 -0500",
-      "source": "BleepingComputer"
+      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+      "url": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+      "published": "Wed, 31 Dec 2025 21:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
@@ -923,12 +929,6 @@
       "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
       "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
       "published": "Thu, 25 Dec 2025 13:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-      "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-      "published": "Wed, 24 Dec 2025 21:53:00 +0530",
       "source": "The Hacker News"
     },
     {
