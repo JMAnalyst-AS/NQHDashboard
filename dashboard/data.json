@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-31T13:32:49.048092Z",
+  "generated_at": "2025-12-31T14:20:28.588045Z",
   "segment1": [
+    {
+      "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
+      "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
+      "published": "Wed, 31 Dec 2025 13:57:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Software company lacked ‘downstream’ liability for data breach",
       "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
@@ -53,17 +59,17 @@
       "title": "Thousands of medical records found in auctioned storage unit",
       "url": "https://databreaches.net/2025/12/28/thousands-of-medical-records-found-in-auctioned-storage-unit/?pk_campaign=feed&pk_kwd=thousands-of-medical-records-found-in-auctioned-storage-unit",
       "published": "Sun, 28 Dec 2025 13:27:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report",
-      "url": "https://databreaches.net/2025/12/28/coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report/?pk_campaign=feed&pk_kwd=coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report",
-      "published": "Sun, 28 Dec 2025 13:26:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
+      "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
+      "published": "Wed, 31 Dec 2025 13:57:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Software company lacked ‘downstream’ liability for data breach",
       "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
       "published": "Tue, 30 Dec 2025 12:04:01 +0000",
@@ -115,12 +121,6 @@
       "title": "Thousands of medical records found in auctioned storage unit",
       "url": "https://databreaches.net/2025/12/28/thousands-of-medical-records-found-in-auctioned-storage-unit/?pk_campaign=feed&pk_kwd=thousands-of-medical-records-found-in-auctioned-storage-unit",
       "published": "Sun, 28 Dec 2025 13:27:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report",
-      "url": "https://databreaches.net/2025/12/28/coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report/?pk_campaign=feed&pk_kwd=coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report",
-      "published": "Sun, 28 Dec 2025 13:26:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -384,6 +384,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+      "url": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+      "published": "Wed, 31 Dec 2025 19:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+      "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+      "published": "Wed, 31 Dec 2025 18:59:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
       "url": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
       "published": "Wed, 31 Dec 2025 10:47:00 +0530",
@@ -489,18 +501,6 @@
       "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
       "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
       "published": "Wed, 24 Dec 2025 21:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-      "url": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-      "published": "Wed, 24 Dec 2025 18:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
-      "url": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
-      "published": "Wed, 24 Dec 2025 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+      "url": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+      "published": "Wed, 31 Dec 2025 19:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+      "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+      "published": "Wed, 31 Dec 2025 18:59:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
       "url": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
       "published": "Wed, 31 Dec 2025 10:47:00 +0530",
@@ -929,18 +941,6 @@
       "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
       "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
       "published": "Wed, 24 Dec 2025 21:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-      "url": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-      "published": "Wed, 24 Dec 2025 18:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
-      "url": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
-      "published": "Wed, 24 Dec 2025 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
