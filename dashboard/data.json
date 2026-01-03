@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-03T20:22:56.323230Z",
+  "generated_at": "2026-01-03T20:43:14.076316Z",
   "segment1": [
     {
       "title": "ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ShinyHunters claims Resecurity hack, firm says it’s a honeypot",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
       "url": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
       "published": "Fri, 02 Jan 2026 14:00:42 -0500",
@@ -363,12 +369,6 @@
       "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
       "published": "Wed, 31 Dec 2025 10:54:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
-      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
-      "published": "Wed, 31 Dec 2025 09:58:51 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -734,6 +734,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ShinyHunters claims Resecurity hack, firm says it’s a honeypot",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
       "url": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
       "published": "Fri, 02 Jan 2026 14:00:42 -0500",
@@ -791,12 +797,6 @@
       "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
       "published": "Wed, 31 Dec 2025 10:54:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
-      "url": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
-      "published": "Wed, 31 Dec 2025 09:58:51 -0500",
       "source": "BleepingComputer"
     },
     {
