@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-03T18:52:11.510096Z",
+  "generated_at": "2026-01-03T19:16:03.302807Z",
   "segment1": [
+    {
+      "title": "ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot",
+      "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
+      "published": "Sat, 03 Jan 2026 18:56:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
       "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
@@ -53,17 +59,17 @@
       "title": "French software company fined $2 million for cyber failings leading to data breach",
       "url": "https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach",
       "published": "Tue, 30 Dec 2025 12:03:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘Why should we pay these criminals?’: the hidden world of ransomware negotiations",
-      "url": "https://databreaches.net/2025/12/30/why-should-we-pay-these-criminals-the-hidden-world-of-ransomware-negotiations/?pk_campaign=feed&pk_kwd=why-should-we-pay-these-criminals-the-hidden-world-of-ransomware-negotiations",
-      "published": "Tue, 30 Dec 2025 12:02:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot",
+      "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
+      "published": "Sat, 03 Jan 2026 18:56:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
       "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
       "published": "Fri, 02 Jan 2026 18:47:15 +0000",
@@ -115,12 +121,6 @@
       "title": "French software company fined $2 million for cyber failings leading to data breach",
       "url": "https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach",
       "published": "Tue, 30 Dec 2025 12:03:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘Why should we pay these criminals?’: the hidden world of ransomware negotiations",
-      "url": "https://databreaches.net/2025/12/30/why-should-we-pay-these-criminals-the-hidden-world-of-ransomware-negotiations/?pk_campaign=feed&pk_kwd=why-should-we-pay-these-criminals-the-hidden-world-of-ransomware-negotiations",
-      "published": "Tue, 30 Dec 2025 12:02:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
