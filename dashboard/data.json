@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-04T16:24:59.651870Z",
+  "generated_at": "2026-01-04T16:47:58.693545Z",
   "segment1": [
+    {
+      "title": "Reminder: Survey on threats experienced by journalists and security researchers",
+      "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
+      "published": "Sun, 04 Jan 2026 16:25:18 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Illinois Department of Human Services tightens map security after data incident",
       "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
@@ -53,17 +59,17 @@
       "title": "Software company lacked ‘downstream’ liability for data breach",
       "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
       "published": "Tue, 30 Dec 2025 12:04:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US, Australia say ‘MongoBleed’ bug being exploited",
-      "url": "https://databreaches.net/2025/12/30/us-australia-say-mongobleed-bug-being-exploited/?pk_campaign=feed&pk_kwd=us-australia-say-mongobleed-bug-being-exploited",
-      "published": "Tue, 30 Dec 2025 12:03:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Reminder: Survey on threats experienced by journalists and security researchers",
+      "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
+      "published": "Sun, 04 Jan 2026 16:25:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Illinois Department of Human Services tightens map security after data incident",
       "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
       "published": "Sun, 04 Jan 2026 16:24:50 +0000",
@@ -115,12 +121,6 @@
       "title": "Software company lacked ‘downstream’ liability for data breach",
       "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
       "published": "Tue, 30 Dec 2025 12:04:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US, Australia say ‘MongoBleed’ bug being exploited",
-      "url": "https://databreaches.net/2025/12/30/us-australia-say-mongobleed-bug-being-exploited/?pk_campaign=feed&pk_kwd=us-australia-say-mongobleed-bug-being-exploited",
-      "published": "Tue, 30 Dec 2025 12:03:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
