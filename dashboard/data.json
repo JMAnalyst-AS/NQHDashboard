@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-04T15:40:27.645440Z",
+  "generated_at": "2026-01-04T16:24:59.651870Z",
   "segment1": [
+    {
+      "title": "Illinois Department of Human Services tightens map security after data incident",
+      "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
+      "published": "Sun, 04 Jan 2026 16:24:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot",
       "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
@@ -53,17 +59,17 @@
       "title": "US, Australia say ‘MongoBleed’ bug being exploited",
       "url": "https://databreaches.net/2025/12/30/us-australia-say-mongobleed-bug-being-exploited/?pk_campaign=feed&pk_kwd=us-australia-say-mongobleed-bug-being-exploited",
       "published": "Tue, 30 Dec 2025 12:03:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French software company fined $2 million for cyber failings leading to data breach",
-      "url": "https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach",
-      "published": "Tue, 30 Dec 2025 12:03:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Illinois Department of Human Services tightens map security after data incident",
+      "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
+      "published": "Sun, 04 Jan 2026 16:24:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot",
       "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
       "published": "Sat, 03 Jan 2026 18:56:45 +0000",
@@ -115,12 +121,6 @@
       "title": "US, Australia say ‘MongoBleed’ bug being exploited",
       "url": "https://databreaches.net/2025/12/30/us-australia-say-mongobleed-bug-being-exploited/?pk_campaign=feed&pk_kwd=us-australia-say-mongobleed-bug-being-exploited",
       "published": "Tue, 30 Dec 2025 12:03:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French software company fined $2 million for cyber failings leading to data breach",
-      "url": "https://databreaches.net/2025/12/30/french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach/?pk_campaign=feed&pk_kwd=french-software-company-fined-2-million-for-cyber-failings-leading-to-data-breach",
-      "published": "Tue, 30 Dec 2025 12:03:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
