@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T14:25:21.734094Z",
+  "generated_at": "2026-01-05T14:51:25.047598Z",
   "segment1": [
     {
       "title": "Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
+      "published": "Mon, 05 Jan 2026 09:48:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
       "published": "Sat, 03 Jan 2026 15:34:22 -0500",
@@ -357,18 +363,6 @@
       "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
       "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
       "published": "Thu, 01 Jan 2026 10:18:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
-      "url": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
-      "published": "Wed, 31 Dec 2025 17:52:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
-      "published": "Wed, 31 Dec 2025 10:54:17 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -734,6 +728,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
+      "published": "Mon, 05 Jan 2026 09:48:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
       "published": "Sat, 03 Jan 2026 15:34:22 -0500",
@@ -785,18 +785,6 @@
       "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
       "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
       "published": "Thu, 01 Jan 2026 10:18:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
-      "url": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
-      "published": "Wed, 31 Dec 2025 17:52:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
-      "published": "Wed, 31 Dec 2025 10:54:17 -0500",
       "source": "BleepingComputer"
     },
     {
