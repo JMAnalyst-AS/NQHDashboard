@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-05T12:48:37.153668Z",
+  "generated_at": "2026-01-05T13:40:58.642903Z",
   "segment1": [
+    {
+      "title": "Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.",
+      "url": "https://databreaches.net/2026/01/05/threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was/?pk_campaign=feed&pk_kwd=threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was",
+      "published": "Mon, 05 Jan 2026 13:26:53 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Reminder: Survey on threats experienced by journalists and security researchers",
       "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
@@ -53,17 +59,17 @@
       "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
       "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
       "published": "Wed, 31 Dec 2025 13:57:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Software company lacked ‘downstream’ liability for data breach",
-      "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
-      "published": "Tue, 30 Dec 2025 12:04:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.",
+      "url": "https://databreaches.net/2026/01/05/threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was/?pk_campaign=feed&pk_kwd=threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was",
+      "published": "Mon, 05 Jan 2026 13:26:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Reminder: Survey on threats experienced by journalists and security researchers",
       "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
       "published": "Sun, 04 Jan 2026 16:25:18 +0000",
@@ -115,12 +121,6 @@
       "title": "Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware",
       "url": "https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware",
       "published": "Wed, 31 Dec 2025 13:57:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Software company lacked ‘downstream’ liability for data breach",
-      "url": "https://databreaches.net/2025/12/30/software-company-lacked-downstream-liability-for-data-breach/?pk_campaign=feed&pk_kwd=software-company-lacked-downstream-liability-for-data-breach",
-      "published": "Tue, 30 Dec 2025 12:04:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
