@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T18:32:43.954086Z",
+  "generated_at": "2026-01-06T19:17:24.579797Z",
   "segment1": [
+    {
+      "title": "Desjardins data breach: Quebec suspect arrested in Spain",
+      "url": "https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain",
+      "published": "Tue, 06 Jan 2026 19:08:46 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A hacker, known as Martha Root, takes down a white supremacist dating site live",
       "url": "https://databreaches.net/2026/01/06/a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live/?pk_campaign=feed&pk_kwd=a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live",
@@ -53,17 +59,17 @@
       "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
       "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
       "published": "Fri, 02 Jan 2026 18:47:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People",
-      "url": "https://databreaches.net/2026/01/02/healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people/?pk_campaign=feed&pk_kwd=healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people",
-      "published": "Fri, 02 Jan 2026 18:47:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Desjardins data breach: Quebec suspect arrested in Spain",
+      "url": "https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain",
+      "published": "Tue, 06 Jan 2026 19:08:46 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A hacker, known as Martha Root, takes down a white supremacist dating site live",
       "url": "https://databreaches.net/2026/01/06/a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live/?pk_campaign=feed&pk_kwd=a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live",
       "published": "Tue, 06 Jan 2026 17:24:37 +0000",
@@ -115,12 +121,6 @@
       "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
       "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
       "published": "Fri, 02 Jan 2026 18:47:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People",
-      "url": "https://databreaches.net/2026/01/02/healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people/?pk_campaign=feed&pk_kwd=healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people",
-      "published": "Fri, 02 Jan 2026 18:47:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+      "url": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+      "published": "Tue, 06 Jan 2026 14:15:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
       "published": "Tue, 06 Jan 2026 13:27:08 -0500",
@@ -369,12 +375,6 @@
       "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
       "url": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
       "published": "Mon, 05 Jan 2026 09:48:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+      "url": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+      "published": "Tue, 06 Jan 2026 14:15:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
       "published": "Tue, 06 Jan 2026 13:27:08 -0500",
@@ -803,12 +809,6 @@
       "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
       "url": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
       "published": "Mon, 05 Jan 2026 09:48:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
       "source": "BleepingComputer"
     },
     {
