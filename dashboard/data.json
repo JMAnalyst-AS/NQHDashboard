@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T22:21:57.348649Z",
+  "generated_at": "2026-01-06T22:46:33.234481Z",
   "segment1": [
+    {
+      "title": "HIPAA Compliance and Breach Communications: Helpful Tips for SMBs",
+      "url": "https://databreaches.net/2026/01/06/hipaa-compliance-and-breach-communications-helpful-tips-for-smbs/?pk_campaign=feed&pk_kwd=hipaa-compliance-and-breach-communications-helpful-tips-for-smbs",
+      "published": "Tue, 06 Jan 2026 22:44:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Desjardins data breach: Quebec suspect arrested in Spain",
       "url": "https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain",
@@ -53,17 +59,17 @@
       "title": "SLH claims to have compromised Resecurity, but it looks like they fell for a honeypot",
       "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
       "published": "Sat, 03 Jan 2026 18:56:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
-      "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
-      "published": "Fri, 02 Jan 2026 18:47:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "HIPAA Compliance and Breach Communications: Helpful Tips for SMBs",
+      "url": "https://databreaches.net/2026/01/06/hipaa-compliance-and-breach-communications-helpful-tips-for-smbs/?pk_campaign=feed&pk_kwd=hipaa-compliance-and-breach-communications-helpful-tips-for-smbs",
+      "published": "Tue, 06 Jan 2026 22:44:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Desjardins data breach: Quebec suspect arrested in Spain",
       "url": "https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain",
       "published": "Tue, 06 Jan 2026 19:08:46 +0000",
@@ -115,12 +121,6 @@
       "title": "SLH claims to have compromised Resecurity, but it looks like they fell for a honeypot",
       "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
       "published": "Sat, 03 Jan 2026 18:56:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ: ManageMyHealth data breach: More than 108k users potentially affected",
-      "url": "https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected",
-      "published": "Fri, 02 Jan 2026 18:47:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
+      "url": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
+      "published": "Tue, 06 Jan 2026 17:27:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
       "published": "Tue, 06 Jan 2026 15:49:30 -0500",
@@ -375,12 +381,6 @@
       "title": "Ledger customers impacted by third-party Global-e data breach",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
       "published": "Mon, 05 Jan 2026 10:14:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
-      "published": "Mon, 05 Jan 2026 10:05:15 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
+      "url": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
+      "published": "Tue, 06 Jan 2026 17:27:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
       "published": "Tue, 06 Jan 2026 15:49:30 -0500",
@@ -815,12 +821,6 @@
       "title": "Ledger customers impacted by third-party Global-e data breach",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
       "published": "Mon, 05 Jan 2026 10:14:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
-      "published": "Mon, 05 Jan 2026 10:05:15 -0500",
       "source": "BleepingComputer"
     },
     {
