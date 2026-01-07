@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T23:41:25.559062Z",
+  "generated_at": "2026-01-07T01:46:49.496636Z",
   "segment1": [
+    {
+      "title": "NordVPN Hack Claim Firmly Refuted by NordVPN",
+      "url": "https://databreaches.net/2026/01/06/nordvpn-hack-claim-firmly-refuted-by-nordvpn/?pk_campaign=feed&pk_kwd=nordvpn-hack-claim-firmly-refuted-by-nordvpn",
+      "published": "Wed, 07 Jan 2026 00:56:14 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "HIPAA Compliance and Breach Communications: Helpful Tips for SMBs",
       "url": "https://databreaches.net/2026/01/06/hipaa-compliance-and-breach-communications-helpful-tips-for-smbs/?pk_campaign=feed&pk_kwd=hipaa-compliance-and-breach-communications-helpful-tips-for-smbs",
@@ -53,17 +59,17 @@
       "title": "Illinois Department of Human Services tightens map security after data incident",
       "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
       "published": "Sun, 04 Jan 2026 16:24:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SLH claims to have compromised Resecurity, but it looks like they fell for a honeypot",
-      "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
-      "published": "Sat, 03 Jan 2026 18:56:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NordVPN Hack Claim Firmly Refuted by NordVPN",
+      "url": "https://databreaches.net/2026/01/06/nordvpn-hack-claim-firmly-refuted-by-nordvpn/?pk_campaign=feed&pk_kwd=nordvpn-hack-claim-firmly-refuted-by-nordvpn",
+      "published": "Wed, 07 Jan 2026 00:56:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "HIPAA Compliance and Breach Communications: Helpful Tips for SMBs",
       "url": "https://databreaches.net/2026/01/06/hipaa-compliance-and-breach-communications-helpful-tips-for-smbs/?pk_campaign=feed&pk_kwd=hipaa-compliance-and-breach-communications-helpful-tips-for-smbs",
       "published": "Tue, 06 Jan 2026 22:44:43 +0000",
@@ -115,12 +121,6 @@
       "title": "Illinois Department of Human Services tightens map security after data incident",
       "url": "https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident",
       "published": "Sun, 04 Jan 2026 16:24:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SLH claims to have compromised Resecurity, but it looks like they fell for a honeypot",
-      "url": "https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot",
-      "published": "Sat, 03 Jan 2026 18:56:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI is rolling out GPT-5.2 “Codex-Max” for some users",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
+      "published": "Tue, 06 Jan 2026 19:30:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Taiwan says China's attacks on its energy sector increased tenfold",
       "url": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
       "published": "Tue, 06 Jan 2026 17:27:15 -0500",
@@ -375,12 +381,6 @@
       "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
       "url": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
       "published": "Mon, 05 Jan 2026 11:41:38 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ledger customers impacted by third-party Global-e data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-      "published": "Mon, 05 Jan 2026 10:14:04 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI is rolling out GPT-5.2 “Codex-Max” for some users",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
+      "published": "Tue, 06 Jan 2026 19:30:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Taiwan says China's attacks on its energy sector increased tenfold",
       "url": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
       "published": "Tue, 06 Jan 2026 17:27:15 -0500",
@@ -815,12 +821,6 @@
       "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
       "url": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
       "published": "Mon, 05 Jan 2026 11:41:38 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ledger customers impacted by third-party Global-e data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-      "published": "Mon, 05 Jan 2026 10:14:04 -0500",
       "source": "BleepingComputer"
     },
     {
