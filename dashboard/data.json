@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T21:21:53.720837Z",
+  "generated_at": "2026-01-08T21:43:42.025801Z",
   "segment1": [
     {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VMware ESXi zero-days likely exploited a year before disclosure",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
+      "published": "Thu, 08 Jan 2026 16:27:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco switches hit by reboot loops due to DNS client bug",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
       "published": "Thu, 08 Jan 2026 15:40:26 -0500",
@@ -369,12 +375,6 @@
       "title": "ChatGPT is losing market share as Google Gemini gains ground",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
       "published": "Wed, 07 Jan 2026 15:58:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
-      "url": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
-      "published": "Wed, 07 Jan 2026 13:05:42 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VMware ESXi zero-days likely exploited a year before disclosure",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
+      "published": "Thu, 08 Jan 2026 16:27:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco switches hit by reboot loops due to DNS client bug",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
       "published": "Thu, 08 Jan 2026 15:40:26 -0500",
@@ -803,12 +809,6 @@
       "title": "ChatGPT is losing market share as Google Gemini gains ground",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
       "published": "Wed, 07 Jan 2026 15:58:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
-      "url": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
-      "published": "Wed, 07 Jan 2026 13:05:42 -0500",
       "source": "BleepingComputer"
     },
     {
