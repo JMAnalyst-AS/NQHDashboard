@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-08T12:47:37.087871Z",
+  "generated_at": "2026-01-08T13:40:53.744307Z",
   "segment1": [
+    {
+      "title": "Methodist Homes of Alabama and Northwest Florida is notifying residents and employees of its second data breach in seven months.",
+      "url": "https://databreaches.net/2026/01/08/methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months/?pk_campaign=feed&pk_kwd=methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months",
+      "published": "Thu, 08 Jan 2026 13:14:22 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Crypto wallet firm Ledger faces customer data breach through payment processor Global-e",
       "url": "https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e",
@@ -53,17 +59,17 @@
       "title": "Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.",
       "url": "https://databreaches.net/2026/01/05/threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was/?pk_campaign=feed&pk_kwd=threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was",
       "published": "Mon, 05 Jan 2026 13:26:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Reminder: Survey on threats experienced by journalists and security researchers",
-      "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
-      "published": "Sun, 04 Jan 2026 16:25:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Methodist Homes of Alabama and Northwest Florida is notifying residents and employees of its second data breach in seven months.",
+      "url": "https://databreaches.net/2026/01/08/methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months/?pk_campaign=feed&pk_kwd=methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months",
+      "published": "Thu, 08 Jan 2026 13:14:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Crypto wallet firm Ledger faces customer data breach through payment processor Global-e",
       "url": "https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e",
       "published": "Wed, 07 Jan 2026 15:07:07 +0000",
@@ -115,12 +121,6 @@
       "title": "Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.",
       "url": "https://databreaches.net/2026/01/05/threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was/?pk_campaign=feed&pk_kwd=threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was",
       "published": "Mon, 05 Jan 2026 13:26:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Reminder: Survey on threats experienced by journalists and security researchers",
-      "url": "https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers",
-      "published": "Sun, 04 Jan 2026 16:25:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+      "published": "Thu, 08 Jan 2026 18:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "The State of Trusted Open Source",
       "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
       "published": "Thu, 08 Jan 2026 17:20:00 +0530",
@@ -495,12 +501,6 @@
       "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
       "url": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
       "published": "Tue, 06 Jan 2026 16:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-      "url": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "published": "Tue, 06 Jan 2026 10:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+      "published": "Thu, 08 Jan 2026 18:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "The State of Trusted Open Source",
       "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
       "published": "Thu, 08 Jan 2026 17:20:00 +0530",
@@ -935,12 +941,6 @@
       "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
       "url": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
       "published": "Tue, 06 Jan 2026 16:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-      "url": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "published": "Tue, 06 Jan 2026 10:38:00 +0530",
       "source": "The Hacker News"
     },
     {
