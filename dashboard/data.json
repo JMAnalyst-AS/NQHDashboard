@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T22:46:35.622612Z",
+  "generated_at": "2026-01-08T23:18:39.334102Z",
   "segment1": [
     {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
+      "published": "Thu, 08 Jan 2026 17:57:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
       "published": "Thu, 08 Jan 2026 17:43:00 -0500",
@@ -375,12 +381,6 @@
       "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
       "url": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
       "published": "Wed, 07 Jan 2026 16:46:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT is losing market share as Google Gemini gains ground",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
-      "published": "Wed, 07 Jan 2026 15:58:02 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
+      "published": "Thu, 08 Jan 2026 17:57:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
       "published": "Thu, 08 Jan 2026 17:43:00 -0500",
@@ -815,12 +821,6 @@
       "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
       "url": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
       "published": "Wed, 07 Jan 2026 16:46:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT is losing market share as Google Gemini gains ground",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
-      "published": "Wed, 07 Jan 2026 15:58:02 -0500",
       "source": "BleepingComputer"
     },
     {
