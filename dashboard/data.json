@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-09T11:41:57.808179Z",
+  "generated_at": "2026-01-09T12:46:16.043253Z",
   "segment1": [
+    {
+      "title": "Illinois Man Charged in Snapchat Hacking Investigation",
+      "url": "https://databreaches.net/2026/01/09/illinois-man-charged-in-snapchat-hacking-investigation/?pk_campaign=feed&pk_kwd=illinois-man-charged-in-snapchat-hacking-investigation",
+      "published": "Fri, 09 Jan 2026 12:06:47 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
       "url": "https://databreaches.net/2026/01/08/eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says/?pk_campaign=feed&pk_kwd=eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says",
@@ -53,17 +59,17 @@
       "title": "Ca: Leduc County target of Christmas Day cybersecurity attack",
       "url": "https://databreaches.net/2026/01/05/ca-leduc-county-target-of-christmas-day-cybersecurity-attack/?pk_campaign=feed&pk_kwd=ca-leduc-county-target-of-christmas-day-cybersecurity-attack",
       "published": "Mon, 05 Jan 2026 16:20:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ: High Court grants injunction over ManageMyHealth cyber breach",
-      "url": "https://databreaches.net/2026/01/05/nz-high-court-grants-injunction-over-managemyhealth-cyber-breach/?pk_campaign=feed&pk_kwd=nz-high-court-grants-injunction-over-managemyhealth-cyber-breach",
-      "published": "Mon, 05 Jan 2026 15:30:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Illinois Man Charged in Snapchat Hacking Investigation",
+      "url": "https://databreaches.net/2026/01/09/illinois-man-charged-in-snapchat-hacking-investigation/?pk_campaign=feed&pk_kwd=illinois-man-charged-in-snapchat-hacking-investigation",
+      "published": "Fri, 09 Jan 2026 12:06:47 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
       "url": "https://databreaches.net/2026/01/08/eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says/?pk_campaign=feed&pk_kwd=eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says",
       "published": "Thu, 08 Jan 2026 18:12:37 +0000",
@@ -115,12 +121,6 @@
       "title": "Ca: Leduc County target of Christmas Day cybersecurity attack",
       "url": "https://databreaches.net/2026/01/05/ca-leduc-county-target-of-christmas-day-cybersecurity-attack/?pk_campaign=feed&pk_kwd=ca-leduc-county-target-of-christmas-day-cybersecurity-attack",
       "published": "Mon, 05 Jan 2026 16:20:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ: High Court grants injunction over ManageMyHealth cyber breach",
-      "url": "https://databreaches.net/2026/01/05/nz-high-court-grants-injunction-over-managemyhealth-cyber-breach/?pk_campaign=feed&pk_kwd=nz-high-court-grants-injunction-over-managemyhealth-cyber-breach",
-      "published": "Mon, 05 Jan 2026 15:30:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -384,6 +384,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+      "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+      "published": "Fri, 09 Jan 2026 16:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
       "url": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
       "published": "Fri, 09 Jan 2026 15:31:00 +0530",
@@ -495,12 +501,6 @@
       "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
       "url": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
       "published": "Wed, 07 Jan 2026 15:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-      "url": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-      "published": "Wed, 07 Jan 2026 10:01:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -824,6 +824,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+      "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+      "published": "Fri, 09 Jan 2026 16:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
       "url": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
       "published": "Fri, 09 Jan 2026 15:31:00 +0530",
@@ -935,12 +941,6 @@
       "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
       "url": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
       "published": "Wed, 07 Jan 2026 15:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-      "url": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-      "published": "Wed, 07 Jan 2026 10:01:00 +0530",
       "source": "The Hacker News"
     },
     {
