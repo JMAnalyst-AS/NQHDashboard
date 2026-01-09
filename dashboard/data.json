@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T10:24:02.788676Z",
+  "generated_at": "2026-01-09T10:49:34.705707Z",
   "segment1": [
     {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
+      "published": "Fri, 09 Jan 2026 05:40:26 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
       "published": "Thu, 08 Jan 2026 22:46:07 -0500",
@@ -375,12 +381,6 @@
       "title": "Cisco warns of Identity Service Engine flaw with exploit code",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
       "published": "Thu, 08 Jan 2026 04:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
-      "published": "Thu, 08 Jan 2026 02:45:25 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
+      "published": "Fri, 09 Jan 2026 05:40:26 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
       "published": "Thu, 08 Jan 2026 22:46:07 -0500",
@@ -815,12 +821,6 @@
       "title": "Cisco warns of Identity Service Engine flaw with exploit code",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
       "published": "Thu, 08 Jan 2026 04:13:17 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
-      "published": "Thu, 08 Jan 2026 02:45:25 -0500",
       "source": "BleepingComputer"
     },
     {
