@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T23:40:22.011996Z",
+  "generated_at": "2026-01-09T01:47:45.069893Z",
   "segment1": [
     {
       "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails",
+      "url": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
+      "published": "Thu, 08 Jan 2026 18:46:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New China-linked hackers breach telcos using edge device exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/",
       "published": "Thu, 08 Jan 2026 18:39:12 -0500",
@@ -375,12 +381,6 @@
       "title": "OpenAI says ChatGPT won't use your health information to train its models",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
       "published": "Wed, 07 Jan 2026 18:28:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
-      "published": "Wed, 07 Jan 2026 18:18:14 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails",
+      "url": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
+      "published": "Thu, 08 Jan 2026 18:46:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New China-linked hackers breach telcos using edge device exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/",
       "published": "Thu, 08 Jan 2026 18:39:12 -0500",
@@ -815,12 +821,6 @@
       "title": "OpenAI says ChatGPT won't use your health information to train its models",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
       "published": "Wed, 07 Jan 2026 18:28:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
-      "published": "Wed, 07 Jan 2026 18:18:14 -0500",
       "source": "BleepingComputer"
     },
     {
