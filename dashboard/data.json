@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-12T15:50:38.067420Z",
+  "generated_at": "2026-01-12T16:28:13.363878Z",
   "segment1": [
+    {
+      "title": "Dutch court sentences hacker who used port systems to smuggle cocaine to 7 years",
+      "url": "https://databreaches.net/2026/01/12/dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years/?pk_campaign=feed&pk_kwd=dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years",
+      "published": "Mon, 12 Jan 2026 16:27:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Another plastic surgery practice fell prey to a cyberattack with extortion attempt",
       "url": "https://databreaches.net/2026/01/12/another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt/?pk_campaign=feed&pk_kwd=another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt",
@@ -53,17 +59,17 @@
       "title": "Crypto wallet firm Ledger faces customer data breach through payment processor Global-e",
       "url": "https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e",
       "published": "Wed, 07 Jan 2026 15:07:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NordVPN Hack Claim Firmly Refuted by NordVPN",
-      "url": "https://databreaches.net/2026/01/06/nordvpn-hack-claim-firmly-refuted-by-nordvpn/?pk_campaign=feed&pk_kwd=nordvpn-hack-claim-firmly-refuted-by-nordvpn",
-      "published": "Wed, 07 Jan 2026 00:56:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Dutch court sentences hacker who used port systems to smuggle cocaine to 7 years",
+      "url": "https://databreaches.net/2026/01/12/dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years/?pk_campaign=feed&pk_kwd=dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years",
+      "published": "Mon, 12 Jan 2026 16:27:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Another plastic surgery practice fell prey to a cyberattack with extortion attempt",
       "url": "https://databreaches.net/2026/01/12/another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt/?pk_campaign=feed&pk_kwd=another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt",
       "published": "Mon, 12 Jan 2026 13:18:22 +0000",
@@ -115,12 +121,6 @@
       "title": "Crypto wallet firm Ledger faces customer data breach through payment processor Global-e",
       "url": "https://databreaches.net/2026/01/07/crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e/?pk_campaign=feed&pk_kwd=crypto-wallet-firm-ledger-faces-customer-data-breach-through-payment-processor-global-e",
       "published": "Wed, 07 Jan 2026 15:07:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NordVPN Hack Claim Firmly Refuted by NordVPN",
-      "url": "https://databreaches.net/2026/01/06/nordvpn-hack-claim-firmly-refuted-by-nordvpn/?pk_campaign=feed&pk_kwd=nordvpn-hack-claim-firmly-refuted-by-nordvpn",
-      "published": "Wed, 07 Jan 2026 00:56:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
+      "published": "Mon, 12 Jan 2026 11:20:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
+      "published": "Mon, 12 Jan 2026 10:57:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
       "published": "Mon, 12 Jan 2026 10:48:37 -0500",
@@ -363,18 +375,6 @@
       "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
       "url": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
       "published": "Sat, 10 Jan 2026 05:27:38 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
-      "published": "Fri, 09 Jan 2026 19:06:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-      "published": "Fri, 09 Jan 2026 18:23:08 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -740,6 +740,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
+      "published": "Mon, 12 Jan 2026 11:20:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
+      "published": "Mon, 12 Jan 2026 10:57:50 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
       "published": "Mon, 12 Jan 2026 10:48:37 -0500",
@@ -797,18 +809,6 @@
       "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
       "url": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
       "published": "Sat, 10 Jan 2026 05:27:38 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
-      "published": "Fri, 09 Jan 2026 19:06:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-      "published": "Fri, 09 Jan 2026 18:23:08 -0500",
       "source": "BleepingComputer"
     },
     {
