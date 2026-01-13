@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T13:41:36.585183Z",
+  "generated_at": "2026-01-13T14:26:11.459015Z",
   "segment1": [
     {
       "title": "Armenia probes alleged sale of 8 million government records on hacker forum",
@@ -306,7 +306,7 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Target employees confirm leaked code after ‘accelerated’ Git lockdown",
+      "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
       "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
       "published": "Tue, 13 Jan 2026 08:08:25 -0500",
       "source": "BleepingComputer"
@@ -382,6 +382,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
       "published": "Mon, 12 Jan 2026 09:05:54 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "url": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "published": "Tue, 13 Jan 2026 19:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
@@ -495,12 +501,6 @@
       "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
       "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
       "published": "Thu, 08 Jan 2026 22:40:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-      "url": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
-      "published": "Thu, 08 Jan 2026 20:24:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,7 +746,7 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Target employees confirm leaked code after ‘accelerated’ Git lockdown",
+      "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
       "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
       "published": "Tue, 13 Jan 2026 08:08:25 -0500",
       "source": "BleepingComputer"
@@ -822,6 +822,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
       "published": "Mon, 12 Jan 2026 09:05:54 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "url": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "published": "Tue, 13 Jan 2026 19:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
@@ -935,12 +941,6 @@
       "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
       "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
       "published": "Thu, 08 Jan 2026 22:40:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-      "url": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
-      "published": "Thu, 08 Jan 2026 20:24:00 +0530",
       "source": "The Hacker News"
     },
     {
