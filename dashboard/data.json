@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-13T21:43:39.433168Z",
+  "generated_at": "2026-01-13T22:22:37.639655Z",
   "segment1": [
+    {
+      "title": "NY: Southold Laserfiche access remains suspended after cyberattack",
+      "url": "https://databreaches.net/2026/01/13/ny-southold-laserfiche-access-remains-suspended-after-cyberattack/?pk_campaign=feed&pk_kwd=ny-southold-laserfiche-access-remains-suspended-after-cyberattack",
+      "published": "Tue, 13 Jan 2026 22:05:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Tennessee man to plead guilty to hacking US Supreme Court filing system",
       "url": "https://databreaches.net/2026/01/13/tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/?pk_campaign=feed&pk_kwd=tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system",
@@ -53,17 +59,17 @@
       "title": "CrazyHunter ransomware escalates with advanced intrusion tactics, six Taiwan healthcare victims confirmed",
       "url": "https://databreaches.net/2026/01/12/crazyhunter-ransomware-escalates-with-advanced-intrusion-tactics-six-taiwan-healthcare-victims-confirmed/?pk_campaign=feed&pk_kwd=crazyhunter-ransomware-escalates-with-advanced-intrusion-tactics-six-taiwan-healthcare-victims-confirmed",
       "published": "Mon, 12 Jan 2026 13:17:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Basketball player arrested for alleged ransomware ties freed in Russia-France prisoner swap",
-      "url": "https://databreaches.net/2026/01/10/basketball-player-arrested-for-alleged-ransomware-ties-freed-in-russia-france-prisoner-swap/?pk_campaign=feed&pk_kwd=basketball-player-arrested-for-alleged-ransomware-ties-freed-in-russia-france-prisoner-swap",
-      "published": "Sat, 10 Jan 2026 14:26:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NY: Southold Laserfiche access remains suspended after cyberattack",
+      "url": "https://databreaches.net/2026/01/13/ny-southold-laserfiche-access-remains-suspended-after-cyberattack/?pk_campaign=feed&pk_kwd=ny-southold-laserfiche-access-remains-suspended-after-cyberattack",
+      "published": "Tue, 13 Jan 2026 22:05:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Tennessee man to plead guilty to hacking US Supreme Court filing system",
       "url": "https://databreaches.net/2026/01/13/tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/?pk_campaign=feed&pk_kwd=tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system",
       "published": "Tue, 13 Jan 2026 21:39:45 +0000",
@@ -115,12 +121,6 @@
       "title": "CrazyHunter ransomware escalates with advanced intrusion tactics, six Taiwan healthcare victims confirmed",
       "url": "https://databreaches.net/2026/01/12/crazyhunter-ransomware-escalates-with-advanced-intrusion-tactics-six-taiwan-healthcare-victims-confirmed/?pk_campaign=feed&pk_kwd=crazyhunter-ransomware-escalates-with-advanced-intrusion-tactics-six-taiwan-healthcare-victims-confirmed",
       "published": "Mon, 12 Jan 2026 13:17:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Basketball player arrested for alleged ransomware ties freed in Russia-France prisoner swap",
-      "url": "https://databreaches.net/2026/01/10/basketball-player-arrested-for-alleged-ransomware-ties-freed-in-russia-france-prisoner-swap/?pk_campaign=feed&pk_kwd=basketball-player-arrested-for-alleged-ransomware-ties-freed-in-russia-france-prisoner-swap",
-      "published": "Sat, 10 Jan 2026 14:26:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New VoidLink malware framework targets Linux cloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
+      "published": "Tue, 13 Jan 2026 17:12:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Central Maine Healthcare breach exposed data of over 145,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
       "published": "Tue, 13 Jan 2026 15:32:29 -0500",
@@ -375,12 +381,6 @@
       "title": "Facebook login thieves now using browser-in-browser trick",
       "url": "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/",
       "published": "Mon, 12 Jan 2026 16:05:43 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/",
-      "published": "Mon, 12 Jan 2026 15:09:16 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New VoidLink malware framework targets Linux cloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
+      "published": "Tue, 13 Jan 2026 17:12:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Central Maine Healthcare breach exposed data of over 145,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
       "published": "Tue, 13 Jan 2026 15:32:29 -0500",
@@ -815,12 +821,6 @@
       "title": "Facebook login thieves now using browser-in-browser trick",
       "url": "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/",
       "published": "Mon, 12 Jan 2026 16:05:43 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/",
-      "published": "Mon, 12 Jan 2026 15:09:16 -0500",
       "source": "BleepingComputer"
     },
     {
