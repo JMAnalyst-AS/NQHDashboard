@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-13T15:26:13.196587Z",
+  "generated_at": "2026-01-13T15:50:51.855909Z",
   "segment1": [
+    {
+      "title": "Antwerp’s AZ Monica hospital hit by cyber attack",
+      "url": "https://databreaches.net/2026/01/13/antwerps-az-monica-hospital-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=antwerps-az-monica-hospital-hit-by-cyber-attack",
+      "published": "Tue, 13 Jan 2026 15:41:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Armenia probes alleged sale of 8 million government records on hacker forum",
       "url": "https://databreaches.net/2026/01/13/armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum/?pk_campaign=feed&pk_kwd=armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum",
@@ -53,17 +59,17 @@
       "title": "Illinois Man Charged in Snapchat Hacking Investigation",
       "url": "https://databreaches.net/2026/01/09/illinois-man-charged-in-snapchat-hacking-investigation/?pk_campaign=feed&pk_kwd=illinois-man-charged-in-snapchat-hacking-investigation",
       "published": "Fri, 09 Jan 2026 12:06:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
-      "url": "https://databreaches.net/2026/01/08/eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says/?pk_campaign=feed&pk_kwd=eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says",
-      "published": "Thu, 08 Jan 2026 18:12:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Antwerp’s AZ Monica hospital hit by cyber attack",
+      "url": "https://databreaches.net/2026/01/13/antwerps-az-monica-hospital-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=antwerps-az-monica-hospital-hit-by-cyber-attack",
+      "published": "Tue, 13 Jan 2026 15:41:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Armenia probes alleged sale of 8 million government records on hacker forum",
       "url": "https://databreaches.net/2026/01/13/armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum/?pk_campaign=feed&pk_kwd=armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum",
       "published": "Tue, 13 Jan 2026 12:41:16 +0000",
@@ -115,12 +121,6 @@
       "title": "Illinois Man Charged in Snapchat Hacking Investigation",
       "url": "https://databreaches.net/2026/01/09/illinois-man-charged-in-snapchat-hacking-investigation/?pk_campaign=feed&pk_kwd=illinois-man-charged-in-snapchat-hacking-investigation",
       "published": "Fri, 09 Jan 2026 12:06:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says",
-      "url": "https://databreaches.net/2026/01/08/eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says/?pk_campaign=feed&pk_kwd=eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says",
-      "published": "Thu, 08 Jan 2026 18:12:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
       "published": "Mon, 24 Nov 2025 18:44:52 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
+      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
@@ -744,6 +750,12 @@
       "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
       "published": "Mon, 24 Nov 2025 18:44:52 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
+      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
