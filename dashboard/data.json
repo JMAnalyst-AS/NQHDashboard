@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T11:43:34.873079Z",
+  "generated_at": "2026-01-14T12:48:10.587474Z",
   "segment1": [
     {
       "title": "Personal Details of Thousands of Border Patrol and ICE Agents Allegedly Leaked in Huge Data Breach",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
+      "published": "Wed, 14 Jan 2026 07:01:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Victorian Department of Education says hackers stole students’ data",
+      "url": "https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/",
+      "published": "Wed, 14 Jan 2026 06:44:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
       "published": "Wed, 14 Jan 2026 04:55:06 -0500",
@@ -372,22 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Betterment confirms data breach after wave of crypto scam emails",
-      "url": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
-      "published": "Tue, 13 Jan 2026 11:46:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
-      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Target employees confirm leaked source code is authentic",
-      "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
-      "published": "Tue, 13 Jan 2026 08:08:25 -0500",
-      "source": "BleepingComputer"
+      "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+      "published": "Wed, 14 Jan 2026 17:23:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
@@ -501,12 +501,6 @@
       "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
       "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
       "published": "Sat, 10 Jan 2026 14:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
-      "url": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-      "published": "Fri, 09 Jan 2026 23:13:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -752,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
+      "published": "Wed, 14 Jan 2026 07:01:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Victorian Department of Education says hackers stole students’ data",
+      "url": "https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/",
+      "published": "Wed, 14 Jan 2026 06:44:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
       "published": "Wed, 14 Jan 2026 04:55:06 -0500",
@@ -818,22 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Betterment confirms data breach after wave of crypto scam emails",
-      "url": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
-      "published": "Tue, 13 Jan 2026 11:46:02 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
-      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Target employees confirm leaked source code is authentic",
-      "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
-      "published": "Tue, 13 Jan 2026 08:08:25 -0500",
-      "source": "BleepingComputer"
+      "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
+      "published": "Wed, 14 Jan 2026 17:23:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
@@ -947,12 +941,6 @@
       "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
       "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
       "published": "Sat, 10 Jan 2026 14:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
-      "url": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-      "published": "Fri, 09 Jan 2026 23:13:00 +0530",
       "source": "The Hacker News"
     },
     {
