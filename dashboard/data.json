@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T08:31:37.402558Z",
+  "generated_at": "2026-01-14T09:29:26.538532Z",
   "segment1": [
     {
       "title": "Personal Details of Thousands of Border Patrol and ICE Agents Allegedly Leaked in Huge Data Breach",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Designing safer links: secure connectivity for operational technology",
+      "url": "https://www.ncsc.gov.uk/blog-post/designing-safer-links-secure-connectivity-for-ot",
+      "published": "Mon, 12 Jan 2026 15:33:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "The Government Cyber Action Plan: strengthening resilience across the UK",
       "url": "https://www.ncsc.gov.uk/blog-post/government-cyber-action-plan-strengthening-resilience-across-uk",
       "published": "Wed, 07 Jan 2026 13:16:03 GMT",
@@ -240,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "What makes a responsible cyber actor: introducing the Pall Mall industry consultation on good practice",
-      "url": "https://www.ncsc.gov.uk/blog-post/what-makes-a-responsible-cyber-actor",
-      "published": "Tue, 02 Dec 2025 09:30:15 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
       "published": "Wed, 14 Jan 2026 00:47:38 +0000",
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
       "published": "Wed, 26 Nov 2025 17:22:36 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Monroe University says 2024 data breach affects 320,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
+      "published": "Wed, 14 Jan 2026 03:57:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ukraine's army targeted in new charity-themed malware campaign",
@@ -375,12 +381,6 @@
       "title": "Target employees confirm leaked source code is authentic",
       "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
       "published": "Tue, 13 Jan 2026 08:08:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
-      "published": "Mon, 12 Jan 2026 18:06:47 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -566,6 +566,12 @@
   ],
   "rss": [
     {
+      "title": "Designing safer links: secure connectivity for operational technology",
+      "url": "https://www.ncsc.gov.uk/blog-post/designing-safer-links-secure-connectivity-for-ot",
+      "published": "Mon, 12 Jan 2026 15:33:06 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "The Government Cyber Action Plan: strengthening resilience across the UK",
       "url": "https://www.ncsc.gov.uk/blog-post/government-cyber-action-plan-strengthening-resilience-across-uk",
       "published": "Wed, 07 Jan 2026 13:16:03 GMT",
@@ -680,12 +686,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "What makes a responsible cyber actor: introducing the Pall Mall industry consultation on good practice",
-      "url": "https://www.ncsc.gov.uk/blog-post/what-makes-a-responsible-cyber-actor",
-      "published": "Tue, 02 Dec 2025 09:30:15 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
       "published": "Wed, 14 Jan 2026 00:47:38 +0000",
@@ -744,6 +744,12 @@
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
       "published": "Wed, 26 Nov 2025 17:22:36 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Monroe University says 2024 data breach affects 320,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
+      "published": "Wed, 14 Jan 2026 03:57:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ukraine's army targeted in new charity-themed malware campaign",
@@ -815,12 +821,6 @@
       "title": "Target employees confirm leaked source code is authentic",
       "url": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
       "published": "Tue, 13 Jan 2026 08:08:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
-      "published": "Mon, 12 Jan 2026 18:06:47 -0500",
       "source": "BleepingComputer"
     },
     {
