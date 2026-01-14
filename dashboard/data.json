@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T13:40:45.429775Z",
+  "generated_at": "2026-01-14T14:26:17.853054Z",
   "segment1": [
     {
       "title": "Data protection agency tells Coupang to stop publishing unconfirmed information about data breach",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
+      "published": "Wed, 14 Jan 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
       "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
       "published": "Wed, 14 Jan 2026 07:01:07 -0500",
@@ -378,10 +384,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google confirms Android bug causing volume key issues",
-      "url": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
-      "published": "Tue, 13 Jan 2026 13:25:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+      "url": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+      "published": "Wed, 14 Jan 2026 19:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
@@ -495,12 +501,6 @@
       "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
       "url": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
       "published": "Sat, 10 Jan 2026 16:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
-      "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
-      "published": "Sat, 10 Jan 2026 14:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
+      "published": "Wed, 14 Jan 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
       "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
       "published": "Wed, 14 Jan 2026 07:01:07 -0500",
@@ -818,10 +824,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google confirms Android bug causing volume key issues",
-      "url": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
-      "published": "Tue, 13 Jan 2026 13:25:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+      "url": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+      "published": "Wed, 14 Jan 2026 19:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
@@ -935,12 +941,6 @@
       "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
       "url": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
       "published": "Sat, 10 Jan 2026 16:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
-      "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
-      "published": "Sat, 10 Jan 2026 14:29:00 +0530",
       "source": "The Hacker News"
     },
     {
