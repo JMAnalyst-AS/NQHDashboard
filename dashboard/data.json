@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-15T14:50:39.288474Z",
+  "generated_at": "2026-01-15T15:26:37.395523Z",
   "segment1": [
+    {
+      "title": "HHS OCR comments on its 2026 priorities",
+      "url": "https://databreaches.net/2026/01/15/hhs-ocr-comments-on-its-2026-priorities/?pk_campaign=feed&pk_kwd=hhs-ocr-comments-on-its-2026-priorities",
+      "published": "Thu, 15 Jan 2026 15:03:14 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "JPMorgan Claims Ex-Advisor In Fla. Stole Trade Secrets To Poach Clients For LPL",
       "url": "https://databreaches.net/2026/01/15/jpmorgan-claims-ex-advisor-in-fla-stole-trade-secrets-to-poach-clients-for-lpl/?pk_campaign=feed&pk_kwd=jpmorgan-claims-ex-advisor-in-fla-stole-trade-secrets-to-poach-clients-for-lpl",
@@ -53,17 +59,17 @@
       "title": "Antwerp’s AZ Monica hospital hit by cyber attack",
       "url": "https://databreaches.net/2026/01/13/antwerps-az-monica-hospital-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=antwerps-az-monica-hospital-hit-by-cyber-attack",
       "published": "Tue, 13 Jan 2026 15:41:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Armenia probes alleged sale of 8 million government records on hacker forum",
-      "url": "https://databreaches.net/2026/01/13/armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum/?pk_campaign=feed&pk_kwd=armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum",
-      "published": "Tue, 13 Jan 2026 12:41:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "HHS OCR comments on its 2026 priorities",
+      "url": "https://databreaches.net/2026/01/15/hhs-ocr-comments-on-its-2026-priorities/?pk_campaign=feed&pk_kwd=hhs-ocr-comments-on-its-2026-priorities",
+      "published": "Thu, 15 Jan 2026 15:03:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "JPMorgan Claims Ex-Advisor In Fla. Stole Trade Secrets To Poach Clients For LPL",
       "url": "https://databreaches.net/2026/01/15/jpmorgan-claims-ex-advisor-in-fla-stole-trade-secrets-to-poach-clients-for-lpl/?pk_campaign=feed&pk_kwd=jpmorgan-claims-ex-advisor-in-fla-stole-trade-secrets-to-poach-clients-for-lpl",
       "published": "Thu, 15 Jan 2026 13:04:29 +0000",
@@ -115,12 +121,6 @@
       "title": "Antwerp’s AZ Monica hospital hit by cyber attack",
       "url": "https://databreaches.net/2026/01/13/antwerps-az-monica-hospital-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=antwerps-az-monica-hospital-hit-by-cyber-attack",
       "published": "Tue, 13 Jan 2026 15:41:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Armenia probes alleged sale of 8 million government records on hacker forum",
-      "url": "https://databreaches.net/2026/01/13/armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum/?pk_campaign=feed&pk_kwd=armenia-probes-alleged-sale-of-8-million-government-records-on-hacker-forum",
-      "published": "Tue, 13 Jan 2026 12:41:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to automate just-in-time access to applications with Tines",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+      "published": "Thu, 15 Jan 2026 10:01:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FTC bans GM from selling drivers' location data for five years",
       "url": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
       "published": "Thu, 15 Jan 2026 04:59:30 -0500",
@@ -375,18 +381,6 @@
       "title": "Microsoft updates Windows DLL that triggered security alerts",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
       "published": "Wed, 14 Jan 2026 11:44:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
-      "published": "Wed, 14 Jan 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
-      "published": "Wed, 14 Jan 2026 09:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -752,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to automate just-in-time access to applications with Tines",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+      "published": "Thu, 15 Jan 2026 10:01:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FTC bans GM from selling drivers' location data for five years",
       "url": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
       "published": "Thu, 15 Jan 2026 04:59:30 -0500",
@@ -821,18 +821,6 @@
       "title": "Microsoft updates Windows DLL that triggered security alerts",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
       "published": "Wed, 14 Jan 2026 11:44:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
-      "published": "Wed, 14 Jan 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
-      "published": "Wed, 14 Jan 2026 09:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
