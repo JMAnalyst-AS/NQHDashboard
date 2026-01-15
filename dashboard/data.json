@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T08:32:08.513598Z",
+  "generated_at": "2026-01-15T09:28:47.711568Z",
   "segment1": [
     {
       "title": "Data protection agency tells Coupang to stop publishing unconfirmed information about data breach",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
+      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
       "published": "Thu, 15 Jan 2026 02:11:45 -0500",
@@ -375,12 +381,6 @@
       "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "published": "Wed, 14 Jan 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
-      "published": "Wed, 14 Jan 2026 07:01:07 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
+      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
       "published": "Thu, 15 Jan 2026 02:11:45 -0500",
@@ -815,12 +821,6 @@
       "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "published": "Wed, 14 Jan 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
-      "published": "Wed, 14 Jan 2026 07:01:07 -0500",
       "source": "BleepingComputer"
     },
     {
