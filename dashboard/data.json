@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T15:55:48.569238Z",
+  "generated_at": "2026-01-15T16:37:20.376368Z",
   "segment1": [
     {
       "title": "HHS OCR comments on its 2026 priorities",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "published": "Thu, 15 Jan 2026 11:13:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "How to automate just-in-time access to applications with Tines",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
       "published": "Thu, 15 Jan 2026 10:01:10 -0500",
@@ -378,10 +384,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft updates Windows DLL that triggered security alerts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
-      "published": "Wed, 14 Jan 2026 11:44:09 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "url": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "published": "Thu, 15 Jan 2026 20:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
@@ -489,18 +501,6 @@
       "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
       "url": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
       "published": "Tue, 13 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
-      "url": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "published": "Tue, 13 Jan 2026 17:17:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "url": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "published": "Tue, 13 Jan 2026 14:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -746,6 +746,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "published": "Thu, 15 Jan 2026 11:13:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "How to automate just-in-time access to applications with Tines",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
       "published": "Thu, 15 Jan 2026 10:01:10 -0500",
@@ -818,10 +824,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft updates Windows DLL that triggered security alerts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
-      "published": "Wed, 14 Jan 2026 11:44:09 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "url": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "published": "Thu, 15 Jan 2026 20:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
@@ -929,18 +941,6 @@
       "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
       "url": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
       "published": "Tue, 13 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
-      "url": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "published": "Tue, 13 Jan 2026 17:17:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "url": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "published": "Tue, 13 Jan 2026 14:38:00 +0530",
       "source": "The Hacker News"
     },
     {
