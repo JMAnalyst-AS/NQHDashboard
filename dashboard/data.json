@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T11:42:05.664401Z",
+  "generated_at": "2026-01-16T12:46:28.096806Z",
   "segment1": [
     {
       "title": "Website that leaked thousands of ICE agents’ personal information is down after DDoS attack",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
+      "published": "Fri, 16 Jan 2026 07:12:41 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
+      "published": "Fri, 16 Jan 2026 05:29:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
       "published": "Fri, 16 Jan 2026 04:20:58 -0500",
@@ -369,18 +381,6 @@
       "title": "How to automate just-in-time access to applications with Tines",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
       "published": "Thu, 15 Jan 2026 10:01:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FTC bans GM from selling drivers' location data for five years",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
-      "published": "Thu, 15 Jan 2026 04:59:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
-      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -746,6 +746,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
+      "published": "Fri, 16 Jan 2026 07:12:41 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
+      "published": "Fri, 16 Jan 2026 05:29:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
       "published": "Fri, 16 Jan 2026 04:20:58 -0500",
@@ -809,18 +821,6 @@
       "title": "How to automate just-in-time access to applications with Tines",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
       "published": "Thu, 15 Jan 2026 10:01:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FTC bans GM from selling drivers' location data for five years",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
-      "published": "Thu, 15 Jan 2026 04:59:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
-      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
       "source": "BleepingComputer"
     },
     {
