@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T16:30:01.648668Z",
+  "generated_at": "2026-01-16T16:56:56.531567Z",
   "segment1": [
     {
       "title": "Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18",
@@ -402,7 +402,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
+      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
       "url": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
       "published": "Fri, 16 Jan 2026 12:48:00 +0530",
       "source": "The Hacker News"
@@ -504,6 +504,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "Five Shots in Five Minutes: Analysing One Federal Agent’s Use of Less-Lethal Launcher in Minneapolis",
+      "url": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/",
+      "published": "Fri, 16 Jan 2026 16:30:10 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Analysing Footage of Minneapolis ICE Shooting",
       "url": "https://www.bellingcat.com/news/2026/01/13/analysing-footage-of-minneapolis-ice-shooting/",
       "published": "Tue, 13 Jan 2026 14:39:56 +0000",
@@ -555,12 +561,6 @@
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
       "url": "https://www.bellingcat.com/news/europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Geolocating Darfur Killings of Those Escaping Al Fashir",
-      "url": "https://www.bellingcat.com/news/2025/11/05/geolocating-darfur-killings-of-those-escaping-al-fashir/",
-      "published": "Wed, 05 Nov 2025 13:35:27 +0000",
       "source": "bellingcat"
     }
   ],
@@ -842,7 +842,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
+      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
       "url": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
       "published": "Fri, 16 Jan 2026 12:48:00 +0530",
       "source": "The Hacker News"
@@ -944,6 +944,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "Five Shots in Five Minutes: Analysing One Federal Agent’s Use of Less-Lethal Launcher in Minneapolis",
+      "url": "https://www.bellingcat.com/news/2026/01/16/border-patrol-minneapolis/",
+      "published": "Fri, 16 Jan 2026 16:30:10 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Analysing Footage of Minneapolis ICE Shooting",
       "url": "https://www.bellingcat.com/news/2026/01/13/analysing-footage-of-minneapolis-ice-shooting/",
       "published": "Tue, 13 Jan 2026 14:39:56 +0000",
@@ -995,12 +1001,6 @@
       "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
       "url": "https://www.bellingcat.com/news/europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
       "published": "Fri, 14 Nov 2025 10:20:39 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Geolocating Darfur Killings of Those Escaping Al Fashir",
-      "url": "https://www.bellingcat.com/news/2025/11/05/geolocating-darfur-killings-of-those-escaping-al-fashir/",
-      "published": "Wed, 05 Nov 2025 13:35:27 +0000",
       "source": "bellingcat"
     }
   ]
