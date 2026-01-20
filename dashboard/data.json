@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T18:40:58.903114Z",
+  "generated_at": "2026-01-20T20:12:43.569905Z",
   "segment1": [
     {
       "title": "SK Telecom files lawsuit to revoke record 135 bln-won fine over data breach",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VoidLink cloud malware shows clear signs of being AI-generated",
+      "url": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
+      "published": "Tue, 20 Jan 2026 14:35:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
+      "published": "Tue, 20 Jan 2026 13:54:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gemini AI assistant tricked into leaking Google Calendar data",
       "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
       "published": "Tue, 20 Jan 2026 12:50:01 -0500",
@@ -384,16 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New OpenAI leak hints at upcoming ChatGPT features",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
-      "published": "Sun, 18 Jan 2026 19:29:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
-      "published": "Sun, 18 Jan 2026 13:16:27 -0500",
-      "source": "BleepingComputer"
+      "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+      "url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
+      "published": "Wed, 21 Jan 2026 00:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
@@ -507,12 +513,6 @@
       "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
       "url": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
       "published": "Fri, 16 Jan 2026 15:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
-      "published": "Fri, 16 Jan 2026 12:48:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VoidLink cloud malware shows clear signs of being AI-generated",
+      "url": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
+      "published": "Tue, 20 Jan 2026 14:35:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
+      "published": "Tue, 20 Jan 2026 13:54:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gemini AI assistant tricked into leaking Google Calendar data",
       "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
       "published": "Tue, 20 Jan 2026 12:50:01 -0500",
@@ -836,16 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New OpenAI leak hints at upcoming ChatGPT features",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
-      "published": "Sun, 18 Jan 2026 19:29:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
-      "published": "Sun, 18 Jan 2026 13:16:27 -0500",
-      "source": "BleepingComputer"
+      "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+      "url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
+      "published": "Wed, 21 Jan 2026 00:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
@@ -959,12 +965,6 @@
       "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
       "url": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
       "published": "Fri, 16 Jan 2026 15:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
-      "published": "Fri, 16 Jan 2026 12:48:00 +0530",
       "source": "The Hacker News"
     },
     {
