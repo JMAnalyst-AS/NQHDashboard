@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-01-20T12:52:00.034105Z",
+  "generated_at": "2026-01-20T13:47:54.810896Z",
   "segment1": [
+    {
+      "title": "2025: Double the breaches, but less patient data compromised",
+      "url": "https://databreaches.net/2026/01/20/2025-double-the-breaches-but-less-patient-data-compromised/?pk_campaign=feed&pk_kwd=2025-double-the-breaches-but-less-patient-data-compromised",
+      "published": "Tue, 20 Jan 2026 13:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: North West Ambulance Service’s increased breach reports may reflect better reporting",
+      "url": "https://databreaches.net/2026/01/20/uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting/?pk_campaign=feed&pk_kwd=uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting",
+      "published": "Tue, 20 Jan 2026 13:25:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Anchorage police department takes servers offline after cyberattack on service provider",
       "url": "https://databreaches.net/2026/01/18/anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider/?pk_campaign=feed&pk_kwd=anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider",
@@ -47,23 +59,23 @@
       "title": "Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply",
       "url": "https://databreaches.net/2026/01/17/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/?pk_campaign=feed&pk_kwd=judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply",
       "published": "Sat, 17 Jan 2026 14:03:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies",
-      "url": "https://databreaches.net/2026/01/16/jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies/?pk_campaign=feed&pk_kwd=jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies",
-      "published": "Fri, 16 Jan 2026 19:34:30 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18",
-      "url": "https://databreaches.net/2026/01/16/act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18/?pk_campaign=feed&pk_kwd=act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18",
-      "published": "Fri, 16 Jan 2026 14:26:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "2025: Double the breaches, but less patient data compromised",
+      "url": "https://databreaches.net/2026/01/20/2025-double-the-breaches-but-less-patient-data-compromised/?pk_campaign=feed&pk_kwd=2025-double-the-breaches-but-less-patient-data-compromised",
+      "published": "Tue, 20 Jan 2026 13:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: North West Ambulance Service’s increased breach reports may reflect better reporting",
+      "url": "https://databreaches.net/2026/01/20/uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting/?pk_campaign=feed&pk_kwd=uk-north-west-ambulance-services-increased-breach-reports-may-reflect-better-reporting",
+      "published": "Tue, 20 Jan 2026 13:25:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Anchorage police department takes servers offline after cyberattack on service provider",
       "url": "https://databreaches.net/2026/01/18/anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider/?pk_campaign=feed&pk_kwd=anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider",
       "published": "Sun, 18 Jan 2026 14:03:46 +0000",
@@ -109,18 +121,6 @@
       "title": "Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply",
       "url": "https://databreaches.net/2026/01/17/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/?pk_campaign=feed&pk_kwd=judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply",
       "published": "Sat, 17 Jan 2026 14:03:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies",
-      "url": "https://databreaches.net/2026/01/16/jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies/?pk_campaign=feed&pk_kwd=jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies",
-      "published": "Fri, 16 Jan 2026 19:34:30 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18",
-      "url": "https://databreaches.net/2026/01/16/act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18/?pk_campaign=feed&pk_kwd=act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18",
-      "published": "Fri, 16 Jan 2026 14:26:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why execs don’t buy SOC teams the tools they need",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+      "published": "Tue, 20 Jan 2026 08:15:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
       "published": "Mon, 19 Jan 2026 20:24:25 -0500",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
-      "published": "Sat, 17 Jan 2026 11:19:30 -0500",
-      "source": "BleepingComputer"
+      "title": "The Hidden Risk of Orphan Accounts",
+      "url": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "published": "Tue, 20 Jan 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "published": "Tue, 20 Jan 2026 17:18:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
@@ -501,18 +513,6 @@
       "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
       "published": "Fri, 16 Jan 2026 01:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
-      "url": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-      "published": "Thu, 15 Jan 2026 20:39:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why execs don’t buy SOC teams the tools they need",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+      "published": "Tue, 20 Jan 2026 08:15:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
       "published": "Mon, 19 Jan 2026 20:24:25 -0500",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
-      "published": "Sat, 17 Jan 2026 11:19:30 -0500",
-      "source": "BleepingComputer"
+      "title": "The Hidden Risk of Orphan Accounts",
+      "url": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "published": "Tue, 20 Jan 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "published": "Tue, 20 Jan 2026 17:18:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
@@ -953,18 +965,6 @@
       "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
       "published": "Fri, 16 Jan 2026 01:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
-      "url": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
-      "published": "Thu, 15 Jan 2026 20:39:00 +0530",
       "source": "The Hacker News"
     },
     {
