@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-01-21T15:33:45.803557Z",
+  "generated_at": "2026-01-21T16:50:51.141097Z",
   "segment1": [
+    {
+      "title": "DOGE Employees Shared Social Security Data, Court Filing Shows",
+      "url": "https://databreaches.net/2026/01/21/doge-employees-shared-social-security-data-court-filing-shows/?pk_campaign=feed&pk_kwd=doge-employees-shared-social-security-data-court-filing-shows",
+      "published": "Wed, 21 Jan 2026 16:17:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cloudflare whacks WAF bypass bug that opened side door for attackers",
+      "url": "https://databreaches.net/2026/01/21/cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers/?pk_campaign=feed&pk_kwd=cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers",
+      "published": "Wed, 21 Jan 2026 16:10:05 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Alerted to a breach in November, Advanced Family Surgery Center remains publicly silent",
       "url": "https://databreaches.net/2026/01/21/alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent/?pk_campaign=feed&pk_kwd=alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent",
@@ -47,23 +59,23 @@
       "title": "4 in 5 small businesses had cyberscams last year, almost half were AI powered",
       "url": "https://databreaches.net/2026/01/18/4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered/?pk_campaign=feed&pk_kwd=4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered",
       "published": "Sun, 18 Jan 2026 14:03:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
-      "url": "https://databreaches.net/2026/01/18/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/?pk_campaign=feed&pk_kwd=how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east",
-      "published": "Sun, 18 Jan 2026 14:03:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japanese nuclear regulator employee loses phone containing sensitive info in China",
-      "url": "https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china",
-      "published": "Sun, 18 Jan 2026 14:03:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "DOGE Employees Shared Social Security Data, Court Filing Shows",
+      "url": "https://databreaches.net/2026/01/21/doge-employees-shared-social-security-data-court-filing-shows/?pk_campaign=feed&pk_kwd=doge-employees-shared-social-security-data-court-filing-shows",
+      "published": "Wed, 21 Jan 2026 16:17:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cloudflare whacks WAF bypass bug that opened side door for attackers",
+      "url": "https://databreaches.net/2026/01/21/cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers/?pk_campaign=feed&pk_kwd=cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers",
+      "published": "Wed, 21 Jan 2026 16:10:05 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Alerted to a breach in November, Advanced Family Surgery Center remains publicly silent",
       "url": "https://databreaches.net/2026/01/21/alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent/?pk_campaign=feed&pk_kwd=alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent",
       "published": "Wed, 21 Jan 2026 12:40:18 +0000",
@@ -109,18 +121,6 @@
       "title": "4 in 5 small businesses had cyberscams last year, almost half were AI powered",
       "url": "https://databreaches.net/2026/01/18/4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered/?pk_campaign=feed&pk_kwd=4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered",
       "published": "Sun, 18 Jan 2026 14:03:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
-      "url": "https://databreaches.net/2026/01/18/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/?pk_campaign=feed&pk_kwd=how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east",
-      "published": "Sun, 18 Jan 2026 14:03:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japanese nuclear regulator employee loses phone containing sensitive info in China",
-      "url": "https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china",
-      "published": "Sun, 18 Jan 2026 14:03:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
+      "url": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
+      "published": "Wed, 21 Jan 2026 21:12:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
       "url": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
       "published": "Wed, 21 Jan 2026 17:28:00 +0530",
@@ -507,12 +513,6 @@
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
       "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
       "published": "Mon, 19 Jan 2026 14:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "published": "Mon, 19 Jan 2026 12:23:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
+      "url": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
+      "published": "Wed, 21 Jan 2026 21:12:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
       "url": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
       "published": "Wed, 21 Jan 2026 17:28:00 +0530",
@@ -959,12 +965,6 @@
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
       "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
       "published": "Mon, 19 Jan 2026 14:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "published": "Mon, 19 Jan 2026 12:23:00 +0530",
       "source": "The Hacker News"
     },
     {
