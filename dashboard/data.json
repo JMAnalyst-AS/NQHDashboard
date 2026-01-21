@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-21T11:48:21.812692Z",
+  "generated_at": "2026-01-21T12:51:37.488864Z",
   "segment1": [
+    {
+      "title": "Alerted to a breach in November, Advanced Family Surgery Center remains publicly silent",
+      "url": "https://databreaches.net/2026/01/21/alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent/?pk_campaign=feed&pk_kwd=alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent",
+      "published": "Wed, 21 Jan 2026 12:40:18 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "SK Telecom files lawsuit to revoke record 135 bln-won fine over data breach",
       "url": "https://databreaches.net/2026/01/20/sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach/?pk_campaign=feed&pk_kwd=sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach",
@@ -53,17 +59,17 @@
       "title": "Japanese nuclear regulator employee loses phone containing sensitive info in China",
       "url": "https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china",
       "published": "Sun, 18 Jan 2026 14:03:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026",
-      "url": "https://databreaches.net/2026/01/17/us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026/?pk_campaign=feed&pk_kwd=us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026",
-      "published": "Sat, 17 Jan 2026 20:28:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Alerted to a breach in November, Advanced Family Surgery Center remains publicly silent",
+      "url": "https://databreaches.net/2026/01/21/alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent/?pk_campaign=feed&pk_kwd=alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent",
+      "published": "Wed, 21 Jan 2026 12:40:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "SK Telecom files lawsuit to revoke record 135 bln-won fine over data breach",
       "url": "https://databreaches.net/2026/01/20/sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach/?pk_campaign=feed&pk_kwd=sk-telecom-files-lawsuit-to-revoke-record-135-bln-won-fine-over-data-breach",
       "published": "Tue, 20 Jan 2026 14:31:29 +0000",
@@ -115,12 +121,6 @@
       "title": "Japanese nuclear regulator employee loses phone containing sensitive info in China",
       "url": "https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china",
       "published": "Sun, 18 Jan 2026 14:03:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026",
-      "url": "https://databreaches.net/2026/01/17/us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026/?pk_campaign=feed&pk_kwd=us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026",
-      "published": "Sat, 17 Jan 2026 20:28:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
+      "published": "Wed, 21 Jan 2026 07:16:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
       "published": "Tue, 20 Jan 2026 21:00:00 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
-      "published": "Mon, 19 Jan 2026 12:20:39 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
+      "url": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
+      "published": "Wed, 21 Jan 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Exposure Assessment Platforms Signal a Shift in Focus",
@@ -507,12 +513,6 @@
       "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
       "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
       "published": "Mon, 19 Jan 2026 12:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
-      "url": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-      "published": "Sat, 17 Jan 2026 21:56:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
+      "published": "Wed, 21 Jan 2026 07:16:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
       "published": "Tue, 20 Jan 2026 21:00:00 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
-      "published": "Mon, 19 Jan 2026 12:20:39 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
+      "url": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
+      "published": "Wed, 21 Jan 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Exposure Assessment Platforms Signal a Shift in Focus",
@@ -959,12 +965,6 @@
       "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
       "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
       "published": "Mon, 19 Jan 2026 12:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
-      "url": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-      "published": "Sat, 17 Jan 2026 21:56:00 +0530",
       "source": "The Hacker News"
     },
     {
