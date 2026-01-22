@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-01-22T13:48:09.058230Z",
+  "generated_at": "2026-01-22T14:30:49.815378Z",
   "segment1": [
+    {
+      "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
+      "url": "https://databreaches.net/2026/01/22/kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data/?pk_campaign=feed&pk_kwd=kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data",
+      "published": "Thu, 22 Jan 2026 14:23:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
+      "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
+      "published": "Thu, 22 Jan 2026 14:15:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Zendesk ticket systems hijacked in massive global spam wave",
       "url": "https://databreaches.net/2026/01/22/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/?pk_campaign=feed&pk_kwd=zendesk-ticket-systems-hijacked-in-massive-global-spam-wave",
@@ -47,23 +59,23 @@
       "title": "How crypto criminals stole $700 million from people – often using age-old tricks",
       "url": "https://databreaches.net/2026/01/20/how-crypto-criminals-stole-700-million-from-people-often-using-age-old-tricks/?pk_campaign=feed&pk_kwd=how-crypto-criminals-stole-700-million-from-people-often-using-age-old-tricks",
       "published": "Tue, 20 Jan 2026 14:31:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Secret gagging order should not have been used to cover up Afghan data breach, Sir Ben Wallace says",
-      "url": "https://databreaches.net/2026/01/20/uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says/?pk_campaign=feed&pk_kwd=uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says",
-      "published": "Tue, 20 Jan 2026 14:30:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2025: Double the breaches, but less patient data compromised",
-      "url": "https://databreaches.net/2026/01/20/2025-double-the-breaches-but-less-patient-data-compromised/?pk_campaign=feed&pk_kwd=2025-double-the-breaches-but-less-patient-data-compromised",
-      "published": "Tue, 20 Jan 2026 13:31:44 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
+      "url": "https://databreaches.net/2026/01/22/kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data/?pk_campaign=feed&pk_kwd=kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data",
+      "published": "Thu, 22 Jan 2026 14:23:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
+      "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
+      "published": "Thu, 22 Jan 2026 14:15:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Zendesk ticket systems hijacked in massive global spam wave",
       "url": "https://databreaches.net/2026/01/22/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/?pk_campaign=feed&pk_kwd=zendesk-ticket-systems-hijacked-in-massive-global-spam-wave",
       "published": "Thu, 22 Jan 2026 13:44:20 +0000",
@@ -109,18 +121,6 @@
       "title": "How crypto criminals stole $700 million from people – often using age-old tricks",
       "url": "https://databreaches.net/2026/01/20/how-crypto-criminals-stole-700-million-from-people-often-using-age-old-tricks/?pk_campaign=feed&pk_kwd=how-crypto-criminals-stole-700-million-from-people-often-using-age-old-tricks",
       "published": "Tue, 20 Jan 2026 14:31:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Secret gagging order should not have been used to cover up Afghan data breach, Sir Ben Wallace says",
-      "url": "https://databreaches.net/2026/01/20/uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says/?pk_campaign=feed&pk_kwd=uk-secret-gagging-order-should-not-have-been-used-to-cover-up-afghan-data-breach-sir-ben-wallace-says",
-      "published": "Tue, 20 Jan 2026 14:30:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2025: Double the breaches, but less patient data compromised",
-      "url": "https://databreaches.net/2026/01/20/2025-double-the-breaches-but-less-patient-data-compromised/?pk_campaign=feed&pk_kwd=2025-double-the-breaches-but-less-patient-data-compromised",
-      "published": "Tue, 20 Jan 2026 13:31:44 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft updates Notepad and Paint with more AI features",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/",
+      "published": "Thu, 22 Jan 2026 09:22:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "published": "Thu, 22 Jan 2026 07:30:30 -0500",
@@ -387,12 +393,6 @@
       "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
       "url": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
       "published": "Wed, 21 Jan 2026 07:16:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
-      "published": "Tue, 20 Jan 2026 21:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft updates Notepad and Paint with more AI features",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/",
+      "published": "Thu, 22 Jan 2026 09:22:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "published": "Thu, 22 Jan 2026 07:30:30 -0500",
@@ -839,12 +845,6 @@
       "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
       "url": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
       "published": "Wed, 21 Jan 2026 07:16:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
-      "published": "Tue, 20 Jan 2026 21:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
