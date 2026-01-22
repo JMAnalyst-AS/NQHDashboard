@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T16:36:25.532880Z",
+  "generated_at": "2026-01-22T17:29:32.966703Z",
   "segment1": [
     {
       "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
       "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
       "published": "Thu, 22 Jan 2026 19:53:00 +0530",
@@ -507,12 +513,6 @@
       "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
       "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
       "published": "Tue, 20 Jan 2026 17:18:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "url": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "published": "Tue, 20 Jan 2026 16:42:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
       "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
       "published": "Thu, 22 Jan 2026 19:53:00 +0530",
@@ -959,12 +965,6 @@
       "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
       "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
       "published": "Tue, 20 Jan 2026 17:18:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "url": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "published": "Tue, 20 Jan 2026 16:42:00 +0530",
       "source": "The Hacker News"
     },
     {
