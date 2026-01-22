@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T21:24:15.678146Z",
+  "generated_at": "2026-01-22T21:46:48.361939Z",
   "segment1": [
     {
       "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
+      "published": "Thu, 22 Jan 2026 16:43:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "url": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "published": "Thu, 22 Jan 2026 14:01:36 -0500",
@@ -387,12 +393,6 @@
       "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
       "published": "Wed, 21 Jan 2026 12:49:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Lastpass emails pose as password vault backup alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
-      "published": "Wed, 21 Jan 2026 11:58:39 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
+      "published": "Thu, 22 Jan 2026 16:43:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "url": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "published": "Thu, 22 Jan 2026 14:01:36 -0500",
@@ -839,12 +845,6 @@
       "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
       "published": "Wed, 21 Jan 2026 12:49:08 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Lastpass emails pose as password vault backup alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
-      "published": "Wed, 21 Jan 2026 11:58:39 -0500",
       "source": "BleepingComputer"
     },
     {
