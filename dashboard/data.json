@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T18:34:48.335798Z",
+  "generated_at": "2026-01-23T19:24:37.509903Z",
   "segment1": [
     {
       "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Concern",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA confirms active exploitation of four enterprise software bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
+      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US to deport Venezuelans who emptied bank ATMs using malware",
       "url": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
       "published": "Fri, 23 Jan 2026 11:38:54 -0500",
@@ -387,12 +393,6 @@
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "published": "Thu, 22 Jan 2026 07:30:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
-      "published": "Thu, 22 Jan 2026 06:49:12 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA confirms active exploitation of four enterprise software bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
+      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US to deport Venezuelans who emptied bank ATMs using malware",
       "url": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
       "published": "Fri, 23 Jan 2026 11:38:54 -0500",
@@ -839,12 +845,6 @@
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "published": "Thu, 22 Jan 2026 07:30:30 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
-      "published": "Thu, 22 Jan 2026 06:49:12 -0500",
       "source": "BleepingComputer"
     },
     {
