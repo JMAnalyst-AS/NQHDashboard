@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T01:57:58.989367Z",
+  "generated_at": "2026-01-25T03:58:46.682235Z",
   "segment1": [
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
+      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Sandworm hackers linked to failed wiper attack on Poland’s energy systems",
       "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
       "published": "Sat, 24 Jan 2026 16:58:42 -0500",
@@ -318,7 +324,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
+      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
       "published": "Fri, 23 Jan 2026 18:35:03 -0500",
       "source": "BleepingComputer"
@@ -387,12 +393,6 @@
       "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
       "published": "Thu, 22 Jan 2026 13:44:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to add brand impersonation warnings to calls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
-      "published": "Thu, 22 Jan 2026 11:28:47 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
+      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Sandworm hackers linked to failed wiper attack on Poland’s energy systems",
       "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
       "published": "Sat, 24 Jan 2026 16:58:42 -0500",
@@ -770,7 +776,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
+      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
       "published": "Fri, 23 Jan 2026 18:35:03 -0500",
       "source": "BleepingComputer"
@@ -839,12 +845,6 @@
       "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
       "published": "Thu, 22 Jan 2026 13:44:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to add brand impersonation warnings to calls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
-      "published": "Thu, 22 Jan 2026 11:28:47 -0500",
       "source": "BleepingComputer"
     },
     {
