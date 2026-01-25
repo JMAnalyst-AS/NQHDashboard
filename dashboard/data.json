@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T12:43:10.399995Z",
+  "generated_at": "2026-01-25T13:32:20.969460Z",
   "segment1": [
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft investigates Windows 11 boot failures after January updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
+      "published": "Sun, 25 Jan 2026 08:20:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
       "published": "Sat, 24 Jan 2026 20:59:15 -0500",
@@ -387,12 +393,6 @@
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "url": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "published": "Thu, 22 Jan 2026 14:01:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
-      "published": "Thu, 22 Jan 2026 13:44:21 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft investigates Windows 11 boot failures after January updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
+      "published": "Sun, 25 Jan 2026 08:20:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
       "published": "Sat, 24 Jan 2026 20:59:15 -0500",
@@ -839,12 +845,6 @@
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "url": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "published": "Thu, 22 Jan 2026 14:01:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
-      "published": "Thu, 22 Jan 2026 13:44:21 -0500",
       "source": "BleepingComputer"
     },
     {
