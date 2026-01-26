@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-26T17:30:19.541681Z",
+  "generated_at": "2026-01-26T17:55:32.334399Z",
   "segment1": [
+    {
+      "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
+      "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
+      "published": "Mon, 26 Jan 2026 17:48:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
       "url": "https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment",
@@ -53,17 +59,17 @@
       "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
       "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
       "published": "Thu, 22 Jan 2026 14:15:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Zendesk ticket systems hijacked in massive global spam wave",
-      "url": "https://databreaches.net/2026/01/22/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/?pk_campaign=feed&pk_kwd=zendesk-ticket-systems-hijacked-in-massive-global-spam-wave",
-      "published": "Thu, 22 Jan 2026 13:44:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
+      "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
+      "published": "Mon, 26 Jan 2026 17:48:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
       "url": "https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment",
       "published": "Sat, 24 Jan 2026 12:05:02 +0000",
@@ -115,12 +121,6 @@
       "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
       "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
       "published": "Thu, 22 Jan 2026 14:15:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Zendesk ticket systems hijacked in massive global spam wave",
-      "url": "https://databreaches.net/2026/01/22/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/?pk_campaign=feed&pk_kwd=zendesk-ticket-systems-hijacked-in-massive-global-spam-wave",
-      "published": "Thu, 22 Jan 2026 13:44:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Cloudflare misconfiguration behind recent BGP route leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
+      "published": "Mon, 26 Jan 2026 12:50:35 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EU launches investigation into X over Grok-generated sexual images",
@@ -387,12 +393,6 @@
       "title": "CISA confirms active exploitation of four enterprise software bugs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
       "published": "Fri, 23 Jan 2026 13:47:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-      "published": "Fri, 23 Jan 2026 11:38:54 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -752,10 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Cloudflare misconfiguration behind recent BGP route leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
+      "published": "Mon, 26 Jan 2026 12:50:35 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EU launches investigation into X over Grok-generated sexual images",
@@ -839,12 +845,6 @@
       "title": "CISA confirms active exploitation of four enterprise software bugs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
       "published": "Fri, 23 Jan 2026 13:47:31 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-      "published": "Fri, 23 Jan 2026 11:38:54 -0500",
       "source": "BleepingComputer"
     },
     {
