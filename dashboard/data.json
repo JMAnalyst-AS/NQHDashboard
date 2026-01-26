@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T14:57:10.289331Z",
+  "generated_at": "2026-01-26T15:35:26.250999Z",
   "segment1": [
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+      "published": "Mon, 26 Jan 2026 10:19:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "6 Okta security settings you might have overlooked",
+      "url": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
+      "published": "Mon, 26 Jan 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
       "published": "Mon, 26 Jan 2026 09:02:48 -0500",
@@ -381,18 +393,6 @@
       "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
       "published": "Fri, 23 Jan 2026 11:21:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-      "url": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-      "published": "Fri, 23 Jan 2026 09:59:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
-      "published": "Fri, 23 Jan 2026 08:34:25 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+      "published": "Mon, 26 Jan 2026 10:19:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "6 Okta security settings you might have overlooked",
+      "url": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
+      "published": "Mon, 26 Jan 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
       "published": "Mon, 26 Jan 2026 09:02:48 -0500",
@@ -833,18 +845,6 @@
       "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
       "published": "Fri, 23 Jan 2026 11:21:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-      "url": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-      "published": "Fri, 23 Jan 2026 09:59:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
-      "published": "Fri, 23 Jan 2026 08:34:25 -0500",
       "source": "BleepingComputer"
     },
     {
