@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T17:55:32.334399Z",
+  "generated_at": "2026-01-26T18:37:57.219950Z",
   "segment1": [
     {
       "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +298,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
+      "published": "Mon, 26 Jan 2026 13:20:35 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cloudflare misconfiguration behind recent BGP route leak",
@@ -387,12 +393,6 @@
       "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
       "published": "Fri, 23 Jan 2026 15:11:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA confirms active exploitation of four enterprise software bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
-      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +750,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
+      "published": "Mon, 26 Jan 2026 13:20:35 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cloudflare misconfiguration behind recent BGP route leak",
@@ -839,12 +845,6 @@
       "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
       "published": "Fri, 23 Jan 2026 15:11:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA confirms active exploitation of four enterprise software bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
-      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
       "source": "BleepingComputer"
     },
     {
