@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T16:35:19.771509Z",
+  "generated_at": "2026-01-26T17:30:19.541681Z",
   "segment1": [
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "EU launches investigation into X over Grok-generated sexual images",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
+      "published": "Mon, 26 Jan 2026 12:14:29 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
       "published": "Mon, 26 Jan 2026 10:19:14 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
-      "published": "Fri, 23 Jan 2026 11:21:46 -0500",
-      "source": "BleepingComputer"
+      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+      "url": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+      "published": "Mon, 26 Jan 2026 22:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
@@ -507,12 +513,6 @@
       "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
       "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
       "published": "Thu, 22 Jan 2026 15:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "published": "Thu, 22 Jan 2026 11:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "EU launches investigation into X over Grok-generated sexual images",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
+      "published": "Mon, 26 Jan 2026 12:14:29 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
       "published": "Mon, 26 Jan 2026 10:19:14 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
-      "published": "Fri, 23 Jan 2026 11:21:46 -0500",
-      "source": "BleepingComputer"
+      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+      "url": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+      "published": "Mon, 26 Jan 2026 22:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
@@ -959,12 +965,6 @@
       "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
       "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
       "published": "Thu, 22 Jan 2026 15:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "published": "Thu, 22 Jan 2026 11:25:00 +0530",
       "source": "The Hacker News"
     },
     {
