@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T13:44:37.736101Z",
+  "generated_at": "2026-01-26T14:29:07.825231Z",
   "segment1": [
     {
       "title": "Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
+      "published": "Mon, 26 Jan 2026 09:02:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA says critical VMware RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
@@ -387,12 +393,6 @@
       "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
       "published": "Fri, 23 Jan 2026 08:34:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
-      "published": "Fri, 23 Jan 2026 07:50:11 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
+      "published": "Mon, 26 Jan 2026 09:02:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA says critical VMware RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
@@ -839,12 +845,6 @@
       "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
       "published": "Fri, 23 Jan 2026 08:34:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
-      "published": "Fri, 23 Jan 2026 07:50:11 -0500",
       "source": "BleepingComputer"
     },
     {
