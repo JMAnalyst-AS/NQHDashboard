@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-26T23:45:49.206473Z",
+  "generated_at": "2026-01-27T01:54:12.973599Z",
   "segment1": [
+    {
+      "title": "",
+      "url": "https://databreaches.net/2026/01/26/125824/?pk_campaign=feed&pk_kwd=125824",
+      "published": "Tue, 27 Jan 2026 00:46:52 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
       "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
@@ -53,17 +59,17 @@
       "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
       "url": "https://databreaches.net/2026/01/22/kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data/?pk_campaign=feed&pk_kwd=kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data",
       "published": "Thu, 22 Jan 2026 14:23:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
-      "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
-      "published": "Thu, 22 Jan 2026 14:15:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "",
+      "url": "https://databreaches.net/2026/01/26/125824/?pk_campaign=feed&pk_kwd=125824",
+      "published": "Tue, 27 Jan 2026 00:46:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
       "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
       "published": "Mon, 26 Jan 2026 17:48:33 +0000",
@@ -115,12 +121,6 @@
       "title": "Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data",
       "url": "https://databreaches.net/2026/01/22/kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data/?pk_campaign=feed&pk_kwd=kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data",
       "published": "Thu, 22 Jan 2026 14:23:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up",
-      "url": "https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up",
-      "published": "Thu, 22 Jan 2026 14:15:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New malware service guarantees phishing extensions on Chrome web store",
+      "url": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
+      "published": "Mon, 26 Jan 2026 18:46:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
       "published": "Mon, 26 Jan 2026 16:42:12 -0500",
@@ -387,12 +393,6 @@
       "title": "Konni hackers target blockchain engineers with AI-built malware",
       "url": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
       "published": "Sat, 24 Jan 2026 10:23:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
-      "published": "Fri, 23 Jan 2026 18:35:03 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New malware service guarantees phishing extensions on Chrome web store",
+      "url": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
+      "published": "Mon, 26 Jan 2026 18:46:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
       "published": "Mon, 26 Jan 2026 16:42:12 -0500",
@@ -839,12 +845,6 @@
       "title": "Konni hackers target blockchain engineers with AI-built malware",
       "url": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
       "published": "Sat, 24 Jan 2026 10:23:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
-      "published": "Fri, 23 Jan 2026 18:35:03 -0500",
       "source": "BleepingComputer"
     },
     {
