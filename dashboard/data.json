@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T11:47:03.817113Z",
+  "generated_at": "2026-01-27T12:52:24.110602Z",
   "segment1": [
     {
       "title": "",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+      "published": "Tue, 27 Jan 2026 07:25:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New malware service guarantees phishing extensions on Chrome web store",
       "url": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
       "published": "Mon, 26 Jan 2026 18:46:09 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Konni hackers target blockchain engineers with AI-built malware",
-      "url": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
-      "published": "Sat, 24 Jan 2026 10:23:46 -0500",
-      "source": "BleepingComputer"
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "published": "Tue, 27 Jan 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
@@ -507,12 +513,6 @@
       "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
       "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
       "published": "Thu, 22 Jan 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-      "published": "Thu, 22 Jan 2026 19:53:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+      "published": "Tue, 27 Jan 2026 07:25:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New malware service guarantees phishing extensions on Chrome web store",
       "url": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
       "published": "Mon, 26 Jan 2026 18:46:09 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Konni hackers target blockchain engineers with AI-built malware",
-      "url": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
-      "published": "Sat, 24 Jan 2026 10:23:46 -0500",
-      "source": "BleepingComputer"
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "published": "Tue, 27 Jan 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
@@ -959,12 +965,6 @@
       "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
       "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
       "published": "Thu, 22 Jan 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-      "published": "Thu, 22 Jan 2026 19:53:00 +0530",
       "source": "The Hacker News"
     },
     {
