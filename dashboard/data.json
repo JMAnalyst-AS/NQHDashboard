@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T17:27:55.217711Z",
+  "generated_at": "2026-01-27T17:54:30.880399Z",
   "segment1": [
     {
       "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -303,6 +297,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "published": "Tue, 27 Jan 2026 22:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "url": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "published": "Tue, 27 Jan 2026 22:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
@@ -501,18 +513,6 @@
       "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
       "url": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
       "published": "Fri, 23 Jan 2026 16:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
-      "url": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
-      "published": "Fri, 23 Jan 2026 13:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-      "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-      "published": "Thu, 22 Jan 2026 23:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -755,6 +749,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "published": "Tue, 27 Jan 2026 22:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "url": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "published": "Tue, 27 Jan 2026 22:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
@@ -953,18 +965,6 @@
       "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
       "url": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
       "published": "Fri, 23 Jan 2026 16:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
-      "url": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
-      "published": "Fri, 23 Jan 2026 13:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-      "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-      "published": "Thu, 22 Jan 2026 23:30:00 +0530",
       "source": "The Hacker News"
     },
     {
