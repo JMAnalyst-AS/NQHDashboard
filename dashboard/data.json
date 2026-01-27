@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T10:56:52.587543Z",
+  "generated_at": "2026-01-27T11:27:18.698492Z",
   "segment1": [
     {
       "title": "",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -297,12 +303,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -398,7 +398,19 @@
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "published": "Tue, 27 Jan 2026 12:49:00 +0530",
+      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "url": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "published": "Tue, 27 Jan 2026 14:31:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -501,18 +513,6 @@
       "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
       "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
       "published": "Thu, 22 Jan 2026 19:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Filling the Most Common Gaps in Google Workspace Security",
-      "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
-      "published": "Thu, 22 Jan 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "url": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "published": "Thu, 22 Jan 2026 15:34:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -749,12 +755,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -850,7 +850,19 @@
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "published": "Tue, 27 Jan 2026 12:49:00 +0530",
+      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "url": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "published": "Tue, 27 Jan 2026 14:31:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -953,18 +965,6 @@
       "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
       "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
       "published": "Thu, 22 Jan 2026 19:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Filling the Most Common Gaps in Google Workspace Security",
-      "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
-      "published": "Thu, 22 Jan 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "url": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "published": "Thu, 22 Jan 2026 15:34:00 +0530",
       "source": "The Hacker News"
     },
     {
