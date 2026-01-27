@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T16:31:10.407416Z",
+  "generated_at": "2026-01-27T17:27:55.217711Z",
   "segment1": [
     {
       "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -300,10 +306,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Nike investigates data breach after extortion gang leaks files",
+      "url": "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/",
+      "published": "Tue, 27 Jan 2026 11:45:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
+      "published": "Tue, 27 Jan 2026 11:35:29 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "US charges 31 more suspects linked to ATM malware attacks",
@@ -381,18 +393,6 @@
       "title": "CISA says critical VMware RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
-      "published": "Sun, 25 Jan 2026 20:01:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "1Password adds pop-up warnings for suspected phishing sites",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
-      "published": "Sun, 25 Jan 2026 10:17:12 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -752,10 +758,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Nike investigates data breach after extortion gang leaks files",
+      "url": "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/",
+      "published": "Tue, 27 Jan 2026 11:45:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
+      "published": "Tue, 27 Jan 2026 11:35:29 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "US charges 31 more suspects linked to ATM malware attacks",
@@ -833,18 +845,6 @@
       "title": "CISA says critical VMware RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "published": "Mon, 26 Jan 2026 06:49:41 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
-      "published": "Sun, 25 Jan 2026 20:01:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "1Password adds pop-up warnings for suspected phishing sites",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
-      "published": "Sun, 25 Jan 2026 10:17:12 -0500",
       "source": "BleepingComputer"
     },
     {
