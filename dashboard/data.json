@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T14:30:18.094347Z",
+  "generated_at": "2026-01-27T15:30:55.419313Z",
   "segment1": [
     {
       "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
@@ -11,12 +11,6 @@
       "title": "Savannah Best Buy employee says ‘hacker group’ blackmailed him into theft ring scheme",
       "url": "https://databreaches.net/2026/01/27/savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme/?pk_campaign=feed&pk_kwd=savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme",
       "published": "Tue, 27 Jan 2026 12:57:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "",
-      "url": "https://databreaches.net/2026/01/26/125824/?pk_campaign=feed&pk_kwd=125824",
-      "published": "Tue, 27 Jan 2026 00:46:52 +0000",
       "source": "DataBreaches.Net"
     },
     {
@@ -59,6 +53,12 @@
       "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
       "url": "https://databreaches.net/2026/01/23/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/?pk_campaign=feed&pk_kwd=inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs",
       "published": "Fri, 23 Jan 2026 13:08:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "NL: Police warned about security hole used by Russian hackers in major theft of police data",
+      "url": "https://databreaches.net/2026/01/23/nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data/?pk_campaign=feed&pk_kwd=nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data",
+      "published": "Fri, 23 Jan 2026 13:08:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -76,12 +76,6 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "",
-      "url": "https://databreaches.net/2026/01/26/125824/?pk_campaign=feed&pk_kwd=125824",
-      "published": "Tue, 27 Jan 2026 00:46:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
       "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
       "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
       "published": "Mon, 26 Jan 2026 17:48:33 +0000",
@@ -121,6 +115,12 @@
       "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
       "url": "https://databreaches.net/2026/01/23/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/?pk_campaign=feed&pk_kwd=inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs",
       "published": "Fri, 23 Jan 2026 13:08:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "NL: Police warned about security hole used by Russian hackers in major theft of police data",
+      "url": "https://databreaches.net/2026/01/23/nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data/?pk_campaign=feed&pk_kwd=nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data",
+      "published": "Fri, 23 Jan 2026 13:08:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
+      "url": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
+      "published": "Tue, 27 Jan 2026 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
       "published": "Tue, 27 Jan 2026 09:09:47 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
-      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
-      "source": "BleepingComputer"
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "url": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "published": "Tue, 27 Jan 2026 20:08:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
@@ -507,12 +513,6 @@
       "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
       "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
       "published": "Thu, 22 Jan 2026 23:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-      "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
+      "url": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
+      "published": "Tue, 27 Jan 2026 10:02:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
       "published": "Tue, 27 Jan 2026 09:09:47 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
-      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
-      "source": "BleepingComputer"
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "url": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "published": "Tue, 27 Jan 2026 20:08:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
@@ -959,12 +965,6 @@
       "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
       "url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
       "published": "Thu, 22 Jan 2026 23:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-      "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
