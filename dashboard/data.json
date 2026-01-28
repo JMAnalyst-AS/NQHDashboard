@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T19:53:00.455114Z",
+  "generated_at": "2026-01-28T20:32:20.490678Z",
   "segment1": [
     {
       "title": "AI “digital helper” Lena Health breach exposed some Houston Methodist patients’ medical info",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +298,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Viral Moltbot AI assistant raises concerns over data security",
+      "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
+      "published": "Wed, 28 Jan 2026 15:26:59 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
@@ -387,12 +393,6 @@
       "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
       "url": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
       "published": "Tue, 27 Jan 2026 11:35:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges 31 more suspects linked to ATM malware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/",
-      "published": "Tue, 27 Jan 2026 11:27:04 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +750,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Viral Moltbot AI assistant raises concerns over data security",
+      "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
+      "published": "Wed, 28 Jan 2026 15:26:59 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
@@ -839,12 +845,6 @@
       "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
       "url": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
       "published": "Tue, 27 Jan 2026 11:35:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges 31 more suspects linked to ATM malware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/",
-      "published": "Tue, 27 Jan 2026 11:27:04 -0500",
       "source": "BleepingComputer"
     },
     {
