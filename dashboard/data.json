@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T12:52:18.199701Z",
+  "generated_at": "2026-01-28T13:49:40.965183Z",
   "segment1": [
     {
       "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +298,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
+      "published": "Wed, 28 Jan 2026 08:15:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Slovakian man pleads guilty to operating darknet marketplace",
@@ -390,10 +396,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
-      "published": "Mon, 26 Jan 2026 13:20:35 -0500",
-      "source": "BleepingComputer"
+      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+      "published": "Wed, 28 Jan 2026 18:13:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+      "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+      "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+      "published": "Wed, 28 Jan 2026 17:10:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
@@ -495,24 +513,6 @@
       "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
       "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
       "published": "Sat, 24 Jan 2026 16:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
-      "url": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
-      "published": "Sat, 24 Jan 2026 13:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
-      "url": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-      "published": "Sat, 24 Jan 2026 13:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-      "published": "Sat, 24 Jan 2026 13:39:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +750,18 @@
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
+      "published": "Wed, 28 Jan 2026 08:15:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Slovakian man pleads guilty to operating darknet marketplace",
@@ -842,10 +848,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
-      "published": "Mon, 26 Jan 2026 13:20:35 -0500",
-      "source": "BleepingComputer"
+      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+      "published": "Wed, 28 Jan 2026 18:13:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+      "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+      "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+      "published": "Wed, 28 Jan 2026 17:10:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
@@ -947,24 +965,6 @@
       "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
       "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
       "published": "Sat, 24 Jan 2026 16:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
-      "url": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
-      "published": "Sat, 24 Jan 2026 13:51:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
-      "url": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-      "published": "Sat, 24 Jan 2026 13:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-      "published": "Sat, 24 Jan 2026 13:39:00 +0530",
       "source": "The Hacker News"
     },
     {
