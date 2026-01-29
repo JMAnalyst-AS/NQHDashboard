@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T07:13:26.890722Z",
+  "generated_at": "2026-01-29T08:00:23.939696Z",
   "segment1": [
     {
       "title": "Russian ransomware forum seized by U.S. law enforcement",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -303,6 +297,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
       "published": "Tue, 27 Jan 2026 17:26:26 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
+      "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+      "published": "Thu, 29 Jan 2026 12:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
@@ -507,12 +513,6 @@
       "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
       "url": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
       "published": "Mon, 26 Jan 2026 21:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
-      "url": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-      "published": "Mon, 26 Jan 2026 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -755,6 +749,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
       "published": "Tue, 27 Jan 2026 17:26:26 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
+      "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+      "published": "Thu, 29 Jan 2026 12:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
@@ -959,12 +965,6 @@
       "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
       "url": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
       "published": "Mon, 26 Jan 2026 21:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
-      "url": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-      "published": "Mon, 26 Jan 2026 17:25:00 +0530",
       "source": "The Hacker News"
     },
     {
