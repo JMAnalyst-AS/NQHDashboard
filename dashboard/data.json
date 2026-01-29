@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-29T14:03:34.355595Z",
+  "generated_at": "2026-01-29T15:05:22.728792Z",
   "segment1": [
+    {
+      "title": "You’re not paranoid: lawyers ARE coming to get you.",
+      "url": "https://databreaches.net/2026/01/29/youre-not-paranoid-lawyers-are-coming-to-get-you/?pk_campaign=feed&pk_kwd=youre-not-paranoid-lawyers-are-coming-to-get-you",
+      "published": "Thu, 29 Jan 2026 14:44:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Russian ransomware forum seized by U.S. law enforcement",
       "url": "https://databreaches.net/2026/01/28/russian-ransomware-forum-seized-by-u-s-law-enforcement/?pk_campaign=feed&pk_kwd=russian-ransomware-forum-seized-by-u-s-law-enforcement",
@@ -53,17 +59,17 @@
       "title": "France’s Waltio faces ransom threat from notorious hacker collective",
       "url": "https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective",
       "published": "Sat, 24 Jan 2026 11:58:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Concern",
-      "url": "https://databreaches.net/2026/01/23/microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern/?pk_campaign=feed&pk_kwd=microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern",
-      "published": "Fri, 23 Jan 2026 13:28:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "You’re not paranoid: lawyers ARE coming to get you.",
+      "url": "https://databreaches.net/2026/01/29/youre-not-paranoid-lawyers-are-coming-to-get-you/?pk_campaign=feed&pk_kwd=youre-not-paranoid-lawyers-are-coming-to-get-you",
+      "published": "Thu, 29 Jan 2026 14:44:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Russian ransomware forum seized by U.S. law enforcement",
       "url": "https://databreaches.net/2026/01/28/russian-ransomware-forum-seized-by-u-s-law-enforcement/?pk_campaign=feed&pk_kwd=russian-ransomware-forum-seized-by-u-s-law-enforcement",
       "published": "Thu, 29 Jan 2026 02:17:29 +0000",
@@ -115,12 +121,6 @@
       "title": "France’s Waltio faces ransom threat from notorious hacker collective",
       "url": "https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective",
       "published": "Sat, 24 Jan 2026 11:58:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Concern",
-      "url": "https://databreaches.net/2026/01/23/microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern/?pk_campaign=feed&pk_kwd=microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern",
-      "published": "Fri, 23 Jan 2026 13:28:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
+      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Microsoft Teams feature will let you report suspicious calls",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
+      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France fines unemployment agency €5 million over data breach",
       "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
       "published": "Thu, 29 Jan 2026 08:36:01 -0500",
@@ -381,18 +393,6 @@
       "title": "Slovakian man pleads guilty to operating darknet marketplace",
       "url": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
       "published": "Wed, 28 Jan 2026 07:49:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
-      "published": "Wed, 28 Jan 2026 06:48:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
-      "published": "Tue, 27 Jan 2026 19:04:45 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
+      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Microsoft Teams feature will let you report suspicious calls",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
+      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France fines unemployment agency €5 million over data breach",
       "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
       "published": "Thu, 29 Jan 2026 08:36:01 -0500",
@@ -833,18 +845,6 @@
       "title": "Slovakian man pleads guilty to operating darknet marketplace",
       "url": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
       "published": "Wed, 28 Jan 2026 07:49:05 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
-      "published": "Wed, 28 Jan 2026 06:48:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
-      "published": "Tue, 27 Jan 2026 19:04:45 -0500",
       "source": "BleepingComputer"
     },
     {
