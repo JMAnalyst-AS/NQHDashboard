@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T21:53:11.958795Z",
+  "generated_at": "2026-01-29T22:28:47.764000Z",
   "segment1": [
     {
       "title": "Ex-Google Engineer Guilty of Stealing AI Tech for Chinese Firm",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hugging Face abused to spread thousands of Android malware variants",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
+      "published": "Thu, 29 Jan 2026 17:08:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "published": "Thu, 29 Jan 2026 17:07:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
       "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
       "published": "Thu, 29 Jan 2026 14:29:17 -0500",
@@ -381,18 +393,6 @@
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
       "published": "Wed, 28 Jan 2026 12:46:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
-      "published": "Wed, 28 Jan 2026 12:38:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
-      "url": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-      "published": "Wed, 28 Jan 2026 12:19:02 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hugging Face abused to spread thousands of Android malware variants",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
+      "published": "Thu, 29 Jan 2026 17:08:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "published": "Thu, 29 Jan 2026 17:07:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
       "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
       "published": "Thu, 29 Jan 2026 14:29:17 -0500",
@@ -833,18 +845,6 @@
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
       "published": "Wed, 28 Jan 2026 12:46:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
-      "published": "Wed, 28 Jan 2026 12:38:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
-      "url": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-      "published": "Wed, 28 Jan 2026 12:19:02 -0500",
       "source": "BleepingComputer"
     },
     {
