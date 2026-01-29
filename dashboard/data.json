@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T12:59:15.749739Z",
+  "generated_at": "2026-01-29T14:03:34.355595Z",
   "segment1": [
     {
       "title": "Russian ransomware forum seized by U.S. law enforcement",
@@ -128,7 +128,7 @@
     {
       "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
       "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
-      "published": "Thu, 29 Jan 2026 08:27:53 GMT",
+      "published": "Thu, 29 Jan 2026 13:08:58 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "France fines unemployment agency €5 million over data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+      "published": "Thu, 29 Jan 2026 08:36:01 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google rolls out Android theft protection feature updates",
       "url": "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/",
       "published": "Thu, 29 Jan 2026 06:56:26 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
-      "published": "Tue, 27 Jan 2026 18:19:42 -0500",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+      "published": "Thu, 29 Jan 2026 18:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
@@ -507,12 +513,6 @@
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
       "published": "Tue, 27 Jan 2026 16:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -580,7 +580,7 @@
     {
       "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
       "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
-      "published": "Thu, 29 Jan 2026 08:27:53 GMT",
+      "published": "Thu, 29 Jan 2026 13:08:58 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "France fines unemployment agency €5 million over data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+      "published": "Thu, 29 Jan 2026 08:36:01 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google rolls out Android theft protection feature updates",
       "url": "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/",
       "published": "Thu, 29 Jan 2026 06:56:26 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
-      "published": "Tue, 27 Jan 2026 18:19:42 -0500",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+      "published": "Thu, 29 Jan 2026 18:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
@@ -959,12 +965,6 @@
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
       "published": "Tue, 27 Jan 2026 16:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
       "source": "The Hacker News"
     },
     {
