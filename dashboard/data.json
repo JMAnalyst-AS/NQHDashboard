@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-29T19:09:21.685394Z",
+  "generated_at": "2026-01-29T19:51:10.239718Z",
   "segment1": [
+    {
+      "title": "Ex-Google Engineer Guilty of Stealing AI Tech for Chinese Firm",
+      "url": "https://databreaches.net/2026/01/29/ex-google-engineer-guilty-of-stealing-ai-tech-for-chinese-firm/?pk_campaign=feed&pk_kwd=ex-google-engineer-guilty-of-stealing-ai-tech-for-chinese-firm",
+      "published": "Thu, 29 Jan 2026 19:30:52 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "You’re not paranoid: lawyers ARE coming to get you.",
       "url": "https://databreaches.net/2026/01/29/youre-not-paranoid-lawyers-are-coming-to-get-you/?pk_campaign=feed&pk_kwd=youre-not-paranoid-lawyers-are-coming-to-get-you",
@@ -53,17 +59,17 @@
       "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
       "url": "https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks",
       "published": "Sat, 24 Jan 2026 12:00:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "France’s Waltio faces ransom threat from notorious hacker collective",
-      "url": "https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective",
-      "published": "Sat, 24 Jan 2026 11:58:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Ex-Google Engineer Guilty of Stealing AI Tech for Chinese Firm",
+      "url": "https://databreaches.net/2026/01/29/ex-google-engineer-guilty-of-stealing-ai-tech-for-chinese-firm/?pk_campaign=feed&pk_kwd=ex-google-engineer-guilty-of-stealing-ai-tech-for-chinese-firm",
+      "published": "Thu, 29 Jan 2026 19:30:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "You’re not paranoid: lawyers ARE coming to get you.",
       "url": "https://databreaches.net/2026/01/29/youre-not-paranoid-lawyers-are-coming-to-get-you/?pk_campaign=feed&pk_kwd=youre-not-paranoid-lawyers-are-coming-to-get-you",
       "published": "Thu, 29 Jan 2026 14:44:42 +0000",
@@ -115,12 +121,6 @@
       "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
       "url": "https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks",
       "published": "Sat, 24 Jan 2026 12:00:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "France’s Waltio faces ransom threat from notorious hacker collective",
-      "url": "https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective",
-      "published": "Sat, 24 Jan 2026 11:58:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
+      "published": "Thu, 29 Jan 2026 14:29:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
       "url": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
       "published": "Thu, 29 Jan 2026 13:09:40 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI Is Rewriting Compliance Controls and CISOs Must Take Notice",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/",
-      "published": "Wed, 28 Jan 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+      "url": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+      "published": "Fri, 30 Jan 2026 00:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
@@ -507,12 +513,6 @@
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
       "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
       "published": "Tue, 27 Jan 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
+      "published": "Thu, 29 Jan 2026 14:29:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
       "url": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
       "published": "Thu, 29 Jan 2026 13:09:40 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI Is Rewriting Compliance Controls and CISOs Must Take Notice",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/",
-      "published": "Wed, 28 Jan 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+      "url": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+      "published": "Fri, 30 Jan 2026 00:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
@@ -959,12 +965,6 @@
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
       "url": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
       "published": "Tue, 27 Jan 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
       "source": "The Hacker News"
     },
     {
