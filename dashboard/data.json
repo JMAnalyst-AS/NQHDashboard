@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T08:54:41.896782Z",
+  "generated_at": "2026-01-29T09:43:05.321876Z",
   "segment1": [
     {
       "title": "Russian ransomware forum seized by U.S. law enforcement",
@@ -126,12 +126,6 @@
   ],
   "segment3": [
     {
-      "title": "Supplier assurance questions",
-      "url": "https://www.ncsc.gov.uk/guidance/supplier-assurance-questions",
-      "published": "Sat, 12 Mar 9025 10:08:04 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
       "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
       "published": "Thu, 29 Jan 2026 08:27:53 GMT",
@@ -186,12 +180,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
-      "published": "Fri, 12 Dec 2025 10:47:19 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Shopping and paying safely online",
       "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
       "published": "Mon, 08 Dec 2025 16:40:12 GMT",
@@ -234,6 +222,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
       "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
       "published": "Mon, 08 Dec 2025 09:58:58 GMT",
@@ -243,6 +237,12 @@
       "title": "Provisioning and managing certificates in the Web PKI",
       "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
       "published": "Mon, 08 Dec 2025 08:36:15 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Updating our guidance on security certificates, TLS and IPsec",
+      "url": "https://www.ncsc.gov.uk/blog-post/updating-our-guidance-on-security-certificates-tls-ipsec",
+      "published": "Mon, 08 Dec 2025 08:04:39 GMT",
       "source": "NCSC Feed"
     },
     {
@@ -578,12 +578,6 @@
   ],
   "rss": [
     {
-      "title": "Supplier assurance questions",
-      "url": "https://www.ncsc.gov.uk/guidance/supplier-assurance-questions",
-      "published": "Sat, 12 Mar 9025 10:08:04 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
       "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
       "published": "Thu, 29 Jan 2026 08:27:53 GMT",
@@ -638,12 +632,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
-      "published": "Fri, 12 Dec 2025 10:47:19 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Shopping and paying safely online",
       "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
       "published": "Mon, 08 Dec 2025 16:40:12 GMT",
@@ -686,6 +674,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
       "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
       "published": "Mon, 08 Dec 2025 09:58:58 GMT",
@@ -695,6 +689,12 @@
       "title": "Provisioning and managing certificates in the Web PKI",
       "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
       "published": "Mon, 08 Dec 2025 08:36:15 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Updating our guidance on security certificates, TLS and IPsec",
+      "url": "https://www.ncsc.gov.uk/blog-post/updating-our-guidance-on-security-certificates-tls-ipsec",
+      "published": "Mon, 08 Dec 2025 08:04:39 GMT",
       "source": "NCSC Feed"
     },
     {
