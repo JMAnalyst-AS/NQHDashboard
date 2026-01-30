@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T11:28:45.434371Z",
+  "generated_at": "2026-01-30T11:53:13.554233Z",
   "segment1": [
     {
       "title": "Trump sues IRS and the Treasury for $10 Billion Because His Tax Returns Were Leaked",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -303,6 +297,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
       "published": "Wed, 28 Jan 2026 15:26:59 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Badges, Bytes and Blackmail",
+      "url": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+      "published": "Fri, 30 Jan 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
@@ -507,12 +513,6 @@
       "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
       "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
       "published": "Wed, 28 Jan 2026 10:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "published": "Tue, 27 Jan 2026 22:24:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -755,6 +749,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
       "published": "Wed, 28 Jan 2026 15:26:59 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Badges, Bytes and Blackmail",
+      "url": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+      "published": "Fri, 30 Jan 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
@@ -959,12 +965,6 @@
       "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
       "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
       "published": "Wed, 28 Jan 2026 10:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "published": "Tue, 27 Jan 2026 22:24:00 +0530",
       "source": "The Hacker News"
     },
     {
