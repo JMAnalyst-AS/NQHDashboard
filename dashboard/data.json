@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-30T15:35:25.439274Z",
+  "generated_at": "2026-01-30T16:40:05.174499Z",
   "segment1": [
+    {
+      "title": "Investigation into data breach involving Blue Cross Blue Shield members could head to court",
+      "url": "https://databreaches.net/2026/01/30/investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court/?pk_campaign=feed&pk_kwd=investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court",
+      "published": "Fri, 30 Jan 2026 15:36:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "SK Telecom rejects consumer agency’s compensation settlement over personal data leak",
       "url": "https://databreaches.net/2026/01/30/sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak/?pk_campaign=feed&pk_kwd=sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak",
@@ -53,17 +59,17 @@
       "title": "Savannah Best Buy employee says ‘hacker group’ blackmailed him into theft ring scheme",
       "url": "https://databreaches.net/2026/01/27/savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme/?pk_campaign=feed&pk_kwd=savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme",
       "published": "Tue, 27 Jan 2026 12:57:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
-      "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
-      "published": "Mon, 26 Jan 2026 17:48:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Investigation into data breach involving Blue Cross Blue Shield members could head to court",
+      "url": "https://databreaches.net/2026/01/30/investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court/?pk_campaign=feed&pk_kwd=investigation-into-data-breach-involving-blue-cross-blue-shield-members-could-head-to-court",
+      "published": "Fri, 30 Jan 2026 15:36:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "SK Telecom rejects consumer agency’s compensation settlement over personal data leak",
       "url": "https://databreaches.net/2026/01/30/sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak/?pk_campaign=feed&pk_kwd=sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak",
       "published": "Fri, 30 Jan 2026 14:59:02 +0000",
@@ -115,12 +121,6 @@
       "title": "Savannah Best Buy employee says ‘hacker group’ blackmailed him into theft ring scheme",
       "url": "https://databreaches.net/2026/01/27/savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme/?pk_campaign=feed&pk_kwd=savannah-best-buy-employee-says-hacker-group-blackmailed-him-into-theft-ring-scheme",
       "published": "Tue, 27 Jan 2026 12:57:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hungarian and Romanian Police Detain Young Hackers over Fake Threat Calls",
-      "url": "https://databreaches.net/2026/01/26/hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls/?pk_campaign=feed&pk_kwd=hungarian-and-romanian-police-detain-young-hackers-over-fake-threat-calls",
-      "published": "Mon, 26 Jan 2026 17:48:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Operation Switch Off dismantles major pirate TV streaming services",
+      "url": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
+      "published": "Fri, 30 Jan 2026 11:39:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
       "published": "Fri, 30 Jan 2026 09:48:49 -0500",
@@ -387,12 +393,6 @@
       "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
       "published": "Wed, 28 Jan 2026 18:29:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
-      "published": "Wed, 28 Jan 2026 17:14:35 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Operation Switch Off dismantles major pirate TV streaming services",
+      "url": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
+      "published": "Fri, 30 Jan 2026 11:39:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
       "published": "Fri, 30 Jan 2026 09:48:49 -0500",
@@ -839,12 +845,6 @@
       "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
       "published": "Wed, 28 Jan 2026 18:29:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
-      "published": "Wed, 28 Jan 2026 17:14:35 -0500",
       "source": "BleepingComputer"
     },
     {
