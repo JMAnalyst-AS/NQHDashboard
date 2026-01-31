@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T07:28:33.737586Z",
+  "generated_at": "2026-01-31T07:51:00.596227Z",
   "segment1": [
     {
       "title": "Investigation into data breach involving Blue Cross Blue Shield members could head to court",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -297,12 +303,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+      "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+      "published": "Sat, 31 Jan 2026 12:35:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
       "url": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
       "published": "Fri, 30 Jan 2026 19:12:00 +0530",
@@ -414,7 +420,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
       "url": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
       "published": "Fri, 30 Jan 2026 13:05:00 +0530",
       "source": "The Hacker News"
@@ -474,7 +480,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
       "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
       "published": "Wed, 28 Jan 2026 21:36:00 +0530",
       "source": "The Hacker News"
@@ -507,12 +513,6 @@
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
       "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
       "published": "Wed, 28 Jan 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
-      "url": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-      "published": "Wed, 28 Jan 2026 15:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -749,12 +755,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+      "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+      "published": "Sat, 31 Jan 2026 12:35:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
       "url": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
       "published": "Fri, 30 Jan 2026 19:12:00 +0530",
@@ -866,7 +872,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
       "url": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
       "published": "Fri, 30 Jan 2026 13:05:00 +0530",
       "source": "The Hacker News"
@@ -926,7 +932,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
       "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
       "published": "Wed, 28 Jan 2026 21:36:00 +0530",
       "source": "The Hacker News"
@@ -959,12 +965,6 @@
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
       "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
       "published": "Wed, 28 Jan 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
-      "url": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-      "published": "Wed, 28 Jan 2026 15:16:00 +0530",
       "source": "The Hacker News"
     },
     {
