@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-31T16:29:22.644299Z",
+  "generated_at": "2026-01-31T16:56:45.309410Z",
   "segment1": [
+    {
+      "title": "When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night",
+      "url": "https://databreaches.net/2026/01/31/when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night/?pk_campaign=feed&pk_kwd=when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night",
+      "published": "Sat, 31 Jan 2026 16:41:02 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "BD: 14,000 journos’ personal data leaked online",
       "url": "https://databreaches.net/2026/01/31/bd-14000-journos-personal-data-leaked-online/?pk_campaign=feed&pk_kwd=bd-14000-journos-personal-data-leaked-online",
@@ -53,17 +59,17 @@
       "title": "AI “digital helper” Lena Health breach exposed some Houston Methodist patients’ medical info (1)",
       "url": "https://databreaches.net/2026/01/28/ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info/?pk_campaign=feed&pk_kwd=ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info",
       "published": "Wed, 28 Jan 2026 18:46:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
-      "url": "https://databreaches.net/2026/01/27/treasury-cancels-21-million-in-booz-allen-contracts-blaming-a-breach-that-happened-years-ago/?pk_campaign=feed&pk_kwd=treasury-cancels-21-million-in-booz-allen-contracts-blaming-a-breach-that-happened-years-ago",
-      "published": "Tue, 27 Jan 2026 13:45:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night",
+      "url": "https://databreaches.net/2026/01/31/when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night/?pk_campaign=feed&pk_kwd=when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night",
+      "published": "Sat, 31 Jan 2026 16:41:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "BD: 14,000 journos’ personal data leaked online",
       "url": "https://databreaches.net/2026/01/31/bd-14000-journos-personal-data-leaked-online/?pk_campaign=feed&pk_kwd=bd-14000-journos-personal-data-leaked-online",
       "published": "Sat, 31 Jan 2026 15:51:03 +0000",
@@ -115,12 +121,6 @@
       "title": "AI “digital helper” Lena Health breach exposed some Houston Methodist patients’ medical info (1)",
       "url": "https://databreaches.net/2026/01/28/ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info/?pk_campaign=feed&pk_kwd=ai-digital-helper-lena-health-breach-exposed-some-houston-methodist-patients-medical-info",
       "published": "Wed, 28 Jan 2026 18:46:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Treasury cancels $21 million in Booz Allen contracts, blaming a breach that happened years ago",
-      "url": "https://databreaches.net/2026/01/27/treasury-cancels-21-million-in-booz-allen-contracts-blaming-a-breach-that-happened-years-ago/?pk_campaign=feed&pk_kwd=treasury-cancels-21-million-in-booz-allen-contracts-blaming-a-breach-that-happened-years-ago",
-      "published": "Tue, 27 Jan 2026 13:45:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Cloud storage payment scam floods inboxes with fake renewals",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
+      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
@@ -387,12 +393,6 @@
       "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
       "url": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
       "published": "Thu, 29 Jan 2026 10:02:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
-      "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
-      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -752,10 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Cloud storage payment scam floods inboxes with fake renewals",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
+      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
@@ -839,12 +845,6 @@
       "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
       "url": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
       "published": "Thu, 29 Jan 2026 10:02:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
-      "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
-      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
       "source": "BleepingComputer"
     },
     {
