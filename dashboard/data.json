@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T08:31:26.389401Z",
+  "generated_at": "2026-01-31T09:28:59.508937Z",
   "segment1": [
     {
       "title": "Investigation into data breach involving Blue Cross Blue Shield members could head to court",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -297,12 +303,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
       "published": "Thu, 29 Jan 2026 08:36:01 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+      "url": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+      "published": "Sat, 31 Jan 2026 13:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
@@ -507,12 +513,6 @@
       "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
       "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
       "published": "Wed, 28 Jan 2026 17:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
-      "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
-      "published": "Wed, 28 Jan 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -749,12 +755,6 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
       "published": "Thu, 29 Jan 2026 08:36:01 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+      "url": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+      "published": "Sat, 31 Jan 2026 13:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
@@ -959,12 +965,6 @@
       "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
       "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
       "published": "Wed, 28 Jan 2026 17:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
-      "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
-      "published": "Wed, 28 Jan 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
