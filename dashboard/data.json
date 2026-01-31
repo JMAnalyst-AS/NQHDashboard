@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T14:50:24.928768Z",
+  "generated_at": "2026-01-31T15:24:44.172044Z",
   "segment1": [
     {
       "title": "Investigation into data breach involving Blue Cross Blue Shield members could head to court",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -300,10 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
+      "url": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
+      "published": "Sat, 31 Jan 2026 10:02:12 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
@@ -387,12 +393,6 @@
       "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
       "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
       "published": "Thu, 29 Jan 2026 09:55:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Teams feature will let you report suspicious calls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
-      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -752,10 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
+      "url": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
+      "published": "Sat, 31 Jan 2026 10:02:12 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
@@ -839,12 +845,6 @@
       "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
       "url": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
       "published": "Thu, 29 Jan 2026 09:55:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Teams feature will let you report suspicious calls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
-      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
       "source": "BleepingComputer"
     },
     {
