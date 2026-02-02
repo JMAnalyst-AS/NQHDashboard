@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-02T13:01:04.661662Z",
+  "generated_at": "2026-02-02T14:11:35.603504Z",
   "segment1": [
+    {
+      "title": "IA: Dallas County to pay $600,000 to security testers arrested in 2019",
+      "url": "https://databreaches.net/2026/02/02/ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019/?pk_campaign=feed&pk_kwd=ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019",
+      "published": "Mon, 02 Feb 2026 13:28:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Under Pressure: Exploring the effect of legal and criminal threats on security researchers and journalists",
       "url": "https://databreaches.net/2026/02/02/under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists/?pk_campaign=feed&pk_kwd=under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists",
@@ -53,17 +59,17 @@
       "title": "SK Telecom rejects consumer agency’s compensation settlement over personal data leak",
       "url": "https://databreaches.net/2026/01/30/sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak/?pk_campaign=feed&pk_kwd=sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak",
       "published": "Fri, 30 Jan 2026 14:59:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Trump sues IRS and the Treasury for $10 Billion Because His Tax Returns Were Leaked",
-      "url": "https://databreaches.net/2026/01/29/trump-sues-irs-and-the-treasury-for-10-billion-because-his-tax-returns-were-leaked/?pk_campaign=feed&pk_kwd=trump-sues-irs-and-the-treasury-for-10-billion-because-his-tax-returns-were-leaked",
-      "published": "Fri, 30 Jan 2026 04:20:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "IA: Dallas County to pay $600,000 to security testers arrested in 2019",
+      "url": "https://databreaches.net/2026/02/02/ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019/?pk_campaign=feed&pk_kwd=ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019",
+      "published": "Mon, 02 Feb 2026 13:28:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Under Pressure: Exploring the effect of legal and criminal threats on security researchers and journalists",
       "url": "https://databreaches.net/2026/02/02/under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists/?pk_campaign=feed&pk_kwd=under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists",
       "published": "Mon, 02 Feb 2026 12:01:28 +0000",
@@ -115,12 +121,6 @@
       "title": "SK Telecom rejects consumer agency’s compensation settlement over personal data leak",
       "url": "https://databreaches.net/2026/01/30/sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak/?pk_campaign=feed&pk_kwd=sk-telecom-rejects-consumer-agencys-compensation-settlement-over-personal-data-leak",
       "published": "Fri, 30 Jan 2026 14:59:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Trump sues IRS and the Treasury for $10 Billion Because His Tax Returns Were Leaked",
-      "url": "https://databreaches.net/2026/01/29/trump-sues-irs-and-the-treasury-for-10-billion-because-his-tax-returns-were-leaked/?pk_campaign=feed&pk_kwd=trump-sues-irs-and-the-treasury-for-10-billion-because-his-tax-returns-were-leaked",
-      "published": "Fri, 30 Jan 2026 04:20:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+      "published": "Mon, 02 Feb 2026 08:46:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug causing password sign-in option to disappear",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
       "published": "Mon, 02 Feb 2026 06:34:34 -0500",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
-      "published": "Fri, 30 Jan 2026 07:02:09 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+      "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
@@ -501,18 +513,6 @@
       "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
       "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
       "published": "Thu, 29 Jan 2026 12:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-      "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-      "published": "Wed, 28 Jan 2026 23:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-      "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-      "published": "Wed, 28 Jan 2026 21:36:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+      "published": "Mon, 02 Feb 2026 08:46:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug causing password sign-in option to disappear",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
       "published": "Mon, 02 Feb 2026 06:34:34 -0500",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
-      "published": "Fri, 30 Jan 2026 07:02:09 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+      "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
@@ -953,18 +965,6 @@
       "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
       "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
       "published": "Thu, 29 Jan 2026 12:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-      "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-      "published": "Wed, 28 Jan 2026 23:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-      "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-      "published": "Wed, 28 Jan 2026 21:36:00 +0530",
       "source": "The Hacker News"
     },
     {
