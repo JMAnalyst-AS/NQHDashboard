@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T18:44:31.921412Z",
+  "generated_at": "2026-02-02T23:08:55.580559Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,36 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious MoltBot skills used to push password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+      "published": "Mon, 02 Feb 2026 14:11:12 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Mozilla announces switch to disable all Firefox AI features",
@@ -378,22 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloud storage payment scam floods inboxes with fake renewals",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
-      "published": "Sat, 31 Jan 2026 10:02:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-      "url": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-      "published": "Sat, 31 Jan 2026 09:27:12 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
+      "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
@@ -507,12 +513,6 @@
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
       "url": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
       "published": "Thu, 29 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-      "url": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-      "published": "Thu, 29 Jan 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,36 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious MoltBot skills used to push password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+      "published": "Mon, 02 Feb 2026 14:11:12 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Mozilla announces switch to disable all Firefox AI features",
@@ -830,22 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloud storage payment scam floods inboxes with fake renewals",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
-      "published": "Sat, 31 Jan 2026 10:02:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-      "url": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-      "published": "Sat, 31 Jan 2026 09:27:12 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
+      "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
@@ -959,12 +965,6 @@
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
       "url": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
       "published": "Thu, 29 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-      "url": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-      "published": "Thu, 29 Jan 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
