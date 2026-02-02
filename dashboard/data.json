@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T04:35:42.421846Z",
+  "generated_at": "2026-02-02T06:03:05.203528Z",
   "segment1": [
     {
       "title": "RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach",
@@ -246,12 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -303,6 +297,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
       "published": "Thu, 29 Jan 2026 17:08:19 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
+      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
+      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+      "url": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+      "published": "Mon, 02 Feb 2026 10:34:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
@@ -501,18 +513,6 @@
       "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
       "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
       "published": "Wed, 28 Jan 2026 18:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-      "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "published": "Wed, 28 Jan 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,12 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -755,6 +749,12 @@
       "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
       "published": "Thu, 29 Jan 2026 17:08:19 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
+      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
+      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+      "url": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+      "published": "Mon, 02 Feb 2026 10:34:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
@@ -953,18 +965,6 @@
       "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
       "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
       "published": "Wed, 28 Jan 2026 18:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-      "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "published": "Wed, 28 Jan 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
