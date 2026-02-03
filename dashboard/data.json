@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T16:12:01.554619Z",
+  "generated_at": "2026-02-03T17:28:13.873558Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,6 +246,72 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, January 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+      "url": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+      "published": "Tue, 03 Feb 2026 11:49:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
       "url": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
       "published": "Tue, 03 Feb 2026 10:01:11 -0500",
@@ -327,12 +393,6 @@
       "title": "NationStates confirms data breach, shuts down game site",
       "url": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
       "published": "Mon, 02 Feb 2026 05:05:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exposed MongoDB instances still targeted in data extortion attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
-      "published": "Sun, 01 Feb 2026 11:27:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -638,6 +698,72 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, January 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+      "url": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+      "published": "Tue, 03 Feb 2026 11:49:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
       "url": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
       "published": "Tue, 03 Feb 2026 10:01:11 -0500",
@@ -719,12 +845,6 @@
       "title": "NationStates confirms data breach, shuts down game site",
       "url": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
       "published": "Mon, 02 Feb 2026 05:05:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exposed MongoDB instances still targeted in data extortion attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
-      "published": "Sun, 01 Feb 2026 11:27:00 -0500",
       "source": "BleepingComputer"
     },
     {
