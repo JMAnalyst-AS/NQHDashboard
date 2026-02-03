@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T20:00:19.971209Z",
+  "generated_at": "2026-02-03T21:01:38.207074Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,6 +246,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+      "url": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
       "published": "Tue, 03 Feb 2026 14:37:00 -0500",
@@ -327,12 +333,6 @@
       "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
       "url": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
       "published": "Mon, 02 Feb 2026 08:46:39 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing password sign-in option to disappear",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
-      "published": "Mon, 02 Feb 2026 06:34:34 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -638,6 +638,12 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+      "url": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
       "published": "Tue, 03 Feb 2026 14:37:00 -0500",
@@ -719,12 +725,6 @@
       "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
       "url": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
       "published": "Mon, 02 Feb 2026 08:46:39 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing password sign-in option to disappear",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
-      "published": "Mon, 02 Feb 2026 06:34:34 -0500",
       "source": "BleepingComputer"
     },
     {
