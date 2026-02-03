@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T13:01:46.772151Z",
+  "generated_at": "2026-02-03T14:25:21.956332Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-critical-react-native-metro-bug-to-breach-dev-systems/",
+      "published": "Tue, 03 Feb 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
@@ -387,12 +393,6 @@
       "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
       "published": "Sat, 31 Jan 2026 21:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-      "published": "Sat, 31 Jan 2026 20:26:02 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-critical-react-native-metro-bug-to-breach-dev-systems/",
+      "published": "Tue, 03 Feb 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
@@ -839,12 +845,6 @@
       "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
       "published": "Sat, 31 Jan 2026 21:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-      "published": "Sat, 31 Jan 2026 20:26:02 -0500",
       "source": "BleepingComputer"
     },
     {
