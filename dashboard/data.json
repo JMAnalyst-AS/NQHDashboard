@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T11:34:51.556513Z",
+  "generated_at": "2026-02-03T13:01:46.772151Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -294,16 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+      "url": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+      "published": "Tue, 03 Feb 2026 07:43:37 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
-      "url": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
-      "published": "Sat, 31 Jan 2026 12:33:42 -0500",
-      "source": "BleepingComputer"
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
@@ -507,12 +513,6 @@
       "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
       "url": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
       "published": "Fri, 30 Jan 2026 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-      "url": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-      "published": "Fri, 30 Jan 2026 10:13:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -746,16 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+      "url": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+      "published": "Tue, 03 Feb 2026 07:43:37 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
-      "url": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
-      "published": "Sat, 31 Jan 2026 12:33:42 -0500",
-      "source": "BleepingComputer"
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
@@ -959,12 +965,6 @@
       "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
       "url": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
       "published": "Fri, 30 Jan 2026 12:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-      "url": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-      "published": "Fri, 30 Jan 2026 10:13:00 +0530",
       "source": "The Hacker News"
     },
     {
