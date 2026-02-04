@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-04T18:08:14.989098Z",
+  "generated_at": "2026-02-04T19:22:01.722605Z",
   "segment1": [
+    {
+      "title": "Don’t panic:  0apt’s listings and data leaks are fakes — Researchers",
+      "url": "https://databreaches.net/2026/02/04/dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers/?pk_campaign=feed&pk_kwd=dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers",
+      "published": "Wed, 04 Feb 2026 18:30:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Former Nuance Communications employee facing more charges in 2023 Geisinger data breach case",
       "url": "https://databreaches.net/2026/02/04/former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case/?pk_campaign=feed&pk_kwd=former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case",
@@ -53,17 +59,17 @@
       "title": "When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night",
       "url": "https://databreaches.net/2026/01/31/when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night/?pk_campaign=feed&pk_kwd=when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night",
       "published": "Sat, 31 Jan 2026 16:41:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BD: 14,000 journos’ personal data leaked online",
-      "url": "https://databreaches.net/2026/01/31/bd-14000-journos-personal-data-leaked-online/?pk_campaign=feed&pk_kwd=bd-14000-journos-personal-data-leaked-online",
-      "published": "Sat, 31 Jan 2026 15:51:03 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Don’t panic:  0apt’s listings and data leaks are fakes — Researchers",
+      "url": "https://databreaches.net/2026/02/04/dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers/?pk_campaign=feed&pk_kwd=dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers",
+      "published": "Wed, 04 Feb 2026 18:30:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Former Nuance Communications employee facing more charges in 2023 Geisinger data breach case",
       "url": "https://databreaches.net/2026/02/04/former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case/?pk_campaign=feed&pk_kwd=former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case",
       "published": "Wed, 04 Feb 2026 12:51:31 +0000",
@@ -115,12 +121,6 @@
       "title": "When the GDPR is weaponized to shut journalists up, don’t go silently into that dark night",
       "url": "https://databreaches.net/2026/01/31/when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night/?pk_campaign=feed&pk_kwd=when-the-gdpr-is-weaponized-to-shut-journalists-up-dont-go-silently-into-that-dark-night",
       "published": "Sat, 31 Jan 2026 16:41:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BD: 14,000 journos’ personal data leaked online",
-      "url": "https://databreaches.net/2026/01/31/bd-14000-journos-personal-data-leaked-online/?pk_campaign=feed&pk_kwd=bd-14000-journos-personal-data-leaked-online",
-      "published": "Sat, 31 Jan 2026 15:51:03 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -396,6 +396,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+      "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+      "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+      "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
       "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
       "published": "Wed, 04 Feb 2026 19:39:00 +0530",
@@ -501,18 +513,6 @@
       "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
       "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
       "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+      "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+      "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+      "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
       "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
       "published": "Wed, 04 Feb 2026 19:39:00 +0530",
@@ -953,18 +965,6 @@
       "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
       "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
       "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
       "source": "The Hacker News"
     },
     {
