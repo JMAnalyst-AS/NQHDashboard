@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T15:08:17.203748Z",
+  "generated_at": "2026-02-04T16:09:23.472797Z",
   "segment1": [
     {
       "title": "Former Nuance Communications employee facing more charges in 2023 Geisinger data breach case",
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -294,16 +306,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
+      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
+      "published": "Wed, 04 Feb 2026 10:42:31 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "The Double-Edged Sword of Non-Human Identities",
+      "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
+      "published": "Wed, 04 Feb 2026 10:05:15 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EDR killer tool uses signed kernel driver from forensic software",
@@ -382,138 +394,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
       "published": "Tue, 03 Feb 2026 07:43:37 -0500",
       "source": "BleepingComputer"
-    },
-    {
-      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
-      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-      "url": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-      "published": "Wed, 04 Feb 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-      "url": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-      "published": "Wed, 04 Feb 2026 15:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-      "url": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
-      "published": "Wed, 04 Feb 2026 13:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-      "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When Cloud Outages Ripple Across the Internet",
-      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
-      "url": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-      "published": "Tue, 03 Feb 2026 14:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-      "url": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-      "published": "Tue, 03 Feb 2026 11:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-      "url": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-      "published": "Tue, 03 Feb 2026 10:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-      "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-      "url": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-      "published": "Mon, 02 Feb 2026 21:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-      "url": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-      "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-      "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
-      "source": "The Hacker News"
     },
     {
       "title": "Identifying ‘Less-Lethal’ Weapons Used By DHS Agents in US Immigration Raids and Protests",
@@ -698,6 +578,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -746,16 +638,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
+      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
+      "published": "Wed, 04 Feb 2026 10:42:31 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "The Double-Edged Sword of Non-Human Identities",
+      "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
+      "published": "Wed, 04 Feb 2026 10:05:15 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EDR killer tool uses signed kernel driver from forensic software",
@@ -834,138 +726,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
       "published": "Tue, 03 Feb 2026 07:43:37 -0500",
       "source": "BleepingComputer"
-    },
-    {
-      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
-      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-      "url": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-      "published": "Wed, 04 Feb 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-      "url": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-      "published": "Wed, 04 Feb 2026 15:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-      "url": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
-      "published": "Wed, 04 Feb 2026 13:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-      "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When Cloud Outages Ripple Across the Internet",
-      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
-      "url": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
-      "published": "Tue, 03 Feb 2026 14:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-      "url": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-      "published": "Tue, 03 Feb 2026 11:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-      "url": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-      "published": "Tue, 03 Feb 2026 10:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-      "url": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-      "url": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-      "published": "Mon, 02 Feb 2026 21:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-      "url": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-      "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-      "url": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
-      "source": "The Hacker News"
     },
     {
       "title": "Identifying ‘Less-Lethal’ Weapons Used By DHS Agents in US Immigration Raids and Protests",
