@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T06:53:42.259403Z",
+  "generated_at": "2026-02-04T07:44:08.113791Z",
   "segment1": [
     {
       "title": "Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain",
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+      "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+      "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
       "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
       "published": "Tue, 03 Feb 2026 22:11:00 +0530",
@@ -351,18 +363,6 @@
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
       "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
       "published": "Sat, 31 Jan 2026 12:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
-      "url": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
-      "published": "Fri, 30 Jan 2026 19:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-      "url": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
-      "published": "Fri, 30 Jan 2026 17:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -548,6 +548,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+      "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+      "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
       "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
       "published": "Tue, 03 Feb 2026 22:11:00 +0530",
@@ -653,18 +665,6 @@
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
       "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
       "published": "Sat, 31 Jan 2026 12:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
-      "url": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
-      "published": "Fri, 30 Jan 2026 19:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-      "url": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
-      "published": "Fri, 30 Jan 2026 17:38:00 +0530",
       "source": "The Hacker News"
     },
     {
