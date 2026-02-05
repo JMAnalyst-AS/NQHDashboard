@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T05:38:49.503611Z",
+  "generated_at": "2026-02-05T06:59:58.235730Z",
   "segment1": [
     {
       "title": "Two Ivy League universities had donor information breaches. Will donors be notified?",
@@ -396,7 +396,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "url": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
       "url": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
       "published": "Thu, 05 Feb 2026 10:26:00 +0530",
       "source": "The Hacker News"
@@ -507,12 +513,6 @@
       "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
       "url": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
       "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,7 +848,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "url": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
       "url": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
       "published": "Thu, 05 Feb 2026 10:26:00 +0530",
       "source": "The Hacker News"
@@ -959,12 +965,6 @@
       "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
       "url": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
       "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
