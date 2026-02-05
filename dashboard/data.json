@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T20:39:48.952947Z",
+  "generated_at": "2026-02-05T21:29:38.564951Z",
   "segment1": [
     {
       "title": "OIG audit of hospital’s cybersecurity finds vulnerabilities in common web applications",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Spain's Ministry of Science shuts down systems after breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
+      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
+      "published": "Thu, 05 Feb 2026 15:57:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft to shut down Exchange Online EWS in April 2027",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
       "published": "Thu, 05 Feb 2026 13:07:41 -0500",
@@ -381,18 +393,6 @@
       "title": "EDR killer tool uses signed kernel driver from forensic software",
       "url": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
       "published": "Wed, 04 Feb 2026 09:17:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
-      "published": "Wed, 04 Feb 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-      "published": "Wed, 04 Feb 2026 07:58:20 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Spain's Ministry of Science shuts down systems after breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
+      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
+      "published": "Thu, 05 Feb 2026 15:57:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft to shut down Exchange Online EWS in April 2027",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
       "published": "Thu, 05 Feb 2026 13:07:41 -0500",
@@ -833,18 +845,6 @@
       "title": "EDR killer tool uses signed kernel driver from forensic software",
       "url": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
       "published": "Wed, 04 Feb 2026 09:17:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
-      "published": "Wed, 04 Feb 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-      "published": "Wed, 04 Feb 2026 07:58:20 -0500",
       "source": "BleepingComputer"
     },
     {
