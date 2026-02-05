@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T14:25:51.929603Z",
+  "generated_at": "2026-02-05T15:09:59.805159Z",
   "segment1": [
     {
       "title": "Two Ivy League universities had donor information breaches. Will donors be notified?",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "When cloud logs fall short, the network tells the truth",
+      "url": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
+      "published": "Thu, 05 Feb 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Newsletter platform Substack notifies users of data breach",
@@ -387,12 +393,6 @@
       "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
       "url": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
       "published": "Tue, 03 Feb 2026 16:33:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-      "url": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "When cloud logs fall short, the network tells the truth",
+      "url": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
+      "published": "Thu, 05 Feb 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Newsletter platform Substack notifies users of data breach",
@@ -839,12 +845,6 @@
       "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
       "url": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
       "published": "Tue, 03 Feb 2026 16:33:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-      "url": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
       "source": "BleepingComputer"
     },
     {
