@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T13:00:50.634176Z",
+  "generated_at": "2026-02-06T14:11:43.688035Z",
   "segment1": [
     {
       "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "EU says TikTok faces large fine over \"addictive design\"",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
+      "published": "Fri, 06 Feb 2026 08:53:53 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Wed, 04 Feb 2026 12:38:46 -0500",
-      "source": "BleepingComputer"
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "url": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "published": "Fri, 06 Feb 2026 19:13:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
@@ -507,12 +513,6 @@
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
       "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
       "published": "Tue, 03 Feb 2026 22:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "EU says TikTok faces large fine over \"addictive design\"",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
+      "published": "Fri, 06 Feb 2026 08:53:53 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Wed, 04 Feb 2026 12:38:46 -0500",
-      "source": "BleepingComputer"
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "url": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "published": "Fri, 06 Feb 2026 19:13:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
@@ -959,12 +965,6 @@
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
       "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
       "published": "Tue, 03 Feb 2026 22:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
       "source": "The Hacker News"
     },
     {
