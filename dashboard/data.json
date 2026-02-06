@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T07:49:11.431428Z",
+  "generated_at": "2026-02-06T08:42:07.548781Z",
   "segment1": [
     {
       "title": "OIG audit of hospital’s cybersecurity finds vulnerabilities in common web applications",
@@ -126,6 +126,18 @@
   ],
   "segment3": [
     {
+      "title": "Eradicating trivial vulnerabilities, at scale",
+      "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
+      "published": "Fri, 06 Feb 2026 08:11:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Thanking the vulnerability research community with NCSC Challenge Coins",
+      "url": "https://www.ncsc.gov.uk/blog-post/thanking-vulnerability-research-community-ncsc-challenge-coins",
+      "published": "Fri, 06 Feb 2026 08:11:32 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Cloud Security Posture Management: silver bullet or another piece in the cloud puzzle?",
       "url": "https://www.ncsc.gov.uk/blog-post/cspm-silver-bullet-or-another-piece-in-the-cloud-puzzle",
       "published": "Mon, 02 Feb 2026 16:24:04 GMT",
@@ -234,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
-      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
-      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Provisioning and managing certificates in the Web PKI",
-      "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
-      "published": "Mon, 08 Dec 2025 08:36:15 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
@@ -304,6 +304,12 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA orders federal agencies to replace end-of-life edge devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+      "published": "Fri, 06 Feb 2026 03:41:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Spain's Ministry of Science shuts down systems after breach claims",
@@ -387,12 +393,6 @@
       "title": "The Double-Edged Sword of Non-Human Identities",
       "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
       "published": "Wed, 04 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EDR killer tool uses signed kernel driver from forensic software",
-      "url": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
-      "published": "Wed, 04 Feb 2026 09:17:45 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -578,6 +578,18 @@
   ],
   "rss": [
     {
+      "title": "Eradicating trivial vulnerabilities, at scale",
+      "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
+      "published": "Fri, 06 Feb 2026 08:11:58 GMT",
+      "source": "NCSC Feed"
+    },
+    {
+      "title": "Thanking the vulnerability research community with NCSC Challenge Coins",
+      "url": "https://www.ncsc.gov.uk/blog-post/thanking-vulnerability-research-community-ncsc-challenge-coins",
+      "published": "Fri, 06 Feb 2026 08:11:32 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Cloud Security Posture Management: silver bullet or another piece in the cloud puzzle?",
       "url": "https://www.ncsc.gov.uk/blog-post/cspm-silver-bullet-or-another-piece-in-the-cloud-puzzle",
       "published": "Mon, 02 Feb 2026 16:24:04 GMT",
@@ -686,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "A method to assess 'forgivable' vs 'unforgivable' vulnerabilities",
-      "url": "https://www.ncsc.gov.uk/report/a-method-to-assess-forgivable-vs-unforgivable-vulnerabilities",
-      "published": "Mon, 08 Dec 2025 09:58:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Provisioning and managing certificates in the Web PKI",
-      "url": "https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki",
-      "published": "Mon, 08 Dec 2025 08:36:15 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
@@ -756,6 +756,12 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA orders federal agencies to replace end-of-life edge devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+      "published": "Fri, 06 Feb 2026 03:41:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Spain's Ministry of Science shuts down systems after breach claims",
@@ -839,12 +845,6 @@
       "title": "The Double-Edged Sword of Non-Human Identities",
       "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
       "published": "Wed, 04 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EDR killer tool uses signed kernel driver from forensic software",
-      "url": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
-      "published": "Wed, 04 Feb 2026 09:17:45 -0500",
       "source": "BleepingComputer"
     },
     {
