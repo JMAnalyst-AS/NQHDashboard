@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T09:43:01.195820Z",
+  "generated_at": "2026-02-06T10:39:56.210616Z",
   "segment1": [
     {
       "title": "OIG audit of hospital’s cybersecurity finds vulnerabilities in common web applications",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Flickr discloses potential data breach exposing users' names, emails",
+      "url": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
+      "published": "Fri, 06 Feb 2026 04:43:10 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders federal agencies to replace end-of-life edge devices",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The Double-Edged Sword of Non-Human Identities",
-      "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
-      "published": "Wed, 04 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
+      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+      "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+      "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
@@ -507,12 +513,6 @@
       "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
       "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
       "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When Cloud Outages Ripple Across the Internet",
-      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Flickr discloses potential data breach exposing users' names, emails",
+      "url": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
+      "published": "Fri, 06 Feb 2026 04:43:10 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders federal agencies to replace end-of-life edge devices",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The Double-Edged Sword of Non-Human Identities",
-      "url": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
-      "published": "Wed, 04 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
+      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+      "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+      "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
@@ -959,12 +965,6 @@
       "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
       "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
       "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When Cloud Outages Ripple Across the Internet",
-      "url": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
