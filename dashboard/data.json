@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T14:11:43.688035Z",
+  "generated_at": "2026-02-06T15:07:58.188739Z",
   "segment1": [
     {
       "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -294,16 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
+      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EU says TikTok faces large fine over \"addictive design\"",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical n8n flaws disclosed along with public exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
-      "published": "Wed, 04 Feb 2026 16:14:36 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+      "published": "Fri, 06 Feb 2026 20:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
@@ -507,12 +513,6 @@
       "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
       "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
       "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -746,16 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
+      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "EU says TikTok faces large fine over \"addictive design\"",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical n8n flaws disclosed along with public exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
-      "published": "Wed, 04 Feb 2026 16:14:36 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+      "published": "Fri, 06 Feb 2026 20:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
@@ -959,12 +965,6 @@
       "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
       "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
       "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
       "source": "The Hacker News"
     },
     {
