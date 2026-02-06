@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-06T11:33:47.061110Z",
+  "generated_at": "2026-02-06T13:00:50.634176Z",
   "segment1": [
+    {
+      "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
+      "url": "https://databreaches.net/2026/02/06/legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened/?pk_campaign=feed&pk_kwd=legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened",
+      "published": "Fri, 06 Feb 2026 12:30:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "OIG audit of hospital’s cybersecurity finds vulnerabilities in common web applications",
       "url": "https://databreaches.net/2026/02/05/oig-audit-of-hospitals-cybersecurity-finds-vulnerabilities-in-common-web-applications/?pk_campaign=feed&pk_kwd=oig-audit-of-hospitals-cybersecurity-finds-vulnerabilities-in-common-web-applications",
@@ -53,17 +59,17 @@
       "title": "Threats: Results of a pilot survey on threats, and a new category on DataBreaches.net",
       "url": "https://databreaches.net/2026/02/02/threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net/?pk_campaign=feed&pk_kwd=threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net",
       "published": "Mon, 02 Feb 2026 12:00:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach",
-      "url": "https://databreaches.net/2026/01/31/rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach/?pk_campaign=feed&pk_kwd=rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach",
-      "published": "Sat, 31 Jan 2026 20:00:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
+      "url": "https://databreaches.net/2026/02/06/legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened/?pk_campaign=feed&pk_kwd=legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened",
+      "published": "Fri, 06 Feb 2026 12:30:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "OIG audit of hospital’s cybersecurity finds vulnerabilities in common web applications",
       "url": "https://databreaches.net/2026/02/05/oig-audit-of-hospitals-cybersecurity-finds-vulnerabilities-in-common-web-applications/?pk_campaign=feed&pk_kwd=oig-audit-of-hospitals-cybersecurity-finds-vulnerabilities-in-common-web-applications",
       "published": "Thu, 05 Feb 2026 19:24:11 +0000",
@@ -115,12 +121,6 @@
       "title": "Threats: Results of a pilot survey on threats, and a new category on DataBreaches.net",
       "url": "https://databreaches.net/2026/02/02/threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net/?pk_campaign=feed&pk_kwd=threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net",
       "published": "Mon, 02 Feb 2026 12:00:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach",
-      "url": "https://databreaches.net/2026/01/31/rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach/?pk_campaign=feed&pk_kwd=rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach",
-      "published": "Sat, 31 Jan 2026 20:00:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -294,16 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+      "published": "Fri, 06 Feb 2026 07:34:30 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Flickr discloses potential data breach exposing users' names, emails",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
-      "published": "Wed, 04 Feb 2026 10:42:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+      "url": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+      "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Samsung Knox Helps Stop Your Network Security Breach",
@@ -507,12 +513,6 @@
       "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
       "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
       "published": "Tue, 03 Feb 2026 19:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -746,16 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+      "published": "Fri, 06 Feb 2026 07:34:30 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Flickr discloses potential data breach exposing users' names, emails",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
-      "published": "Wed, 04 Feb 2026 10:42:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+      "url": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+      "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Samsung Knox Helps Stop Your Network Security Breach",
@@ -959,12 +965,6 @@
       "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
       "url": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
       "published": "Tue, 03 Feb 2026 19:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "url": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
       "source": "The Hacker News"
     },
     {
