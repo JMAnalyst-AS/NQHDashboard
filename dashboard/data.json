@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-06T19:55:18.239754Z",
+  "generated_at": "2026-02-06T20:34:50.874116Z",
   "segment1": [
+    {
+      "title": "Nitrogen’s ransomware can’t be decrypted — even by Nitrogen",
+      "url": "https://databreaches.net/2026/02/06/nitrogens-ransomware-cant-be-decrypted-even-by-nitrogen/?pk_campaign=feed&pk_kwd=nitrogens-ransomware-cant-be-decrypted-even-by-nitrogen",
+      "published": "Fri, 06 Feb 2026 20:02:57 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
       "url": "https://databreaches.net/2026/02/06/legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened/?pk_campaign=feed&pk_kwd=legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened",
@@ -53,17 +59,17 @@
       "title": "Under Pressure: Exploring the effect of legal and criminal threats on security researchers and journalists",
       "url": "https://databreaches.net/2026/02/02/under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists/?pk_campaign=feed&pk_kwd=under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists",
       "published": "Mon, 02 Feb 2026 12:01:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Threats: Results of a pilot survey on threats, and a new category on DataBreaches.net",
-      "url": "https://databreaches.net/2026/02/02/threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net/?pk_campaign=feed&pk_kwd=threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net",
-      "published": "Mon, 02 Feb 2026 12:00:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Nitrogen’s ransomware can’t be decrypted — even by Nitrogen",
+      "url": "https://databreaches.net/2026/02/06/nitrogens-ransomware-cant-be-decrypted-even-by-nitrogen/?pk_campaign=feed&pk_kwd=nitrogens-ransomware-cant-be-decrypted-even-by-nitrogen",
+      "published": "Fri, 06 Feb 2026 20:02:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
       "url": "https://databreaches.net/2026/02/06/legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened/?pk_campaign=feed&pk_kwd=legal-threat-dmca-notice-to-suspectfile-is-refuted-but-it-never-should-have-happened",
       "published": "Fri, 06 Feb 2026 12:30:09 +0000",
@@ -115,12 +121,6 @@
       "title": "Under Pressure: Exploring the effect of legal and criminal threats on security researchers and journalists",
       "url": "https://databreaches.net/2026/02/02/under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists/?pk_campaign=feed&pk_kwd=under-pressure-exploring-the-effect-of-legal-and-criminal-threats-on-security-researchers-and-journalists",
       "published": "Mon, 02 Feb 2026 12:01:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Threats: Results of a pilot survey on threats, and a new category on DataBreaches.net",
-      "url": "https://databreaches.net/2026/02/02/threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net/?pk_campaign=feed&pk_kwd=threats-results-of-a-pilot-survey-on-threats-and-a-new-category-on-databreaches-net",
-      "published": "Mon, 02 Feb 2026 12:00:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Germany warns of Signal account hijacking targeting senior figures",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
+      "published": "Fri, 06 Feb 2026 15:00:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
       "published": "Fri, 06 Feb 2026 13:35:11 -0500",
@@ -387,12 +393,6 @@
       "title": "Newsletter platform Substack notifies users of data breach",
       "url": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
       "published": "Thu, 05 Feb 2026 07:54:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
-      "published": "Thu, 05 Feb 2026 06:16:12 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Germany warns of Signal account hijacking targeting senior figures",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
+      "published": "Fri, 06 Feb 2026 15:00:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
       "published": "Fri, 06 Feb 2026 13:35:11 -0500",
@@ -839,12 +845,6 @@
       "title": "Newsletter platform Substack notifies users of data breach",
       "url": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
       "published": "Thu, 05 Feb 2026 07:54:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
-      "published": "Thu, 05 Feb 2026 06:16:12 -0500",
       "source": "BleepingComputer"
     },
     {
