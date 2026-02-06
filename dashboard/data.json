@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T18:05:35.290644Z",
+  "generated_at": "2026-02-06T19:12:52.018771Z",
   "segment1": [
     {
       "title": "Legal threat:  DMCA notice to SuspectFile is refuted, but it never should have happened",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
+      "published": "Fri, 06 Feb 2026 13:35:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
@@ -387,12 +393,6 @@
       "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
       "published": "Thu, 05 Feb 2026 06:16:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
-      "url": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
-      "published": "Thu, 05 Feb 2026 05:22:36 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
+      "published": "Fri, 06 Feb 2026 13:35:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
@@ -839,12 +845,6 @@
       "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
       "published": "Thu, 05 Feb 2026 06:16:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
-      "url": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
-      "published": "Thu, 05 Feb 2026 05:22:36 -0500",
       "source": "BleepingComputer"
     },
     {
