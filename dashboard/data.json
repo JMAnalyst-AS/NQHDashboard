@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T12:03:23.697851Z",
+  "generated_at": "2026-02-09T13:53:13.570422Z",
   "segment1": [
     {
       "title": "Romania’s oil pipeline operator confirms cyberattack as hackers claim data theft",
@@ -246,18 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +292,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "BeyondTrust warns of critical RCE flaw in remote support software",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
+      "published": "Mon, 09 Feb 2026 08:07:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain's Ministry of Science shuts down systems after breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+      "url": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+      "published": "Mon, 09 Feb 2026 18:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+      "url": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+      "published": "Mon, 09 Feb 2026 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
@@ -501,18 +513,6 @@
       "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
       "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
       "published": "Wed, 04 Feb 2026 23:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,18 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +744,24 @@
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "BeyondTrust warns of critical RCE flaw in remote support software",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
+      "published": "Mon, 09 Feb 2026 08:07:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain's Ministry of Science shuts down systems after breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+      "url": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+      "published": "Mon, 09 Feb 2026 18:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+      "url": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+      "published": "Mon, 09 Feb 2026 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
@@ -953,18 +965,6 @@
       "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
       "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
       "published": "Wed, 04 Feb 2026 23:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
       "source": "The Hacker News"
     },
     {
