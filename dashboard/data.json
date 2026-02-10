@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T13:59:36.850303Z",
+  "generated_at": "2026-02-10T15:11:15.970408Z",
   "segment1": [
     {
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to Automate AWS Incident Investigation with Tines and AI",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
+      "published": "Tue, 10 Feb 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft announces new mobile-style Windows security controls",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
       "published": "Tue, 10 Feb 2026 08:16:32 -0500",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Germany warns of Signal account hijacking targeting senior figures",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
-      "published": "Fri, 06 Feb 2026 15:00:33 -0500",
-      "source": "BleepingComputer"
+      "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
+      "url": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
+      "published": "Tue, 10 Feb 2026 19:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "published": "Tue, 10 Feb 2026 19:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
@@ -411,12 +423,6 @@
       "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
       "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
       "published": "Tue, 10 Feb 2026 13:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
-      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
-      "published": "Tue, 10 Feb 2026 10:08:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -510,10 +516,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
-      "url": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
-      "published": "Thu, 05 Feb 2026 22:55:00 +0530",
-      "source": "The Hacker News"
+      "title": "Epstein Files: X Users Are Asking Grok to ‘Unblur’ Photos of Children",
+      "url": "https://www.bellingcat.com/news/2026/02/10/grok-epstein-photos/",
+      "published": "Tue, 10 Feb 2026 14:57:02 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Made in the USA: How American-Built Weapons Have Wrought Destruction in Gaza",
@@ -567,12 +573,6 @@
       "title": "Profiting From Exploitation: How We Found the Man Behind Two Deepfake Porn Sites",
       "url": "https://www.bellingcat.com/news/2025/12/15/mark-resan-reface-deepfake-porn/",
       "published": "Mon, 15 Dec 2025 15:00:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Russia’s Smuggled Grain Finds New Market in Saudi Arabia",
-      "url": "https://www.bellingcat.com/news/2025/12/12/russia-ukraine-saudi-arabia-import-smuggled-grain-shadow-fleet-peace-deal-trump-occupied-crimea-petrokhleb-kuban/",
-      "published": "Fri, 12 Dec 2025 12:38:09 +0000",
       "source": "bellingcat"
     }
   ],
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to Automate AWS Incident Investigation with Tines and AI",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
+      "published": "Tue, 10 Feb 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft announces new mobile-style Windows security controls",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
       "published": "Tue, 10 Feb 2026 08:16:32 -0500",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Germany warns of Signal account hijacking targeting senior figures",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
-      "published": "Fri, 06 Feb 2026 15:00:33 -0500",
-      "source": "BleepingComputer"
+      "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
+      "url": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
+      "published": "Tue, 10 Feb 2026 19:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "published": "Tue, 10 Feb 2026 19:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
@@ -863,12 +875,6 @@
       "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
       "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
       "published": "Tue, 10 Feb 2026 13:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
-      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
-      "published": "Tue, 10 Feb 2026 10:08:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -962,10 +968,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
-      "url": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
-      "published": "Thu, 05 Feb 2026 22:55:00 +0530",
-      "source": "The Hacker News"
+      "title": "Epstein Files: X Users Are Asking Grok to ‘Unblur’ Photos of Children",
+      "url": "https://www.bellingcat.com/news/2026/02/10/grok-epstein-photos/",
+      "published": "Tue, 10 Feb 2026 14:57:02 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Made in the USA: How American-Built Weapons Have Wrought Destruction in Gaza",
@@ -1019,12 +1025,6 @@
       "title": "Profiting From Exploitation: How We Found the Man Behind Two Deepfake Porn Sites",
       "url": "https://www.bellingcat.com/news/2025/12/15/mark-resan-reface-deepfake-porn/",
       "published": "Mon, 15 Dec 2025 15:00:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Russia’s Smuggled Grain Finds New Market in Saudi Arabia",
-      "url": "https://www.bellingcat.com/news/2025/12/12/russia-ukraine-saudi-arabia-import-smuggled-grain-shadow-fleet-peace-deal-trump-occupied-crimea-petrokhleb-kuban/",
-      "published": "Fri, 12 Dec 2025 12:38:09 +0000",
       "source": "bellingcat"
     }
   ]
