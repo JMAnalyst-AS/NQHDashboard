@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-10T16:38:20.069885Z",
+  "generated_at": "2026-02-10T18:02:16.692101Z",
   "segment1": [
+    {
+      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+      "url": "https://databreaches.net/2026/02/10/singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies/?pk_campaign=feed&pk_kwd=singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies",
+      "published": "Tue, 10 Feb 2026 16:49:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
       "url": "https://databreaches.net/2026/02/10/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/?pk_campaign=feed&pk_kwd=hacktivist-scrapes-over-500000-stalkerware-customers-payment-records",
@@ -53,17 +59,17 @@
       "title": "Several Dutch agencies suffer major data breach",
       "url": "https://databreaches.net/2026/02/07/several-dutch-agencies-suffer-major-data-breach/?pk_campaign=feed&pk_kwd=several-dutch-agencies-suffer-major-data-breach",
       "published": "Sun, 08 Feb 2026 01:31:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hong Kong plans to revive privacy law requiring firms to report data breaches",
-      "url": "https://databreaches.net/2026/02/07/hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches/?pk_campaign=feed&pk_kwd=hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches",
-      "published": "Sat, 07 Feb 2026 14:29:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+      "url": "https://databreaches.net/2026/02/10/singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies/?pk_campaign=feed&pk_kwd=singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies",
+      "published": "Tue, 10 Feb 2026 16:49:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
       "url": "https://databreaches.net/2026/02/10/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/?pk_campaign=feed&pk_kwd=hacktivist-scrapes-over-500000-stalkerware-customers-payment-records",
       "published": "Tue, 10 Feb 2026 15:55:11 +0000",
@@ -115,12 +121,6 @@
       "title": "Several Dutch agencies suffer major data breach",
       "url": "https://databreaches.net/2026/02/07/several-dutch-agencies-suffer-major-data-breach/?pk_campaign=feed&pk_kwd=several-dutch-agencies-suffer-major-data-breach",
       "published": "Sun, 08 Feb 2026 01:31:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hong Kong plans to revive privacy law requiring firms to report data breaches",
-      "url": "https://databreaches.net/2026/02/07/hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches/?pk_campaign=feed&pk_kwd=hong-kong-plans-to-revive-privacy-law-requiring-firms-to-report-data-breaches",
-      "published": "Sat, 07 Feb 2026 14:29:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Volvo Group North America customer data exposed in Conduent hack",
+      "url": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
+      "published": "Tue, 10 Feb 2026 12:04:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out new Secure Boot certificates before June expiration",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
+      "published": "Tue, 10 Feb 2026 12:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 outage takes down admin center in North America",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
       "published": "Tue, 10 Feb 2026 10:45:15 -0500",
@@ -384,16 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New tool blocks imposter attacks disguised as safe commands",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
-      "published": "Sun, 08 Feb 2026 10:26:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
-      "url": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
-      "published": "Sat, 07 Feb 2026 10:09:46 -0500",
-      "source": "BleepingComputer"
+      "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
+      "url": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
+      "published": "Tue, 10 Feb 2026 23:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
@@ -507,12 +513,6 @@
       "title": "How Samsung Knox Helps Stop Your Network Security Breach",
       "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
       "published": "Fri, 06 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-      "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-      "published": "Fri, 06 Feb 2026 14:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Volvo Group North America customer data exposed in Conduent hack",
+      "url": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
+      "published": "Tue, 10 Feb 2026 12:04:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out new Secure Boot certificates before June expiration",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
+      "published": "Tue, 10 Feb 2026 12:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 outage takes down admin center in North America",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
       "published": "Tue, 10 Feb 2026 10:45:15 -0500",
@@ -836,16 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New tool blocks imposter attacks disguised as safe commands",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
-      "published": "Sun, 08 Feb 2026 10:26:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
-      "url": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
-      "published": "Sat, 07 Feb 2026 10:09:46 -0500",
-      "source": "BleepingComputer"
+      "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
+      "url": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
+      "published": "Tue, 10 Feb 2026 23:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
@@ -959,12 +965,6 @@
       "title": "How Samsung Knox Helps Stop Your Network Security Breach",
       "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
       "published": "Fri, 06 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-      "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-      "published": "Fri, 06 Feb 2026 14:10:00 +0530",
       "source": "The Hacker News"
     },
     {
