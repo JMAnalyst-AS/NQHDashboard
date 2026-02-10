@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T07:38:09.110802Z",
+  "generated_at": "2026-02-10T08:56:12.160210Z",
   "segment1": [
     {
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Improving your response to vulnerability management",
+      "url": "https://www.ncsc.gov.uk/blog-post/improving-your-response-to-vulnerability-management",
+      "published": "Mon, 09 Feb 2026 20:24:56 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Eradicating trivial vulnerabilities, at scale",
       "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
       "published": "Fri, 06 Feb 2026 08:11:58 GMT",
@@ -240,10 +246,16 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
-      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
-      "source": "NCSC Feed"
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
     },
     {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
@@ -294,16 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+      "published": "Tue, 10 Feb 2026 03:17:54 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Chinese cyberspies breach Singapore's four largest telcos",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
-      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+      "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+      "published": "Tue, 10 Feb 2026 13:52:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
@@ -507,12 +513,6 @@
       "title": "The Buyer’s Guide to AI Usage Control",
       "url": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
       "published": "Thu, 05 Feb 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
-      "url": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
-      "published": "Thu, 05 Feb 2026 15:55:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -578,6 +578,12 @@
   ],
   "rss": [
     {
+      "title": "Improving your response to vulnerability management",
+      "url": "https://www.ncsc.gov.uk/blog-post/improving-your-response-to-vulnerability-management",
+      "published": "Mon, 09 Feb 2026 20:24:56 GMT",
+      "source": "NCSC Feed"
+    },
+    {
       "title": "Eradicating trivial vulnerabilities, at scale",
       "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
       "published": "Fri, 06 Feb 2026 08:11:58 GMT",
@@ -692,10 +698,16 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
-      "published": "Mon, 08 Dec 2025 10:47:19 GMT",
-      "source": "NCSC Feed"
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
     },
     {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
@@ -746,16 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+      "published": "Tue, 10 Feb 2026 03:17:54 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Chinese cyberspies breach Singapore's four largest telcos",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
-      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+      "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+      "published": "Tue, 10 Feb 2026 13:52:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
@@ -959,12 +965,6 @@
       "title": "The Buyer’s Guide to AI Usage Control",
       "url": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
       "published": "Thu, 05 Feb 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
-      "url": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
-      "published": "Thu, 05 Feb 2026 15:55:00 +0530",
       "source": "The Hacker News"
     },
     {
