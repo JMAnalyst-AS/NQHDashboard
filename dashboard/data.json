@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T12:06:46.789229Z",
+  "generated_at": "2026-02-10T13:59:36.850303Z",
   "segment1": [
     {
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft announces new mobile-style Windows security controls",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
+      "published": "Tue, 10 Feb 2026 08:16:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
+      "url": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
+      "published": "Tue, 10 Feb 2026 08:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
       "published": "Tue, 10 Feb 2026 03:17:54 -0500",
@@ -384,16 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
-      "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
-      "published": "Fri, 06 Feb 2026 13:35:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
-      "published": "Fri, 06 Feb 2026 12:16:03 -0500",
-      "source": "BleepingComputer"
+      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+      "url": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
+      "published": "Tue, 10 Feb 2026 17:10:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
@@ -507,12 +513,6 @@
       "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
       "url": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
       "published": "Thu, 05 Feb 2026 22:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
-      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-      "published": "Thu, 05 Feb 2026 18:27:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft announces new mobile-style Windows security controls",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
+      "published": "Tue, 10 Feb 2026 08:16:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
+      "url": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
+      "published": "Tue, 10 Feb 2026 08:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
       "published": "Tue, 10 Feb 2026 03:17:54 -0500",
@@ -836,16 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
-      "url": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
-      "published": "Fri, 06 Feb 2026 13:35:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
-      "published": "Fri, 06 Feb 2026 12:16:03 -0500",
-      "source": "BleepingComputer"
+      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+      "url": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
+      "published": "Tue, 10 Feb 2026 17:10:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
@@ -959,12 +965,6 @@
       "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
       "url": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
       "published": "Thu, 05 Feb 2026 22:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
-      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-      "published": "Thu, 05 Feb 2026 18:27:00 +0530",
       "source": "The Hacker News"
     },
     {
