@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T22:40:34.690060Z",
+  "generated_at": "2026-02-10T23:38:29.157526Z",
   "segment1": [
     {
       "title": "South Korea government is promoting bill for statutory damages for personal information leaks.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
+      "published": "Tue, 10 Feb 2026 18:09:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
       "published": "Tue, 10 Feb 2026 17:17:35 -0500",
@@ -387,12 +393,6 @@
       "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
       "published": "Mon, 09 Feb 2026 15:28:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach SmarterTools network using flaw in its own software",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
-      "published": "Mon, 09 Feb 2026 14:08:58 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
+      "published": "Tue, 10 Feb 2026 18:09:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
       "published": "Tue, 10 Feb 2026 17:17:35 -0500",
@@ -839,12 +845,6 @@
       "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
       "published": "Mon, 09 Feb 2026 15:28:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach SmarterTools network using flaw in its own software",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
-      "published": "Mon, 09 Feb 2026 14:08:58 -0500",
       "source": "BleepingComputer"
     },
     {
