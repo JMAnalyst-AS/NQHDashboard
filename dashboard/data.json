@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T04:53:36.523856Z",
+  "generated_at": "2026-02-10T06:11:23.365919Z",
   "segment1": [
     {
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
@@ -246,6 +246,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -291,18 +303,6 @@
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
       "published": "Fri, 06 Feb 2026 10:01:11 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "published": "Tue, 10 Feb 2026 10:08:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
@@ -507,12 +513,6 @@
       "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
       "url": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
       "published": "Thu, 05 Feb 2026 15:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
-      "url": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
-      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,18 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -743,18 +755,6 @@
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
       "published": "Fri, 06 Feb 2026 10:01:11 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "published": "Tue, 10 Feb 2026 10:08:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
@@ -959,12 +965,6 @@
       "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
       "url": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
       "published": "Thu, 05 Feb 2026 15:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
-      "url": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
-      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
       "source": "The Hacker News"
     },
     {
