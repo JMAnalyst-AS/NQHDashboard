@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T19:03:51.637449Z",
+  "generated_at": "2026-02-11T20:02:20.976849Z",
   "segment1": [
     {
       "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
+      "published": "Wed, 11 Feb 2026 14:29:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police arrest seller of JokerOTP MFA passcode capturing tool",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
+      "published": "Wed, 11 Feb 2026 14:14:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Proactive strategies for cyber resilience with Wazuh",
       "url": "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/",
       "published": "Wed, 11 Feb 2026 12:40:28 -0500",
@@ -381,18 +393,6 @@
       "title": "How to Automate AWS Incident Investigation with Tines and AI",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
       "published": "Tue, 10 Feb 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft announces new mobile-style Windows security controls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
-      "published": "Tue, 10 Feb 2026 08:16:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
-      "published": "Tue, 10 Feb 2026 08:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
+      "published": "Wed, 11 Feb 2026 14:29:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police arrest seller of JokerOTP MFA passcode capturing tool",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
+      "published": "Wed, 11 Feb 2026 14:14:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Proactive strategies for cyber resilience with Wazuh",
       "url": "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/",
       "published": "Wed, 11 Feb 2026 12:40:28 -0500",
@@ -833,18 +845,6 @@
       "title": "How to Automate AWS Incident Investigation with Tines and AI",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
       "published": "Tue, 10 Feb 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft announces new mobile-style Windows security controls",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
-      "published": "Tue, 10 Feb 2026 08:16:32 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
-      "published": "Tue, 10 Feb 2026 08:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
