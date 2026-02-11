@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-11T11:45:11.007416Z",
+  "generated_at": "2026-02-11T13:11:39.610329Z",
   "segment1": [
+    {
+      "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
+      "url": "https://databreaches.net/2026/02/11/cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026/?pk_campaign=feed&pk_kwd=cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026",
+      "published": "Wed, 11 Feb 2026 12:26:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Maine House Passes Strong Privacy Bill",
       "url": "https://databreaches.net/2026/02/10/maine-house-passes-strong-privacy-bill/?pk_campaign=feed&pk_kwd=maine-house-passes-strong-privacy-bill",
@@ -53,17 +59,17 @@
       "title": "FCC Cybersecurity Alert and Recommendations to Communications Providers",
       "url": "https://databreaches.net/2026/02/08/fcc-cybersecurity-alert-and-recommendations-to-communications-providers/?pk_campaign=feed&pk_kwd=fcc-cybersecurity-alert-and-recommendations-to-communications-providers",
       "published": "Sun, 08 Feb 2026 15:03:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some good news: downstream victims of mass data theft campaigns are less likely to pay — incident responders",
-      "url": "https://databreaches.net/2026/02/08/some-good-news-downstream-victims-of-mass-data-theft-campaigns-are-less-likely-to-pay-incident-responders/?pk_campaign=feed&pk_kwd=some-good-news-downstream-victims-of-mass-data-theft-campaigns-are-less-likely-to-pay-incident-responders",
-      "published": "Sun, 08 Feb 2026 14:35:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
+      "url": "https://databreaches.net/2026/02/11/cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026/?pk_campaign=feed&pk_kwd=cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026",
+      "published": "Wed, 11 Feb 2026 12:26:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Maine House Passes Strong Privacy Bill",
       "url": "https://databreaches.net/2026/02/10/maine-house-passes-strong-privacy-bill/?pk_campaign=feed&pk_kwd=maine-house-passes-strong-privacy-bill",
       "published": "Wed, 11 Feb 2026 01:00:32 +0000",
@@ -115,12 +121,6 @@
       "title": "FCC Cybersecurity Alert and Recommendations to Communications Providers",
       "url": "https://databreaches.net/2026/02/08/fcc-cybersecurity-alert-and-recommendations-to-communications-providers/?pk_campaign=feed&pk_kwd=fcc-cybersecurity-alert-and-recommendations-to-communications-providers",
       "published": "Sun, 08 Feb 2026 15:03:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some good news: downstream victims of mass data theft campaigns are less likely to pay — incident responders",
-      "url": "https://databreaches.net/2026/02/08/some-good-news-downstream-victims-of-mass-data-theft-campaigns-are-less-likely-to-pay-incident-responders/?pk_campaign=feed&pk_kwd=some-good-news-downstream-victims-of-mass-data-theft-campaigns-are-less-likely-to-pay-incident-responders",
-      "published": "Sun, 08 Feb 2026 14:35:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,24 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -303,6 +285,24 @@
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -394,6 +394,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
       "published": "Mon, 09 Feb 2026 17:47:53 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+      "url": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+      "published": "Wed, 11 Feb 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
@@ -507,12 +513,6 @@
       "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
       "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
       "published": "Sat, 07 Feb 2026 16:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-      "published": "Fri, 06 Feb 2026 20:26:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,24 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -755,6 +737,24 @@
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -846,6 +846,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
       "published": "Mon, 09 Feb 2026 17:47:53 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+      "url": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+      "published": "Wed, 11 Feb 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
@@ -959,12 +965,6 @@
       "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
       "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
       "published": "Sat, 07 Feb 2026 16:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-      "published": "Fri, 06 Feb 2026 20:26:00 +0530",
       "source": "The Hacker News"
     },
     {
