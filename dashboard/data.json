@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-12T16:59:18.794549Z",
+  "generated_at": "2026-02-12T18:01:13.827954Z",
   "segment1": [
+    {
+      "title": "Kettering Adventist Health now notifying patients affected by May 2025 ransomware attack",
+      "url": "https://databreaches.net/2026/02/12/kettering-adventist-health-now-notifying-patients-affected-by-may-2025-ransomware-attack/?pk_campaign=feed&pk_kwd=kettering-adventist-health-now-notifying-patients-affected-by-may-2025-ransomware-attack",
+      "published": "Thu, 12 Feb 2026 17:57:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Comcast agrees to $117.5M data breach class action settlement",
       "url": "https://databreaches.net/2026/02/12/comcast-agrees-to-117-5m-data-breach-class-action-settlement/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5m-data-breach-class-action-settlement",
@@ -53,17 +59,17 @@
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
       "url": "https://databreaches.net/2026/02/09/hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders/?pk_campaign=feed&pk_kwd=hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders",
       "published": "Mon, 09 Feb 2026 21:42:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romania’s oil pipeline operator confirms cyberattack as hackers claim data theft",
-      "url": "https://databreaches.net/2026/02/08/romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft/?pk_campaign=feed&pk_kwd=romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft",
-      "published": "Sun, 08 Feb 2026 15:09:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Kettering Adventist Health now notifying patients affected by May 2025 ransomware attack",
+      "url": "https://databreaches.net/2026/02/12/kettering-adventist-health-now-notifying-patients-affected-by-may-2025-ransomware-attack/?pk_campaign=feed&pk_kwd=kettering-adventist-health-now-notifying-patients-affected-by-may-2025-ransomware-attack",
+      "published": "Thu, 12 Feb 2026 17:57:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Comcast agrees to $117.5M data breach class action settlement",
       "url": "https://databreaches.net/2026/02/12/comcast-agrees-to-117-5m-data-breach-class-action-settlement/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5m-data-breach-class-action-settlement",
       "published": "Thu, 12 Feb 2026 12:37:51 +0000",
@@ -115,12 +121,6 @@
       "title": "Hackers Use Signal QR Codes to Spy on Military and Political Leaders",
       "url": "https://databreaches.net/2026/02/09/hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders/?pk_campaign=feed&pk_kwd=hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders",
       "published": "Mon, 09 Feb 2026 21:42:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romania’s oil pipeline operator confirms cyberattack as hackers claim data theft",
-      "url": "https://databreaches.net/2026/02/08/romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft/?pk_campaign=feed&pk_kwd=romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft",
-      "published": "Sun, 08 Feb 2026 15:09:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -246,30 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +280,36 @@
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
+      "published": "Thu, 12 Feb 2026 12:09:41 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "AMOS infostealer targets macOS through a popular AI app",
@@ -387,12 +393,6 @@
       "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
       "published": "Tue, 10 Feb 2026 14:12:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5075912 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
-      "published": "Tue, 10 Feb 2026 14:06:13 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,30 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +732,36 @@
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
+      "published": "Thu, 12 Feb 2026 12:09:41 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "AMOS infostealer targets macOS through a popular AI app",
@@ -839,12 +845,6 @@
       "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
       "published": "Tue, 10 Feb 2026 14:12:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5075912 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
-      "published": "Tue, 10 Feb 2026 14:06:13 -0500",
       "source": "BleepingComputer"
     },
     {
