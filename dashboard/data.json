@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-12T11:39:32.569174Z",
+  "generated_at": "2026-02-12T13:09:08.101644Z",
   "segment1": [
+    {
+      "title": "Comcast agrees to $117.5M data breach class action settlement",
+      "url": "https://databreaches.net/2026/02/12/comcast-agrees-to-117-5m-data-breach-class-action-settlement/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5m-data-breach-class-action-settlement",
+      "published": "Thu, 12 Feb 2026 12:37:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
       "url": "https://databreaches.net/2026/02/11/cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026/?pk_campaign=feed&pk_kwd=cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026",
@@ -53,17 +59,17 @@
       "title": "Romania’s oil pipeline operator confirms cyberattack as hackers claim data theft",
       "url": "https://databreaches.net/2026/02/08/romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft/?pk_campaign=feed&pk_kwd=romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft",
       "published": "Sun, 08 Feb 2026 15:09:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FCC Cybersecurity Alert and Recommendations to Communications Providers",
-      "url": "https://databreaches.net/2026/02/08/fcc-cybersecurity-alert-and-recommendations-to-communications-providers/?pk_campaign=feed&pk_kwd=fcc-cybersecurity-alert-and-recommendations-to-communications-providers",
-      "published": "Sun, 08 Feb 2026 15:03:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Comcast agrees to $117.5M data breach class action settlement",
+      "url": "https://databreaches.net/2026/02/12/comcast-agrees-to-117-5m-data-breach-class-action-settlement/?pk_campaign=feed&pk_kwd=comcast-agrees-to-117-5m-data-breach-class-action-settlement",
+      "published": "Thu, 12 Feb 2026 12:37:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
       "url": "https://databreaches.net/2026/02/11/cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026/?pk_campaign=feed&pk_kwd=cybersecurity-information-sharing-act-of-2015-reauthorized-through-september-2026",
       "published": "Wed, 11 Feb 2026 12:26:09 +0000",
@@ -115,12 +121,6 @@
       "title": "Romania’s oil pipeline operator confirms cyberattack as hackers claim data theft",
       "url": "https://databreaches.net/2026/02/08/romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft/?pk_campaign=feed&pk_kwd=romanias-oil-pipeline-operator-confirms-cyberattack-as-hackers-claim-data-theft",
       "published": "Sun, 08 Feb 2026 15:09:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FCC Cybersecurity Alert and Recommendations to Communications Providers",
-      "url": "https://databreaches.net/2026/02/08/fcc-cybersecurity-alert-and-recommendations-to-communications-providers/?pk_campaign=feed&pk_kwd=fcc-cybersecurity-alert-and-recommendations-to-communications-providers",
-      "published": "Sun, 08 Feb 2026 15:03:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+      "published": "Thu, 12 Feb 2026 17:21:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
       "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
       "published": "Thu, 12 Feb 2026 16:00:00 +0530",
@@ -507,12 +513,6 @@
       "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
       "url": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
       "published": "Mon, 09 Feb 2026 20:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
-      "published": "Mon, 09 Feb 2026 18:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+      "published": "Thu, 12 Feb 2026 17:21:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
       "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
       "published": "Thu, 12 Feb 2026 16:00:00 +0530",
@@ -959,12 +965,6 @@
       "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
       "url": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
       "published": "Mon, 09 Feb 2026 20:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
-      "published": "Mon, 09 Feb 2026 18:29:00 +0530",
       "source": "The Hacker News"
     },
     {
