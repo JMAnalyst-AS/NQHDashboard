@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T23:32:44.868611Z",
+  "generated_at": "2026-02-12T02:13:39.263043Z",
   "segment1": [
     {
       "title": "Cybersecurity Information Sharing Act of 2015 Reauthorized Through September 2026",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
+      "published": "Wed, 11 Feb 2026 20:06:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
       "published": "Wed, 11 Feb 2026 18:15:41 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out new Secure Boot certificates before June expiration",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
-      "published": "Tue, 10 Feb 2026 12:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+      "url": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+      "published": "Wed, 11 Feb 2026 23:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
@@ -507,12 +513,6 @@
       "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
       "url": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
       "published": "Mon, 09 Feb 2026 14:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-      "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-      "published": "Mon, 09 Feb 2026 13:33:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
+      "published": "Wed, 11 Feb 2026 20:06:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
       "published": "Wed, 11 Feb 2026 18:15:41 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out new Secure Boot certificates before June expiration",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
-      "published": "Tue, 10 Feb 2026 12:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+      "url": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+      "published": "Wed, 11 Feb 2026 23:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
@@ -959,12 +965,6 @@
       "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
       "url": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
       "published": "Mon, 09 Feb 2026 14:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-      "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-      "published": "Mon, 09 Feb 2026 13:33:00 +0530",
       "source": "The Hacker News"
     },
     {
