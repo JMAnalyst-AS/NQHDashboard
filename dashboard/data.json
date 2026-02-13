@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-13T19:58:22.271221Z",
+  "generated_at": "2026-02-13T20:50:58.537437Z",
   "segment1": [
+    {
+      "title": "Attor­ney Gen­er­al Ken Pax­ton Demands Infor­ma­tion from Blue Cross Blue Shield of Texas and Con­duent as Part of Inves­ti­ga­tion into Largest Data Breach in U.S. History",
+      "url": "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
+      "published": "Fri, 13 Feb 2026 20:33:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "South Korea blames Coupang data breach on management failure, not sophisticated attack",
       "url": "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
@@ -53,17 +59,17 @@
       "title": "Maine House Passes Strong Privacy Bill",
       "url": "https://databreaches.net/2026/02/10/maine-house-passes-strong-privacy-bill/?pk_campaign=feed&pk_kwd=maine-house-passes-strong-privacy-bill",
       "published": "Wed, 11 Feb 2026 01:00:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korea government is promoting bill for statutory damages for personal information leaks.",
-      "url": "https://databreaches.net/2026/02/10/south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks/?pk_campaign=feed&pk_kwd=south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks",
-      "published": "Tue, 10 Feb 2026 20:52:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Attor­ney Gen­er­al Ken Pax­ton Demands Infor­ma­tion from Blue Cross Blue Shield of Texas and Con­duent as Part of Inves­ti­ga­tion into Largest Data Breach in U.S. History",
+      "url": "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
+      "published": "Fri, 13 Feb 2026 20:33:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "South Korea blames Coupang data breach on management failure, not sophisticated attack",
       "url": "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
       "published": "Fri, 13 Feb 2026 17:35:39 +0000",
@@ -115,12 +121,6 @@
       "title": "Maine House Passes Strong Privacy Bill",
       "url": "https://databreaches.net/2026/02/10/maine-house-passes-strong-privacy-bill/?pk_campaign=feed&pk_kwd=maine-house-passes-strong-privacy-bill",
       "published": "Wed, 11 Feb 2026 01:00:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korea government is promoting bill for statutory damages for personal information leaks.",
-      "url": "https://databreaches.net/2026/02/10/south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks/?pk_campaign=feed&pk_kwd=south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks",
-      "published": "Tue, 10 Feb 2026 20:52:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+      "published": "Fri, 13 Feb 2026 15:21:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
       "url": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
       "published": "Fri, 13 Feb 2026 13:35:15 -0500",
@@ -387,12 +393,6 @@
       "title": "Google says hackers are abusing Gemini AI for all attacks stages",
       "url": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
       "published": "Thu, 12 Feb 2026 02:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
-      "published": "Wed, 11 Feb 2026 20:06:05 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+      "published": "Fri, 13 Feb 2026 15:21:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
       "url": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
       "published": "Fri, 13 Feb 2026 13:35:15 -0500",
@@ -839,12 +845,6 @@
       "title": "Google says hackers are abusing Gemini AI for all attacks stages",
       "url": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
       "published": "Thu, 12 Feb 2026 02:00:00 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
-      "published": "Wed, 11 Feb 2026 20:06:05 -0500",
       "source": "BleepingComputer"
     },
     {
