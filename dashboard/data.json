@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-13T11:53:54.701475Z",
+  "generated_at": "2026-02-13T13:00:47.473158Z",
   "segment1": [
+    {
+      "title": "IRS Improperly Shares Immigrants’ Data with ICE: Explained",
+      "url": "https://databreaches.net/2026/02/13/irs-improperly-shares-immigrants-data-with-ice-explained/?pk_campaign=feed&pk_kwd=irs-improperly-shares-immigrants-data-with-ice-explained",
+      "published": "Fri, 13 Feb 2026 12:05:08 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "It’s 2026, but hospitals still haven’t prevented snooping in celebrities’ records",
       "url": "https://databreaches.net/2026/02/12/its-2026-but-hospitals-still-havent-prevented-snooping-in-celebrities-records/?pk_campaign=feed&pk_kwd=its-2026-but-hospitals-still-havent-prevented-snooping-in-celebrities-records",
@@ -53,17 +59,17 @@
       "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
       "url": "https://databreaches.net/2026/02/10/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/?pk_campaign=feed&pk_kwd=hacktivist-scrapes-over-500000-stalkerware-customers-payment-records",
       "published": "Tue, 10 Feb 2026 15:55:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CodeRED Emergency Notification System Incident Update",
-      "url": "https://databreaches.net/2026/02/10/codered-emergency-notification-system-incident-update/?pk_campaign=feed&pk_kwd=codered-emergency-notification-system-incident-update",
-      "published": "Tue, 10 Feb 2026 15:55:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "IRS Improperly Shares Immigrants’ Data with ICE: Explained",
+      "url": "https://databreaches.net/2026/02/13/irs-improperly-shares-immigrants-data-with-ice-explained/?pk_campaign=feed&pk_kwd=irs-improperly-shares-immigrants-data-with-ice-explained",
+      "published": "Fri, 13 Feb 2026 12:05:08 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "It’s 2026, but hospitals still haven’t prevented snooping in celebrities’ records",
       "url": "https://databreaches.net/2026/02/12/its-2026-but-hospitals-still-havent-prevented-snooping-in-celebrities-records/?pk_campaign=feed&pk_kwd=its-2026-but-hospitals-still-havent-prevented-snooping-in-celebrities-records",
       "published": "Thu, 12 Feb 2026 19:17:24 +0000",
@@ -115,12 +121,6 @@
       "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
       "url": "https://databreaches.net/2026/02/10/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/?pk_campaign=feed&pk_kwd=hacktivist-scrapes-over-500000-stalkerware-customers-payment-records",
       "published": "Tue, 10 Feb 2026 15:55:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CodeRED Emergency Notification System Incident Update",
-      "url": "https://databreaches.net/2026/02/10/codered-emergency-notification-system-incident-update/?pk_campaign=feed&pk_kwd=codered-emergency-notification-system-incident-update",
-      "published": "Tue, 10 Feb 2026 15:55:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+      "published": "Fri, 13 Feb 2026 07:35:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug that blocked Google Chrome from launching",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
       "published": "Fri, 13 Feb 2026 04:31:01 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
-      "published": "Wed, 11 Feb 2026 14:29:14 -0500",
-      "source": "BleepingComputer"
+      "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+      "url": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+      "published": "Fri, 13 Feb 2026 16:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
@@ -507,12 +513,6 @@
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
       "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
       "published": "Tue, 10 Feb 2026 19:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
-      "url": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
-      "published": "Tue, 10 Feb 2026 17:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+      "published": "Fri, 13 Feb 2026 07:35:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug that blocked Google Chrome from launching",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
       "published": "Fri, 13 Feb 2026 04:31:01 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
-      "published": "Wed, 11 Feb 2026 14:29:14 -0500",
-      "source": "BleepingComputer"
+      "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+      "url": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+      "published": "Fri, 13 Feb 2026 16:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
@@ -959,12 +965,6 @@
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
       "url": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
       "published": "Tue, 10 Feb 2026 19:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
-      "url": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
-      "published": "Tue, 10 Feb 2026 17:10:00 +0530",
       "source": "The Hacker News"
     },
     {
