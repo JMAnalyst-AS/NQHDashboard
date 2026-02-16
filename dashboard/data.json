@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T23:52:27.140699Z",
+  "generated_at": "2026-02-16T02:11:38.653674Z",
   "segment1": [
     {
       "title": "Nevada unveils new statewide data classification policy months after cyberattack",
@@ -246,6 +246,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -282,28 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
+      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
+      "published": "Sun, 15 Feb 2026 19:29:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
@@ -387,12 +393,6 @@
       "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
       "published": "Thu, 12 Feb 2026 16:34:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-      "published": "Thu, 12 Feb 2026 16:01:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -734,28 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
+      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
+      "published": "Sun, 15 Feb 2026 19:29:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
@@ -839,12 +845,6 @@
       "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
       "published": "Thu, 12 Feb 2026 16:34:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-      "published": "Thu, 12 Feb 2026 16:01:00 -0500",
       "source": "BleepingComputer"
     },
     {
