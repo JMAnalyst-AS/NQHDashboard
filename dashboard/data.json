@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T19:50:02.471466Z",
+  "generated_at": "2026-02-17T20:38:39.840700Z",
   "segment1": [
     {
       "title": "Hackers Offer to Sell Millions of Eurail User Records",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+      "published": "Tue, 17 Feb 2026 15:15:03 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
       "url": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
       "published": "Tue, 17 Feb 2026 13:29:18 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "published": "Sun, 15 Feb 2026 19:29:00 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "published": "Wed, 18 Feb 2026 00:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
@@ -411,12 +417,6 @@
       "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
       "url": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
       "published": "Tue, 17 Feb 2026 18:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-      "published": "Tue, 17 Feb 2026 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+      "published": "Tue, 17 Feb 2026 15:15:03 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
       "url": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
       "published": "Tue, 17 Feb 2026 13:29:18 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "published": "Sun, 15 Feb 2026 19:29:00 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "published": "Wed, 18 Feb 2026 00:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
@@ -863,12 +869,6 @@
       "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
       "url": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
       "published": "Tue, 17 Feb 2026 18:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-      "published": "Tue, 17 Feb 2026 17:29:00 +0530",
       "source": "The Hacker News"
     },
     {
