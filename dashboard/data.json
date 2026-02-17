@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T17:35:53.487713Z",
+  "generated_at": "2026-02-17T18:58:23.940574Z",
   "segment1": [
     {
       "title": "Hackers Offer to Sell Millions of Eurail User Records",
@@ -246,6 +246,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -282,28 +306,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
+      "url": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+      "published": "Tue, 17 Feb 2026 13:29:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft Teams outage affects users in United States, Europe",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+      "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+      "published": "Tue, 17 Feb 2026 23:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
@@ -507,12 +513,6 @@
       "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
       "url": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
       "published": "Fri, 13 Feb 2026 14:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-      "url": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-      "published": "Thu, 12 Feb 2026 23:27:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,6 +698,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -734,28 +758,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
+      "url": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+      "published": "Tue, 17 Feb 2026 13:29:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft Teams outage affects users in United States, Europe",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+      "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+      "published": "Tue, 17 Feb 2026 23:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
@@ -959,12 +965,6 @@
       "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
       "url": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
       "published": "Fri, 13 Feb 2026 14:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-      "url": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-      "published": "Thu, 12 Feb 2026 23:27:00 +0530",
       "source": "The Hacker News"
     },
     {
