@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T14:27:54.447538Z",
+  "generated_at": "2026-02-17T16:30:10.258227Z",
   "segment1": [
     {
       "title": "Poland arrests suspect linked to Phobos ransomware operation",
@@ -246,6 +246,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -282,28 +306,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft Teams outage affects users in United States, Europe",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
+      "published": "Tue, 17 Feb 2026 10:37:45 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+      "url": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+      "published": "Tue, 17 Feb 2026 09:40:49 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
@@ -381,18 +393,6 @@
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
       "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-      "published": "Sun, 15 Feb 2026 11:30:41 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
-      "url": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
-      "published": "Sun, 15 Feb 2026 10:17:27 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,30 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -734,28 +758,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft Teams outage affects users in United States, Europe",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
+      "published": "Tue, 17 Feb 2026 10:37:45 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
+      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+      "url": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+      "published": "Tue, 17 Feb 2026 09:40:49 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
@@ -833,18 +845,6 @@
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
       "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-      "published": "Sun, 15 Feb 2026 11:30:41 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
-      "url": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
-      "published": "Sun, 15 Feb 2026 10:17:27 -0500",
       "source": "BleepingComputer"
     },
     {
