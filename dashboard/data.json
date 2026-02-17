@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-17T11:39:27.691399Z",
+  "generated_at": "2026-02-17T13:04:59.298024Z",
   "segment1": [
+    {
+      "title": "Poland arrests suspect linked to Phobos ransomware operation",
+      "url": "https://databreaches.net/2026/02/17/poland-arrests-suspect-linked-to-phobos-ransomware-operation/?pk_campaign=feed&pk_kwd=poland-arrests-suspect-linked-to-phobos-ransomware-operation",
+      "published": "Tue, 17 Feb 2026 12:58:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Montana hospital restores phones as cyber-related network disruptions persist",
       "url": "https://databreaches.net/2026/02/16/montana-hospital-restores-phones-as-cyber-related-network-disruptions-persist/?pk_campaign=feed&pk_kwd=montana-hospital-restores-phones-as-cyber-related-network-disruptions-persist",
@@ -53,17 +59,17 @@
       "title": "Attor­ney Gen­er­al Ken Pax­ton Demands Infor­ma­tion from Blue Cross Blue Shield of Texas and Con­duent as Part of Inves­ti­ga­tion into Largest Data Breach in U.S. History",
       "url": "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
       "published": "Fri, 13 Feb 2026 20:33:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korea blames Coupang data breach on management failure, not sophisticated attack",
-      "url": "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
-      "published": "Fri, 13 Feb 2026 17:35:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Poland arrests suspect linked to Phobos ransomware operation",
+      "url": "https://databreaches.net/2026/02/17/poland-arrests-suspect-linked-to-phobos-ransomware-operation/?pk_campaign=feed&pk_kwd=poland-arrests-suspect-linked-to-phobos-ransomware-operation",
+      "published": "Tue, 17 Feb 2026 12:58:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Montana hospital restores phones as cyber-related network disruptions persist",
       "url": "https://databreaches.net/2026/02/16/montana-hospital-restores-phones-as-cyber-related-network-disruptions-persist/?pk_campaign=feed&pk_kwd=montana-hospital-restores-phones-as-cyber-related-network-disruptions-persist",
       "published": "Tue, 17 Feb 2026 01:43:39 +0000",
@@ -115,12 +121,6 @@
       "title": "Attor­ney Gen­er­al Ken Pax­ton Demands Infor­ma­tion from Blue Cross Blue Shield of Texas and Con­duent as Part of Inves­ti­ga­tion into Largest Data Breach in U.S. History",
       "url": "https://databreaches.net/2026/02/13/attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data/?pk_campaign=feed&pk_kwd=attorney-general-ken-paxton-demands-information-from-blue-cross-blue-shield-of-texas-and-conduent-as-part-of-investigation-into-largest-data",
       "published": "Fri, 13 Feb 2026 20:33:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korea blames Coupang data breach on management failure, not sophisticated attack",
-      "url": "https://databreaches.net/2026/02/13/south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack/?pk_campaign=feed&pk_kwd=south-korea-blames-coupang-data-breach-on-management-failure-not-sophisticated-attack",
-      "published": "Fri, 13 Feb 2026 17:35:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -396,6 +396,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "published": "Tue, 17 Feb 2026 17:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "My Day Getting My Hands Dirty with an NDR System",
+      "url": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+      "published": "Tue, 17 Feb 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
       "url": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
       "published": "Tue, 17 Feb 2026 15:01:00 +0530",
@@ -501,18 +513,6 @@
       "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
       "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
       "published": "Thu, 12 Feb 2026 17:21:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-      "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-      "published": "Thu, 12 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-      "url": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-      "published": "Thu, 12 Feb 2026 13:02:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "published": "Tue, 17 Feb 2026 17:29:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "My Day Getting My Hands Dirty with an NDR System",
+      "url": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+      "published": "Tue, 17 Feb 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
       "url": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
       "published": "Tue, 17 Feb 2026 15:01:00 +0530",
@@ -953,18 +965,6 @@
       "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
       "url": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
       "published": "Thu, 12 Feb 2026 17:21:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-      "url": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-      "published": "Thu, 12 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-      "url": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-      "published": "Thu, 12 Feb 2026 13:02:00 +0530",
       "source": "The Hacker News"
     },
     {
