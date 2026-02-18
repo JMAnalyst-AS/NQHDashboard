@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T16:33:42.067820Z",
+  "generated_at": "2026-02-18T17:52:02.527760Z",
   "segment1": [
     {
       "title": "Hackers Offer to Sell Millions of Eurail User Records",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
+      "published": "Wed, 18 Feb 2026 11:27:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
       "published": "Wed, 18 Feb 2026 11:26:53 -0500",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Eurail says stolen traveler data now up for sale on dark web",
-      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
-      "published": "Mon, 16 Feb 2026 14:19:09 -0500",
-      "source": "BleepingComputer"
+      "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
+      "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+      "published": "Wed, 18 Feb 2026 23:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
+      "published": "Wed, 18 Feb 2026 22:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
@@ -501,18 +513,6 @@
       "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
       "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
       "published": "Mon, 16 Feb 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
-      "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-      "published": "Mon, 16 Feb 2026 12:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "url": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "published": "Sun, 15 Feb 2026 19:40:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
+      "published": "Wed, 18 Feb 2026 11:27:38 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
       "published": "Wed, 18 Feb 2026 11:26:53 -0500",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Eurail says stolen traveler data now up for sale on dark web",
-      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
-      "published": "Mon, 16 Feb 2026 14:19:09 -0500",
-      "source": "BleepingComputer"
+      "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
+      "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+      "published": "Wed, 18 Feb 2026 23:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
+      "published": "Wed, 18 Feb 2026 22:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
@@ -953,18 +965,6 @@
       "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
       "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
       "published": "Mon, 16 Feb 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
-      "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-      "published": "Mon, 16 Feb 2026 12:08:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "url": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "published": "Sun, 15 Feb 2026 19:40:00 +0530",
       "source": "The Hacker News"
     },
     {
