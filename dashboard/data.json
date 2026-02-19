@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-19T14:48:11.232681Z",
+  "generated_at": "2026-02-19T15:49:46.513186Z",
   "segment1": [
+    {
+      "title": "University of Mississippi Medical Center closes all clinics in wake of cyberattack",
+      "url": "https://databreaches.net/2026/02/19/university-of-mississippi-medical-center-closes-all-clinics-in-wake-of-cyberattack/?pk_campaign=feed&pk_kwd=university-of-mississippi-medical-center-closes-all-clinics-in-wake-of-cyberattack",
+      "published": "Thu, 19 Feb 2026 15:29:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Leaked Data Raises Questions About Hackers’ Claims and Moldova’s Prior Denial",
       "url": "https://databreaches.net/2026/02/19/leaked-data-raises-questions-about-hackers-claims-and-moldovas-prior-denial/?pk_campaign=feed&pk_kwd=leaked-data-raises-questions-about-hackers-claims-and-moldovas-prior-denial",
@@ -53,17 +59,17 @@
       "title": "Marietta  also affected by BridgePay ransomware attack.",
       "url": "https://databreaches.net/2026/02/16/marietta-also-affected-by-bridgepay-ransomware-attack/?pk_campaign=feed&pk_kwd=marietta-also-affected-by-bridgepay-ransomware-attack",
       "published": "Mon, 16 Feb 2026 23:44:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "He tried to extort the Dutch police. It didn’t work out well for him.",
-      "url": "https://databreaches.net/2026/02/16/he-tried-to-extort-the-dutch-police-it-didnt-work-out-well-for-him/?pk_campaign=feed&pk_kwd=he-tried-to-extort-the-dutch-police-it-didnt-work-out-well-for-him",
-      "published": "Mon, 16 Feb 2026 12:55:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "University of Mississippi Medical Center closes all clinics in wake of cyberattack",
+      "url": "https://databreaches.net/2026/02/19/university-of-mississippi-medical-center-closes-all-clinics-in-wake-of-cyberattack/?pk_campaign=feed&pk_kwd=university-of-mississippi-medical-center-closes-all-clinics-in-wake-of-cyberattack",
+      "published": "Thu, 19 Feb 2026 15:29:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Leaked Data Raises Questions About Hackers’ Claims and Moldova’s Prior Denial",
       "url": "https://databreaches.net/2026/02/19/leaked-data-raises-questions-about-hackers-claims-and-moldovas-prior-denial/?pk_campaign=feed&pk_kwd=leaked-data-raises-questions-about-hackers-claims-and-moldovas-prior-denial",
       "published": "Thu, 19 Feb 2026 12:32:06 +0000",
@@ -115,12 +121,6 @@
       "title": "Marietta  also affected by BridgePay ransomware attack.",
       "url": "https://databreaches.net/2026/02/16/marietta-also-affected-by-bridgepay-ransomware-attack/?pk_campaign=feed&pk_kwd=marietta-also-affected-by-bridgepay-ransomware-attack",
       "published": "Mon, 16 Feb 2026 23:44:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "He tried to extort the Dutch police. It didn’t work out well for him.",
-      "url": "https://databreaches.net/2026/02/16/he-tried-to-extort-the-dutch-police-it-didnt-work-out-well-for-him/?pk_campaign=feed&pk_kwd=he-tried-to-extort-the-dutch-police-it-didnt-work-out-well-for-him",
-      "published": "Mon, 16 Feb 2026 12:55:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+      "published": "Thu, 19 Feb 2026 10:30:37 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How infostealers turn stolen credentials into real identities",
+      "url": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+      "published": "Thu, 19 Feb 2026 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nigerian man gets eight years in prison for hacking tax firms",
       "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
       "published": "Thu, 19 Feb 2026 08:51:49 -0500",
@@ -381,18 +393,6 @@
       "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
       "url": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
       "published": "Tue, 17 Feb 2026 18:15:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Flaws in popular VSCode extensions expose developers to attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-      "published": "Tue, 17 Feb 2026 16:27:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-      "published": "Tue, 17 Feb 2026 15:15:03 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+      "published": "Thu, 19 Feb 2026 10:30:37 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How infostealers turn stolen credentials into real identities",
+      "url": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+      "published": "Thu, 19 Feb 2026 10:05:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nigerian man gets eight years in prison for hacking tax firms",
       "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
       "published": "Thu, 19 Feb 2026 08:51:49 -0500",
@@ -833,18 +845,6 @@
       "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
       "url": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
       "published": "Tue, 17 Feb 2026 18:15:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Flaws in popular VSCode extensions expose developers to attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-      "published": "Tue, 17 Feb 2026 16:27:12 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-      "published": "Tue, 17 Feb 2026 15:15:03 -0500",
       "source": "BleepingComputer"
     },
     {
