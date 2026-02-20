@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T15:59:59.455383Z",
+  "generated_at": "2026-02-20T16:53:29.938419Z",
   "segment1": [
     {
       "title": "A single compromised account gave hackers access to 1.2 million French banking records",
@@ -246,30 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -304,6 +280,36 @@
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Data breach at French bank registry impacts 1.2 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
+      "published": "Fri, 20 Feb 2026 11:20:40 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Why the shift left dream has become a nightmare for security and developers",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New 'Massiv' Android banking malware poses as an IPTV app",
-      "url": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
-      "published": "Thu, 19 Feb 2026 05:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "url": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "published": "Fri, 20 Feb 2026 21:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
@@ -507,12 +513,6 @@
       "title": "3 Ways to Start Your Intelligent Workflow Program",
       "url": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
       "published": "Wed, 18 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-      "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-      "published": "Wed, 18 Feb 2026 13:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,30 +698,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -756,6 +732,36 @@
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Data breach at French bank registry impacts 1.2 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
+      "published": "Fri, 20 Feb 2026 11:20:40 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Why the shift left dream has become a nightmare for security and developers",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New 'Massiv' Android banking malware poses as an IPTV app",
-      "url": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
-      "published": "Thu, 19 Feb 2026 05:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "url": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "published": "Fri, 20 Feb 2026 21:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
@@ -959,12 +965,6 @@
       "title": "3 Ways to Start Your Intelligent Workflow Program",
       "url": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
       "published": "Wed, 18 Feb 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-      "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-      "published": "Wed, 18 Feb 2026 13:10:00 +0530",
       "source": "The Hacker News"
     },
     {
