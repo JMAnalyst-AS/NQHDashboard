@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T14:03:56.552599Z",
+  "generated_at": "2026-02-20T15:07:05.314132Z",
   "segment1": [
     {
       "title": "A single compromised account gave hackers access to 1.2 million French banking records",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Why the shift left dream has become a nightmare for security and developers",
+      "url": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+      "published": "Fri, 20 Feb 2026 09:45:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "published": "Fri, 20 Feb 2026 08:12:01 -0500",
@@ -390,13 +396,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
-      "published": "Wed, 18 Feb 2026 15:58:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "published": "Fri, 20 Feb 2026 19:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT",
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
       "url": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
       "published": "Fri, 20 Feb 2026 17:25:00 +0530",
       "source": "The Hacker News"
@@ -507,12 +513,6 @@
       "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
       "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
       "published": "Wed, 18 Feb 2026 13:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-      "url": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-      "published": "Wed, 18 Feb 2026 12:22:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Why the shift left dream has become a nightmare for security and developers",
+      "url": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+      "published": "Fri, 20 Feb 2026 09:45:54 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "published": "Fri, 20 Feb 2026 08:12:01 -0500",
@@ -842,13 +848,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
-      "published": "Wed, 18 Feb 2026 15:58:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "published": "Fri, 20 Feb 2026 19:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT",
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
       "url": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
       "published": "Fri, 20 Feb 2026 17:25:00 +0530",
       "source": "The Hacker News"
@@ -959,12 +965,6 @@
       "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
       "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
       "published": "Wed, 18 Feb 2026 13:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-      "url": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-      "published": "Wed, 18 Feb 2026 12:22:00 +0530",
       "source": "The Hacker News"
     },
     {
