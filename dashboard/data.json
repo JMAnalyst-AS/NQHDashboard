@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T15:49:08.641816Z",
+  "generated_at": "2026-02-21T16:30:15.138572Z",
   "segment1": [
     {
       "title": "Ukrainian hackers uncover how Russian drone operators are using Belarus",
@@ -246,6 +246,36 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -276,37 +306,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "source": "Krebs on Security"
+      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+      "url": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+      "published": "Sat, 21 Feb 2026 11:13:24 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+      "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
       "published": "Sat, 21 Feb 2026 08:50:58 -0500",
       "source": "BleepingComputer"
@@ -387,12 +393,6 @@
       "title": "How infostealers turn stolen credentials into real identities",
       "url": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
       "published": "Thu, 19 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nigerian man gets eight years in prison for hacking tax firms",
-      "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
-      "published": "Thu, 19 Feb 2026 08:51:49 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -698,6 +698,36 @@
       "source": "NCSC Feed"
     },
     {
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -728,37 +758,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "source": "Krebs on Security"
+      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+      "url": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+      "published": "Sat, 21 Feb 2026 11:13:24 -0500",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+      "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
       "published": "Sat, 21 Feb 2026 08:50:58 -0500",
       "source": "BleepingComputer"
@@ -839,12 +845,6 @@
       "title": "How infostealers turn stolen credentials into real identities",
       "url": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
       "published": "Thu, 19 Feb 2026 10:05:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nigerian man gets eight years in prison for hacking tax firms",
-      "url": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
-      "published": "Thu, 19 Feb 2026 08:51:49 -0500",
       "source": "BleepingComputer"
     },
     {
