@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T07:36:52.633206Z",
+  "generated_at": "2026-02-23T08:51:41.227732Z",
   "segment1": [
     {
       "title": "Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back.",
@@ -246,66 +246,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, January 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
       "url": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
       "published": "Sun, 22 Feb 2026 10:33:26 -0500",
@@ -394,6 +334,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
       "published": "Thu, 19 Feb 2026 10:30:37 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+      "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+      "published": "Mon, 23 Feb 2026 12:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
@@ -507,12 +453,6 @@
       "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
       "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
       "published": "Wed, 18 Feb 2026 23:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
-      "published": "Wed, 18 Feb 2026 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -698,66 +638,6 @@
       "source": "NCSC Feed"
     },
     {
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, January 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
       "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
       "url": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
       "published": "Sun, 22 Feb 2026 10:33:26 -0500",
@@ -846,6 +726,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
       "published": "Thu, 19 Feb 2026 10:30:37 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+      "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+      "published": "Mon, 23 Feb 2026 12:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
@@ -959,12 +845,6 @@
       "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
       "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
       "published": "Wed, 18 Feb 2026 23:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
-      "published": "Wed, 18 Feb 2026 22:05:00 +0530",
       "source": "The Hacker News"
     },
     {
