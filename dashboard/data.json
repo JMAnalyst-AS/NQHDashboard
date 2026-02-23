@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T11:39:47.953658Z",
+  "generated_at": "2026-02-23T13:06:04.129081Z",
   "segment1": [
     {
       "title": "Top NATO allies believe cyberattacks on hospitals are an act of war. They’re still struggling to fight back.",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "published": "Mon, 23 Feb 2026 06:44:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
       "url": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
       "published": "Sun, 22 Feb 2026 10:33:26 -0500",
@@ -390,10 +396,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-      "published": "Thu, 19 Feb 2026 10:30:37 -0500",
-      "source": "BleepingComputer"
+      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+      "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+      "published": "Mon, 23 Feb 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
@@ -507,12 +513,6 @@
       "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
       "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
       "published": "Thu, 19 Feb 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-      "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-      "published": "Thu, 19 Feb 2026 13:43:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "published": "Mon, 23 Feb 2026 06:44:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
       "url": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
       "published": "Sun, 22 Feb 2026 10:33:26 -0500",
@@ -842,10 +848,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-      "published": "Thu, 19 Feb 2026 10:30:37 -0500",
-      "source": "BleepingComputer"
+      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+      "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+      "published": "Mon, 23 Feb 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
@@ -959,12 +965,6 @@
       "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
       "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
       "published": "Thu, 19 Feb 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-      "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-      "published": "Thu, 19 Feb 2026 13:43:00 +0530",
       "source": "The Hacker News"
     },
     {
