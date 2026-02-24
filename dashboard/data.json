@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-24T15:58:57.516621Z",
+  "generated_at": "2026-02-24T17:13:41.561933Z",
   "segment1": [
+    {
+      "title": "Greater Pittsburgh Orthopaedic Associates disclosed a 2025 breach, but was there also one in 2024?",
+      "url": "https://databreaches.net/2026/02/24/greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024/?pk_campaign=feed&pk_kwd=greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024",
+      "published": "Tue, 24 Feb 2026 16:08:58 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Lazarus hackers adopt Medusa ransomware for extortion campaigns, targeting healthcare and nonprofits",
       "url": "https://databreaches.net/2026/02/24/lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits/?pk_campaign=feed&pk_kwd=lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits",
@@ -53,17 +59,17 @@
       "title": "Discord’s age verification data has a frontend leak — now what?",
       "url": "https://databreaches.net/2026/02/21/discords-age-verification-data-has-a-frontend-leak-now-what/?pk_campaign=feed&pk_kwd=discords-age-verification-data-has-a-frontend-leak-now-what",
       "published": "Sat, 21 Feb 2026 13:17:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Update Chrome now: Zero-day bug allows code execution via malicious webpages",
-      "url": "https://databreaches.net/2026/02/21/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages/?pk_campaign=feed&pk_kwd=update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages",
-      "published": "Sat, 21 Feb 2026 13:17:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Greater Pittsburgh Orthopaedic Associates disclosed a 2025 breach, but was there also one in 2024?",
+      "url": "https://databreaches.net/2026/02/24/greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024/?pk_campaign=feed&pk_kwd=greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024",
+      "published": "Tue, 24 Feb 2026 16:08:58 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Lazarus hackers adopt Medusa ransomware for extortion campaigns, targeting healthcare and nonprofits",
       "url": "https://databreaches.net/2026/02/24/lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits/?pk_campaign=feed&pk_kwd=lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits",
       "published": "Tue, 24 Feb 2026 14:12:37 +0000",
@@ -115,12 +121,6 @@
       "title": "Discord’s age verification data has a frontend leak — now what?",
       "url": "https://databreaches.net/2026/02/21/discords-age-verification-data-has-a-frontend-leak-now-what/?pk_campaign=feed&pk_kwd=discords-age-verification-data-has-a-frontend-leak-now-what",
       "published": "Sat, 21 Feb 2026 13:17:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Update Chrome now: Zero-day bug allows code execution via malicious webpages",
-      "url": "https://databreaches.net/2026/02/21/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages/?pk_campaign=feed&pk_kwd=update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages",
-      "published": "Sat, 21 Feb 2026 13:17:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "url": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
       "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
       "published": "Tue, 24 Feb 2026 17:28:00 +0530",
@@ -507,12 +513,6 @@
       "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
       "url": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
       "published": "Fri, 20 Feb 2026 15:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "url": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "published": "Fri, 20 Feb 2026 13:35:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "url": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
       "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
       "published": "Tue, 24 Feb 2026 17:28:00 +0530",
@@ -959,12 +965,6 @@
       "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
       "url": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
       "published": "Fri, 20 Feb 2026 15:22:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "url": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "published": "Fri, 20 Feb 2026 13:35:00 +0530",
       "source": "The Hacker News"
     },
     {
