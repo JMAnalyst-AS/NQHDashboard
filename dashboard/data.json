@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T17:34:28.438474Z",
+  "generated_at": "2026-02-25T19:06:51.278458Z",
   "segment1": [
     {
       "title": "South Korea considers updates to data and cyber laws",
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
+      "published": "Wed, 25 Feb 2026 13:01:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
       "published": "Wed, 25 Feb 2026 12:00:15 -0500",
@@ -390,10 +396,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
-      "published": "Tue, 24 Feb 2026 08:00:45 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
@@ -501,18 +513,6 @@
       "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
       "url": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
       "published": "Mon, 23 Feb 2026 15:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-      "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-      "published": "Mon, 23 Feb 2026 12:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-      "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-      "published": "Sat, 21 Feb 2026 20:19:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
+      "published": "Wed, 25 Feb 2026 13:01:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
       "published": "Wed, 25 Feb 2026 12:00:15 -0500",
@@ -842,10 +848,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
-      "published": "Tue, 24 Feb 2026 08:00:45 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
@@ -953,18 +965,6 @@
       "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
       "url": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
       "published": "Mon, 23 Feb 2026 15:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-      "url": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-      "published": "Mon, 23 Feb 2026 12:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-      "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-      "published": "Sat, 21 Feb 2026 20:19:00 +0530",
       "source": "The Hacker News"
     },
     {
