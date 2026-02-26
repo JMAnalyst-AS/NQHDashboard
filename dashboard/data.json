@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-26T13:48:07.149495Z",
+  "generated_at": "2026-02-26T14:48:02.884309Z",
   "segment1": [
+    {
+      "title": "Extorting the Extorters? Moscow man accused of posing as FSB officer to extort Conti ransomware gang",
+      "url": "https://databreaches.net/2026/02/26/extorting-the-extorters-moscow-man-accused-of-posing-as-fsb-officer-to-extort-conti-ransomware-gang/?pk_campaign=feed&pk_kwd=extorting-the-extorters-moscow-man-accused-of-posing-as-fsb-officer-to-extort-conti-ransomware-gang",
+      "published": "Thu, 26 Feb 2026 14:32:47 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Clalit probes suspected cyberattack after Iranian-linked hackers leak patient files",
       "url": "https://databreaches.net/2026/02/25/clalit-probes-suspected-cyberattack-after-iranian-linked-hackers-leak-patient-files/?pk_campaign=feed&pk_kwd=clalit-probes-suspected-cyberattack-after-iranian-linked-hackers-leak-patient-files",
@@ -53,17 +59,17 @@
       "title": "Hackers threaten to leak 8 million people’s stolen data if Dutch telecom Odido won’t pay ransom",
       "url": "https://databreaches.net/2026/02/24/hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom/?pk_campaign=feed&pk_kwd=hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom",
       "published": "Tue, 24 Feb 2026 13:53:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some patients listed as “Charlie Kirk” or dead after major NZ health app MediMap hacked",
-      "url": "https://databreaches.net/2026/02/24/some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked/?pk_campaign=feed&pk_kwd=some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked",
-      "published": "Tue, 24 Feb 2026 13:09:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Extorting the Extorters? Moscow man accused of posing as FSB officer to extort Conti ransomware gang",
+      "url": "https://databreaches.net/2026/02/26/extorting-the-extorters-moscow-man-accused-of-posing-as-fsb-officer-to-extort-conti-ransomware-gang/?pk_campaign=feed&pk_kwd=extorting-the-extorters-moscow-man-accused-of-posing-as-fsb-officer-to-extort-conti-ransomware-gang",
+      "published": "Thu, 26 Feb 2026 14:32:47 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Clalit probes suspected cyberattack after Iranian-linked hackers leak patient files",
       "url": "https://databreaches.net/2026/02/25/clalit-probes-suspected-cyberattack-after-iranian-linked-hackers-leak-patient-files/?pk_campaign=feed&pk_kwd=clalit-probes-suspected-cyberattack-after-iranian-linked-hackers-leak-patient-files",
       "published": "Wed, 25 Feb 2026 21:28:28 +0000",
@@ -115,12 +121,6 @@
       "title": "Hackers threaten to leak 8 million people’s stolen data if Dutch telecom Odido won’t pay ransom",
       "url": "https://databreaches.net/2026/02/24/hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom/?pk_campaign=feed&pk_kwd=hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom",
       "published": "Tue, 24 Feb 2026 13:53:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some patients listed as “Charlie Kirk” or dead after major NZ health app MediMap hacked",
-      "url": "https://databreaches.net/2026/02/24/some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked/?pk_campaign=feed&pk_kwd=some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked",
-      "published": "Tue, 24 Feb 2026 13:09:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/",
+      "published": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft expands Windows restore to more enterprise devices",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
       "published": "Thu, 26 Feb 2026 08:04:02 -0500",
@@ -387,12 +393,6 @@
       "title": "Wynn Resorts confirms employee data breach after extortion threat",
       "url": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
       "published": "Tue, 24 Feb 2026 16:51:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "1Campaign platform helps malicious Google ads evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-      "published": "Tue, 24 Feb 2026 16:45:05 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/",
+      "published": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft expands Windows restore to more enterprise devices",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
       "published": "Thu, 26 Feb 2026 08:04:02 -0500",
@@ -839,12 +845,6 @@
       "title": "Wynn Resorts confirms employee data breach after extortion threat",
       "url": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
       "published": "Tue, 24 Feb 2026 16:51:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "1Campaign platform helps malicious Google ads evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-      "published": "Tue, 24 Feb 2026 16:45:05 -0500",
       "source": "BleepingComputer"
     },
     {
