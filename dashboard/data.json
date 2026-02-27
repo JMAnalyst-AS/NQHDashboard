@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-27T14:08:29.230265Z",
+  "generated_at": "2026-02-27T15:06:10.164890Z",
   "segment1": [
+    {
+      "title": "South Korean Authorities Accidentally Hand Hackers $4.8M in Crypto",
+      "url": "https://databreaches.net/2026/02/27/south-korean-authorities-accidentally-hand-hackers-4-8m-in-crypto/?pk_campaign=feed&pk_kwd=south-korean-authorities-accidentally-hand-hackers-4-8m-in-crypto",
+      "published": "Fri, 27 Feb 2026 14:32:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hacker Used Anthropic’s Claude to Steal Sensitive Mexican Data",
       "url": "https://databreaches.net/2026/02/27/hacker-used-anthropics-claude-to-steal-sensitive-mexican-data/?pk_campaign=feed&pk_kwd=hacker-used-anthropics-claude-to-steal-sensitive-mexican-data",
@@ -53,17 +59,17 @@
       "title": "Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site",
       "url": "https://databreaches.net/2026/02/25/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/?pk_campaign=feed&pk_kwd=wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site",
       "published": "Wed, 25 Feb 2026 13:33:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Attackers Can Own Your Network in a Matter of Minutes",
-      "url": "https://databreaches.net/2026/02/24/attackers-can-own-your-network-in-a-matter-of-minutes/?pk_campaign=feed&pk_kwd=attackers-can-own-your-network-in-a-matter-of-minutes",
-      "published": "Tue, 24 Feb 2026 23:13:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "South Korean Authorities Accidentally Hand Hackers $4.8M in Crypto",
+      "url": "https://databreaches.net/2026/02/27/south-korean-authorities-accidentally-hand-hackers-4-8m-in-crypto/?pk_campaign=feed&pk_kwd=south-korean-authorities-accidentally-hand-hackers-4-8m-in-crypto",
+      "published": "Fri, 27 Feb 2026 14:32:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hacker Used Anthropic’s Claude to Steal Sensitive Mexican Data",
       "url": "https://databreaches.net/2026/02/27/hacker-used-anthropics-claude-to-steal-sensitive-mexican-data/?pk_campaign=feed&pk_kwd=hacker-used-anthropics-claude-to-steal-sensitive-mexican-data",
       "published": "Fri, 27 Feb 2026 12:19:41 +0000",
@@ -115,12 +121,6 @@
       "title": "Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site",
       "url": "https://databreaches.net/2026/02/25/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/?pk_campaign=feed&pk_kwd=wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site",
       "published": "Wed, 25 Feb 2026 13:33:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Attackers Can Own Your Network in a Matter of Minutes",
-      "url": "https://databreaches.net/2026/02/24/attackers-can-own-your-network-in-a-matter-of-minutes/?pk_campaign=feed&pk_kwd=attackers-can-own-your-network-in-a-matter-of-minutes",
-      "published": "Tue, 24 Feb 2026 23:13:16 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -306,6 +306,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Third-Party Patching and the Business Footprint We All Share",
+      "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
+      "published": "Fri, 27 Feb 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "published": "Fri, 27 Feb 2026 07:30:07 -0500",
@@ -387,12 +393,6 @@
       "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
       "url": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
       "published": "Wed, 25 Feb 2026 10:54:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "url": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "published": "Wed, 25 Feb 2026 10:01:11 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -758,6 +758,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Third-Party Patching and the Business Footprint We All Share",
+      "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
+      "published": "Fri, 27 Feb 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "published": "Fri, 27 Feb 2026 07:30:07 -0500",
@@ -839,12 +845,6 @@
       "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
       "url": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
       "published": "Wed, 25 Feb 2026 10:54:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "url": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "published": "Wed, 25 Feb 2026 10:01:11 -0500",
       "source": "BleepingComputer"
     },
     {
