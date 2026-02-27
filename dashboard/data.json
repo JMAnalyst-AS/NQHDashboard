@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T02:11:48.197791Z",
+  "generated_at": "2026-02-27T04:24:51.694434Z",
   "segment1": [
     {
       "title": "Cisco says hackers have been exploiting a critical bug to break into big customer networks since 2023",
@@ -396,6 +396,126 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+      "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+      "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+      "published": "Thu, 26 Feb 2026 20:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+      "published": "Thu, 26 Feb 2026 19:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Expert Recommends: Prepare for PQC Right Now",
+      "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+      "published": "Thu, 26 Feb 2026 11:43:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+      "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+      "published": "Wed, 25 Feb 2026 20:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+      "url": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+      "published": "Wed, 25 Feb 2026 20:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+      "url": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+      "published": "Wed, 25 Feb 2026 18:13:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Manual Processes Are Putting National Security at Risk",
+      "url": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
+      "published": "Wed, 25 Feb 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
+      "url": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
+      "published": "Wed, 25 Feb 2026 14:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
+      "url": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
+      "published": "Wed, 25 Feb 2026 12:34:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
+      "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
+      "published": "Wed, 25 Feb 2026 10:53:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+      "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+      "published": "Wed, 25 Feb 2026 00:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "url": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+      "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+      "published": "Tue, 24 Feb 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+      "published": "Tue, 24 Feb 2026 17:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "How Russia’s War Has Devastated Civilian Life in Ukraine",
       "url": "https://www.bellingcat.com/news/2026/02/24/how-russias-war-has-devastated-civilian-life-in-ukraine/",
       "published": "Tue, 24 Feb 2026 08:55:27 +0000",
@@ -726,6 +846,126 @@
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
       "published": "Wed, 25 Feb 2026 07:53:02 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+      "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+      "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+      "published": "Thu, 26 Feb 2026 20:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+      "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+      "published": "Thu, 26 Feb 2026 19:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Expert Recommends: Prepare for PQC Right Now",
+      "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+      "published": "Thu, 26 Feb 2026 11:43:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+      "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+      "published": "Wed, 25 Feb 2026 20:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+      "url": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+      "published": "Wed, 25 Feb 2026 20:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+      "url": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+      "published": "Wed, 25 Feb 2026 18:13:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Manual Processes Are Putting National Security at Risk",
+      "url": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
+      "published": "Wed, 25 Feb 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
+      "url": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
+      "published": "Wed, 25 Feb 2026 14:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
+      "url": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
+      "published": "Wed, 25 Feb 2026 12:34:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
+      "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
+      "published": "Wed, 25 Feb 2026 10:53:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+      "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+      "published": "Wed, 25 Feb 2026 00:22:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "url": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+      "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+      "published": "Tue, 24 Feb 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+      "published": "Tue, 24 Feb 2026 17:22:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Russia’s War Has Devastated Civilian Life in Ukraine",
