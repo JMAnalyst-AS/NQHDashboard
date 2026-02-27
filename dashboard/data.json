@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T16:51:30.437694Z",
+  "generated_at": "2026-02-27T17:35:38.208952Z",
   "segment1": [
     {
       "title": "South Korean Authorities Accidentally Hand Hackers $4.8M in Crypto",
@@ -396,6 +396,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+      "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+      "published": "Fri, 27 Feb 2026 21:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
       "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
       "published": "Fri, 27 Feb 2026 18:13:00 +0530",
@@ -507,12 +513,6 @@
       "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
       "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
       "published": "Wed, 25 Feb 2026 10:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-      "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-      "published": "Wed, 25 Feb 2026 00:22:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -848,6 +848,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+      "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+      "published": "Fri, 27 Feb 2026 21:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
       "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
       "published": "Fri, 27 Feb 2026 18:13:00 +0530",
@@ -959,12 +965,6 @@
       "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
       "url": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
       "published": "Wed, 25 Feb 2026 10:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-      "url": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-      "published": "Wed, 25 Feb 2026 00:22:00 +0530",
       "source": "The Hacker News"
     },
     {
