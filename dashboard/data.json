@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-02T18:03:51.208202Z",
+  "generated_at": "2026-03-02T19:11:07.485871Z",
   "segment1": [
+    {
+      "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
+      "url": "https://databreaches.net/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/?pk_campaign=feed&pk_kwd=hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data",
+      "published": "Mon, 02 Mar 2026 19:06:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule",
       "url": "https://databreaches.net/2026/03/02/shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule/?pk_campaign=feed&pk_kwd=shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule",
@@ -53,17 +59,17 @@
       "title": "Hackers steal medical details of 15 million in France",
       "url": "https://databreaches.net/2026/02/27/hackers-steal-medical-details-of-15-million-in-france/?pk_campaign=feed&pk_kwd=hackers-steal-medical-details-of-15-million-in-france",
       "published": "Fri, 27 Feb 2026 23:52:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Former Nuance employee admits breaching more than 1.2M Geisinger patient records",
-      "url": "https://databreaches.net/2026/02/27/former-nuance-employee-admits-breaching-more-than-1-2m-geisinger-patient-records/?pk_campaign=feed&pk_kwd=former-nuance-employee-admits-breaching-more-than-1-2m-geisinger-patient-records",
-      "published": "Fri, 27 Feb 2026 23:37:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
+      "url": "https://databreaches.net/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/?pk_campaign=feed&pk_kwd=hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data",
+      "published": "Mon, 02 Mar 2026 19:06:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule",
       "url": "https://databreaches.net/2026/03/02/shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule/?pk_campaign=feed&pk_kwd=shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule",
       "published": "Mon, 02 Mar 2026 12:57:45 +0000",
@@ -115,12 +121,6 @@
       "title": "Hackers steal medical details of 15 million in France",
       "url": "https://databreaches.net/2026/02/27/hackers-steal-medical-details-of-15-million-in-france/?pk_campaign=feed&pk_kwd=hackers-steal-medical-details-of-15-million-in-france",
       "published": "Fri, 27 Feb 2026 23:52:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Former Nuance employee admits breaching more than 1.2M Geisinger patient records",
-      "url": "https://databreaches.net/2026/02/27/former-nuance-employee-admits-breaching-more-than-1-2m-geisinger-patient-records/?pk_campaign=feed&pk_kwd=former-nuance-employee-admits-breaching-more-than-1-2m-geisinger-patient-records",
-      "published": "Fri, 27 Feb 2026 23:37:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "url": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "published": "Mon, 02 Mar 2026 13:54:34 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
@@ -267,12 +273,6 @@
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "published": "Fri, 27 Feb 2026 07:30:07 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "published": "Thu, 26 Feb 2026 15:55:29 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "url": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "published": "Mon, 02 Mar 2026 13:54:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
       "url": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
       "published": "Mon, 02 Mar 2026 12:30:13 -0500",
@@ -599,12 +605,6 @@
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "published": "Fri, 27 Feb 2026 07:30:07 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "published": "Thu, 26 Feb 2026 15:55:29 -0500",
       "source": "BleepingComputer"
     },
     {
