@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:11:50.093686Z",
+  "generated_at": "2026-03-02T18:03:51.208202Z",
   "segment1": [
     {
       "title": "Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
+      "published": "Mon, 02 Mar 2026 12:30:13 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
       "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
       "published": "Mon, 02 Mar 2026 10:54:33 -0500",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trend Micro warns of critical Apex One code execution flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
-      "published": "Thu, 26 Feb 2026 12:58:28 -0500",
-      "source": "BleepingComputer"
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "published": "Mon, 02 Mar 2026 22:38:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "published": "Mon, 02 Mar 2026 22:22:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
@@ -381,18 +393,6 @@
       "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
       "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
       "published": "Thu, 26 Feb 2026 16:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-      "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-      "published": "Thu, 26 Feb 2026 11:43:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
+      "published": "Mon, 02 Mar 2026 12:30:13 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
       "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
       "published": "Mon, 02 Mar 2026 10:54:33 -0500",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trend Micro warns of critical Apex One code execution flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
-      "published": "Thu, 26 Feb 2026 12:58:28 -0500",
-      "source": "BleepingComputer"
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "published": "Mon, 02 Mar 2026 22:38:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "published": "Mon, 02 Mar 2026 22:22:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
@@ -713,18 +725,6 @@
       "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
       "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
       "published": "Thu, 26 Feb 2026 16:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-      "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-      "published": "Thu, 26 Feb 2026 11:43:00 +0530",
       "source": "The Hacker News"
     },
     {
