@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T10:43:16.010098Z",
+  "generated_at": "2026-03-02T11:32:06.935775Z",
   "segment1": [
     {
       "title": "South Korean Police Lose Seized Crypto By Posting Password Online",
@@ -126,126 +126,6 @@
   ],
   "segment3": [
     {
-      "title": "Improving your response to vulnerability management",
-      "url": "https://www.ncsc.gov.uk/blog-post/improving-your-response-to-vulnerability-management",
-      "published": "Mon, 09 Feb 2026 20:24:56 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Can you help the NCSC with the next phase of EASM research?",
-      "url": "https://www.ncsc.gov.uk/blog-post/help-ncsc-with-next-phase-easm-research",
-      "published": "Fri, 06 Feb 2026 10:44:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Eradicating trivial vulnerabilities, at scale",
-      "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
-      "published": "Fri, 06 Feb 2026 08:11:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Thanking the vulnerability research community with NCSC Challenge Coins",
-      "url": "https://www.ncsc.gov.uk/blog-post/thanking-vulnerability-research-community-ncsc-challenge-coins",
-      "published": "Fri, 06 Feb 2026 08:11:32 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cloud Security Posture Management: silver bullet or another piece in the cloud puzzle?",
-      "url": "https://www.ncsc.gov.uk/blog-post/cspm-silver-bullet-or-another-piece-in-the-cloud-puzzle",
-      "published": "Mon, 02 Feb 2026 16:24:04 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
-      "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
-      "published": "Thu, 29 Jan 2026 13:08:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Designing safer links: secure connectivity for operational technology",
-      "url": "https://www.ncsc.gov.uk/blog-post/designing-safer-links-secure-connectivity-for-ot",
-      "published": "Wed, 14 Jan 2026 10:36:19 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "The Government Cyber Action Plan: strengthening resilience across the UK",
-      "url": "https://www.ncsc.gov.uk/blog-post/government-cyber-action-plan-strengthening-resilience-across-uk",
-      "published": "Wed, 07 Jan 2026 13:16:03 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Home working: preparing your organisation and staff",
-      "url": "https://www.ncsc.gov.uk/guidance/home-working",
-      "published": "Wed, 17 Dec 2025 15:44:47 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Data breaches: guidance for individuals and families",
-      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
-      "published": "Wed, 17 Dec 2025 15:16:01 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Sextortion emails: how to protect yourself",
-      "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
-      "published": "Wed, 17 Dec 2025 14:57:16 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Drawing good architecture diagrams",
-      "url": "https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams",
-      "published": "Tue, 16 Dec 2025 08:57:53 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Mitigating malware and ransomware attacks",
-      "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
-      "published": "Mon, 15 Dec 2025 13:04:57 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber deception trials: what we’ve learned so far",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
-      "published": "Mon, 15 Dec 2025 08:17:28 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Shopping and paying safely online",
-      "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
-      "published": "Mon, 08 Dec 2025 16:40:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "How to recover an infected device",
-      "url": "https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take",
-      "published": "Mon, 08 Dec 2025 16:33:45 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Recovering a hacked account",
-      "url": "https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account",
-      "published": "Mon, 08 Dec 2025 16:28:06 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Early Years practitioners: using cyber security to protect your settings",
-      "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
-      "published": "Mon, 08 Dec 2025 16:26:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "How to spot scammers claiming to be from the NCSC",
-      "url": "https://www.ncsc.gov.uk/guidance/how-to-spot-scammers-claiming-to-be-from-the-ncsc",
-      "published": "Mon, 08 Dec 2025 15:47:27 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Using IPsec to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-ipsec-protect-data",
-      "published": "Mon, 08 Dec 2025 13:16:52 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
@@ -396,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+      "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+      "published": "Mon, 02 Mar 2026 16:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
       "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
       "published": "Mon, 02 Mar 2026 14:14:00 +0530",
@@ -507,12 +393,6 @@
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
       "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
       "published": "Wed, 25 Feb 2026 22:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-      "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-      "published": "Wed, 25 Feb 2026 20:36:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -578,126 +458,6 @@
   ],
   "rss": [
     {
-      "title": "Improving your response to vulnerability management",
-      "url": "https://www.ncsc.gov.uk/blog-post/improving-your-response-to-vulnerability-management",
-      "published": "Mon, 09 Feb 2026 20:24:56 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Can you help the NCSC with the next phase of EASM research?",
-      "url": "https://www.ncsc.gov.uk/blog-post/help-ncsc-with-next-phase-easm-research",
-      "published": "Fri, 06 Feb 2026 10:44:36 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Eradicating trivial vulnerabilities, at scale",
-      "url": "https://www.ncsc.gov.uk/blog-post/eradicating-trivial-vulnerabilities-at-scale",
-      "published": "Fri, 06 Feb 2026 08:11:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Thanking the vulnerability research community with NCSC Challenge Coins",
-      "url": "https://www.ncsc.gov.uk/blog-post/thanking-vulnerability-research-community-ncsc-challenge-coins",
-      "published": "Fri, 06 Feb 2026 08:11:32 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cloud Security Posture Management: silver bullet or another piece in the cloud puzzle?",
-      "url": "https://www.ncsc.gov.uk/blog-post/cspm-silver-bullet-or-another-piece-in-the-cloud-puzzle",
-      "published": "Mon, 02 Feb 2026 16:24:04 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "One small step for Cyber Resilience Test Facilities, one giant leap for technology assurance",
-      "url": "https://www.ncsc.gov.uk/blog-post/one-small-step-for-cyber-resilience-test-facilities-one-giant-leap-for-technology-assurance",
-      "published": "Thu, 29 Jan 2026 13:08:58 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Designing safer links: secure connectivity for operational technology",
-      "url": "https://www.ncsc.gov.uk/blog-post/designing-safer-links-secure-connectivity-for-ot",
-      "published": "Wed, 14 Jan 2026 10:36:19 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "The Government Cyber Action Plan: strengthening resilience across the UK",
-      "url": "https://www.ncsc.gov.uk/blog-post/government-cyber-action-plan-strengthening-resilience-across-uk",
-      "published": "Wed, 07 Jan 2026 13:16:03 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Home working: preparing your organisation and staff",
-      "url": "https://www.ncsc.gov.uk/guidance/home-working",
-      "published": "Wed, 17 Dec 2025 15:44:47 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Data breaches: guidance for individuals and families",
-      "url": "https://www.ncsc.gov.uk/guidance/data-breaches",
-      "published": "Wed, 17 Dec 2025 15:16:01 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Sextortion emails: how to protect yourself",
-      "url": "https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself",
-      "published": "Wed, 17 Dec 2025 14:57:16 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Drawing good architecture diagrams",
-      "url": "https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams",
-      "published": "Tue, 16 Dec 2025 08:57:53 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Mitigating malware and ransomware attacks",
-      "url": "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks",
-      "published": "Mon, 15 Dec 2025 13:04:57 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Cyber deception trials: what we’ve learned so far",
-      "url": "https://www.ncsc.gov.uk/blog-post/cyber-deception-trials-what-weve-learned-so-far",
-      "published": "Mon, 15 Dec 2025 08:17:28 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Shopping and paying safely online",
-      "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
-      "published": "Mon, 08 Dec 2025 16:40:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "How to recover an infected device",
-      "url": "https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take",
-      "published": "Mon, 08 Dec 2025 16:33:45 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Recovering a hacked account",
-      "url": "https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account",
-      "published": "Mon, 08 Dec 2025 16:28:06 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Early Years practitioners: using cyber security to protect your settings",
-      "url": "https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings",
-      "published": "Mon, 08 Dec 2025 16:26:12 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "How to spot scammers claiming to be from the NCSC",
-      "url": "https://www.ncsc.gov.uk/guidance/how-to-spot-scammers-claiming-to-be-from-the-ncsc",
-      "published": "Mon, 08 Dec 2025 15:47:27 GMT",
-      "source": "NCSC Feed"
-    },
-    {
-      "title": "Using IPsec to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-ipsec-protect-data",
-      "published": "Mon, 08 Dec 2025 13:16:52 GMT",
-      "source": "NCSC Feed"
-    },
-    {
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
@@ -848,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+      "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+      "published": "Mon, 02 Mar 2026 16:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
       "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
       "published": "Mon, 02 Mar 2026 14:14:00 +0530",
@@ -959,12 +725,6 @@
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
       "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
       "published": "Wed, 25 Feb 2026 22:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-      "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-      "published": "Wed, 25 Feb 2026 20:36:00 +0530",
       "source": "The Hacker News"
     },
     {
