@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T07:42:30.565454Z",
+  "generated_at": "2026-03-03T08:41:17.762778Z",
   "segment1": [
     {
       "title": "Evoke Wellness at Hilliard updates its breach notification",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+      "published": "Tue, 03 Mar 2026 03:19:53 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
       "published": "Mon, 02 Mar 2026 19:06:39 -0500",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
-      "published": "Fri, 27 Feb 2026 10:57:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+      "url": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+      "published": "Tue, 03 Mar 2026 12:38:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
+      "url": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+      "published": "Tue, 03 Mar 2026 12:23:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
@@ -381,18 +393,6 @@
       "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
       "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
       "published": "Thu, 26 Feb 2026 19:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Expert Recommends: Prepare for PQC Right Now",
-      "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-      "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+      "published": "Tue, 03 Mar 2026 03:19:53 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
       "published": "Mon, 02 Mar 2026 19:06:39 -0500",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
-      "published": "Fri, 27 Feb 2026 10:57:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+      "url": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+      "published": "Tue, 03 Mar 2026 12:38:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
+      "url": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+      "published": "Tue, 03 Mar 2026 12:23:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
@@ -713,18 +725,6 @@
       "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
       "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
       "published": "Thu, 26 Feb 2026 19:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Expert Recommends: Prepare for PQC Right Now",
-      "url": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-      "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
       "source": "The Hacker News"
     },
     {
