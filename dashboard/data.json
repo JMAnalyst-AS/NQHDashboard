@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-03T22:29:47.973047Z",
+  "generated_at": "2026-03-03T22:55:25.813309Z",
   "segment1": [
+    {
+      "title": "1,700 Dutch police officers get reminder not to access files without legitimate purpose",
+      "url": "https://databreaches.net/2026/03/03/1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose/?pk_campaign=feed&pk_kwd=1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose",
+      "published": "Tue, 03 Mar 2026 22:49:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Israeli spies ‘hacked every traffic camera in Tehran to plot killing of Iran’s Ayatollah Ali Khamenei’",
       "url": "https://databreaches.net/2026/03/03/israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei/?pk_campaign=feed&pk_kwd=israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei",
@@ -53,17 +59,17 @@
       "title": "CISA Releases New Guidance on Assembling Multi-Disciplinary Insider Threat Management Teams",
       "url": "https://databreaches.net/2026/03/02/cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams/?pk_campaign=feed&pk_kwd=cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams",
       "published": "Mon, 02 Mar 2026 12:30:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korean Police Lose Seized Crypto By Posting Password Online",
-      "url": "https://databreaches.net/2026/03/01/south-korean-police-lose-seized-crypto-by-posting-password-online/?pk_campaign=feed&pk_kwd=south-korean-police-lose-seized-crypto-by-posting-password-online",
-      "published": "Sun, 01 Mar 2026 22:31:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "1,700 Dutch police officers get reminder not to access files without legitimate purpose",
+      "url": "https://databreaches.net/2026/03/03/1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose/?pk_campaign=feed&pk_kwd=1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose",
+      "published": "Tue, 03 Mar 2026 22:49:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Israeli spies ‘hacked every traffic camera in Tehran to plot killing of Iran’s Ayatollah Ali Khamenei’",
       "url": "https://databreaches.net/2026/03/03/israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei/?pk_campaign=feed&pk_kwd=israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei",
       "published": "Tue, 03 Mar 2026 13:49:13 +0000",
@@ -115,12 +121,6 @@
       "title": "CISA Releases New Guidance on Assembling Multi-Disciplinary Insider Threat Management Teams",
       "url": "https://databreaches.net/2026/03/02/cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams/?pk_campaign=feed&pk_kwd=cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams",
       "published": "Mon, 02 Mar 2026 12:30:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "South Korean Police Lose Seized Crypto By Posting Password Online",
-      "url": "https://databreaches.net/2026/03/01/south-korean-police-lose-seized-crypto-by-posting-password-online/?pk_campaign=feed&pk_kwd=south-korean-police-lose-seized-crypto-by-posting-password-online",
-      "published": "Sun, 01 Mar 2026 22:31:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Facebook accounts unavailable in worldwide outage",
+      "url": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
+      "published": "Tue, 03 Mar 2026 17:38:55 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
@@ -267,12 +273,6 @@
       "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
       "url": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
       "published": "Mon, 02 Mar 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic confirms Claude is down in a worldwide outage",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
-      "published": "Mon, 02 Mar 2026 07:23:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Facebook accounts unavailable in worldwide outage",
+      "url": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
+      "published": "Tue, 03 Mar 2026 17:38:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
       "published": "Tue, 03 Mar 2026 15:59:19 -0500",
@@ -599,12 +605,6 @@
       "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
       "url": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
       "published": "Mon, 02 Mar 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic confirms Claude is down in a worldwide outage",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
-      "published": "Mon, 02 Mar 2026 07:23:00 -0500",
       "source": "BleepingComputer"
     },
     {
