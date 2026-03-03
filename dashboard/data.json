@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-03T11:32:45.577621Z",
+  "generated_at": "2026-03-03T12:58:59.332484Z",
   "segment1": [
+    {
+      "title": "Congress finds data brokers cost consumers tens of billions of dollars",
+      "url": "https://databreaches.net/2026/03/03/congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars/?pk_campaign=feed&pk_kwd=congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars",
+      "published": "Tue, 03 Mar 2026 12:49:18 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Evoke Wellness at Hilliard updates its breach notification",
       "url": "https://databreaches.net/2026/03/02/evoke-wellness-at-hilliard-updates-its-breach-notification/?pk_campaign=feed&pk_kwd=evoke-wellness-at-hilliard-updates-its-breach-notification",
@@ -53,17 +59,17 @@
       "title": "Connecticut Senate Bill Raises the Stakes on Data Breach Response",
       "url": "https://databreaches.net/2026/02/28/connecticut-senate-bill-raises-the-stakes-on-data-breach-response/?pk_campaign=feed&pk_kwd=connecticut-senate-bill-raises-the-stakes-on-data-breach-response",
       "published": "Sat, 28 Feb 2026 13:05:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage",
-      "url": "https://databreaches.net/2026/02/28/court-refuses-to-slice-up-cicis-cyber-extortion-coverage/?pk_campaign=feed&pk_kwd=court-refuses-to-slice-up-cicis-cyber-extortion-coverage",
-      "published": "Sat, 28 Feb 2026 13:00:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Congress finds data brokers cost consumers tens of billions of dollars",
+      "url": "https://databreaches.net/2026/03/03/congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars/?pk_campaign=feed&pk_kwd=congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars",
+      "published": "Tue, 03 Mar 2026 12:49:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Evoke Wellness at Hilliard updates its breach notification",
       "url": "https://databreaches.net/2026/03/02/evoke-wellness-at-hilliard-updates-its-breach-notification/?pk_campaign=feed&pk_kwd=evoke-wellness-at-hilliard-updates-its-breach-notification",
       "published": "Mon, 02 Mar 2026 22:17:05 +0000",
@@ -115,12 +121,6 @@
       "title": "Connecticut Senate Bill Raises the Stakes on Data Breach Response",
       "url": "https://databreaches.net/2026/02/28/connecticut-senate-bill-raises-the-stakes-on-data-breach-response/?pk_campaign=feed&pk_kwd=connecticut-senate-bill-raises-the-stakes-on-data-breach-response",
       "published": "Sat, 28 Feb 2026 13:05:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Court Refuses to Slice Up CiCi’s Cyber Extortion Coverage",
-      "url": "https://databreaches.net/2026/02/28/court-refuses-to-slice-up-cicis-cyber-extortion-coverage/?pk_campaign=feed&pk_kwd=court-refuses-to-slice-up-cicis-cyber-extortion-coverage",
-      "published": "Sat, 28 Feb 2026 13:00:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "url": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Star Citizen game dev discloses breach affecting user data",
       "url": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
       "published": "Tue, 03 Mar 2026 05:50:26 -0500",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft testing Windows 11 batch file security improvements",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
-      "published": "Fri, 27 Feb 2026 15:00:27 -0500",
-      "source": "BleepingComputer"
+      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+      "url": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+      "published": "Tue, 03 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+      "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+      "published": "Tue, 03 Mar 2026 16:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
@@ -384,16 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
-      "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
-      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-      "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-      "published": "Thu, 26 Feb 2026 20:47:00 +0530",
-      "source": "The Hacker News"
+      "title": "“Bombs will fall Everywhere”: The American, Israeli and Iranian Weapons Being Deployed in Middle East",
+      "url": "https://www.bellingcat.com/news/2026/03/03/bombs-will-fall-everywhere-the-american-israeli-and-iranian-weapons-being-deployed-in-middle-east/",
+      "published": "Tue, 03 Mar 2026 12:26:06 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "How Russia’s War Has Devastated Civilian Life in Ukraine",
@@ -447,12 +453,6 @@
       "title": "Analysing Footage of Minneapolis ICE Shooting",
       "url": "https://www.bellingcat.com/news/2026/01/13/analysing-footage-of-minneapolis-ice-shooting/",
       "published": "Tue, 13 Jan 2026 14:39:56 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Inside the Strike: The US Munition That Hit a Residential Building in Venezuela",
-      "url": "https://www.bellingcat.com/news/2026/01/07/inside-the-strike-the-us-munition-that-hit-a-residential-building-in-venezuela/",
-      "published": "Wed, 07 Jan 2026 19:08:52 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "url": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Star Citizen game dev discloses breach affecting user data",
       "url": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
       "published": "Tue, 03 Mar 2026 05:50:26 -0500",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft testing Windows 11 batch file security improvements",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
-      "published": "Fri, 27 Feb 2026 15:00:27 -0500",
-      "source": "BleepingComputer"
+      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+      "url": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+      "published": "Tue, 03 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+      "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+      "published": "Tue, 03 Mar 2026 16:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
@@ -716,16 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
-      "url": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
-      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-      "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-      "published": "Thu, 26 Feb 2026 20:47:00 +0530",
-      "source": "The Hacker News"
+      "title": "“Bombs will fall Everywhere”: The American, Israeli and Iranian Weapons Being Deployed in Middle East",
+      "url": "https://www.bellingcat.com/news/2026/03/03/bombs-will-fall-everywhere-the-american-israeli-and-iranian-weapons-being-deployed-in-middle-east/",
+      "published": "Tue, 03 Mar 2026 12:26:06 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "How Russia’s War Has Devastated Civilian Life in Ukraine",
@@ -779,12 +785,6 @@
       "title": "Analysing Footage of Minneapolis ICE Shooting",
       "url": "https://www.bellingcat.com/news/2026/01/13/analysing-footage-of-minneapolis-ice-shooting/",
       "published": "Tue, 13 Jan 2026 14:39:56 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Inside the Strike: The US Munition That Hit a Residential Building in Venezuela",
-      "url": "https://www.bellingcat.com/news/2026/01/07/inside-the-strike-the-us-munition-that-hit-a-residential-building-in-venezuela/",
-      "published": "Wed, 07 Jan 2026 19:08:52 +0000",
       "source": "bellingcat"
     }
   ]
