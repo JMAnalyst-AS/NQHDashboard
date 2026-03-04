@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-04T22:32:13.081576Z",
+  "generated_at": "2026-03-04T23:30:56.496151Z",
   "segment1": [
+    {
+      "title": "Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy",
+      "url": "https://databreaches.net/2026/03/04/russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy/?pk_campaign=feed&pk_kwd=russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy",
+      "published": "Wed, 04 Mar 2026 23:27:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "LeakBase seized, arrests made as part of  global action",
       "url": "https://databreaches.net/2026/03/04/leakbase-seized-arrests-made-as-part-of-global-action/?pk_campaign=feed&pk_kwd=leakbase-seized-arrests-made-as-part-of-global-action",
@@ -53,17 +59,17 @@
       "title": "Project Compass: first operational results against The Com network",
       "url": "https://databreaches.net/2026/03/02/project-compass-first-operational-results-against-the-com-network/?pk_campaign=feed&pk_kwd=project-compass-first-operational-results-against-the-com-network",
       "published": "Mon, 02 Mar 2026 19:31:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
-      "url": "https://databreaches.net/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/?pk_campaign=feed&pk_kwd=hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data",
-      "published": "Mon, 02 Mar 2026 19:06:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy",
+      "url": "https://databreaches.net/2026/03/04/russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy/?pk_campaign=feed&pk_kwd=russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy",
+      "published": "Wed, 04 Mar 2026 23:27:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "LeakBase seized, arrests made as part of  global action",
       "url": "https://databreaches.net/2026/03/04/leakbase-seized-arrests-made-as-part-of-global-action/?pk_campaign=feed&pk_kwd=leakbase-seized-arrests-made-as-part-of-global-action",
       "published": "Wed, 04 Mar 2026 19:05:05 +0000",
@@ -115,12 +121,6 @@
       "title": "Project Compass: first operational results against The Com network",
       "url": "https://databreaches.net/2026/03/02/project-compass-first-operational-results-against-the-com-network/?pk_campaign=feed&pk_kwd=project-compass-first-operational-results-against-the-com-network",
       "published": "Mon, 02 Mar 2026 19:31:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
-      "url": "https://databreaches.net/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/?pk_campaign=feed&pk_kwd=hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data",
-      "published": "Mon, 02 Mar 2026 19:06:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Bitwarden adds support for passkey login on Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
+      "published": "Wed, 04 Mar 2026 17:34:58 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
@@ -267,12 +273,6 @@
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
       "published": "Tue, 03 Mar 2026 15:59:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Chrome shifts to two-week release cycle for increased stability",
-      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
-      "published": "Tue, 03 Mar 2026 12:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Bitwarden adds support for passkey login on Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
+      "published": "Wed, 04 Mar 2026 17:34:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
       "url": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
       "published": "Wed, 04 Mar 2026 16:51:32 -0500",
@@ -599,12 +605,6 @@
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
       "published": "Tue, 03 Mar 2026 15:59:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Chrome shifts to two-week release cycle for increased stability",
-      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
-      "published": "Tue, 03 Mar 2026 12:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
