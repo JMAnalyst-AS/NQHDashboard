@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-04T11:30:26.153712Z",
+  "generated_at": "2026-03-04T12:58:02.043406Z",
   "segment1": [
+    {
+      "title": "Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit",
+      "url": "https://databreaches.net/2026/03/04/coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit/?pk_campaign=feed&pk_kwd=coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit",
+      "published": "Wed, 04 Mar 2026 12:10:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "1,700 Dutch police officers get reminder not to access files without legitimate purpose",
       "url": "https://databreaches.net/2026/03/03/1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose/?pk_campaign=feed&pk_kwd=1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose",
@@ -53,17 +59,17 @@
       "title": "Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule",
       "url": "https://databreaches.net/2026/03/02/shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule/?pk_campaign=feed&pk_kwd=shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule",
       "published": "Mon, 02 Mar 2026 12:57:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Releases New Guidance on Assembling Multi-Disciplinary Insider Threat Management Teams",
-      "url": "https://databreaches.net/2026/03/02/cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams/?pk_campaign=feed&pk_kwd=cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams",
-      "published": "Mon, 02 Mar 2026 12:30:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit",
+      "url": "https://databreaches.net/2026/03/04/coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit/?pk_campaign=feed&pk_kwd=coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit",
+      "published": "Wed, 04 Mar 2026 12:10:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "1,700 Dutch police officers get reminder not to access files without legitimate purpose",
       "url": "https://databreaches.net/2026/03/03/1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose/?pk_campaign=feed&pk_kwd=1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose",
       "published": "Tue, 03 Mar 2026 22:49:28 +0000",
@@ -115,12 +121,6 @@
       "title": "Shutdown Stalls Compliance Plans for Cyber Breach Reporting Rule",
       "url": "https://databreaches.net/2026/03/02/shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule/?pk_campaign=feed&pk_kwd=shutdown-stalls-compliance-plans-for-cyber-breach-reporting-rule",
       "published": "Mon, 02 Mar 2026 12:57:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Releases New Guidance on Assembling Multi-Disciplinary Insider Threat Management Teams",
-      "url": "https://databreaches.net/2026/03/02/cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams/?pk_campaign=feed&pk_kwd=cisa-releases-new-guidance-on-assembling-multi-disciplinary-insider-threat-management-teams",
-      "published": "Mon, 02 Mar 2026 12:30:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New RFP Template for AI Usage Control and AI Governance",
+      "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+      "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
       "url": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
       "published": "Wed, 04 Mar 2026 15:07:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
       "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
       "published": "Sat, 28 Feb 2026 15:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-      "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-      "published": "Sat, 28 Feb 2026 10:27:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New RFP Template for AI Usage Control and AI Governance",
+      "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+      "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
       "url": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
       "published": "Wed, 04 Mar 2026 15:07:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
       "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
       "published": "Sat, 28 Feb 2026 15:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-      "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-      "published": "Sat, 28 Feb 2026 10:27:00 +0530",
       "source": "The Hacker News"
     },
     {
