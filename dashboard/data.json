@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T20:37:29.432654Z",
+  "generated_at": "2026-03-04T21:35:15.553056Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
+      "published": "Wed, 04 Mar 2026 16:03:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake LastPass support email threads try to steal vault passwords",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
+      "published": "Wed, 04 Mar 2026 15:44:21 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cisco warns of max severity Secure FMC flaws giving root access",
@@ -139,18 +151,6 @@
       "title": "LexisNexis confirms data breach as hackers leak stolen files",
       "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
       "published": "Tue, 03 Mar 2026 10:40:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-      "url": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
-      "published": "Tue, 03 Mar 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
-      "url": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
-      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
+      "published": "Wed, 04 Mar 2026 16:03:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake LastPass support email threads try to steal vault passwords",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
+      "published": "Wed, 04 Mar 2026 15:44:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco warns of max severity Secure FMC flaws giving root access",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
       "published": "Wed, 04 Mar 2026 14:12:43 -0500",
@@ -471,18 +483,6 @@
       "title": "LexisNexis confirms data breach as hackers leak stolen files",
       "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
       "published": "Tue, 03 Mar 2026 10:40:48 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-      "url": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
-      "published": "Tue, 03 Mar 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
-      "url": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
-      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
       "source": "BleepingComputer"
     },
     {
