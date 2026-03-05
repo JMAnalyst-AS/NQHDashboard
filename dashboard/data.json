@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-05T18:26:28.714334Z",
+  "generated_at": "2026-03-05T19:43:08.410527Z",
   "segment1": [
+    {
+      "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of MMG Fusion, LLC Breach Affecting 15 Million Individuals",
+      "url": "https://databreaches.net/2026/03/05/hhs-office-for-civil-rights-settles-hipaa-investigation-of-mmg-fusion-llc-breach-affecting-15-million-individuals/?pk_campaign=feed&pk_kwd=hhs-office-for-civil-rights-settles-hipaa-investigation-of-mmg-fusion-llc-breach-affecting-15-million-individuals",
+      "published": "Thu, 05 Mar 2026 19:12:54 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NL: Suspects report themselves via new reporting form",
       "url": "https://databreaches.net/2026/03/05/nl-suspects-report-themselves-via-new-reporting-form/?pk_campaign=feed&pk_kwd=nl-suspects-report-themselves-via-new-reporting-form",
@@ -53,17 +59,17 @@
       "title": "Evoke Wellness at Hilliard updates its breach notification",
       "url": "https://databreaches.net/2026/03/02/evoke-wellness-at-hilliard-updates-its-breach-notification/?pk_campaign=feed&pk_kwd=evoke-wellness-at-hilliard-updates-its-breach-notification",
       "published": "Mon, 02 Mar 2026 22:17:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Data from Insight Hospital and Medical Center Leaked on Dark Web",
-      "url": "https://databreaches.net/2026/03/02/data-from-insight-hospital-and-medical-center-leaked-on-dark-web/?pk_campaign=feed&pk_kwd=data-from-insight-hospital-and-medical-center-leaked-on-dark-web",
-      "published": "Mon, 02 Mar 2026 20:45:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of MMG Fusion, LLC Breach Affecting 15 Million Individuals",
+      "url": "https://databreaches.net/2026/03/05/hhs-office-for-civil-rights-settles-hipaa-investigation-of-mmg-fusion-llc-breach-affecting-15-million-individuals/?pk_campaign=feed&pk_kwd=hhs-office-for-civil-rights-settles-hipaa-investigation-of-mmg-fusion-llc-breach-affecting-15-million-individuals",
+      "published": "Thu, 05 Mar 2026 19:12:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NL: Suspects report themselves via new reporting form",
       "url": "https://databreaches.net/2026/03/05/nl-suspects-report-themselves-via-new-reporting-form/?pk_campaign=feed&pk_kwd=nl-suspects-report-themselves-via-new-reporting-form",
       "published": "Thu, 05 Mar 2026 12:41:58 +0000",
@@ -115,12 +121,6 @@
       "title": "Evoke Wellness at Hilliard updates its breach notification",
       "url": "https://databreaches.net/2026/03/02/evoke-wellness-at-hilliard-updates-its-breach-notification/?pk_campaign=feed&pk_kwd=evoke-wellness-at-hilliard-updates-its-breach-notification",
       "published": "Mon, 02 Mar 2026 22:17:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Data from Insight Hospital and Medical Center Leaked on Dark Web",
-      "url": "https://databreaches.net/2026/03/02/data-from-insight-hospital-and-medical-center-leaked-on-dark-web/?pk_campaign=feed&pk_kwd=data-from-insight-hospital-and-medical-center-leaked-on-dark-web",
-      "published": "Mon, 02 Mar 2026 20:45:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "WordPress membership plugin bug exploited to create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
+      "published": "Thu, 05 Mar 2026 13:44:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
+      "published": "Thu, 05 Mar 2026 13:36:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google says 90 zero-days were exploited in attacks last year",
@@ -261,18 +273,6 @@
       "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
       "published": "Wed, 04 Mar 2026 12:44:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
-      "published": "Wed, 04 Mar 2026 12:01:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mississippi medical center reopens clinics hit by ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
-      "published": "Wed, 04 Mar 2026 10:28:56 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WordPress membership plugin bug exploited to create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
+      "published": "Thu, 05 Mar 2026 13:44:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
+      "published": "Thu, 05 Mar 2026 13:36:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google says 90 zero-days were exploited in attacks last year",
       "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
       "published": "Thu, 05 Mar 2026 10:03:43 -0500",
@@ -593,18 +605,6 @@
       "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
       "published": "Wed, 04 Mar 2026 12:44:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
-      "published": "Wed, 04 Mar 2026 12:01:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mississippi medical center reopens clinics hit by ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
-      "published": "Wed, 04 Mar 2026 10:28:56 -0500",
       "source": "BleepingComputer"
     },
     {
