@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-03-05T11:33:54.676349Z",
+  "generated_at": "2026-03-05T13:01:26.684926Z",
   "segment1": [
+    {
+      "title": "NL: Suspects report themselves via new reporting form",
+      "url": "https://databreaches.net/2026/03/05/nl-suspects-report-themselves-via-new-reporting-form/?pk_campaign=feed&pk_kwd=nl-suspects-report-themselves-via-new-reporting-form",
+      "published": "Thu, 05 Mar 2026 12:41:58 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Nigerian Communication Commission Orders Telecoms to Report Cyber Threats Within 4 Hours",
+      "url": "https://databreaches.net/2026/03/05/nigerian-communication-commission-orders-telecoms-to-report-cyber-threats-within-4-hours/?pk_campaign=feed&pk_kwd=nigerian-communication-commission-orders-telecoms-to-report-cyber-threats-within-4-hours",
+      "published": "Thu, 05 Mar 2026 12:30:10 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy",
       "url": "https://databreaches.net/2026/03/04/russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy/?pk_campaign=feed&pk_kwd=russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy",
@@ -47,23 +59,23 @@
       "title": "Data from Insight Hospital and Medical Center Leaked on Dark Web",
       "url": "https://databreaches.net/2026/03/02/data-from-insight-hospital-and-medical-center-leaked-on-dark-web/?pk_campaign=feed&pk_kwd=data-from-insight-hospital-and-medical-center-leaked-on-dark-web",
       "published": "Mon, 02 Mar 2026 20:45:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Wisconsin k-12 district hit by weeklong outage",
-      "url": "https://databreaches.net/2026/03/02/wisconsin-k-12-district-hit-by-weeklong-outage/?pk_campaign=feed&pk_kwd=wisconsin-k-12-district-hit-by-weeklong-outage",
-      "published": "Mon, 02 Mar 2026 19:33:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Project Compass: first operational results against The Com network",
-      "url": "https://databreaches.net/2026/03/02/project-compass-first-operational-results-against-the-com-network/?pk_campaign=feed&pk_kwd=project-compass-first-operational-results-against-the-com-network",
-      "published": "Mon, 02 Mar 2026 19:31:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NL: Suspects report themselves via new reporting form",
+      "url": "https://databreaches.net/2026/03/05/nl-suspects-report-themselves-via-new-reporting-form/?pk_campaign=feed&pk_kwd=nl-suspects-report-themselves-via-new-reporting-form",
+      "published": "Thu, 05 Mar 2026 12:41:58 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Nigerian Communication Commission Orders Telecoms to Report Cyber Threats Within 4 Hours",
+      "url": "https://databreaches.net/2026/03/05/nigerian-communication-commission-orders-telecoms-to-report-cyber-threats-within-4-hours/?pk_campaign=feed&pk_kwd=nigerian-communication-commission-orders-telecoms-to-report-cyber-threats-within-4-hours",
+      "published": "Thu, 05 Mar 2026 12:30:10 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy",
       "url": "https://databreaches.net/2026/03/04/russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy/?pk_campaign=feed&pk_kwd=russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy",
       "published": "Wed, 04 Mar 2026 23:27:09 +0000",
@@ -109,18 +121,6 @@
       "title": "Data from Insight Hospital and Medical Center Leaked on Dark Web",
       "url": "https://databreaches.net/2026/03/02/data-from-insight-hospital-and-medical-center-leaked-on-dark-web/?pk_campaign=feed&pk_kwd=data-from-insight-hospital-and-medical-center-leaked-on-dark-web",
       "published": "Mon, 02 Mar 2026 20:45:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Wisconsin k-12 district hit by weeklong outage",
-      "url": "https://databreaches.net/2026/03/02/wisconsin-k-12-district-hit-by-weeklong-outage/?pk_campaign=feed&pk_kwd=wisconsin-k-12-district-hit-by-weeklong-outage",
-      "published": "Mon, 02 Mar 2026 19:33:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Project Compass: first operational results against The Com network",
-      "url": "https://databreaches.net/2026/03/02/project-compass-first-operational-results-against-the-com-network/?pk_campaign=feed&pk_kwd=project-compass-first-operational-results-against-the-com-network",
-      "published": "Mon, 02 Mar 2026 19:31:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
+      "published": "Thu, 05 Mar 2026 07:39:20 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
-      "url": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
-      "published": "Tue, 03 Mar 2026 18:00:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
@@ -387,12 +393,6 @@
       "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
       "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
       "published": "Mon, 02 Mar 2026 22:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-      "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-      "published": "Mon, 02 Mar 2026 22:22:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
+      "published": "Thu, 05 Mar 2026 07:39:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
       "published": "Thu, 05 Mar 2026 05:32:19 -0500",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
-      "url": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
-      "published": "Tue, 03 Mar 2026 18:00:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
@@ -719,12 +725,6 @@
       "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
       "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
       "published": "Mon, 02 Mar 2026 22:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-      "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-      "published": "Mon, 02 Mar 2026 22:22:00 +0530",
       "source": "The Hacker News"
     },
     {
