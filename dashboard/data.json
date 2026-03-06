@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T19:34:16.277600Z",
+  "generated_at": "2026-03-06T20:32:39.927545Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
+      "published": "Fri, 06 Mar 2026 14:50:21 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
@@ -145,12 +151,6 @@
       "title": "Police dismantles online gambling ring exploiting Ukrainian women",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
       "published": "Thu, 05 Mar 2026 07:39:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-      "published": "Thu, 05 Mar 2026 05:32:19 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
+      "published": "Fri, 06 Mar 2026 14:50:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "published": "Fri, 06 Mar 2026 10:57:16 -0500",
@@ -477,12 +483,6 @@
       "title": "Police dismantles online gambling ring exploiting Ukrainian women",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
       "published": "Thu, 05 Mar 2026 07:39:20 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-      "published": "Thu, 05 Mar 2026 05:32:19 -0500",
       "source": "BleepingComputer"
     },
     {
