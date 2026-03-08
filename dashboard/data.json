@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T15:24:25.064242Z",
+  "generated_at": "2026-03-08T15:46:16.071084Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "EU court adviser says banks must immediately refund phishing victims",
+      "url": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
+      "published": "Sun, 08 Mar 2026 11:25:37 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
@@ -145,12 +151,6 @@
       "title": "WordPress membership plugin bug exploited to create admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
       "published": "Thu, 05 Mar 2026 13:44:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
-      "published": "Thu, 05 Mar 2026 13:36:18 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "EU court adviser says banks must immediately refund phishing victims",
+      "url": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
+      "published": "Sun, 08 Mar 2026 11:25:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
       "published": "Sun, 08 Mar 2026 10:12:22 -0400",
@@ -477,12 +483,6 @@
       "title": "WordPress membership plugin bug exploited to create admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
       "published": "Thu, 05 Mar 2026 13:44:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
-      "published": "Thu, 05 Mar 2026 13:36:18 -0500",
       "source": "BleepingComputer"
     },
     {
