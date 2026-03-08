@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-03-08T23:24:42.044383Z",
+  "generated_at": "2026-03-08T23:47:20.744963Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
+    {
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -55,12 +61,6 @@
       "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -336,6 +336,12 @@
   ],
   "rss": [
     {
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
@@ -387,12 +393,6 @@
       "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
     },
     {
