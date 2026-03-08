@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T07:50:12.112004Z",
+  "generated_at": "2026-03-08T08:32:37.179787Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -152,6 +152,126 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
       "published": "Thu, 05 Mar 2026 10:03:43 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
+      "url": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
+      "published": "Sat, 07 Mar 2026 21:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+      "url": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+      "published": "Sat, 07 Mar 2026 16:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+      "url": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+      "published": "Fri, 06 Mar 2026 20:41:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+      "url": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+      "published": "Fri, 06 Mar 2026 20:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+      "url": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+      "published": "Fri, 06 Mar 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+      "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+      "published": "Fri, 06 Mar 2026 15:53:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+      "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+      "published": "Fri, 06 Mar 2026 12:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+      "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+      "published": "Fri, 06 Mar 2026 12:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+      "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+      "published": "Thu, 05 Mar 2026 19:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+      "url": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+      "published": "Thu, 05 Mar 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+      "url": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+      "published": "Thu, 05 Mar 2026 15:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
+      "url": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+      "published": "Thu, 05 Mar 2026 12:21:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
+      "url": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+      "published": "Thu, 05 Mar 2026 12:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+      "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+      "published": "Wed, 04 Mar 2026 22:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
+      "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
+      "published": "Wed, 04 Mar 2026 18:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New RFP Template for AI Usage Control and AI Governance",
+      "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+      "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions",
@@ -364,6 +484,126 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
       "published": "Thu, 05 Mar 2026 10:03:43 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
+      "url": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
+      "published": "Sat, 07 Mar 2026 21:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+      "url": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+      "published": "Sat, 07 Mar 2026 16:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+      "url": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+      "published": "Fri, 06 Mar 2026 20:41:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+      "url": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+      "published": "Fri, 06 Mar 2026 20:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+      "url": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+      "published": "Fri, 06 Mar 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+      "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+      "published": "Fri, 06 Mar 2026 15:53:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+      "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+      "published": "Fri, 06 Mar 2026 12:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+      "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+      "published": "Fri, 06 Mar 2026 12:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+      "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
+      "published": "Thu, 05 Mar 2026 19:14:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "url": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+      "url": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+      "published": "Thu, 05 Mar 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+      "url": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+      "published": "Thu, 05 Mar 2026 15:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
+      "url": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+      "published": "Thu, 05 Mar 2026 12:21:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
+      "url": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+      "published": "Thu, 05 Mar 2026 12:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+      "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+      "published": "Wed, 04 Mar 2026 22:51:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
+      "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
+      "published": "Wed, 04 Mar 2026 18:58:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New RFP Template for AI Usage Control and AI Governance",
+      "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+      "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions",
