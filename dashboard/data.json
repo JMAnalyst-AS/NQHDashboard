@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T13:39:54.816898Z",
+  "generated_at": "2026-03-08T14:25:27.651752Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "published": "Fri, 02 Jan 2026 14:20:10 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
+      "published": "Sun, 08 Mar 2026 10:12:22 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
@@ -145,12 +151,6 @@
       "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
       "published": "Thu, 05 Mar 2026 13:36:18 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says 90 zero-days were exploited in attacks last year",
-      "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-      "published": "Thu, 05 Mar 2026 10:03:43 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
+      "published": "Sun, 08 Mar 2026 10:12:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "url": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
       "published": "Sat, 07 Mar 2026 11:14:32 -0500",
@@ -477,12 +483,6 @@
       "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
       "published": "Thu, 05 Mar 2026 13:36:18 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says 90 zero-days were exploited in attacks last year",
-      "url": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-      "published": "Thu, 05 Mar 2026 10:03:43 -0500",
       "source": "BleepingComputer"
     },
     {
