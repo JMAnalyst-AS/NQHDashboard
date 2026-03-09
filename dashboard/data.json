@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T18:54:04.705728Z",
+  "generated_at": "2026-03-09T19:40:45.402928Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Ericsson US discloses data breach after service provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
+      "published": "Mon, 09 Mar 2026 15:07:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft Teams will tag third-party bots trying to join meetings",
@@ -145,12 +151,6 @@
       "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
       "published": "Fri, 06 Mar 2026 09:21:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "url": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "published": "Fri, 06 Mar 2026 05:08:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ericsson US discloses data breach after service provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
+      "published": "Mon, 09 Mar 2026 15:07:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Teams will tag third-party bots trying to join meetings",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
       "published": "Mon, 09 Mar 2026 13:12:49 -0400",
@@ -477,12 +483,6 @@
       "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
       "published": "Fri, 06 Mar 2026 09:21:09 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "url": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "published": "Fri, 06 Mar 2026 05:08:00 -0500",
       "source": "BleepingComputer"
     },
     {
