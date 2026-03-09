@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T21:33:26.097962Z",
+  "generated_at": "2026-03-09T22:29:15.157415Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google: Cloud attacks exploit flaws more than weak credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
+      "published": "Mon, 09 Mar 2026 17:45:34 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
@@ -145,12 +151,6 @@
       "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
       "url": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
       "published": "Fri, 06 Mar 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-      "published": "Fri, 06 Mar 2026 10:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google: Cloud attacks exploit flaws more than weak credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
+      "published": "Mon, 09 Mar 2026 17:45:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
       "published": "Mon, 09 Mar 2026 17:24:49 -0400",
@@ -477,12 +483,6 @@
       "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
       "url": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
       "published": "Fri, 06 Mar 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-      "published": "Fri, 06 Mar 2026 10:00:00 -0500",
       "source": "BleepingComputer"
     },
     {
