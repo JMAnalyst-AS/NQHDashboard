@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T22:29:15.157415Z",
+  "generated_at": "2026-03-09T22:56:46.470384Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Teams phishing targets employees with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+      "published": "Mon, 09 Mar 2026 18:50:38 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google: Cloud attacks exploit flaws more than weak credentials",
@@ -145,12 +151,6 @@
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "published": "Fri, 06 Mar 2026 10:57:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "url": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-      "published": "Fri, 06 Mar 2026 10:00:10 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Teams phishing targets employees with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+      "published": "Mon, 09 Mar 2026 18:50:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google: Cloud attacks exploit flaws more than weak credentials",
       "url": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
       "published": "Mon, 09 Mar 2026 17:45:34 -0400",
@@ -477,12 +483,6 @@
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "published": "Fri, 06 Mar 2026 10:57:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "url": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-      "published": "Fri, 06 Mar 2026 10:00:10 -0500",
       "source": "BleepingComputer"
     },
     {
