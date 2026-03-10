@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:33:13.403368Z",
+  "generated_at": "2026-03-10T13:01:53.772114Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+      "published": "Tue, 10 Mar 2026 07:36:13 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft to enable Windows hotpatch security updates by default",
@@ -148,10 +154,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-      "published": "Sat, 07 Mar 2026 10:15:25 -0500",
-      "source": "BleepingComputer"
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "published": "Tue, 10 Mar 2026 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+      "url": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+      "published": "Tue, 10 Mar 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+      "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+      "published": "Tue, 10 Mar 2026 16:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
@@ -253,24 +271,6 @@
       "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
       "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
       "published": "Fri, 06 Mar 2026 12:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-      "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-      "published": "Thu, 05 Mar 2026 19:14:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+      "published": "Tue, 10 Mar 2026 07:36:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "published": "Tue, 10 Mar 2026 06:35:33 -0400",
@@ -480,10 +486,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-      "published": "Sat, 07 Mar 2026 10:15:25 -0500",
-      "source": "BleepingComputer"
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "published": "Tue, 10 Mar 2026 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+      "url": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+      "published": "Tue, 10 Mar 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+      "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+      "published": "Tue, 10 Mar 2026 16:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
@@ -585,24 +603,6 @@
       "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
       "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
       "published": "Fri, 06 Mar 2026 12:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-      "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-      "published": "Thu, 05 Mar 2026 19:14:00 +0530",
       "source": "The Hacker News"
     },
     {
