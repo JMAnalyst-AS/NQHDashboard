@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T16:56:01.751832Z",
+  "generated_at": "2026-03-10T17:48:34.599910Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "published": "Thu, 08 Jan 2026 23:23:43 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
+      "published": "Tue, 10 Mar 2026 13:41:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
+      "published": "Tue, 10 Mar 2026 13:30:35 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
@@ -142,16 +154,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-      "url": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-      "published": "Mon, 09 Mar 2026 10:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft still working to fix Windows Explorer white flashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-      "published": "Mon, 09 Mar 2026 10:10:17 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+      "url": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
@@ -163,12 +175,6 @@
       "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
       "url": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
       "published": "Tue, 10 Mar 2026 18:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-      "published": "Tue, 10 Mar 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -265,12 +271,6 @@
       "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
       "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
       "published": "Fri, 06 Mar 2026 15:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
-      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
+      "published": "Tue, 10 Mar 2026 13:41:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
+      "published": "Tue, 10 Mar 2026 13:30:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
       "published": "Tue, 10 Mar 2026 11:27:58 -0400",
@@ -474,16 +486,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-      "url": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-      "published": "Mon, 09 Mar 2026 10:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft still working to fix Windows Explorer white flashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-      "published": "Mon, 09 Mar 2026 10:10:17 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+      "url": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
@@ -495,12 +507,6 @@
       "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
       "url": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
       "published": "Tue, 10 Mar 2026 18:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-      "published": "Tue, 10 Mar 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -597,12 +603,6 @@
       "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
       "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
       "published": "Fri, 06 Mar 2026 15:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
-      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
       "source": "The Hacker News"
     },
     {
