@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-03-11T16:10:46.347695Z",
+  "generated_at": "2026-03-11T17:26:41.085245Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
+    {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Microsoft Patch Tuesday, March 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
@@ -58,10 +64,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, January 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "source": "Krebs on Security"
+      "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
+      "published": "Wed, 11 Mar 2026 13:21:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
+      "published": "Wed, 11 Mar 2026 13:09:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
@@ -139,18 +151,6 @@
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "published": "Tue, 10 Mar 2026 06:35:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-      "url": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
-      "published": "Tue, 10 Mar 2026 06:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
-      "published": "Mon, 09 Mar 2026 18:50:38 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -336,6 +336,12 @@
   ],
   "rss": [
     {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Patch Tuesday, March 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "published": "Wed, 11 Mar 2026 00:32:51 +0000",
@@ -390,10 +396,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, January 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "source": "Krebs on Security"
+      "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
+      "published": "Wed, 11 Mar 2026 13:21:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
+      "published": "Wed, 11 Mar 2026 13:09:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
@@ -471,18 +483,6 @@
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "published": "Tue, 10 Mar 2026 06:35:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-      "url": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
-      "published": "Tue, 10 Mar 2026 06:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
-      "published": "Mon, 09 Mar 2026 18:50:38 -0400",
       "source": "BleepingComputer"
     },
     {
