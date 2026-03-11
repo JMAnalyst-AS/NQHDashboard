@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T18:10:30.552649Z",
+  "generated_at": "2026-03-11T19:24:14.969817Z",
   "segment1": [
     {
       "title": "Police Scotland fined £66k for extracting and sharing mobile phone data",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
+      "published": "Wed, 11 Mar 2026 14:21:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
       "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
       "published": "Wed, 11 Mar 2026 13:21:22 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
       "published": "Tue, 10 Mar 2026 07:36:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to enable Windows hotpatch security updates by default",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
-      "published": "Tue, 10 Mar 2026 06:35:33 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
+      "published": "Wed, 11 Mar 2026 14:21:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
       "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
       "published": "Wed, 11 Mar 2026 13:21:22 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
       "published": "Tue, 10 Mar 2026 07:36:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to enable Windows hotpatch security updates by default",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
-      "published": "Tue, 10 Mar 2026 06:35:33 -0400",
       "source": "BleepingComputer"
     },
     {
