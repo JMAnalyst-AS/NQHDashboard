@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-12T16:36:12.363612Z",
+  "generated_at": "2026-03-12T17:49:24.982890Z",
   "segment1": [
+    {
+      "title": "Telus Digital confirms breach after ShinyHunters claims 1 petabyte data theft",
+      "url": "https://databreaches.net/2026/03/12/telus-digital-confirms-breach-after-shinyhunters-claims-1-petabyte-data-theft/?pk_campaign=feed&pk_kwd=telus-digital-confirms-breach-after-shinyhunters-claims-1-petabyte-data-theft",
+      "published": "Thu, 12 Mar 2026 16:38:32 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "China’s CERT warns OpenClaw can inflict nasty wounds",
       "url": "https://databreaches.net/2026/03/12/chinas-cert-warns-openclaw-can-inflict-nasty-wounds/?pk_campaign=feed&pk_kwd=chinas-cert-warns-openclaw-can-inflict-nasty-wounds",
@@ -53,17 +59,17 @@
       "title": "Foreign hacker in 2023 compromised Epstein files held by FBI, source and documents show",
       "url": "https://databreaches.net/2026/03/11/foreign-hacker-in-2023-compromised-epstein-files-held-by-fbi-source-and-documents-show/?pk_campaign=feed&pk_kwd=foreign-hacker-in-2023-compromised-epstein-files-held-by-fbi-source-and-documents-show",
       "published": "Wed, 11 Mar 2026 11:58:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK plans to shift fraud fight onto telecoms, tech companies",
-      "url": "https://databreaches.net/2026/03/11/uk-plans-to-shift-fraud-fight-onto-telecoms-tech-companies/?pk_campaign=feed&pk_kwd=uk-plans-to-shift-fraud-fight-onto-telecoms-tech-companies",
-      "published": "Wed, 11 Mar 2026 11:57:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Telus Digital confirms breach after ShinyHunters claims 1 petabyte data theft",
+      "url": "https://databreaches.net/2026/03/12/telus-digital-confirms-breach-after-shinyhunters-claims-1-petabyte-data-theft/?pk_campaign=feed&pk_kwd=telus-digital-confirms-breach-after-shinyhunters-claims-1-petabyte-data-theft",
+      "published": "Thu, 12 Mar 2026 16:38:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "China’s CERT warns OpenClaw can inflict nasty wounds",
       "url": "https://databreaches.net/2026/03/12/chinas-cert-warns-openclaw-can-inflict-nasty-wounds/?pk_campaign=feed&pk_kwd=chinas-cert-warns-openclaw-can-inflict-nasty-wounds",
       "published": "Thu, 12 Mar 2026 12:34:41 +0000",
@@ -115,12 +121,6 @@
       "title": "Foreign hacker in 2023 compromised Epstein files held by FBI, source and documents show",
       "url": "https://databreaches.net/2026/03/11/foreign-hacker-in-2023-compromised-epstein-files-held-by-fbi-source-and-documents-show/?pk_campaign=feed&pk_kwd=foreign-hacker-in-2023-compromised-epstein-files-held-by-fbi-source-and-documents-show",
       "published": "Wed, 11 Mar 2026 11:58:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK plans to shift fraud fight onto telecoms, tech companies",
-      "url": "https://databreaches.net/2026/03/11/uk-plans-to-shift-fraud-fight-onto-telecoms-tech-companies/?pk_campaign=feed&pk_kwd=uk-plans-to-shift-fraud-fight-onto-telecoms-tech-companies",
-      "published": "Wed, 11 Mar 2026 11:57:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+      "published": "Thu, 12 Mar 2026 12:59:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US disrupts SocksEscort proxy network powered by Linux malware",
@@ -267,12 +273,6 @@
       "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
       "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
       "published": "Tue, 10 Mar 2026 17:27:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-      "url": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
-      "published": "Tue, 10 Mar 2026 16:05:39 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+      "published": "Thu, 12 Mar 2026 12:59:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US disrupts SocksEscort proxy network powered by Linux malware",
       "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
       "published": "Thu, 12 Mar 2026 12:19:56 -0400",
@@ -599,12 +605,6 @@
       "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
       "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
       "published": "Tue, 10 Mar 2026 17:27:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-      "url": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
-      "published": "Tue, 10 Mar 2026 16:05:39 -0400",
       "source": "BleepingComputer"
     },
     {
