@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T14:25:52.521664Z",
+  "generated_at": "2026-03-12T15:29:45.452487Z",
   "segment1": [
     {
       "title": "China’s CERT warns OpenClaw can inflict nasty wounds",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google paid $17.1 million for vulnerability reports in 2025",
+      "url": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
+      "published": "Thu, 12 Mar 2026 11:22:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
+      "published": "Thu, 12 Mar 2026 10:40:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
       "url": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
       "published": "Thu, 12 Mar 2026 10:05:15 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
-      "published": "Tue, 10 Mar 2026 13:49:51 -0400",
-      "source": "BleepingComputer"
+      "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
+      "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
+      "published": "Thu, 12 Mar 2026 19:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
-      "published": "Tue, 10 Mar 2026 13:41:41 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
+      "published": "Thu, 12 Mar 2026 18:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
@@ -381,18 +393,6 @@
       "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
       "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
       "published": "Tue, 10 Mar 2026 16:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-      "url": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
-      "published": "Tue, 10 Mar 2026 12:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
-      "url": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
-      "published": "Tue, 10 Mar 2026 11:47:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google paid $17.1 million for vulnerability reports in 2025",
+      "url": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
+      "published": "Thu, 12 Mar 2026 11:22:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
+      "published": "Thu, 12 Mar 2026 10:40:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
       "url": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
       "published": "Thu, 12 Mar 2026 10:05:15 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
-      "published": "Tue, 10 Mar 2026 13:49:51 -0400",
-      "source": "BleepingComputer"
+      "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
+      "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
+      "published": "Thu, 12 Mar 2026 19:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
-      "published": "Tue, 10 Mar 2026 13:41:41 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
+      "published": "Thu, 12 Mar 2026 18:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
@@ -713,18 +725,6 @@
       "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
       "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
       "published": "Tue, 10 Mar 2026 16:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-      "url": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
-      "published": "Tue, 10 Mar 2026 12:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
-      "url": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
-      "published": "Tue, 10 Mar 2026 11:47:00 +0530",
       "source": "The Hacker News"
     },
     {
