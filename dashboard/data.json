@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T19:42:19.158731Z",
+  "generated_at": "2026-03-12T20:35:49.175423Z",
   "segment1": [
     {
       "title": "Telus Digital confirms breach after ShinyHunters claims 1 petabyte data theft",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
+      "published": "Thu, 12 Mar 2026 16:01:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
       "published": "Thu, 12 Mar 2026 12:59:20 -0400",
@@ -267,12 +273,6 @@
       "title": "New ‘BlackSanta’ EDR killer spotted targeting HR departments",
       "url": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
       "published": "Tue, 10 Mar 2026 18:57:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
-      "published": "Tue, 10 Mar 2026 17:27:59 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
+      "published": "Thu, 12 Mar 2026 16:01:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
       "published": "Thu, 12 Mar 2026 12:59:20 -0400",
@@ -599,12 +605,6 @@
       "title": "New ‘BlackSanta’ EDR killer spotted targeting HR departments",
       "url": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
       "published": "Tue, 10 Mar 2026 18:57:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
-      "published": "Tue, 10 Mar 2026 17:27:59 -0400",
       "source": "BleepingComputer"
     },
     {
