@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:59:42.449555Z",
+  "generated_at": "2026-03-13T14:03:35.447688Z",
   "segment1": [
     {
       "title": "Telus Digital confirms breach after ShinyHunters claims 1 petabyte data theft",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
+      "published": "Fri, 13 Mar 2026 09:28:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake enterprise VPN downloads used to steal company credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
+      "published": "Fri, 13 Mar 2026 09:23:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Starbucks discloses data breach affecting hundreds of employees",
       "url": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
       "published": "Fri, 13 Mar 2026 04:16:55 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
-      "published": "Wed, 11 Mar 2026 15:38:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
-      "published": "Wed, 11 Mar 2026 14:21:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Investigating a New Click-Fix Variant",
+      "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+      "published": "Fri, 13 Mar 2026 18:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
@@ -387,12 +393,6 @@
       "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
       "url": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
       "published": "Wed, 11 Mar 2026 13:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-      "url": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-      "published": "Wed, 11 Mar 2026 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
+      "published": "Fri, 13 Mar 2026 09:28:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake enterprise VPN downloads used to steal company credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
+      "published": "Fri, 13 Mar 2026 09:23:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Starbucks discloses data breach affecting hundreds of employees",
       "url": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
       "published": "Fri, 13 Mar 2026 04:16:55 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
-      "published": "Wed, 11 Mar 2026 15:38:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
-      "published": "Wed, 11 Mar 2026 14:21:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Investigating a New Click-Fix Variant",
+      "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+      "published": "Fri, 13 Mar 2026 18:58:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
@@ -719,12 +725,6 @@
       "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
       "url": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
       "published": "Wed, 11 Mar 2026 13:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-      "url": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-      "published": "Wed, 11 Mar 2026 10:42:00 +0530",
       "source": "The Hacker News"
     },
     {
