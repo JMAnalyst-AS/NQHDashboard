@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T21:27:01.457697Z",
+  "generated_at": "2026-03-14T21:50:43.857569Z",
   "segment1": [
     {
       "title": "45,000 malicious IP addresses taken down in international cyber operation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft re-releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-re-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+      "published": "Sat, 14 Mar 2026 17:48:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "published": "Sat, 14 Mar 2026 10:36:42 -0400",
@@ -267,12 +273,6 @@
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
       "published": "Thu, 12 Mar 2026 12:59:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
-      "published": "Thu, 12 Mar 2026 12:19:56 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft re-releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-re-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+      "published": "Sat, 14 Mar 2026 17:48:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "published": "Sat, 14 Mar 2026 10:36:42 -0400",
@@ -599,12 +605,6 @@
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
       "published": "Thu, 12 Mar 2026 12:59:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
-      "published": "Thu, 12 Mar 2026 12:19:56 -0400",
       "source": "BleepingComputer"
     },
     {
