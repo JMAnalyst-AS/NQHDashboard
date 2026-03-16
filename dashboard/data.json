@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T19:02:03.780007Z",
+  "generated_at": "2026-03-16T20:00:06.254212Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+      "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+      "published": "Mon, 16 Mar 2026 15:17:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
-      "published": "Fri, 13 Mar 2026 09:28:33 -0400",
-      "source": "BleepingComputer"
+      "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+      "published": "Tue, 17 Mar 2026 01:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
@@ -265,12 +271,6 @@
       "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
       "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
       "published": "Thu, 12 Mar 2026 19:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-      "published": "Thu, 12 Mar 2026 18:44:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+      "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+      "published": "Mon, 16 Mar 2026 15:17:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
       "published": "Mon, 16 Mar 2026 14:00:22 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
-      "published": "Fri, 13 Mar 2026 09:28:33 -0400",
-      "source": "BleepingComputer"
+      "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+      "published": "Tue, 17 Mar 2026 01:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
@@ -597,12 +603,6 @@
       "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
       "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
       "published": "Thu, 12 Mar 2026 19:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-      "published": "Thu, 12 Mar 2026 18:44:00 +0530",
       "source": "The Hacker News"
     },
     {
