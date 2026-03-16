@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T14:44:27.050726Z",
+  "generated_at": "2026-03-16T16:05:22.747979Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
+      "published": "Mon, 16 Mar 2026 12:05:02 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Shadow AI is everywhere. Here’s how to find and secure it.",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
-      "published": "Fri, 13 Mar 2026 02:56:58 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+      "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+      "published": "Mon, 16 Mar 2026 19:47:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Security Validation Is Becoming Agentic",
@@ -265,12 +271,6 @@
       "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
       "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
       "published": "Thu, 12 Mar 2026 18:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-      "url": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-      "published": "Thu, 12 Mar 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
+      "published": "Mon, 16 Mar 2026 12:05:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Shadow AI is everywhere. Here’s how to find and secure it.",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
       "published": "Mon, 16 Mar 2026 10:01:11 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
-      "published": "Fri, 13 Mar 2026 02:56:58 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+      "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+      "published": "Mon, 16 Mar 2026 19:47:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Security Validation Is Becoming Agentic",
@@ -597,12 +603,6 @@
       "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
       "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
       "published": "Thu, 12 Mar 2026 18:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-      "url": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-      "published": "Thu, 12 Mar 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
