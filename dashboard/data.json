@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T10:26:52.422635Z",
+  "generated_at": "2026-03-17T11:24:05.327981Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
+      "published": "Tue, 17 Mar 2026 07:07:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "published": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
@@ -139,18 +151,6 @@
       "title": "Poland's nuclear research centre targeted by cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
       "published": "Fri, 13 Mar 2026 13:11:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates classic Outlook sync and connection issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
-      "published": "Fri, 13 Mar 2026 12:53:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From VMware to what’s next: Protecting data during hypervisor migration",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
-      "published": "Fri, 13 Mar 2026 10:15:25 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
+      "published": "Tue, 17 Mar 2026 07:07:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "published": "Tue, 17 Mar 2026 06:37:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
       "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
       "published": "Mon, 16 Mar 2026 15:17:20 -0400",
@@ -471,18 +483,6 @@
       "title": "Poland's nuclear research centre targeted by cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
       "published": "Fri, 13 Mar 2026 13:11:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates classic Outlook sync and connection issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
-      "published": "Fri, 13 Mar 2026 12:53:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From VMware to what’s next: Protecting data during hypervisor migration",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
-      "published": "Fri, 13 Mar 2026 10:15:25 -0400",
       "source": "BleepingComputer"
     },
     {
