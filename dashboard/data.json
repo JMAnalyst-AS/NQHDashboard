@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T12:01:47.582546Z",
+  "generated_at": "2026-03-17T13:55:54.352830Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,24 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
+      "published": "Tue, 17 Mar 2026 09:54:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
+      "published": "Tue, 17 Mar 2026 08:09:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
+      "published": "Tue, 17 Mar 2026 08:03:38 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
@@ -133,24 +151,6 @@
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "published": "Sat, 14 Mar 2026 10:36:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-      "published": "Fri, 13 Mar 2026 18:11:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seeks victims of Steam games used to spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-      "published": "Fri, 13 Mar 2026 16:52:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Poland's nuclear research centre targeted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
-      "published": "Fri, 13 Mar 2026 13:11:37 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
+      "published": "Tue, 17 Mar 2026 09:54:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
+      "published": "Tue, 17 Mar 2026 08:09:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
+      "published": "Tue, 17 Mar 2026 08:03:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
       "published": "Tue, 17 Mar 2026 07:07:05 -0400",
@@ -465,24 +483,6 @@
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "published": "Sat, 14 Mar 2026 10:36:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-      "published": "Fri, 13 Mar 2026 18:11:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seeks victims of Steam games used to spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-      "published": "Fri, 13 Mar 2026 16:52:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Poland's nuclear research centre targeted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
-      "published": "Fri, 13 Mar 2026 13:11:37 -0400",
       "source": "BleepingComputer"
     },
     {
