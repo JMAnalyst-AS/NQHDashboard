@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T17:35:17.260365Z",
+  "generated_at": "2026-03-17T19:03:18.464984Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "published": "Tue, 17 Mar 2026 14:41:59 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "url": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "published": "Sun, 15 Mar 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+      "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+      "published": "Tue, 17 Mar 2026 22:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
@@ -265,12 +271,6 @@
       "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
       "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
       "published": "Fri, 13 Mar 2026 13:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-      "url": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-      "published": "Fri, 13 Mar 2026 10:56:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "published": "Tue, 17 Mar 2026 14:41:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
       "url": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
       "published": "Tue, 17 Mar 2026 10:02:12 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "url": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "published": "Sun, 15 Mar 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+      "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+      "published": "Tue, 17 Mar 2026 22:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
@@ -597,12 +603,6 @@
       "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
       "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
       "published": "Fri, 13 Mar 2026 13:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-      "url": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-      "published": "Fri, 13 Mar 2026 10:56:00 +0530",
       "source": "The Hacker News"
     },
     {
