@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T11:46:34.414699Z",
+  "generated_at": "2026-03-18T13:13:48.698682Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -154,6 +154,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "url": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "published": "Wed, 18 Mar 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "url": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "published": "Wed, 18 Mar 2026 17:12:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
       "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
       "published": "Wed, 18 Mar 2026 16:00:00 +0530",
@@ -169,12 +187,6 @@
       "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
       "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
       "published": "Wed, 18 Mar 2026 12:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -259,18 +271,6 @@
       "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
       "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
       "published": "Fri, 13 Mar 2026 23:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-      "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-      "published": "Fri, 13 Mar 2026 22:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-      "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-      "published": "Fri, 13 Mar 2026 20:50:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -486,6 +486,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "url": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "published": "Wed, 18 Mar 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "url": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "published": "Wed, 18 Mar 2026 17:12:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
       "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
       "published": "Wed, 18 Mar 2026 16:00:00 +0530",
@@ -501,12 +519,6 @@
       "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
       "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
       "published": "Wed, 18 Mar 2026 12:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -591,18 +603,6 @@
       "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
       "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
       "published": "Fri, 13 Mar 2026 23:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-      "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-      "published": "Fri, 13 Mar 2026 22:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-      "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-      "published": "Fri, 13 Mar 2026 20:50:00 +0530",
       "source": "The Hacker News"
     },
     {
