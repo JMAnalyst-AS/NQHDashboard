@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T04:34:46.635739Z",
+  "generated_at": "2026-03-18T06:03:00.325491Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -154,6 +154,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
       "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
       "published": "Tue, 17 Mar 2026 22:09:00 +0530",
@@ -265,12 +271,6 @@
       "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
       "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
       "published": "Fri, 13 Mar 2026 14:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-      "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-      "published": "Fri, 13 Mar 2026 13:48:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -486,6 +486,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
       "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
       "published": "Tue, 17 Mar 2026 22:09:00 +0530",
@@ -597,12 +603,6 @@
       "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
       "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
       "published": "Fri, 13 Mar 2026 14:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-      "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-      "published": "Fri, 13 Mar 2026 13:48:00 +0530",
       "source": "The Hacker News"
     },
     {
