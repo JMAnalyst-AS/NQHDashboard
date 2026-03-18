@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T16:07:48.680688Z",
+  "generated_at": "2026-03-18T17:35:38.884834Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
+      "url": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
+      "published": "Wed, 18 Mar 2026 12:53:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
@@ -148,10 +154,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "published": "Mon, 16 Mar 2026 15:17:20 -0400",
-      "source": "BleepingComputer"
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "published": "Wed, 18 Mar 2026 22:56:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "published": "Wed, 18 Mar 2026 21:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
@@ -259,18 +271,6 @@
       "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
       "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
       "published": "Sat, 14 Mar 2026 21:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-      "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-      "published": "Sat, 14 Mar 2026 18:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-      "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-      "published": "Fri, 13 Mar 2026 23:03:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
+      "url": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
+      "published": "Wed, 18 Mar 2026 12:53:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
       "published": "Wed, 18 Mar 2026 11:32:39 -0400",
@@ -480,10 +486,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "url": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "published": "Mon, 16 Mar 2026 15:17:20 -0400",
-      "source": "BleepingComputer"
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "published": "Wed, 18 Mar 2026 22:56:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "published": "Wed, 18 Mar 2026 21:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
@@ -591,18 +603,6 @@
       "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
       "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
       "published": "Sat, 14 Mar 2026 21:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-      "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-      "published": "Sat, 14 Mar 2026 18:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-      "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-      "published": "Fri, 13 Mar 2026 23:03:00 +0530",
       "source": "The Hacker News"
     },
     {
