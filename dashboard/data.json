@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:03:00.325491Z",
+  "generated_at": "2026-03-18T07:35:14.631455Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -154,6 +154,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "published": "Wed, 18 Mar 2026 12:01:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
       "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "published": "Wed, 18 Mar 2026 10:36:00 +0530",
@@ -265,12 +271,6 @@
       "title": "Investigating a New Click-Fix Variant",
       "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
       "published": "Fri, 13 Mar 2026 18:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-      "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-      "published": "Fri, 13 Mar 2026 14:47:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -486,6 +486,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "published": "Wed, 18 Mar 2026 12:01:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
       "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "published": "Wed, 18 Mar 2026 10:36:00 +0530",
@@ -597,12 +603,6 @@
       "title": "Investigating a New Click-Fix Variant",
       "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
       "published": "Fri, 13 Mar 2026 18:58:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-      "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-      "published": "Fri, 13 Mar 2026 14:47:00 +0530",
       "source": "The Hacker News"
     },
     {
