@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T22:32:52.134208Z",
+  "generated_at": "2026-03-18T23:30:58.697667Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+      "url": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+      "published": "Wed, 18 Mar 2026 18:56:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
@@ -145,12 +151,6 @@
       "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
       "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
       "published": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "published": "Tue, 17 Mar 2026 08:03:38 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+      "url": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+      "published": "Wed, 18 Mar 2026 18:56:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
       "published": "Wed, 18 Mar 2026 15:57:13 -0400",
@@ -477,12 +483,6 @@
       "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
       "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
       "published": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "published": "Tue, 17 Mar 2026 08:03:38 -0400",
       "source": "BleepingComputer"
     },
     {
