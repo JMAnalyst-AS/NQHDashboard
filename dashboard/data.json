@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T20:38:26.039338Z",
+  "generated_at": "2026-03-19T21:35:51.456756Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "published": "Thu, 19 Mar 2026 16:43:54 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
@@ -145,12 +151,6 @@
       "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
       "published": "Wed, 18 Mar 2026 11:32:39 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
-      "published": "Wed, 18 Mar 2026 10:05:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "published": "Thu, 19 Mar 2026 16:43:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
       "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
       "published": "Thu, 19 Mar 2026 16:01:03 -0400",
@@ -477,12 +483,6 @@
       "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
       "published": "Wed, 18 Mar 2026 11:32:39 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
-      "published": "Wed, 18 Mar 2026 10:05:15 -0400",
       "source": "BleepingComputer"
     },
     {
