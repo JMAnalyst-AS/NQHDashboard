@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T19:49:34.398094Z",
+  "generated_at": "2026-03-19T20:38:26.039338Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
+      "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+      "published": "Thu, 19 Mar 2026 16:01:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
-      "published": "Wed, 18 Mar 2026 10:02:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+      "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+      "published": "Fri, 20 Mar 2026 00:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
@@ -265,12 +271,6 @@
       "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
       "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
       "published": "Tue, 17 Mar 2026 10:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
-      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
-      "published": "Tue, 17 Mar 2026 01:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
+      "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+      "published": "Thu, 19 Mar 2026 16:01:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
       "published": "Thu, 19 Mar 2026 13:08:24 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
-      "published": "Wed, 18 Mar 2026 10:02:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+      "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+      "published": "Fri, 20 Mar 2026 00:46:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
@@ -597,12 +603,6 @@
       "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
       "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
       "published": "Tue, 17 Mar 2026 10:53:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
-      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
-      "published": "Tue, 17 Mar 2026 01:07:00 +0530",
       "source": "The Hacker News"
     },
     {
