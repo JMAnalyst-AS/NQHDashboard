@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T13:20:26.778583Z",
+  "generated_at": "2026-03-19T14:27:59.661664Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
+      "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
+      "published": "Thu, 19 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
-      "published": "Tue, 17 Mar 2026 14:41:59 -0400",
-      "source": "BleepingComputer"
+      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "published": "Thu, 19 Mar 2026 18:13:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
@@ -265,12 +271,6 @@
       "title": "Why Security Validation Is Becoming Agentic",
       "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
       "published": "Mon, 16 Mar 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-      "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-      "published": "Mon, 16 Mar 2026 17:11:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
+      "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
+      "published": "Thu, 19 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
       "published": "Thu, 19 Mar 2026 09:00:22 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
-      "published": "Tue, 17 Mar 2026 14:41:59 -0400",
-      "source": "BleepingComputer"
+      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "published": "Thu, 19 Mar 2026 18:13:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
@@ -597,12 +603,6 @@
       "title": "Why Security Validation Is Becoming Agentic",
       "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
       "published": "Mon, 16 Mar 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-      "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-      "published": "Mon, 16 Mar 2026 17:11:00 +0530",
       "source": "The Hacker News"
     },
     {
