@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T09:09:02.595600Z",
+  "generated_at": "2026-03-19T10:06:46.998409Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+      "published": "Thu, 19 Mar 2026 06:06:38 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Aura confirms data breach exposing 900,000 marketing contacts",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "published": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "source": "BleepingComputer"
+      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+      "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+      "published": "Thu, 19 Mar 2026 14:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
@@ -268,10 +274,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-      "published": "Mon, 16 Mar 2026 11:13:00 +0530",
-      "source": "The Hacker News"
+      "title": "How Wildlife Traffickers Are Using Coded Language to Sell Protected Animals On Facebook",
+      "url": "https://www.bellingcat.com/news/2026/03/19/how-wildlife-traffickers-are-using-coded-language-to-sell-protected-animals-on-facebook/",
+      "published": "Thu, 19 Mar 2026 09:24:54 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US",
@@ -325,12 +331,6 @@
       "title": "Satellite Imagery Reveals Strikes on Iranian Police Stations",
       "url": "https://www.bellingcat.com/news/middle-east/2026/03/04/satellite-imagery-reveals-strikes-on-iranian-police-stations/",
       "published": "Wed, 04 Mar 2026 12:35:06 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "“Bombs will fall Everywhere”: The American, Israeli and Iranian Weapons Being Deployed in Middle East",
-      "url": "https://www.bellingcat.com/news/2026/03/03/bombs-will-fall-everywhere-the-american-israeli-and-iranian-weapons-being-deployed-in-middle-east/",
-      "published": "Tue, 03 Mar 2026 12:26:06 +0000",
       "source": "bellingcat"
     }
   ],
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+      "published": "Thu, 19 Mar 2026 06:06:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Aura confirms data breach exposing 900,000 marketing contacts",
       "url": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
       "published": "Wed, 18 Mar 2026 18:56:50 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "published": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "source": "BleepingComputer"
+      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+      "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+      "published": "Thu, 19 Mar 2026 14:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
@@ -600,10 +606,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-      "published": "Mon, 16 Mar 2026 11:13:00 +0530",
-      "source": "The Hacker News"
+      "title": "How Wildlife Traffickers Are Using Coded Language to Sell Protected Animals On Facebook",
+      "url": "https://www.bellingcat.com/news/2026/03/19/how-wildlife-traffickers-are-using-coded-language-to-sell-protected-animals-on-facebook/",
+      "published": "Thu, 19 Mar 2026 09:24:54 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US",
@@ -657,12 +663,6 @@
       "title": "Satellite Imagery Reveals Strikes on Iranian Police Stations",
       "url": "https://www.bellingcat.com/news/middle-east/2026/03/04/satellite-imagery-reveals-strikes-on-iranian-police-stations/",
       "published": "Wed, 04 Mar 2026 12:35:06 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "“Bombs will fall Everywhere”: The American, Israeli and Iranian Weapons Being Deployed in Middle East",
-      "url": "https://www.bellingcat.com/news/2026/03/03/bombs-will-fall-everywhere-the-american-israeli-and-iranian-weapons-being-deployed-in-middle-east/",
-      "published": "Tue, 03 Mar 2026 12:26:06 +0000",
       "source": "bellingcat"
     }
   ]
