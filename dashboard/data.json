@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T14:27:59.661664Z",
+  "generated_at": "2026-03-19T15:24:14.980338Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "Tue, 20 Jan 2026 18:19:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
@@ -148,10 +154,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-      "published": "Tue, 17 Mar 2026 17:42:54 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+      "published": "Thu, 19 Mar 2026 19:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
@@ -265,12 +271,6 @@
       "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
       "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
       "published": "Mon, 16 Mar 2026 19:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Security Validation Is Becoming Agentic",
-      "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-      "published": "Mon, 16 Mar 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
       "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
       "published": "Thu, 19 Mar 2026 10:00:10 -0400",
@@ -480,10 +486,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-      "published": "Tue, 17 Mar 2026 17:42:54 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+      "published": "Thu, 19 Mar 2026 19:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
@@ -597,12 +603,6 @@
       "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
       "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
       "published": "Mon, 16 Mar 2026 19:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Security Validation Is Becoming Agentic",
-      "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-      "published": "Mon, 16 Mar 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
