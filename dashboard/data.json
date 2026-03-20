@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T07:48:21.819985Z",
+  "generated_at": "2026-03-20T08:41:17.896743Z",
   "segment1": [
     {
       "title": "North Carolina tech worker found guilty of insider attack netting $2.5M ransom",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "International joint action disrupts world’s largest DDoS botnets",
+      "url": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
+      "published": "Fri, 20 Mar 2026 04:05:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
       "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
       "published": "Fri, 20 Mar 2026 03:33:32 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
       "published": "Wed, 18 Mar 2026 15:57:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-      "published": "Wed, 18 Mar 2026 14:10:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "International joint action disrupts world’s largest DDoS botnets",
+      "url": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
+      "published": "Fri, 20 Mar 2026 04:05:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
       "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
       "published": "Fri, 20 Mar 2026 03:33:32 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
       "published": "Wed, 18 Mar 2026 15:57:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-      "published": "Wed, 18 Mar 2026 14:10:35 -0400",
       "source": "BleepingComputer"
     },
     {
