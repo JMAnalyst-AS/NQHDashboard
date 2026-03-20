@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T20:33:41.557350Z",
+  "generated_at": "2026-03-20T21:30:46.501804Z",
   "segment1": [
     {
       "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI links Signal phishing attacks to Russian intelligence services",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "published": "Fri, 20 Mar 2026 16:45:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
       "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
       "published": "Fri, 20 Mar 2026 14:48:47 -0400",
@@ -267,12 +273,6 @@
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
       "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
       "published": "Thu, 19 Mar 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
-      "published": "Thu, 19 Mar 2026 09:00:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI links Signal phishing attacks to Russian intelligence services",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "published": "Fri, 20 Mar 2026 16:45:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
       "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
       "published": "Fri, 20 Mar 2026 14:48:47 -0400",
@@ -599,12 +605,6 @@
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
       "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
       "published": "Thu, 19 Mar 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
-      "published": "Thu, 19 Mar 2026 09:00:22 -0400",
       "source": "BleepingComputer"
     },
     {
