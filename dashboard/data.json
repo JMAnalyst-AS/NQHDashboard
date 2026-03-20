@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-20T17:09:10.720976Z",
+  "generated_at": "2026-03-20T17:59:52.804264Z",
   "segment1": [
+    {
+      "title": "Jaguar Land Rover’s cyber bailout sets worrying precedent, watchdog warns",
+      "url": "https://databreaches.net/2026/03/20/jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns/?pk_campaign=feed&pk_kwd=jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns",
+      "published": "Fri, 20 Mar 2026 17:20:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Global cybercrime crackdown: over 373,000 dark web sites shut down",
       "url": "https://databreaches.net/2026/03/20/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down/?pk_campaign=feed&pk_kwd=global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down",
@@ -53,17 +59,17 @@
       "title": "Personal information of 16,000 individuals leaked from Seoul National University Hospital",
       "url": "https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital",
       "published": "Thu, 19 Mar 2026 11:38:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Chilling Effects:  NZ GP stops uploading patient notes to MyIndici as a precaution",
-      "url": "https://databreaches.net/2026/03/19/chilling-effects-nz-gp-stops-uploading-patient-notes-to-myindici-as-a-precaution/?pk_campaign=feed&pk_kwd=chilling-effects-nz-gp-stops-uploading-patient-notes-to-myindici-as-a-precaution",
-      "published": "Thu, 19 Mar 2026 11:38:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Jaguar Land Rover’s cyber bailout sets worrying precedent, watchdog warns",
+      "url": "https://databreaches.net/2026/03/20/jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns/?pk_campaign=feed&pk_kwd=jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns",
+      "published": "Fri, 20 Mar 2026 17:20:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Global cybercrime crackdown: over 373,000 dark web sites shut down",
       "url": "https://databreaches.net/2026/03/20/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down/?pk_campaign=feed&pk_kwd=global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down",
       "published": "Fri, 20 Mar 2026 12:58:11 +0000",
@@ -115,12 +121,6 @@
       "title": "Personal information of 16,000 individuals leaked from Seoul National University Hospital",
       "url": "https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital",
       "published": "Thu, 19 Mar 2026 11:38:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Chilling Effects:  NZ GP stops uploading patient notes to MyIndici as a precaution",
-      "url": "https://databreaches.net/2026/03/19/chilling-effects-nz-gp-stops-uploading-patient-notes-to-myindici-as-a-precaution/?pk_campaign=feed&pk_kwd=chilling-effects-nz-gp-stops-uploading-patient-notes-to-myindici-as-a-precaution",
-      "published": "Thu, 19 Mar 2026 11:38:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
       "published": "Mon, 26 Jan 2026 16:11:38 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
+      "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
+      "published": "Fri, 20 Mar 2026 13:19:02 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
@@ -267,12 +273,6 @@
       "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
       "published": "Thu, 19 Mar 2026 07:02:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New ‘Perseus’ Android malware checks user notes for secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
-      "published": "Thu, 19 Mar 2026 06:13:23 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
+      "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
+      "published": "Fri, 20 Mar 2026 13:19:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
       "published": "Fri, 20 Mar 2026 11:09:12 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
       "published": "Thu, 19 Mar 2026 07:02:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New ‘Perseus’ Android malware checks user notes for secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
-      "published": "Thu, 19 Mar 2026 06:13:23 -0400",
       "source": "BleepingComputer"
     },
     {
