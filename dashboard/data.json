@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T04:25:12.506752Z",
+  "generated_at": "2026-03-20T05:34:01.324975Z",
   "segment1": [
     {
       "title": "North Carolina tech worker found guilty of insider attack netting $2.5M ransom",
@@ -126,6 +126,66 @@
   ],
   "segment3": [
     {
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "published": "Fri, 20 Mar 2026 00:49:19 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "published": "Wed, 11 Mar 2026 00:32:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who is the Kimwolf Botmaster “Dort”?",
+      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Navia discloses data breach impacting 2.7 million people",
       "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
       "published": "Thu, 19 Mar 2026 16:43:54 -0400",
@@ -216,13 +276,19 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "url": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "published": "Fri, 20 Mar 2026 10:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
       "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
       "published": "Fri, 20 Mar 2026 00:46:00 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
       "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
       "published": "Fri, 20 Mar 2026 00:22:00 +0530",
       "source": "The Hacker News"
@@ -327,12 +393,6 @@
       "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
       "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
       "published": "Tue, 17 Mar 2026 15:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
-      "published": "Tue, 17 Mar 2026 10:53:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -398,6 +458,66 @@
   ],
   "rss": [
     {
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "published": "Fri, 20 Mar 2026 00:49:19 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "published": "Wed, 11 Mar 2026 00:32:51 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who is the Kimwolf Botmaster “Dort”?",
+      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Navia discloses data breach impacting 2.7 million people",
       "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
       "published": "Thu, 19 Mar 2026 16:43:54 -0400",
@@ -488,13 +608,19 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "url": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "published": "Fri, 20 Mar 2026 10:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
       "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
       "published": "Fri, 20 Mar 2026 00:46:00 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
       "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
       "published": "Fri, 20 Mar 2026 00:22:00 +0530",
       "source": "The Hacker News"
@@ -599,12 +725,6 @@
       "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
       "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
       "published": "Tue, 17 Mar 2026 15:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
-      "published": "Tue, 17 Mar 2026 10:53:00 +0530",
       "source": "The Hacker News"
     },
     {
