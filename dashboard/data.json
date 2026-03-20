@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-03-20T17:59:52.804264Z",
+  "generated_at": "2026-03-20T19:02:46.331114Z",
   "segment1": [
+    {
+      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
+      "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
+      "published": "Fri, 20 Mar 2026 18:30:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Strengthening Cybersecurity in Canada’s Municipal Sector: A Verified Analysis",
+      "url": "https://databreaches.net/2026/03/20/strengthening-cybersecurity-in-canadas-municipal-sector-a-verified-analysis/?pk_campaign=feed&pk_kwd=strengthening-cybersecurity-in-canadas-municipal-sector-a-verified-analysis",
+      "published": "Fri, 20 Mar 2026 18:15:32 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Jaguar Land Rover’s cyber bailout sets worrying precedent, watchdog warns",
       "url": "https://databreaches.net/2026/03/20/jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns/?pk_campaign=feed&pk_kwd=jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns",
@@ -47,23 +59,23 @@
       "title": "Deaconess patients’ sensitive data stolen in vendor breach",
       "url": "https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach",
       "published": "Thu, 19 Mar 2026 12:39:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack leaves drivers with required breathalyzer test systems in 46 states unable to start vehicles",
-      "url": "https://databreaches.net/2026/03/19/cyberattack-leaves-drivers-with-required-breathalyzer-test-systems-in-46-states-unable-to-start-vehicles/?pk_campaign=feed&pk_kwd=cyberattack-leaves-drivers-with-required-breathalyzer-test-systems-in-46-states-unable-to-start-vehicles",
-      "published": "Thu, 19 Mar 2026 12:14:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal information of 16,000 individuals leaked from Seoul National University Hospital",
-      "url": "https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital",
-      "published": "Thu, 19 Mar 2026 11:38:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
+      "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
+      "published": "Fri, 20 Mar 2026 18:30:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Strengthening Cybersecurity in Canada’s Municipal Sector: A Verified Analysis",
+      "url": "https://databreaches.net/2026/03/20/strengthening-cybersecurity-in-canadas-municipal-sector-a-verified-analysis/?pk_campaign=feed&pk_kwd=strengthening-cybersecurity-in-canadas-municipal-sector-a-verified-analysis",
+      "published": "Fri, 20 Mar 2026 18:15:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Jaguar Land Rover’s cyber bailout sets worrying precedent, watchdog warns",
       "url": "https://databreaches.net/2026/03/20/jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns/?pk_campaign=feed&pk_kwd=jaguar-land-rovers-cyber-bailout-sets-worrying-precedent-watchdog-warns",
       "published": "Fri, 20 Mar 2026 17:20:39 +0000",
@@ -109,18 +121,6 @@
       "title": "Deaconess patients’ sensitive data stolen in vendor breach",
       "url": "https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach",
       "published": "Thu, 19 Mar 2026 12:39:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack leaves drivers with required breathalyzer test systems in 46 states unable to start vehicles",
-      "url": "https://databreaches.net/2026/03/19/cyberattack-leaves-drivers-with-required-breathalyzer-test-systems-in-46-states-unable-to-start-vehicles/?pk_campaign=feed&pk_kwd=cyberattack-leaves-drivers-with-required-breathalyzer-test-systems-in-46-states-unable-to-start-vehicles",
-      "published": "Thu, 19 Mar 2026 12:14:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal information of 16,000 individuals leaked from Seoul National University Hospital",
-      "url": "https://databreaches.net/2026/03/19/personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital/?pk_campaign=feed&pk_kwd=personal-information-of-16000-individuals-leaked-from-seoul-national-university-hospital",
-      "published": "Thu, 19 Mar 2026 11:38:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
       "published": "Mon, 26 Jan 2026 16:11:38 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "published": "Fri, 20 Mar 2026 14:48:47 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
-      "published": "Thu, 19 Mar 2026 07:02:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "published": "Fri, 20 Mar 2026 23:17:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
@@ -387,12 +393,6 @@
       "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
       "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
       "published": "Wed, 18 Mar 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "published": "Wed, 18 Mar 2026 13:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "published": "Fri, 20 Mar 2026 14:48:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
       "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
       "published": "Fri, 20 Mar 2026 13:19:02 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
-      "published": "Thu, 19 Mar 2026 07:02:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "published": "Fri, 20 Mar 2026 23:17:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
@@ -719,12 +725,6 @@
       "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
       "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
       "published": "Wed, 18 Mar 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "published": "Wed, 18 Mar 2026 13:38:00 +0530",
       "source": "The Hacker News"
     },
     {
