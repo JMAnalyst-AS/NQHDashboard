@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T06:56:23.925052Z",
+  "generated_at": "2026-03-20T07:48:21.819985Z",
   "segment1": [
     {
       "title": "North Carolina tech worker found guilty of insider attack netting $2.5M ransom",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+      "published": "Fri, 20 Mar 2026 03:33:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
+      "published": "Fri, 20 Mar 2026 02:57:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Navia discloses data breach impacting 2.7 million people",
       "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
       "published": "Thu, 19 Mar 2026 16:43:54 -0400",
@@ -261,18 +273,6 @@
       "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
       "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
       "published": "Wed, 18 Mar 2026 14:10:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-      "url": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-      "published": "Wed, 18 Mar 2026 12:53:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
-      "published": "Wed, 18 Mar 2026 11:32:39 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+      "published": "Fri, 20 Mar 2026 03:33:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
+      "published": "Fri, 20 Mar 2026 02:57:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Navia discloses data breach impacting 2.7 million people",
       "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
       "published": "Thu, 19 Mar 2026 16:43:54 -0400",
@@ -593,18 +605,6 @@
       "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
       "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
       "published": "Wed, 18 Mar 2026 14:10:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-      "url": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-      "published": "Wed, 18 Mar 2026 12:53:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
-      "published": "Wed, 18 Mar 2026 11:32:39 -0400",
       "source": "BleepingComputer"
     },
     {
