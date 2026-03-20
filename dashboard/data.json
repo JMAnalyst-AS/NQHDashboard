@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-20T21:30:46.501804Z",
+  "generated_at": "2026-03-20T22:29:36.636771Z",
   "segment1": [
+    {
+      "title": "Weill Cornell Medicine discloses an insider data breach",
+      "url": "https://databreaches.net/2026/03/20/weill-cornell-medicine-discloses-an-insider-data-breach/?pk_campaign=feed&pk_kwd=weill-cornell-medicine-discloses-an-insider-data-breach",
+      "published": "Fri, 20 Mar 2026 22:06:00 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
       "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
@@ -53,17 +59,17 @@
       "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
       "url": "https://databreaches.net/2026/03/19/russian-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/?pk_campaign=feed&pk_kwd=russian-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks",
       "published": "Thu, 19 Mar 2026 15:12:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Deaconess patients’ sensitive data stolen in vendor breach",
-      "url": "https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach",
-      "published": "Thu, 19 Mar 2026 12:39:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Weill Cornell Medicine discloses an insider data breach",
+      "url": "https://databreaches.net/2026/03/20/weill-cornell-medicine-discloses-an-insider-data-breach/?pk_campaign=feed&pk_kwd=weill-cornell-medicine-discloses-an-insider-data-breach",
+      "published": "Fri, 20 Mar 2026 22:06:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
       "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
       "published": "Fri, 20 Mar 2026 18:30:36 +0000",
@@ -115,12 +121,6 @@
       "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
       "url": "https://databreaches.net/2026/03/19/russian-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/?pk_campaign=feed&pk_kwd=russian-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks",
       "published": "Thu, 19 Mar 2026 15:12:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Deaconess patients’ sensitive data stolen in vendor breach",
-      "url": "https://databreaches.net/2026/03/19/deaconess-patients-sensitive-data-stolen-in-vendor-breach/?pk_campaign=feed&pk_kwd=deaconess-patients-sensitive-data-stolen-in-vendor-breach",
-      "published": "Thu, 19 Mar 2026 12:39:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
