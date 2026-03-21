@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T17:26:03.742729Z",
+  "generated_at": "2026-03-21T17:50:47.239714Z",
   "segment1": [
     {
       "title": "Weill Cornell Medicine discloses an insider data breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
       "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
       "published": "Sat, 21 Mar 2026 10:18:23 -0400",
@@ -267,12 +273,6 @@
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
       "published": "Thu, 19 Mar 2026 13:08:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-      "published": "Thu, 19 Mar 2026 12:14:13 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
       "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
       "published": "Sat, 21 Mar 2026 10:18:23 -0400",
@@ -599,12 +605,6 @@
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
       "published": "Thu, 19 Mar 2026 13:08:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-      "published": "Thu, 19 Mar 2026 12:14:13 -0400",
       "source": "BleepingComputer"
     },
     {
