@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T12:51:01.340447Z",
+  "generated_at": "2026-03-21T13:42:27.886341Z",
   "segment1": [
     {
       "title": "Weill Cornell Medicine discloses an insider data breach",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "published": "Sat, 21 Mar 2026 18:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
       "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
       "published": "Sat, 21 Mar 2026 15:54:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
       "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
       "published": "Wed, 18 Mar 2026 21:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "published": "Sat, 21 Mar 2026 18:47:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
       "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
       "published": "Sat, 21 Mar 2026 15:54:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
       "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
       "published": "Wed, 18 Mar 2026 21:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
