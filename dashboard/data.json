@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T13:42:27.886341Z",
+  "generated_at": "2026-03-21T14:27:33.901366Z",
   "segment1": [
     {
       "title": "Weill Cornell Medicine discloses an insider data breach",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "published": "Sat, 21 Mar 2026 10:18:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "published": "Sat, 21 Mar 2026 10:09:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
       "published": "Fri, 20 Mar 2026 16:45:52 -0400",
@@ -261,18 +273,6 @@
       "title": "FBI seizes Handala data leak site after Stryker cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
       "published": "Thu, 19 Mar 2026 12:14:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
-      "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
-      "published": "Thu, 19 Mar 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "published": "Sat, 21 Mar 2026 10:18:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "published": "Sat, 21 Mar 2026 10:09:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
       "published": "Fri, 20 Mar 2026 16:45:52 -0400",
@@ -593,18 +605,6 @@
       "title": "FBI seizes Handala data leak site after Stryker cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
       "published": "Thu, 19 Mar 2026 12:14:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
-      "url": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
-      "published": "Thu, 19 Mar 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
