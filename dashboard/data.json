@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T17:25:09.267541Z",
+  "generated_at": "2026-03-23T18:08:48.285982Z",
   "segment1": [
     {
       "title": "If threat actors gave you a chance to redact the patient data they hacked before they leak it, would you take them up on the offer? Read about the Woundtech incident.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
+      "published": "Mon, 23 Mar 2026 13:40:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Varonis Atlas: Securing AI and the Data That Powers It",
       "url": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
       "published": "Mon, 23 Mar 2026 10:02:12 -0400",
@@ -267,12 +273,6 @@
       "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
       "url": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
       "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
-      "published": "Fri, 20 Mar 2026 05:33:33 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
+      "published": "Mon, 23 Mar 2026 13:40:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Varonis Atlas: Securing AI and the Data That Powers It",
       "url": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
       "published": "Mon, 23 Mar 2026 10:02:12 -0400",
@@ -599,12 +605,6 @@
       "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
       "url": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
       "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
-      "published": "Fri, 20 Mar 2026 05:33:33 -0400",
       "source": "BleepingComputer"
     },
     {
