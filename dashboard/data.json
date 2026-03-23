@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T06:10:25.606461Z",
+  "generated_at": "2026-03-23T07:44:22.922010Z",
   "segment1": [
     {
       "title": "Weill Cornell Medicine discloses an insider data breach",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
       "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
       "published": "Sat, 21 Mar 2026 18:47:00 +0530",
@@ -387,12 +393,6 @@
       "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
       "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
       "published": "Wed, 18 Mar 2026 22:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-      "published": "Wed, 18 Mar 2026 21:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
       "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
       "published": "Sat, 21 Mar 2026 18:47:00 +0530",
@@ -719,12 +725,6 @@
       "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
       "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
       "published": "Wed, 18 Mar 2026 22:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-      "published": "Wed, 18 Mar 2026 21:30:00 +0530",
       "source": "The Hacker News"
     },
     {
