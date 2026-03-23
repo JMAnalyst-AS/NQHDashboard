@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T08:57:10.556343Z",
+  "generated_at": "2026-03-23T10:07:00.998101Z",
   "segment1": [
     {
       "title": "Weill Cornell Medicine discloses an insider data breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "published": "Mon, 23 Mar 2026 05:45:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
       "published": "Mon, 23 Mar 2026 04:37:28 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
-      "url": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
-      "published": "Fri, 20 Mar 2026 02:57:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+      "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "published": "Mon, 23 Mar 2026 14:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
@@ -387,12 +393,6 @@
       "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
       "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
       "published": "Thu, 19 Mar 2026 11:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-      "published": "Wed, 18 Mar 2026 22:56:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "published": "Mon, 23 Mar 2026 05:45:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
       "published": "Mon, 23 Mar 2026 04:37:28 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
-      "url": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
-      "published": "Fri, 20 Mar 2026 02:57:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+      "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "published": "Mon, 23 Mar 2026 14:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
@@ -719,12 +725,6 @@
       "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
       "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
       "published": "Thu, 19 Mar 2026 11:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-      "published": "Wed, 18 Mar 2026 22:56:00 +0530",
       "source": "The Hacker News"
     },
     {
