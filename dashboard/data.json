@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T14:55:15.297503Z",
+  "generated_at": "2026-03-23T16:00:35.263607Z",
   "segment1": [
     {
       "title": "If threat actors gave you a chance to redact the patient data they hacked before they leak it, would you take them up on the offer? Read about the Woundtech incident.",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
       "published": "Fri, 20 Mar 2026 00:49:19 +0000",
@@ -177,12 +183,6 @@
       "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
       "published": "Fri, 20 Mar 2026 00:49:19 +0000",
@@ -509,12 +515,6 @@
       "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
       "source": "Krebs on Security"
     },
     {
