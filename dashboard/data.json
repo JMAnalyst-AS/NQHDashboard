@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T20:02:31.207056Z",
+  "generated_at": "2026-03-23T21:01:47.807073Z",
   "segment1": [
     {
       "title": "If threat actors gave you a chance to redact the patient data they hacked before they leak it, would you take them up on the offer? Read about the Woundtech incident.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+      "published": "Mon, 23 Mar 2026 16:09:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
       "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
       "published": "Mon, 23 Mar 2026 15:21:04 -0400",
@@ -267,12 +273,6 @@
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
       "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
       "published": "Fri, 20 Mar 2026 13:19:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-      "published": "Fri, 20 Mar 2026 11:09:12 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+      "published": "Mon, 23 Mar 2026 16:09:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
       "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
       "published": "Mon, 23 Mar 2026 15:21:04 -0400",
@@ -599,12 +605,6 @@
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
       "url": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
       "published": "Fri, 20 Mar 2026 13:19:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-      "published": "Fri, 20 Mar 2026 11:09:12 -0400",
       "source": "BleepingComputer"
     },
     {
