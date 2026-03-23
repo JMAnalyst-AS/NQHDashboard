@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T18:08:48.285982Z",
+  "generated_at": "2026-03-23T19:26:36.815845Z",
   "segment1": [
     {
       "title": "If threat actors gave you a chance to redact the patient data they hacked before they leak it, would you take them up on the offer? Read about the Woundtech incident.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
+      "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
       "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
       "published": "Mon, 23 Mar 2026 13:40:27 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
-      "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+      "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
@@ -387,12 +393,6 @@
       "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
       "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
       "published": "Thu, 19 Mar 2026 19:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-      "published": "Thu, 19 Mar 2026 18:13:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
+      "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
       "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
       "published": "Mon, 23 Mar 2026 13:40:27 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
-      "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+      "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
@@ -719,12 +725,6 @@
       "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
       "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
       "published": "Thu, 19 Mar 2026 19:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-      "published": "Thu, 19 Mar 2026 18:13:00 +0530",
       "source": "The Hacker News"
     },
     {
