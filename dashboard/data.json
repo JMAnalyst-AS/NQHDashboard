@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T21:56:15.163728Z",
+  "generated_at": "2026-03-23T22:36:08.272795Z",
   "segment1": [
     {
       "title": "If threat actors gave you a chance to redact the patient data they hacked before they leak it, would you take them up on the offer? Read about the Woundtech incident.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mazda discloses security breach exposing employee and partner data",
+      "url": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "published": "Mon, 23 Mar 2026 18:12:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tycoon2FA phishing platform returns after recent police disruption",
       "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
       "published": "Mon, 23 Mar 2026 17:52:58 -0400",
@@ -267,12 +273,6 @@
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
       "published": "Fri, 20 Mar 2026 16:45:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-      "published": "Fri, 20 Mar 2026 14:48:47 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mazda discloses security breach exposing employee and partner data",
+      "url": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "published": "Mon, 23 Mar 2026 18:12:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tycoon2FA phishing platform returns after recent police disruption",
       "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
       "published": "Mon, 23 Mar 2026 17:52:58 -0400",
@@ -599,12 +605,6 @@
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
       "published": "Fri, 20 Mar 2026 16:45:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-      "published": "Fri, 20 Mar 2026 14:48:47 -0400",
       "source": "BleepingComputer"
     },
     {
