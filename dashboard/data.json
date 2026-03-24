@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T22:57:49.054685Z",
+  "generated_at": "2026-03-24T23:38:54.926512Z",
   "segment1": [
     {
       "title": "Florida Medicare members’ data exposed as Mirra Health improperly outsourced records overseas",
@@ -186,7 +186,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Popular LiteLLM PyPI package compromised in TeamPCP supply chain attack",
+      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+      "url": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+      "published": "Tue, 24 Mar 2026 19:04:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
       "published": "Tue, 24 Mar 2026 18:29:01 -0400",
       "source": "BleepingComputer"
@@ -267,12 +273,6 @@
       "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
       "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
       "published": "Mon, 23 Mar 2026 15:21:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
-      "published": "Mon, 23 Mar 2026 13:40:27 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,7 +518,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Popular LiteLLM PyPI package compromised in TeamPCP supply chain attack",
+      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+      "url": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+      "published": "Tue, 24 Mar 2026 19:04:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
       "published": "Tue, 24 Mar 2026 18:29:01 -0400",
       "source": "BleepingComputer"
@@ -599,12 +605,6 @@
       "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
       "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
       "published": "Mon, 23 Mar 2026 15:21:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
-      "published": "Mon, 23 Mar 2026 13:40:27 -0400",
       "source": "BleepingComputer"
     },
     {
