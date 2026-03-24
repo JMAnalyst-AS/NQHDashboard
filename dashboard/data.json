@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-24T12:03:09.424345Z",
+  "generated_at": "2026-03-24T13:55:32.816789Z",
   "segment1": [
+    {
+      "title": "Foster City goes offline after cybersecurity breach",
+      "url": "https://databreaches.net/2026/03/24/foster-city-goes-offline-after-cybersecurity-breach/?pk_campaign=feed&pk_kwd=foster-city-goes-offline-after-cybersecurity-breach",
+      "published": "Tue, 24 Mar 2026 12:32:17 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Citing HIPAA, Groups Oppose Renewed Federal Plan to Amass Millions of Workers’ Health Data",
       "url": "https://databreaches.net/2026/03/24/citing-hipaa-groups-oppose-renewed-federal-plan-to-amass-millions-of-workers-health-data/?pk_campaign=feed&pk_kwd=citing-hipaa-groups-oppose-renewed-federal-plan-to-amass-millions-of-workers-health-data",
@@ -53,17 +59,17 @@
       "title": "Weill Cornell Medicine discloses an insider data breach",
       "url": "https://databreaches.net/2026/03/20/weill-cornell-medicine-discloses-an-insider-data-breach/?pk_campaign=feed&pk_kwd=weill-cornell-medicine-discloses-an-insider-data-breach",
       "published": "Fri, 20 Mar 2026 22:06:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
-      "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
-      "published": "Fri, 20 Mar 2026 18:30:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Foster City goes offline after cybersecurity breach",
+      "url": "https://databreaches.net/2026/03/24/foster-city-goes-offline-after-cybersecurity-breach/?pk_campaign=feed&pk_kwd=foster-city-goes-offline-after-cybersecurity-breach",
+      "published": "Tue, 24 Mar 2026 12:32:17 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Citing HIPAA, Groups Oppose Renewed Federal Plan to Amass Millions of Workers’ Health Data",
       "url": "https://databreaches.net/2026/03/24/citing-hipaa-groups-oppose-renewed-federal-plan-to-amass-millions-of-workers-health-data/?pk_campaign=feed&pk_kwd=citing-hipaa-groups-oppose-renewed-federal-plan-to-amass-millions-of-workers-health-data",
       "published": "Tue, 24 Mar 2026 10:18:45 +0000",
@@ -115,12 +121,6 @@
       "title": "Weill Cornell Medicine discloses an insider data breach",
       "url": "https://databreaches.net/2026/03/20/weill-cornell-medicine-discloses-an-insider-data-breach/?pk_campaign=feed&pk_kwd=weill-cornell-medicine-discloses-an-insider-data-breach",
       "published": "Fri, 20 Mar 2026 22:06:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
-      "url": "https://databreaches.net/2026/03/20/cyber-opsec-fail-beast-gang-exposes-ransomware-server/?pk_campaign=feed&pk_kwd=cyber-opsec-fail-beast-gang-exposes-ransomware-server",
-      "published": "Fri, 20 Mar 2026 18:30:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
+      "published": "Tue, 24 Mar 2026 09:48:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Yanluowang ransomware access broker gets 81 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
+      "published": "Tue, 24 Mar 2026 09:06:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch Ministry of Finance discloses breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
+      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI rolls out ChatGPT Library to store your personal files",
@@ -258,33 +276,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
-      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+      "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+      "published": "Tue, 24 Mar 2026 17:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
-      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
-      "published": "Sat, 21 Mar 2026 10:18:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
-      "published": "Sat, 21 Mar 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-      "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "url": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+      "published": "Tue, 24 Mar 2026 17:07:00 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
       "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "published": "Tue, 24 Mar 2026 14:59:00 +0530",
+      "published": "Tue, 24 Mar 2026 16:08:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -381,18 +393,6 @@
       "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
       "url": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
       "published": "Fri, 20 Mar 2026 15:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
-      "url": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
-      "published": "Fri, 20 Mar 2026 15:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-      "url": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
-      "published": "Fri, 20 Mar 2026 11:55:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
+      "published": "Tue, 24 Mar 2026 09:48:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Yanluowang ransomware access broker gets 81 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
+      "published": "Tue, 24 Mar 2026 09:06:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch Ministry of Finance discloses breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
+      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI rolls out ChatGPT Library to store your personal files",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
       "published": "Mon, 23 Mar 2026 19:47:14 -0400",
@@ -590,33 +608,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
-      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+      "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+      "published": "Tue, 24 Mar 2026 17:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
-      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
-      "published": "Sat, 21 Mar 2026 10:18:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
-      "published": "Sat, 21 Mar 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-      "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "url": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+      "published": "Tue, 24 Mar 2026 17:07:00 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
       "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "published": "Tue, 24 Mar 2026 14:59:00 +0530",
+      "published": "Tue, 24 Mar 2026 16:08:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -713,18 +725,6 @@
       "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
       "url": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
       "published": "Fri, 20 Mar 2026 15:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
-      "url": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
-      "published": "Fri, 20 Mar 2026 15:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-      "url": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
-      "published": "Fri, 20 Mar 2026 11:55:00 +0530",
       "source": "The Hacker News"
     },
     {
