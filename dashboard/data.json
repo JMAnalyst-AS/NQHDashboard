@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T07:34:36.586681Z",
+  "generated_at": "2026-03-25T08:52:52.500617Z",
   "segment1": [
     {
       "title": "Florida Medicare members’ data exposed as Mirra Health improperly outsourced records overseas",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+      "published": "Wed, 25 Mar 2026 04:47:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
       "url": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
       "published": "Tue, 24 Mar 2026 19:04:36 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
-      "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
-      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
-      "source": "BleepingComputer"
+      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+      "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+      "published": "Wed, 25 Mar 2026 12:41:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
@@ -387,12 +393,6 @@
       "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
       "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
       "published": "Sat, 21 Mar 2026 13:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "published": "Fri, 20 Mar 2026 23:17:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+      "published": "Wed, 25 Mar 2026 04:47:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
       "url": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
       "published": "Tue, 24 Mar 2026 19:04:36 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
-      "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
-      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
-      "source": "BleepingComputer"
+      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+      "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+      "published": "Wed, 25 Mar 2026 12:41:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
@@ -719,12 +725,6 @@
       "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
       "url": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
       "published": "Sat, 21 Mar 2026 13:55:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "published": "Fri, 20 Mar 2026 23:17:00 +0530",
       "source": "The Hacker News"
     },
     {
