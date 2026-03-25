@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T17:34:13.156020Z",
+  "generated_at": "2026-03-25T18:56:13.321223Z",
   "segment1": [
     {
       "title": "Delaware Supreme Court Reverses, Holds Cyber Insurers Sufficiently Pled Collective Subrogation Claim Resulting from Blackbaud Data Breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "published": "Wed, 25 Mar 2026 14:32:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
       "published": "Wed, 25 Mar 2026 11:52:10 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Ministry of Finance discloses breach affecting employees",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
-      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
-      "source": "BleepingComputer"
+      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+      "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
@@ -387,12 +393,6 @@
       "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
       "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
       "published": "Mon, 23 Mar 2026 14:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "published": "Wed, 25 Mar 2026 14:32:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
       "published": "Wed, 25 Mar 2026 11:52:10 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Ministry of Finance discloses breach affecting employees",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
-      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
-      "source": "BleepingComputer"
+      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+      "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
@@ -719,12 +725,6 @@
       "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
       "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
       "published": "Mon, 23 Mar 2026 14:01:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
       "source": "The Hacker News"
     },
     {
