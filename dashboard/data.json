@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T12:08:01.444129Z",
+  "generated_at": "2026-03-26T14:04:45.763442Z",
   "segment1": [
     {
       "title": "Florida senator sues Booz Allen over his leaked tax returns",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+      "published": "Thu, 26 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "published": "Thu, 26 Mar 2026 09:10:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
+      "url": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
+      "published": "Thu, 26 Mar 2026 08:50:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspected RedLine infostealer malware admin extradited to US",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
       "published": "Thu, 26 Mar 2026 07:51:59 -0400",
@@ -258,27 +276,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FCC bans new routers made outside the USA over security risks",
-      "url": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-      "published": "Tue, 24 Mar 2026 16:41:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-      "url": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-      "published": "Tue, 24 Mar 2026 13:23:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-      "published": "Tue, 24 Mar 2026 11:12:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
       "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "published": "Thu, 26 Mar 2026 18:42:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+      "published": "Thu, 26 Mar 2026 18:41:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+      "url": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+      "published": "Thu, 26 Mar 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -375,24 +393,6 @@
       "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
       "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
       "published": "Tue, 24 Mar 2026 12:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-      "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-      "published": "Tue, 24 Mar 2026 11:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
-      "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
-      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-      "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-      "published": "Mon, 23 Mar 2026 18:44:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+      "published": "Thu, 26 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "published": "Thu, 26 Mar 2026 09:10:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
+      "url": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
+      "published": "Thu, 26 Mar 2026 08:50:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspected RedLine infostealer malware admin extradited to US",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
       "published": "Thu, 26 Mar 2026 07:51:59 -0400",
@@ -590,27 +608,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FCC bans new routers made outside the USA over security risks",
-      "url": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-      "published": "Tue, 24 Mar 2026 16:41:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-      "url": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-      "published": "Tue, 24 Mar 2026 13:23:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-      "published": "Tue, 24 Mar 2026 11:12:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
       "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "published": "Thu, 26 Mar 2026 18:42:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+      "published": "Thu, 26 Mar 2026 18:41:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+      "url": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+      "published": "Thu, 26 Mar 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -707,24 +725,6 @@
       "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
       "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
       "published": "Tue, 24 Mar 2026 12:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-      "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-      "published": "Tue, 24 Mar 2026 11:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
-      "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
-      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-      "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-      "published": "Mon, 23 Mar 2026 18:44:00 +0530",
       "source": "The Hacker News"
     },
     {
