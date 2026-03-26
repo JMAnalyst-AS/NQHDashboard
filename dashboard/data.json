@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T11:27:03.959898Z",
+  "generated_at": "2026-03-26T12:08:01.444129Z",
   "segment1": [
     {
       "title": "Florida senator sues Booz Allen over his leaked tax returns",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Suspected RedLine infostealer malware admin extradited to US",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+      "published": "Thu, 26 Mar 2026 07:51:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub adds AI-powered bug detection to expand security coverage",
       "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
       "published": "Wed, 25 Mar 2026 19:23:39 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-      "published": "Tue, 24 Mar 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
@@ -381,18 +393,6 @@
       "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
       "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
       "published": "Mon, 23 Mar 2026 18:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-      "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-      "published": "Mon, 23 Mar 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-      "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-      "published": "Mon, 23 Mar 2026 16:25:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Suspected RedLine infostealer malware admin extradited to US",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+      "published": "Thu, 26 Mar 2026 07:51:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub adds AI-powered bug detection to expand security coverage",
       "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
       "published": "Wed, 25 Mar 2026 19:23:39 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-      "published": "Tue, 24 Mar 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
@@ -713,18 +725,6 @@
       "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
       "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
       "published": "Mon, 23 Mar 2026 18:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-      "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-      "published": "Mon, 23 Mar 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-      "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-      "published": "Mon, 23 Mar 2026 16:25:00 +0530",
       "source": "The Hacker News"
     },
     {
