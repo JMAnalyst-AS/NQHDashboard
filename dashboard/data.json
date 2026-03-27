@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T08:54:16.840109Z",
+  "generated_at": "2026-03-27T09:55:35.295479Z",
   "segment1": [
     {
       "title": "Florida senator sues Booz Allen over his leaked tax returns",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
+      "published": "Fri, 27 Mar 2026 05:20:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dutch Police discloses security breach after phishing attack",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
       "published": "Fri, 27 Mar 2026 04:20:11 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-      "published": "Wed, 25 Mar 2026 11:52:10 -0400",
-      "source": "BleepingComputer"
+      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
@@ -387,12 +393,6 @@
       "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
       "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
       "published": "Tue, 24 Mar 2026 17:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-      "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "published": "Tue, 24 Mar 2026 16:08:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
+      "published": "Fri, 27 Mar 2026 05:20:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dutch Police discloses security breach after phishing attack",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
       "published": "Fri, 27 Mar 2026 04:20:11 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-      "published": "Wed, 25 Mar 2026 11:52:10 -0400",
-      "source": "BleepingComputer"
+      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
@@ -719,12 +725,6 @@
       "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
       "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
       "published": "Tue, 24 Mar 2026 17:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-      "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "published": "Tue, 24 Mar 2026 16:08:00 +0530",
       "source": "The Hacker News"
     },
     {
