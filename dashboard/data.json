@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T13:21:43.147360Z",
+  "generated_at": "2026-03-30T14:49:02.584839Z",
   "segment1": [
     {
       "title": "Estonian hospital sends patient home with other peoples’ health data",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
+      "published": "Mon, 30 Mar 2026 10:32:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
+      "published": "Mon, 30 Mar 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
       "published": "Mon, 30 Mar 2026 06:59:38 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Police discloses security breach after phishing attack",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
-      "published": "Fri, 27 Mar 2026 04:20:11 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+      "url": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+      "published": "Mon, 30 Mar 2026 19:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-      "url": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-      "published": "Thu, 26 Mar 2026 16:37:25 -0400",
-      "source": "BleepingComputer"
+      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+      "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+      "published": "Mon, 30 Mar 2026 18:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
@@ -384,16 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-      "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
-      "source": "The Hacker News"
+      "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
+      "url": "https://www.bellingcat.com/resources/2026/03/30/explosive-misinformation-a-guide-to-mushroom-clouds-sonic-weapons-and-disintegration/",
+      "published": "Mon, 30 Mar 2026 13:46:42 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike",
@@ -447,12 +453,6 @@
       "title": "Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran",
       "url": "https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/",
       "published": "Sun, 08 Mar 2026 19:08:48 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions",
-      "url": "https://www.bellingcat.com/news/2026/03/07/new-footage-shows-wanted-kinahan-cartel-kingpins-post-sanctions/",
-      "published": "Sat, 07 Mar 2026 17:59:30 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
+      "published": "Mon, 30 Mar 2026 10:32:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
+      "published": "Mon, 30 Mar 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
       "published": "Mon, 30 Mar 2026 06:59:38 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Police discloses security breach after phishing attack",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
-      "published": "Fri, 27 Mar 2026 04:20:11 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+      "url": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+      "published": "Mon, 30 Mar 2026 19:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-      "url": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-      "published": "Thu, 26 Mar 2026 16:37:25 -0400",
-      "source": "BleepingComputer"
+      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+      "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+      "published": "Mon, 30 Mar 2026 18:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
@@ -716,16 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-      "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
-      "source": "The Hacker News"
+      "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
+      "url": "https://www.bellingcat.com/resources/2026/03/30/explosive-misinformation-a-guide-to-mushroom-clouds-sonic-weapons-and-disintegration/",
+      "published": "Mon, 30 Mar 2026 13:46:42 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike",
@@ -779,12 +785,6 @@
       "title": "Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran",
       "url": "https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/",
       "published": "Sun, 08 Mar 2026 19:08:48 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions",
-      "url": "https://www.bellingcat.com/news/2026/03/07/new-footage-shows-wanted-kinahan-cartel-kingpins-post-sanctions/",
-      "published": "Sat, 07 Mar 2026 17:59:30 +0000",
       "source": "bellingcat"
     }
   ]
