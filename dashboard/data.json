@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:54:34.136973Z",
+  "generated_at": "2026-03-30T10:17:14.382872Z",
   "segment1": [
     {
       "title": "Did you sign up for the new White House app?  Don’t use it until you read this!",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pulls KB5079391 Windows update over install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
       "published": "Mon, 30 Mar 2026 03:48:17 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
-      "published": "Thu, 26 Mar 2026 11:42:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "published": "Mon, 30 Mar 2026 15:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
@@ -387,12 +393,6 @@
       "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
       "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
       "published": "Thu, 26 Mar 2026 12:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-      "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pulls KB5079391 Windows update over install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
       "published": "Mon, 30 Mar 2026 03:48:17 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
-      "published": "Thu, 26 Mar 2026 11:42:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "published": "Mon, 30 Mar 2026 15:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
@@ -719,12 +725,6 @@
       "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
       "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
       "published": "Thu, 26 Mar 2026 12:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-      "url": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
       "source": "The Hacker News"
     },
     {
