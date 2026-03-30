@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-30T10:17:14.382872Z",
+  "generated_at": "2026-03-30T11:33:12.679376Z",
   "segment1": [
+    {
+      "title": "South African government agency and Spanish psychological software provider victims of cyberattacks by XP95",
+      "url": "https://databreaches.net/2026/03/30/south-african-government-agency-and-spanish-psychological-software-provider-victims-of-cyberattacks-by-xp95/?pk_campaign=feed&pk_kwd=south-african-government-agency-and-spanish-psychological-software-provider-victims-of-cyberattacks-by-xp95",
+      "published": "Mon, 30 Mar 2026 11:24:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Did you sign up for the new White House app?  Don’t use it until you read this!",
       "url": "https://databreaches.net/2026/03/29/did-you-sign-up-for-the-new-white-house-app-dont-use-it-until-you-read-this/?pk_campaign=feed&pk_kwd=did-you-sign-up-for-the-new-white-house-app-dont-use-it-until-you-read-this",
@@ -53,17 +59,17 @@
       "title": "Ransomware Attack Totally Cripples Jackson County Sheriff’s Office in Indiana",
       "url": "https://databreaches.net/2026/03/27/ransomware-attack-totally-cripples-jackson-county-sheriffs-office-in-indiana/?pk_campaign=feed&pk_kwd=ransomware-attack-totally-cripples-jackson-county-sheriffs-office-in-indiana",
       "published": "Fri, 27 Mar 2026 17:48:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran. But why?",
-      "url": "https://databreaches.net/2026/03/27/canisterworm-springs-wiper-attack-targeting-iran-but-why/?pk_campaign=feed&pk_kwd=canisterworm-springs-wiper-attack-targeting-iran-but-why",
-      "published": "Fri, 27 Mar 2026 14:53:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "South African government agency and Spanish psychological software provider victims of cyberattacks by XP95",
+      "url": "https://databreaches.net/2026/03/30/south-african-government-agency-and-spanish-psychological-software-provider-victims-of-cyberattacks-by-xp95/?pk_campaign=feed&pk_kwd=south-african-government-agency-and-spanish-psychological-software-provider-victims-of-cyberattacks-by-xp95",
+      "published": "Mon, 30 Mar 2026 11:24:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Did you sign up for the new White House app?  Don’t use it until you read this!",
       "url": "https://databreaches.net/2026/03/29/did-you-sign-up-for-the-new-white-house-app-dont-use-it-until-you-read-this/?pk_campaign=feed&pk_kwd=did-you-sign-up-for-the-new-white-house-app-dont-use-it-until-you-read-this",
       "published": "Sun, 29 Mar 2026 19:44:58 +0000",
@@ -115,12 +121,6 @@
       "title": "Ransomware Attack Totally Cripples Jackson County Sheriff’s Office in Indiana",
       "url": "https://databreaches.net/2026/03/27/ransomware-attack-totally-cripples-jackson-county-sheriffs-office-in-indiana/?pk_campaign=feed&pk_kwd=ransomware-attack-totally-cripples-jackson-county-sheriffs-office-in-indiana",
       "published": "Fri, 27 Mar 2026 17:48:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran. But why?",
-      "url": "https://databreaches.net/2026/03/27/canisterworm-springs-wiper-attack-targeting-iran-but-why/?pk_campaign=feed&pk_kwd=canisterworm-springs-wiper-attack-targeting-iran-but-why",
-      "published": "Fri, 27 Mar 2026 14:53:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft pulls KB5079391 Windows update over install issues",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "published": "Thu, 26 Mar 2026 15:17:43 -0400",
-      "source": "BleepingComputer"
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "url": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
@@ -387,12 +393,6 @@
       "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
       "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
       "published": "Thu, 26 Mar 2026 16:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-      "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-      "published": "Thu, 26 Mar 2026 12:23:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft pulls KB5079391 Windows update over install issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
       "published": "Mon, 30 Mar 2026 05:38:45 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "published": "Thu, 26 Mar 2026 15:17:43 -0400",
-      "source": "BleepingComputer"
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "url": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
@@ -719,12 +725,6 @@
       "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
       "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
       "published": "Thu, 26 Mar 2026 16:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-      "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-      "published": "Thu, 26 Mar 2026 12:23:00 +0530",
       "source": "The Hacker News"
     },
     {
