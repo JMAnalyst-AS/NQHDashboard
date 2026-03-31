@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T22:02:37.942892Z",
+  "generated_at": "2026-03-31T22:59:11.760375Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "published": "Tue, 31 Mar 2026 18:28:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
       "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
       "published": "Tue, 31 Mar 2026 17:45:14 -0400",
@@ -261,18 +273,6 @@
       "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
       "published": "Mon, 30 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "published": "Tue, 31 Mar 2026 18:28:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
       "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
       "published": "Tue, 31 Mar 2026 17:45:14 -0400",
@@ -593,18 +605,6 @@
       "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
       "published": "Mon, 30 Mar 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
       "source": "BleepingComputer"
     },
     {
