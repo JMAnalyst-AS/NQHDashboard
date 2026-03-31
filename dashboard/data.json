@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T11:50:03.534091Z",
+  "generated_at": "2026-03-31T13:20:01.252111Z",
   "segment1": [
     {
       "title": "Estonian hospital sends patient home with other peoples’ health data",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
       "published": "Tue, 31 Mar 2026 05:15:45 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-      "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "published": "Sat, 28 Mar 2026 10:35:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
@@ -384,16 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "published": "Thu, 26 Mar 2026 23:10:00 +0530",
-      "source": "The Hacker News"
+      "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
+      "url": "https://www.bellingcat.com/news/2026/03/31/india-bjp-hate-speech-ai/",
+      "published": "Tue, 31 Mar 2026 13:00:16 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
@@ -447,12 +453,6 @@
       "title": "Tracing Tomahawks: US Missiles Bound for Iran Spotted Over Iraq",
       "url": "https://www.bellingcat.com/news/middle-east/2026/03/11/iran-war-iraq-tomahawks-munitions-syria-located-kurdistan-missiles-fired/",
       "published": "Wed, 11 Mar 2026 13:55:35 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran",
-      "url": "https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/",
-      "published": "Sun, 08 Mar 2026 19:08:48 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
       "published": "Tue, 31 Mar 2026 05:15:45 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-      "url": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "published": "Sat, 28 Mar 2026 10:35:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
@@ -716,16 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "published": "Thu, 26 Mar 2026 23:10:00 +0530",
-      "source": "The Hacker News"
+      "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
+      "url": "https://www.bellingcat.com/news/2026/03/31/india-bjp-hate-speech-ai/",
+      "published": "Tue, 31 Mar 2026 13:00:16 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
@@ -779,12 +785,6 @@
       "title": "Tracing Tomahawks: US Missiles Bound for Iran Spotted Over Iraq",
       "url": "https://www.bellingcat.com/news/middle-east/2026/03/11/iran-war-iraq-tomahawks-munitions-syria-located-kurdistan-missiles-fired/",
       "published": "Wed, 11 Mar 2026 13:55:35 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran",
-      "url": "https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/",
-      "published": "Sun, 08 Mar 2026 19:08:48 +0000",
       "source": "bellingcat"
     }
   ]
