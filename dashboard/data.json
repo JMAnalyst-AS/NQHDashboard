@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T13:20:01.252111Z",
+  "generated_at": "2026-03-31T14:46:05.455549Z",
   "segment1": [
     {
       "title": "Estonian hospital sends patient home with other peoples’ health data",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to Categorize AI Agents and Prioritize Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "published": "Tue, 31 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "published": "Tue, 31 Mar 2026 09:53:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
       "published": "Tue, 31 Mar 2026 08:04:15 -0400",
@@ -264,27 +276,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI confirms hack of Director Patel's personal email inbox",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "published": "Sun, 29 Mar 2026 17:09:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "published": "Sun, 29 Mar 2026 10:38:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "published": "Tue, 31 Mar 2026 18:39:00 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
       "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -387,12 +393,6 @@
       "title": "We Are At War",
       "url": "https://thehackernews.com/2026/03/we-are-at-war.html",
       "published": "Fri, 27 Mar 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "published": "Fri, 27 Mar 2026 15:34:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How to Categorize AI Agents and Prioritize Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "published": "Tue, 31 Mar 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "published": "Tue, 31 Mar 2026 09:53:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
       "published": "Tue, 31 Mar 2026 08:04:15 -0400",
@@ -596,27 +608,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI confirms hack of Director Patel's personal email inbox",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "published": "Sun, 29 Mar 2026 17:09:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "published": "Sun, 29 Mar 2026 10:38:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "published": "Tue, 31 Mar 2026 18:39:00 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
       "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -719,12 +725,6 @@
       "title": "We Are At War",
       "url": "https://thehackernews.com/2026/03/we-are-at-war.html",
       "published": "Fri, 27 Mar 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "published": "Fri, 27 Mar 2026 15:34:00 +0530",
       "source": "The Hacker News"
     },
     {
