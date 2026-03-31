@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-31T17:30:53.494993Z",
+  "generated_at": "2026-03-31T19:02:03.502852Z",
   "segment1": [
+    {
+      "title": "Attack on axios software developer tool threatens widespread compromises",
+      "url": "https://databreaches.net/2026/03/31/attack-on-axios-software-developer-tool-threatens-widespread-compromises/?pk_campaign=feed&pk_kwd=attack-on-axios-software-developer-tool-threatens-widespread-compromises",
+      "published": "Tue, 31 Mar 2026 18:27:05 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Estonian hospital sends patient home with other peoples’ health data",
       "url": "https://databreaches.net/2026/03/30/estonian-hospital-sends-patient-home-with-other-peoples-health-data/?pk_campaign=feed&pk_kwd=estonian-hospital-sends-patient-home-with-other-peoples-health-data",
@@ -53,17 +59,17 @@
       "title": "Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model",
       "url": "https://databreaches.net/2026/03/28/meet-claude-mythos-leaked-anthropic-post-reveals-the-powerful-upcoming-model/?pk_campaign=feed&pk_kwd=meet-claude-mythos-leaked-anthropic-post-reveals-the-powerful-upcoming-model",
       "published": "Sat, 28 Mar 2026 11:34:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "LeakBase’s “Chucky” detained in Russia",
-      "url": "https://databreaches.net/2026/03/27/leakbases-chucky-detained-in-russia/?pk_campaign=feed&pk_kwd=leakbases-chucky-detained-in-russia",
-      "published": "Fri, 27 Mar 2026 22:38:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Attack on axios software developer tool threatens widespread compromises",
+      "url": "https://databreaches.net/2026/03/31/attack-on-axios-software-developer-tool-threatens-widespread-compromises/?pk_campaign=feed&pk_kwd=attack-on-axios-software-developer-tool-threatens-widespread-compromises",
+      "published": "Tue, 31 Mar 2026 18:27:05 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Estonian hospital sends patient home with other peoples’ health data",
       "url": "https://databreaches.net/2026/03/30/estonian-hospital-sends-patient-home-with-other-peoples-health-data/?pk_campaign=feed&pk_kwd=estonian-hospital-sends-patient-home-with-other-peoples-health-data",
       "published": "Mon, 30 Mar 2026 12:05:53 +0000",
@@ -115,12 +121,6 @@
       "title": "Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model",
       "url": "https://databreaches.net/2026/03/28/meet-claude-mythos-leaked-anthropic-post-reveals-the-powerful-upcoming-model/?pk_campaign=feed&pk_kwd=meet-claude-mythos-leaked-anthropic-post-reveals-the-powerful-upcoming-model",
       "published": "Sat, 28 Mar 2026 11:34:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "LeakBase’s “Chucky” detained in Russia",
-      "url": "https://databreaches.net/2026/03/27/leakbases-chucky-detained-in-russia/?pk_campaign=feed&pk_kwd=leakbases-chucky-detained-in-russia",
-      "published": "Fri, 27 Mar 2026 22:38:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "published": "Tue, 31 Mar 2026 13:53:04 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "How to Categorize AI Agents and Prioritize Risk",
@@ -267,12 +273,6 @@
       "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
       "published": "Mon, 30 Mar 2026 03:48:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "European Commission confirms data breach after Europa.eu hack",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-      "published": "Mon, 30 Mar 2026 02:42:58 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "published": "Tue, 31 Mar 2026 13:53:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "How to Categorize AI Agents and Prioritize Risk",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
       "published": "Tue, 31 Mar 2026 10:00:10 -0400",
@@ -599,12 +605,6 @@
       "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
       "published": "Mon, 30 Mar 2026 03:48:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "European Commission confirms data breach after Europa.eu hack",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-      "published": "Mon, 30 Mar 2026 02:42:58 -0400",
       "source": "BleepingComputer"
     },
     {
