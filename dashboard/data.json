@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T10:56:49.630778Z",
+  "generated_at": "2026-04-01T11:54:47.005113Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
       "published": "Wed, 01 Apr 2026 06:25:36 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "published": "Tue, 31 Mar 2026 03:05:25 -0400",
-      "source": "BleepingComputer"
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+      "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "published": "Wed, 01 Apr 2026 16:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
@@ -387,12 +393,6 @@
       "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
       "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
       "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "published": "Fri, 27 Mar 2026 22:52:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
       "published": "Wed, 01 Apr 2026 06:25:36 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "published": "Tue, 31 Mar 2026 03:05:25 -0400",
-      "source": "BleepingComputer"
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+      "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "published": "Wed, 01 Apr 2026 16:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
@@ -719,12 +725,6 @@
       "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
       "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
       "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "published": "Fri, 27 Mar 2026 22:52:00 +0530",
       "source": "The Hacker News"
     },
     {
