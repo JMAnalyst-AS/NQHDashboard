@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T19:36:56.824356Z",
+  "generated_at": "2026-04-01T20:43:29.678514Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "published": "Wed, 01 Apr 2026 15:42:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
       "url": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
       "published": "Wed, 01 Apr 2026 14:07:21 -0400",
@@ -267,12 +273,6 @@
       "title": "Hackers compromise Axios npm package to drop cross-platform malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
       "published": "Tue, 31 Mar 2026 09:53:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "published": "Wed, 01 Apr 2026 15:42:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
       "url": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
       "published": "Wed, 01 Apr 2026 14:07:21 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers compromise Axios npm package to drop cross-platform malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
       "published": "Tue, 31 Mar 2026 09:53:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
       "source": "BleepingComputer"
     },
     {
