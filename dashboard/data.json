@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T05:24:38.708369Z",
+  "generated_at": "2026-04-01T06:59:06.998082Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Drive ransomware detection now on by default for paying users",
+      "url": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+      "published": "Wed, 01 Apr 2026 01:33:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude Code source code accidentally leaked in NPM package",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
       "published": "Tue, 31 Mar 2026 20:32:25 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-      "published": "Mon, 30 Mar 2026 16:49:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-      "published": "Mon, 30 Mar 2026 14:28:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
@@ -387,12 +393,6 @@
       "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
       "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
       "published": "Fri, 27 Mar 2026 22:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "published": "Fri, 27 Mar 2026 19:27:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Drive ransomware detection now on by default for paying users",
+      "url": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+      "published": "Wed, 01 Apr 2026 01:33:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude Code source code accidentally leaked in NPM package",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
       "published": "Tue, 31 Mar 2026 20:32:25 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-      "published": "Mon, 30 Mar 2026 16:49:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-      "published": "Mon, 30 Mar 2026 14:28:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
@@ -719,12 +725,6 @@
       "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
       "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
       "published": "Fri, 27 Mar 2026 22:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "published": "Fri, 27 Mar 2026 19:27:00 +0530",
       "source": "The Hacker News"
     },
     {
