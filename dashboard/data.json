@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T13:23:26.684290Z",
+  "generated_at": "2026-04-01T14:49:38.467752Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+      "url": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+      "published": "Wed, 01 Apr 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI warns against using Chinese mobile apps due to privacy risks",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
       "published": "Wed, 01 Apr 2026 07:39:10 -0400",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-      "published": "Tue, 31 Mar 2026 03:52:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "published": "Wed, 01 Apr 2026 18:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "published": "Wed, 01 Apr 2026 18:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
@@ -369,30 +393,6 @@
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "published": "Mon, 30 Mar 2026 12:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-      "published": "Sat, 28 Mar 2026 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-      "published": "Sat, 28 Mar 2026 14:41:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+      "url": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+      "published": "Wed, 01 Apr 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI warns against using Chinese mobile apps due to privacy risks",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
       "published": "Wed, 01 Apr 2026 07:39:10 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-      "published": "Tue, 31 Mar 2026 03:52:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "published": "Wed, 01 Apr 2026 18:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "published": "Wed, 01 Apr 2026 18:06:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
@@ -701,30 +725,6 @@
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "published": "Mon, 30 Mar 2026 12:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-      "published": "Sat, 28 Mar 2026 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-      "published": "Sat, 28 Mar 2026 14:41:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
       "source": "The Hacker News"
     },
     {
