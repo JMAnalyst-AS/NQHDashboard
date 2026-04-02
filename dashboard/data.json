@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T10:05:50.529732Z",
+  "generated_at": "2026-04-02T11:24:23.624316Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+      "published": "Thu, 02 Apr 2026 07:01:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft links Classic Outlook issue to email delivery problems",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
       "published": "Thu, 02 Apr 2026 05:12:12 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "published": "Thu, 02 Apr 2026 15:21:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
@@ -387,12 +393,6 @@
       "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
       "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
       "published": "Mon, 30 Mar 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-      "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-      "published": "Mon, 30 Mar 2026 17:48:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+      "published": "Thu, 02 Apr 2026 07:01:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft links Classic Outlook issue to email delivery problems",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
       "published": "Thu, 02 Apr 2026 05:12:12 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "published": "Thu, 02 Apr 2026 15:21:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
@@ -719,12 +725,6 @@
       "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
       "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
       "published": "Mon, 30 Mar 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-      "url": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-      "published": "Mon, 30 Mar 2026 17:48:00 +0530",
       "source": "The Hacker News"
     },
     {
