@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:01:49.726351Z",
+  "generated_at": "2026-04-02T15:34:29.102940Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "published": "Thu, 02 Apr 2026 11:21:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "published": "Thu, 02 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
       "published": "Thu, 02 Apr 2026 09:33:11 -0400",
@@ -261,18 +273,6 @@
       "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
       "published": "Wed, 01 Apr 2026 06:25:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Drive ransomware detection now on by default for paying users",
-      "url": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "published": "Wed, 01 Apr 2026 01:33:43 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes",
+      "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/",
+      "published": "Thu, 02 Apr 2026 15:29:42 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Croatia’s Football Team Signed Deal With Gambling Sponsor Whose Rep Used Fake Name",
       "url": "https://www.bellingcat.com/news/2026/04/01/croatian-football-teams-deal-with-gambling-sponsor/",
       "published": "Wed, 01 Apr 2026 10:00:00 +0000",
@@ -447,12 +453,6 @@
       "title": "Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions",
       "url": "https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/",
       "published": "Sat, 14 Mar 2026 18:02:13 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "AI Used to Promote Non-Existent Evacuation Flights From the Middle East",
-      "url": "https://www.bellingcat.com/news/2026/03/12/ai-used-to-promote-non-existent-evacuation-flights-from-the-middle-east/",
-      "published": "Thu, 12 Mar 2026 10:46:35 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "published": "Thu, 02 Apr 2026 11:21:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "published": "Thu, 02 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
       "published": "Thu, 02 Apr 2026 09:33:11 -0400",
@@ -593,18 +605,6 @@
       "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
       "published": "Wed, 01 Apr 2026 06:25:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google Drive ransomware detection now on by default for paying users",
-      "url": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "published": "Wed, 01 Apr 2026 01:33:43 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -728,6 +728,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes",
+      "url": "https://www.bellingcat.com/news/2026/04/02/war-uae-iran-infuencer-dubai-conflict-drone-successful-strike-intercept-fire/",
+      "published": "Thu, 02 Apr 2026 15:29:42 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Croatia’s Football Team Signed Deal With Gambling Sponsor Whose Rep Used Fake Name",
       "url": "https://www.bellingcat.com/news/2026/04/01/croatian-football-teams-deal-with-gambling-sponsor/",
       "published": "Wed, 01 Apr 2026 10:00:00 +0000",
@@ -779,12 +785,6 @@
       "title": "Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions",
       "url": "https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/",
       "published": "Sat, 14 Mar 2026 18:02:13 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "AI Used to Promote Non-Existent Evacuation Flights From the Middle East",
-      "url": "https://www.bellingcat.com/news/2026/03/12/ai-used-to-promote-non-existent-evacuation-flights-from-the-middle-east/",
-      "published": "Thu, 12 Mar 2026 10:46:35 +0000",
       "source": "bellingcat"
     }
   ]
