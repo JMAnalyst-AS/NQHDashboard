@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T19:52:09.893717Z",
+  "generated_at": "2026-04-02T20:35:46.774449Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "published": "Thu, 02 Apr 2026 16:30:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Drift loses $280 million as hackers seize Security Council powers",
       "url": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
       "published": "Thu, 02 Apr 2026 15:03:39 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "published": "Fri, 03 Apr 2026 01:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
@@ -387,12 +393,6 @@
       "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
       "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
       "published": "Tue, 31 Mar 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-      "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "published": "Tue, 31 Mar 2026 11:38:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "published": "Thu, 02 Apr 2026 16:30:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Drift loses $280 million as hackers seize Security Council powers",
       "url": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
       "published": "Thu, 02 Apr 2026 15:03:39 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "published": "Fri, 03 Apr 2026 01:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
@@ -719,12 +725,6 @@
       "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
       "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
       "published": "Tue, 31 Mar 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-      "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "published": "Tue, 31 Mar 2026 11:38:00 +0530",
       "source": "The Hacker News"
     },
     {
