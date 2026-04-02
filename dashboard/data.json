@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T12:06:31.632509Z",
+  "generated_at": "2026-04-02T14:01:49.726351Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "published": "Thu, 02 Apr 2026 09:33:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Medtech giant Stryker fully operational after data-wiping attack",
+      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+      "published": "Thu, 02 Apr 2026 09:28:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
       "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
       "published": "Thu, 02 Apr 2026 07:01:14 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Claude Code source code accidentally leaked in NPM package",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-      "published": "Tue, 31 Mar 2026 20:32:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google now allows you to change your @gmail.com address",
-      "url": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "published": "Tue, 31 Mar 2026 19:13:56 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "published": "Thu, 02 Apr 2026 18:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
@@ -387,12 +393,6 @@
       "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
       "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
       "published": "Mon, 30 Mar 2026 23:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-      "published": "Mon, 30 Mar 2026 21:17:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "published": "Thu, 02 Apr 2026 09:33:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Medtech giant Stryker fully operational after data-wiping attack",
+      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+      "published": "Thu, 02 Apr 2026 09:28:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
       "url": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
       "published": "Thu, 02 Apr 2026 07:01:14 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Claude Code source code accidentally leaked in NPM package",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-      "published": "Tue, 31 Mar 2026 20:32:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google now allows you to change your @gmail.com address",
-      "url": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "published": "Tue, 31 Mar 2026 19:13:56 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "published": "Thu, 02 Apr 2026 18:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
@@ -719,12 +725,6 @@
       "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
       "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
       "published": "Mon, 30 Mar 2026 23:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-      "published": "Mon, 30 Mar 2026 21:17:00 +0530",
       "source": "The Hacker News"
     },
     {
