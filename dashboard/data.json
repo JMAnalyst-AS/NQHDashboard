@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:54:53.337809Z",
+  "generated_at": "2026-04-03T09:53:50.726727Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man admits to locking thousands of Windows devices in extortion plot",
+      "url": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+      "published": "Fri, 03 Apr 2026 05:04:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
       "published": "Fri, 03 Apr 2026 03:55:40 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-      "published": "Wed, 01 Apr 2026 15:42:25 -0400",
-      "source": "BleepingComputer"
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "published": "Fri, 03 Apr 2026 14:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
@@ -381,18 +393,6 @@
       "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
       "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
       "published": "Tue, 31 Mar 2026 18:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
-      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man admits to locking thousands of Windows devices in extortion plot",
+      "url": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+      "published": "Fri, 03 Apr 2026 05:04:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
       "published": "Fri, 03 Apr 2026 03:55:40 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-      "published": "Wed, 01 Apr 2026 15:42:25 -0400",
-      "source": "BleepingComputer"
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "published": "Fri, 03 Apr 2026 14:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
@@ -713,18 +725,6 @@
       "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
       "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
       "published": "Tue, 31 Mar 2026 18:39:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
-      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
