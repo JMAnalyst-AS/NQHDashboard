@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T17:03:26.038599Z",
+  "generated_at": "2026-04-03T18:00:34.507425Z",
   "segment1": [
     {
       "title": "Attack on axios software developer tool threatens widespread compromises",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "published": "Fri, 03 Apr 2026 13:41:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
       "url": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
       "published": "Fri, 03 Apr 2026 12:36:44 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-      "published": "Thu, 02 Apr 2026 04:25:50 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "published": "Fri, 03 Apr 2026 23:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+      "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+      "published": "Fri, 03 Apr 2026 21:02:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
@@ -381,18 +393,6 @@
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
       "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
       "published": "Wed, 01 Apr 2026 13:14:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-      "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-      "published": "Tue, 31 Mar 2026 23:58:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "published": "Fri, 03 Apr 2026 13:41:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
       "url": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
       "published": "Fri, 03 Apr 2026 12:36:44 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-      "published": "Thu, 02 Apr 2026 04:25:50 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "published": "Fri, 03 Apr 2026 23:04:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+      "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+      "published": "Fri, 03 Apr 2026 21:02:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
@@ -713,18 +725,6 @@
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
       "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
       "published": "Wed, 01 Apr 2026 13:14:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-      "url": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-      "published": "Tue, 31 Mar 2026 23:58:00 +0530",
       "source": "The Hacker News"
     },
     {
