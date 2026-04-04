@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-04T19:31:39.008636Z",
+  "generated_at": "2026-04-04T20:33:01.705214Z",
   "segment1": [
+    {
+      "title": "The breach lasted 25 minutes. How long will the litigation last?",
+      "url": "https://databreaches.net/2026/04/04/the-breach-lasted-25-minutes-how-long-will-the-litigation-last/?pk_campaign=feed&pk_kwd=the-breach-lasted-25-minutes-how-long-will-the-litigation-last",
+      "published": "Sat, 04 Apr 2026 19:52:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hong Kong Hospital Authority apologises for data breach involving 56,000 patients",
       "url": "https://databreaches.net/2026/04/04/hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients/?pk_campaign=feed&pk_kwd=hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients",
@@ -53,17 +59,17 @@
       "title": "Nacogdoches Memorial Hospital notifies 257,073 after January data breach",
       "url": "https://databreaches.net/2026/04/03/nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach/?pk_campaign=feed&pk_kwd=nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach",
       "published": "Fri, 03 Apr 2026 22:08:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Apex recovers stolen personal data after about 22K impacted in cyberattack: Town",
-      "url": "https://databreaches.net/2026/04/03/apex-recovers-stolen-personal-data-after-about-22k-impacted-in-cyberattack-town/?pk_campaign=feed&pk_kwd=apex-recovers-stolen-personal-data-after-about-22k-impacted-in-cyberattack-town",
-      "published": "Fri, 03 Apr 2026 22:08:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The breach lasted 25 minutes. How long will the litigation last?",
+      "url": "https://databreaches.net/2026/04/04/the-breach-lasted-25-minutes-how-long-will-the-litigation-last/?pk_campaign=feed&pk_kwd=the-breach-lasted-25-minutes-how-long-will-the-litigation-last",
+      "published": "Sat, 04 Apr 2026 19:52:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hong Kong Hospital Authority apologises for data breach involving 56,000 patients",
       "url": "https://databreaches.net/2026/04/04/hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients/?pk_campaign=feed&pk_kwd=hong-kong-hospital-authority-apologises-for-data-breach-involving-56000-patients",
       "published": "Sat, 04 Apr 2026 15:50:58 +0000",
@@ -115,12 +121,6 @@
       "title": "Nacogdoches Memorial Hospital notifies 257,073 after January data breach",
       "url": "https://databreaches.net/2026/04/03/nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach/?pk_campaign=feed&pk_kwd=nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach",
       "published": "Fri, 03 Apr 2026 22:08:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Apex recovers stolen personal data after about 22K impacted in cyberattack: Town",
-      "url": "https://databreaches.net/2026/04/03/apex-recovers-stolen-personal-data-after-about-22k-impacted-in-cyberattack-town/?pk_campaign=feed&pk_kwd=apex-recovers-stolen-personal-data-after-about-22k-impacted-in-cyberattack-town",
-      "published": "Fri, 03 Apr 2026 22:08:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "published": "Sat, 04 Apr 2026 16:30:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Device code phishing attacks surge 37x as new kits spread online",
@@ -267,12 +273,6 @@
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
       "published": "Thu, 02 Apr 2026 09:33:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Medtech giant Stryker fully operational after data-wiping attack",
-      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-      "published": "Thu, 02 Apr 2026 09:28:39 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "published": "Sat, 04 Apr 2026 16:30:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Device code phishing attacks surge 37x as new kits spread online",
       "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
       "published": "Sat, 04 Apr 2026 10:17:38 -0400",
@@ -599,12 +605,6 @@
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
       "published": "Thu, 02 Apr 2026 09:33:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Medtech giant Stryker fully operational after data-wiping attack",
-      "url": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-      "published": "Thu, 02 Apr 2026 09:28:39 -0400",
       "source": "BleepingComputer"
     },
     {
