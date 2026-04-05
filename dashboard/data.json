@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-05T13:57:22.014217Z",
+  "generated_at": "2026-04-05T14:40:06.852976Z",
   "segment1": [
+    {
+      "title": "How often do threat actors default on promises to delete data?",
+      "url": "https://databreaches.net/2026/04/05/how-often-do-threat-actors-default-on-promises-to-delete-data/?pk_campaign=feed&pk_kwd=how-often-do-threat-actors-default-on-promises-to-delete-data",
+      "published": "Sun, 05 Apr 2026 14:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "The breach lasted 25 minutes. How long will the litigation last?",
       "url": "https://databreaches.net/2026/04/04/the-breach-lasted-25-minutes-how-long-will-the-litigation-last/?pk_campaign=feed&pk_kwd=the-breach-lasted-25-minutes-how-long-will-the-litigation-last",
@@ -53,17 +59,17 @@
       "title": "European Commission investigates cyber attack on its websites; CERT-EU publishes recommendations",
       "url": "https://databreaches.net/2026/04/03/european-commission-investigates-cyber-attack-on-its-websites-cert-eu-publishes-recommendations/?pk_campaign=feed&pk_kwd=european-commission-investigates-cyber-attack-on-its-websites-cert-eu-publishes-recommendations",
       "published": "Fri, 03 Apr 2026 22:08:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Nacogdoches Memorial Hospital notifies 257,073 after January data breach",
-      "url": "https://databreaches.net/2026/04/03/nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach/?pk_campaign=feed&pk_kwd=nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach",
-      "published": "Fri, 03 Apr 2026 22:08:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "How often do threat actors default on promises to delete data?",
+      "url": "https://databreaches.net/2026/04/05/how-often-do-threat-actors-default-on-promises-to-delete-data/?pk_campaign=feed&pk_kwd=how-often-do-threat-actors-default-on-promises-to-delete-data",
+      "published": "Sun, 05 Apr 2026 14:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "The breach lasted 25 minutes. How long will the litigation last?",
       "url": "https://databreaches.net/2026/04/04/the-breach-lasted-25-minutes-how-long-will-the-litigation-last/?pk_campaign=feed&pk_kwd=the-breach-lasted-25-minutes-how-long-will-the-litigation-last",
       "published": "Sat, 04 Apr 2026 19:52:40 +0000",
@@ -115,12 +121,6 @@
       "title": "European Commission investigates cyber attack on its websites; CERT-EU publishes recommendations",
       "url": "https://databreaches.net/2026/04/03/european-commission-investigates-cyber-attack-on-its-websites-cert-eu-publishes-recommendations/?pk_campaign=feed&pk_kwd=european-commission-investigates-cyber-attack-on-its-websites-cert-eu-publishes-recommendations",
       "published": "Fri, 03 Apr 2026 22:08:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Nacogdoches Memorial Hospital notifies 257,073 after January data breach",
-      "url": "https://databreaches.net/2026/04/03/nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach/?pk_campaign=feed&pk_kwd=nacogdoches-memorial-hospital-notifies-257073-after-january-data-breach",
-      "published": "Fri, 03 Apr 2026 22:08:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
@@ -267,12 +273,6 @@
       "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
       "published": "Thu, 02 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-      "published": "Thu, 02 Apr 2026 09:33:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
       "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
       "published": "Sat, 04 Apr 2026 16:30:42 -0400",
@@ -599,12 +605,6 @@
       "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
       "published": "Thu, 02 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-      "published": "Thu, 02 Apr 2026 09:33:11 -0400",
       "source": "BleepingComputer"
     },
     {
