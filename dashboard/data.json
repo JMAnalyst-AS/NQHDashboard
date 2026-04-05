@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T18:45:11.761749Z",
+  "generated_at": "2026-04-05T19:33:48.686947Z",
   "segment1": [
     {
       "title": "How often do threat actors default on promises to delete data?",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "published": "Sun, 05 Apr 2026 14:45:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit React2Shell in automated credential theft campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
       "published": "Sun, 05 Apr 2026 10:17:23 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-      "published": "Thu, 02 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "published": "Sun, 05 Apr 2026 23:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
@@ -387,12 +393,6 @@
       "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
       "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
       "published": "Wed, 01 Apr 2026 18:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
-      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "published": "Sun, 05 Apr 2026 14:45:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit React2Shell in automated credential theft campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
       "published": "Sun, 05 Apr 2026 10:17:23 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-      "published": "Thu, 02 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "published": "Sun, 05 Apr 2026 23:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
@@ -719,12 +725,6 @@
       "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
       "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
       "published": "Wed, 01 Apr 2026 18:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
-      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
       "source": "The Hacker News"
     },
     {
