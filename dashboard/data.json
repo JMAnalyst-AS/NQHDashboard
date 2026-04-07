@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T17:32:43.041744Z",
+  "generated_at": "2026-04-07T19:04:21.609624Z",
   "segment1": [
     {
       "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "published": "Tue, 07 Apr 2026 14:02:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
       "published": "Tue, 07 Apr 2026 13:02:05 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit React2Shell in automated credential theft campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "published": "Tue, 07 Apr 2026 22:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+      "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+      "published": "Tue, 07 Apr 2026 21:59:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
@@ -285,12 +297,6 @@
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
       "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
       "published": "Tue, 07 Apr 2026 18:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "published": "Tue, 07 Apr 2026 17:47:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -387,12 +393,6 @@
       "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
       "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
       "published": "Fri, 03 Apr 2026 21:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
-      "published": "Fri, 03 Apr 2026 16:34:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "published": "Tue, 07 Apr 2026 14:02:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
       "published": "Tue, 07 Apr 2026 13:02:05 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit React2Shell in automated credential theft campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "published": "Tue, 07 Apr 2026 22:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+      "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+      "published": "Tue, 07 Apr 2026 21:59:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
@@ -617,12 +629,6 @@
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
       "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
       "published": "Tue, 07 Apr 2026 18:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "published": "Tue, 07 Apr 2026 17:47:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -719,12 +725,6 @@
       "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
       "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
       "published": "Fri, 03 Apr 2026 21:02:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
-      "published": "Fri, 03 Apr 2026 16:34:00 +0530",
       "source": "The Hacker News"
     },
     {
