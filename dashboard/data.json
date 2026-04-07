@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T09:05:08.005478Z",
+  "generated_at": "2026-04-07T10:33:49.008274Z",
   "segment1": [
     {
       "title": "Jones Day confirms limited breach after phishing attack by Silent Ransom Group",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+      "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
+      "published": "Tue, 07 Apr 2026 14:08:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
       "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
       "published": "Tue, 07 Apr 2026 12:05:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
       "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
       "published": "Fri, 03 Apr 2026 01:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
-      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
-      "published": "Thu, 02 Apr 2026 20:51:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+      "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
+      "published": "Tue, 07 Apr 2026 14:08:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
       "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
       "published": "Tue, 07 Apr 2026 12:05:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
       "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
       "published": "Fri, 03 Apr 2026 01:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
-      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
-      "published": "Thu, 02 Apr 2026 20:51:00 +0530",
       "source": "The Hacker News"
     },
     {
