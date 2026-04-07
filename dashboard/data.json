@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:10:13.877728Z",
+  "generated_at": "2026-04-07T17:32:43.041744Z",
   "segment1": [
     {
       "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "published": "Mon, 06 Apr 2026 02:07:17 +0000",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "published": "Tue, 07 Apr 2026 13:02:05 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
@@ -267,12 +273,6 @@
       "title": "Hackers exploit React2Shell in automated credential theft campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
       "published": "Sun, 05 Apr 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-      "published": "Sat, 04 Apr 2026 16:30:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "published": "Mon, 06 Apr 2026 02:07:17 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "source": "Krebs on Security"
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "published": "Tue, 07 Apr 2026 13:02:05 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
@@ -599,12 +605,6 @@
       "title": "Hackers exploit React2Shell in automated credential theft campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
       "published": "Sun, 05 Apr 2026 10:17:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-      "published": "Sat, 04 Apr 2026 16:30:42 -0400",
       "source": "BleepingComputer"
     },
     {
