@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-07T13:20:21.413000Z",
+  "generated_at": "2026-04-07T14:52:35.930376Z",
   "segment1": [
+    {
+      "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
+      "url": "https://databreaches.net/2026/04/07/1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit/?pk_campaign=feed&pk_kwd=1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit",
+      "published": "Tue, 07 Apr 2026 14:38:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Jones Day confirms limited breach after phishing attack by Silent Ransom Group",
       "url": "https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group",
@@ -53,17 +59,17 @@
       "title": "Fitness tracking under scrutiny as Strava military data leak exposes personnel",
       "url": "https://databreaches.net/2026/04/06/fitness-tracking-under-scrutiny-as-strava-military-data-leak-exposes-personnel/?pk_campaign=feed&pk_kwd=fitness-tracking-under-scrutiny-as-strava-military-data-leak-exposes-personnel",
       "published": "Mon, 06 Apr 2026 11:20:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Moscow, Idaho, clinics reopen after Gritman cyber incident",
-      "url": "https://databreaches.net/2026/04/06/moscow-idaho-clinics-reopen-after-gritman-cyber-incident/?pk_campaign=feed&pk_kwd=moscow-idaho-clinics-reopen-after-gritman-cyber-incident",
-      "published": "Mon, 06 Apr 2026 11:20:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
+      "url": "https://databreaches.net/2026/04/07/1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit/?pk_campaign=feed&pk_kwd=1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit",
+      "published": "Tue, 07 Apr 2026 14:38:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Jones Day confirms limited breach after phishing attack by Silent Ransom Group",
       "url": "https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group",
       "published": "Tue, 07 Apr 2026 02:44:15 +0000",
@@ -115,12 +121,6 @@
       "title": "Fitness tracking under scrutiny as Strava military data leak exposes personnel",
       "url": "https://databreaches.net/2026/04/06/fitness-tracking-under-scrutiny-as-strava-military-data-leak-exposes-personnel/?pk_campaign=feed&pk_kwd=fitness-tracking-under-scrutiny-as-strava-military-data-leak-exposes-personnel",
       "published": "Mon, 06 Apr 2026 11:20:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Moscow, Idaho, clinics reopen after Gritman cyber incident",
-      "url": "https://databreaches.net/2026/04/06/moscow-idaho-clinics-reopen-after-gritman-cyber-incident/?pk_campaign=feed&pk_kwd=moscow-idaho-clinics-reopen-after-gritman-cyber-incident",
-      "published": "Mon, 06 Apr 2026 11:20:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+      "url": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "published": "Tue, 07 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
       "published": "Mon, 06 Apr 2026 19:54:04 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-      "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "published": "Fri, 03 Apr 2026 16:40:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "published": "Tue, 07 Apr 2026 18:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
@@ -390,10 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
-      "source": "The Hacker News"
+      "title": "When Satellite Imagery Goes Dark: New Tool Shows Damage in Iran and the Gulf",
+      "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
+      "published": "Tue, 07 Apr 2026 13:35:12 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes",
@@ -447,12 +453,6 @@
       "title": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US",
       "url": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
       "published": "Tue, 17 Mar 2026 22:16:35 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions",
-      "url": "https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/",
-      "published": "Sat, 14 Mar 2026 18:02:13 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+      "url": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "published": "Tue, 07 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
       "published": "Mon, 06 Apr 2026 19:54:04 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-      "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "published": "Fri, 03 Apr 2026 16:40:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "published": "Tue, 07 Apr 2026 18:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
@@ -722,10 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
-      "source": "The Hacker News"
+      "title": "When Satellite Imagery Goes Dark: New Tool Shows Damage in Iran and the Gulf",
+      "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
+      "published": "Tue, 07 Apr 2026 13:35:12 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "The War You’re Not Allowed to See: How the UAE Rewrites the Story of Iranian Strikes",
@@ -779,12 +785,6 @@
       "title": "Agents of Chaos: Unpacking the Actions of Border Patrol Agents Across the US",
       "url": "https://www.bellingcat.com/news/2026/03/17/border-patrol-agents-of-chaos/",
       "published": "Tue, 17 Mar 2026 22:16:35 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions",
-      "url": "https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/",
-      "published": "Sat, 14 Mar 2026 18:02:13 +0000",
       "source": "bellingcat"
     }
   ]
