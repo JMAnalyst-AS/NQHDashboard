@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:52:35.930376Z",
+  "generated_at": "2026-04-07T16:10:13.877728Z",
   "segment1": [
     {
       "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "published": "Tue, 07 Apr 2026 11:51:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
       "url": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
       "published": "Tue, 07 Apr 2026 10:01:11 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Device code phishing attacks surge 37x as new kits spread online",
-      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "published": "Sat, 04 Apr 2026 10:17:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
@@ -387,12 +393,6 @@
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
       "published": "Fri, 03 Apr 2026 16:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
-      "url": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
-      "published": "Fri, 03 Apr 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "published": "Tue, 07 Apr 2026 11:51:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
       "url": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
       "published": "Tue, 07 Apr 2026 10:01:11 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Device code phishing attacks surge 37x as new kits spread online",
-      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "published": "Sat, 04 Apr 2026 10:17:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
@@ -719,12 +725,6 @@
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
       "published": "Fri, 03 Apr 2026 16:34:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
-      "url": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
-      "published": "Fri, 03 Apr 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
