@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T21:42:46.429971Z",
+  "generated_at": "2026-04-08T22:39:36.511553Z",
   "segment1": [
     {
       "title": "Hackers steal and leak sensitive LAPD police documents",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
+      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
       "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
       "published": "Wed, 08 Apr 2026 14:55:43 -0400",
@@ -261,18 +273,6 @@
       "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
       "published": "Mon, 06 Apr 2026 19:54:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-      "published": "Mon, 06 Apr 2026 17:44:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-      "published": "Mon, 06 Apr 2026 15:19:27 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
+      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
       "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
       "published": "Wed, 08 Apr 2026 14:55:43 -0400",
@@ -593,18 +605,6 @@
       "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
       "published": "Mon, 06 Apr 2026 19:54:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-      "published": "Mon, 06 Apr 2026 17:44:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-      "published": "Mon, 06 Apr 2026 15:19:27 -0400",
       "source": "BleepingComputer"
     },
     {
