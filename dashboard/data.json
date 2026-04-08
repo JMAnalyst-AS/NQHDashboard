@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-08T14:08:43.826080Z",
+  "generated_at": "2026-04-08T15:55:58.682523Z",
   "segment1": [
+    {
+      "title": "Hackers steal and leak sensitive LAPD police documents",
+      "url": "https://databreaches.net/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/?pk_campaign=feed&pk_kwd=hackers-steal-and-leak-sensitive-lapd-police-documents",
+      "published": "Wed, 08 Apr 2026 15:47:08 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Iowa AG files lawsuit against Change Healthcare over 2024 data breach",
       "url": "https://databreaches.net/2026/04/08/iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach/?pk_campaign=feed&pk_kwd=iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach",
@@ -53,17 +59,17 @@
       "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
       "url": "https://databreaches.net/2026/04/07/1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit/?pk_campaign=feed&pk_kwd=1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit",
       "published": "Tue, 07 Apr 2026 14:38:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jones Day confirms limited breach after phishing attack by Silent Ransom Group",
-      "url": "https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group",
-      "published": "Tue, 07 Apr 2026 02:44:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hackers steal and leak sensitive LAPD police documents",
+      "url": "https://databreaches.net/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/?pk_campaign=feed&pk_kwd=hackers-steal-and-leak-sensitive-lapd-police-documents",
+      "published": "Wed, 08 Apr 2026 15:47:08 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Iowa AG files lawsuit against Change Healthcare over 2024 data breach",
       "url": "https://databreaches.net/2026/04/08/iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach/?pk_campaign=feed&pk_kwd=iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach",
       "published": "Wed, 08 Apr 2026 13:27:36 +0000",
@@ -115,12 +121,6 @@
       "title": "1 Billion Microsoft Users Warned As Angry Hacker Drops 0-Day Exploit",
       "url": "https://databreaches.net/2026/04/07/1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit/?pk_campaign=feed&pk_kwd=1-billion-microsoft-users-warned-as-angry-hacker-drops-0-day-exploit",
       "published": "Tue, 07 Apr 2026 14:38:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jones Day confirms limited breach after phishing attack by Silent Ransom Group",
-      "url": "https://databreaches.net/2026/04/06/jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=jones-day-confirms-limited-breach-after-phishing-attack-by-silent-ransom-group",
-      "published": "Tue, 07 Apr 2026 02:44:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "published": "Wed, 11 Feb 2026 16:08:11 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Is a $30,000 GPU Good at Password Cracking?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
+      "published": "Wed, 08 Apr 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft rolls out fix for broken Windows Start Menu search",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-      "url": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-      "published": "Mon, 06 Apr 2026 12:35:03 -0400",
-      "source": "BleepingComputer"
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "published": "Wed, 08 Apr 2026 19:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
@@ -387,12 +393,6 @@
       "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
       "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
       "published": "Mon, 06 Apr 2026 12:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-      "published": "Sun, 05 Apr 2026 23:55:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Is a $30,000 GPU Good at Password Cracking?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
+      "published": "Wed, 08 Apr 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft rolls out fix for broken Windows Start Menu search",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
       "published": "Wed, 08 Apr 2026 03:00:55 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-      "url": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-      "published": "Mon, 06 Apr 2026 12:35:03 -0400",
-      "source": "BleepingComputer"
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "published": "Wed, 08 Apr 2026 19:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
@@ -719,12 +725,6 @@
       "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
       "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
       "published": "Mon, 06 Apr 2026 12:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-      "published": "Sun, 05 Apr 2026 23:55:00 +0530",
       "source": "The Hacker News"
     },
     {
