@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T08:41:57.012247Z",
+  "generated_at": "2026-04-08T10:08:24.742052Z",
   "segment1": [
     {
       "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "published": "Wed, 08 Apr 2026 14:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
       "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
       "published": "Wed, 08 Apr 2026 13:17:00 +0530",
@@ -387,12 +393,6 @@
       "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
       "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
       "published": "Sun, 05 Apr 2026 10:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-      "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-      "published": "Sun, 05 Apr 2026 10:02:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "published": "Wed, 08 Apr 2026 14:46:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
       "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
       "published": "Wed, 08 Apr 2026 13:17:00 +0530",
@@ -719,12 +725,6 @@
       "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
       "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
       "published": "Sun, 05 Apr 2026 10:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-      "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-      "published": "Sun, 05 Apr 2026 10:02:00 +0530",
       "source": "The Hacker News"
     },
     {
