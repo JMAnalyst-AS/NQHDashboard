@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T13:12:08.173161Z",
+  "generated_at": "2026-04-10T14:33:45.812897Z",
   "segment1": [
     {
       "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+      "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
       "published": "Fri, 10 Apr 2026 07:56:14 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
-      "source": "BleepingComputer"
+      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+      "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+      "published": "Fri, 10 Apr 2026 18:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
@@ -387,12 +393,6 @@
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "published": "Tue, 07 Apr 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+      "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
       "published": "Fri, 10 Apr 2026 07:56:14 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
-      "source": "BleepingComputer"
+      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+      "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+      "published": "Fri, 10 Apr 2026 18:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
@@ -719,12 +725,6 @@
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "published": "Tue, 07 Apr 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
       "source": "The Hacker News"
     },
     {
