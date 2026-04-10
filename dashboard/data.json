@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T10:33:56.497246Z",
+  "generated_at": "2026-04-10T11:50:07.921839Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "published": "Wed, 11 Feb 2026 16:08:11 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+      "url": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "published": "Fri, 10 Apr 2026 06:44:08 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
@@ -148,15 +154,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "published": "Wed, 08 Apr 2026 14:15:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+      "url": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+      "published": "Fri, 10 Apr 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
       "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -259,18 +271,6 @@
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
       "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
       "published": "Tue, 07 Apr 2026 20:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-      "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-      "published": "Tue, 07 Apr 2026 18:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "url": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "published": "Tue, 07 Apr 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+      "url": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "published": "Fri, 10 Apr 2026 06:44:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
       "url": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
       "published": "Thu, 09 Apr 2026 18:04:31 -0400",
@@ -480,15 +486,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "published": "Wed, 08 Apr 2026 14:15:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+      "url": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+      "published": "Fri, 10 Apr 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
       "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -591,18 +603,6 @@
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
       "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
       "published": "Tue, 07 Apr 2026 20:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-      "url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-      "published": "Tue, 07 Apr 2026 18:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "url": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "published": "Tue, 07 Apr 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
