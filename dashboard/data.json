@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-10T14:33:45.812897Z",
+  "generated_at": "2026-04-10T15:54:00.661692Z",
   "segment1": [
+    {
+      "title": "Silent Ransom Group leaked another big law firm: Orrick, Herrington & Sutcliffe",
+      "url": "https://databreaches.net/2026/04/10/silent-ransom-group-leaked-another-big-law-firm-orrick-herrington-sutcliffe/?pk_campaign=feed&pk_kwd=silent-ransom-group-leaked-another-big-law-firm-orrick-herrington-sutcliffe",
+      "published": "Fri, 10 Apr 2026 14:38:53 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
       "url": "https://databreaches.net/2026/04/09/ex-meta-worker-investigated-for-downloading-30000-private-facebook-photos/?pk_campaign=feed&pk_kwd=ex-meta-worker-investigated-for-downloading-30000-private-facebook-photos",
@@ -53,17 +59,17 @@
       "title": "Hackers steal and leak sensitive LAPD police documents",
       "url": "https://databreaches.net/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/?pk_campaign=feed&pk_kwd=hackers-steal-and-leak-sensitive-lapd-police-documents",
       "published": "Wed, 08 Apr 2026 15:47:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Iowa AG files lawsuit against Change Healthcare over 2024 data breach",
-      "url": "https://databreaches.net/2026/04/08/iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach/?pk_campaign=feed&pk_kwd=iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach",
-      "published": "Wed, 08 Apr 2026 13:27:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Silent Ransom Group leaked another big law firm: Orrick, Herrington & Sutcliffe",
+      "url": "https://databreaches.net/2026/04/10/silent-ransom-group-leaked-another-big-law-firm-orrick-herrington-sutcliffe/?pk_campaign=feed&pk_kwd=silent-ransom-group-leaked-another-big-law-firm-orrick-herrington-sutcliffe",
+      "published": "Fri, 10 Apr 2026 14:38:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
       "url": "https://databreaches.net/2026/04/09/ex-meta-worker-investigated-for-downloading-30000-private-facebook-photos/?pk_campaign=feed&pk_kwd=ex-meta-worker-investigated-for-downloading-30000-private-facebook-photos",
       "published": "Thu, 09 Apr 2026 12:25:38 +0000",
@@ -115,12 +121,6 @@
       "title": "Hackers steal and leak sensitive LAPD police documents",
       "url": "https://databreaches.net/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/?pk_campaign=feed&pk_kwd=hackers-steal-and-leak-sensitive-lapd-police-documents",
       "published": "Wed, 08 Apr 2026 15:47:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Iowa AG files lawsuit against Change Healthcare over 2024 data breach",
-      "url": "https://databreaches.net/2026/04/08/iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach/?pk_campaign=feed&pk_kwd=iowa-ag-files-lawsuit-against-change-healthcare-over-2024-data-breach",
-      "published": "Wed, 08 Apr 2026 13:27:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "published": "Wed, 11 Feb 2026 16:08:11 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
@@ -267,12 +273,6 @@
       "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
       "url": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
       "published": "Thu, 09 Apr 2026 03:44:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "published": "Thu, 09 Apr 2026 02:46:26 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
       "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
       "published": "Fri, 10 Apr 2026 10:01:11 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
       "url": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
       "published": "Thu, 09 Apr 2026 03:44:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "published": "Thu, 09 Apr 2026 02:46:26 -0400",
       "source": "BleepingComputer"
     },
     {
