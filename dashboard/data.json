@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-13T18:01:12.931447Z",
+  "generated_at": "2026-04-13T19:46:57.947938Z",
   "segment1": [
+    {
+      "title": "City of Anthony, NM, public records have been suspiciously disappeared, locked, or wiped",
+      "url": "https://databreaches.net/2026/04/13/city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped/?pk_campaign=feed&pk_kwd=city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped",
+      "published": "Mon, 13 Apr 2026 18:46:32 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A Silent Threat, Loud Consequences: Ransom Group Hits Law Firms Hard",
       "url": "https://databreaches.net/2026/04/13/a-silent-threat-loud-consequences-ransom-group-hits-law-firms-hard/?pk_campaign=feed&pk_kwd=a-silent-threat-loud-consequences-ransom-group-hits-law-firms-hard",
@@ -53,17 +59,17 @@
       "title": "86% of businesses refused to pay cyber ransoms in 2025 — Coalition Insurance",
       "url": "https://databreaches.net/2026/04/09/86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance/?pk_campaign=feed&pk_kwd=86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance",
       "published": "Thu, 09 Apr 2026 12:23:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Capita under investigation after workers hit by pensions data breach",
-      "url": "https://databreaches.net/2026/04/09/capita-under-investigation-after-workers-hit-by-pensions-data-breach/?pk_campaign=feed&pk_kwd=capita-under-investigation-after-workers-hit-by-pensions-data-breach",
-      "published": "Thu, 09 Apr 2026 12:21:07 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "City of Anthony, NM, public records have been suspiciously disappeared, locked, or wiped",
+      "url": "https://databreaches.net/2026/04/13/city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped/?pk_campaign=feed&pk_kwd=city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped",
+      "published": "Mon, 13 Apr 2026 18:46:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A Silent Threat, Loud Consequences: Ransom Group Hits Law Firms Hard",
       "url": "https://databreaches.net/2026/04/13/a-silent-threat-loud-consequences-ransom-group-hits-law-firms-hard/?pk_campaign=feed&pk_kwd=a-silent-threat-loud-consequences-ransom-group-hits-law-firms-hard",
       "published": "Mon, 13 Apr 2026 17:07:02 +0000",
@@ -115,12 +121,6 @@
       "title": "86% of businesses refused to pay cyber ransoms in 2025 — Coalition Insurance",
       "url": "https://databreaches.net/2026/04/09/86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance/?pk_campaign=feed&pk_kwd=86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance",
       "published": "Thu, 09 Apr 2026 12:23:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Capita under investigation after workers hit by pensions data breach",
-      "url": "https://databreaches.net/2026/04/09/capita-under-investigation-after-workers-hit-by-pensions-data-breach/?pk_campaign=feed&pk_kwd=capita-under-investigation-after-workers-hit-by-pensions-data-breach",
-      "published": "Thu, 09 Apr 2026 12:21:07 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "published": "Wed, 11 Feb 2026 16:08:11 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-      "published": "Thu, 09 Apr 2026 15:46:44 -0400",
-      "source": "BleepingComputer"
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+      "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
@@ -387,12 +393,6 @@
       "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
       "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
       "published": "Thu, 09 Apr 2026 16:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-      "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-      "published": "Wed, 08 Apr 2026 23:21:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
       "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
       "published": "Mon, 13 Apr 2026 13:39:10 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-      "published": "Thu, 09 Apr 2026 15:46:44 -0400",
-      "source": "BleepingComputer"
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+      "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
@@ -719,12 +725,6 @@
       "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
       "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
       "published": "Thu, 09 Apr 2026 16:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-      "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-      "published": "Wed, 08 Apr 2026 23:21:00 +0530",
       "source": "The Hacker News"
     },
     {
