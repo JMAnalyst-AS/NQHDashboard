@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T15:13:29.779429Z",
+  "generated_at": "2026-04-14T16:40:10.850022Z",
   "segment1": [
     {
       "title": "City of Anthony, NM, public records have been suspiciously disappeared, locked, or wiped",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+      "published": "Tue, 14 Apr 2026 12:37:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "published": "Tue, 14 Apr 2026 11:53:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "5 Ways Zero Trust Maximizes Identity Security",
       "url": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
       "published": "Tue, 14 Apr 2026 10:02:12 -0400",
@@ -264,21 +276,15 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
       "url": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-      "published": "Tue, 14 Apr 2026 19:25:00 +0530",
+      "published": "Tue, 14 Apr 2026 20:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "url": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "published": "Tue, 14 Apr 2026 20:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -387,12 +393,6 @@
       "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
       "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
       "published": "Fri, 10 Apr 2026 13:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-      "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-      "published": "Fri, 10 Apr 2026 11:58:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+      "published": "Tue, 14 Apr 2026 12:37:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "published": "Tue, 14 Apr 2026 11:53:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "5 Ways Zero Trust Maximizes Identity Security",
       "url": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
       "published": "Tue, 14 Apr 2026 10:02:12 -0400",
@@ -596,21 +608,15 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
       "url": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-      "published": "Tue, 14 Apr 2026 19:25:00 +0530",
+      "published": "Tue, 14 Apr 2026 20:26:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "url": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "published": "Tue, 14 Apr 2026 20:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -719,12 +725,6 @@
       "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
       "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
       "published": "Fri, 10 Apr 2026 13:07:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-      "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-      "published": "Fri, 10 Apr 2026 11:58:00 +0530",
       "source": "The Hacker News"
     },
     {
