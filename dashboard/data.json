@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-14T16:40:10.850022Z",
+  "generated_at": "2026-04-14T18:05:04.727917Z",
   "segment1": [
+    {
+      "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
+      "url": "https://databreaches.net/2026/04/14/californias-cybersecurity-audit-rule-is-now-in-effect-its-impact-for-class-litigation/?pk_campaign=feed&pk_kwd=californias-cybersecurity-audit-rule-is-now-in-effect-its-impact-for-class-litigation",
+      "published": "Tue, 14 Apr 2026 17:10:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "City of Anthony, NM, public records have been suspiciously disappeared, locked, or wiped",
       "url": "https://databreaches.net/2026/04/13/city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped/?pk_campaign=feed&pk_kwd=city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped",
@@ -53,17 +59,17 @@
       "title": "Lotte Card given notice of $3M penalty, business suspension over massive data breach",
       "url": "https://databreaches.net/2026/04/09/lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach/?pk_campaign=feed&pk_kwd=lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach",
       "published": "Thu, 09 Apr 2026 12:25:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "86% of businesses refused to pay cyber ransoms in 2025 — Coalition Insurance",
-      "url": "https://databreaches.net/2026/04/09/86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance/?pk_campaign=feed&pk_kwd=86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance",
-      "published": "Thu, 09 Apr 2026 12:23:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
+      "url": "https://databreaches.net/2026/04/14/californias-cybersecurity-audit-rule-is-now-in-effect-its-impact-for-class-litigation/?pk_campaign=feed&pk_kwd=californias-cybersecurity-audit-rule-is-now-in-effect-its-impact-for-class-litigation",
+      "published": "Tue, 14 Apr 2026 17:10:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "City of Anthony, NM, public records have been suspiciously disappeared, locked, or wiped",
       "url": "https://databreaches.net/2026/04/13/city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped/?pk_campaign=feed&pk_kwd=city-of-anthony-nm-public-records-have-been-suspiciously-disappeared-locked-or-wiped",
       "published": "Mon, 13 Apr 2026 18:46:32 +0000",
@@ -115,12 +121,6 @@
       "title": "Lotte Card given notice of $3M penalty, business suspension over massive data breach",
       "url": "https://databreaches.net/2026/04/09/lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach/?pk_campaign=feed&pk_kwd=lotte-card-given-notice-of-3m-penalty-business-suspension-over-massive-data-breach",
       "published": "Thu, 09 Apr 2026 12:25:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "86% of businesses refused to pay cyber ransoms in 2025 — Coalition Insurance",
-      "url": "https://databreaches.net/2026/04/09/86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance/?pk_campaign=feed&pk_kwd=86-of-businesses-refused-to-pay-cyber-ransoms-in-2025-coalition-insurance",
-      "published": "Thu, 09 Apr 2026 12:23:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "published": "Wed, 11 Feb 2026 16:08:11 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "published": "Tue, 14 Apr 2026 13:41:13 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
-      "published": "Fri, 10 Apr 2026 22:08:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
-      "source": "BleepingComputer"
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
@@ -387,12 +393,6 @@
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
       "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "published": "Tue, 14 Apr 2026 13:41:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
       "url": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
       "published": "Tue, 14 Apr 2026 12:37:01 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
-      "published": "Fri, 10 Apr 2026 22:08:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
-      "source": "BleepingComputer"
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
@@ -719,12 +725,6 @@
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
       "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
       "source": "The Hacker News"
     },
     {
