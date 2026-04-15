@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T09:03:26.432912Z",
+  "generated_at": "2026-04-15T10:41:50.018205Z",
   "segment1": [
     {
       "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "published": "Wed, 15 Apr 2026 06:24:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
       "published": "Tue, 14 Apr 2026 18:23:33 -0400",
@@ -267,12 +273,6 @@
       "title": "FBI takedown of W3LL phishing service leads to developer arrest",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
       "published": "Mon, 13 Apr 2026 14:55:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "published": "Mon, 13 Apr 2026 13:39:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "published": "Wed, 15 Apr 2026 06:24:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
       "published": "Tue, 14 Apr 2026 18:23:33 -0400",
@@ -599,12 +605,6 @@
       "title": "FBI takedown of W3LL phishing service leads to developer arrest",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
       "published": "Mon, 13 Apr 2026 14:55:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "published": "Mon, 13 Apr 2026 13:39:10 -0400",
       "source": "BleepingComputer"
     },
     {
