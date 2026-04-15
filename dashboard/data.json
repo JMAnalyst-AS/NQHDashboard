@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T10:41:50.018205Z",
+  "generated_at": "2026-04-15T11:55:49.593615Z",
   "segment1": [
     {
       "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+      "published": "Wed, 15 Apr 2026 07:41:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
       "published": "Wed, 15 Apr 2026 06:24:53 -0400",
@@ -267,12 +273,6 @@
       "title": "Critical flaw in wolfSSL library enables forged certificate use",
       "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
       "published": "Mon, 13 Apr 2026 15:56:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+      "published": "Wed, 15 Apr 2026 07:41:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
       "published": "Wed, 15 Apr 2026 06:24:53 -0400",
@@ -599,12 +605,6 @@
       "title": "Critical flaw in wolfSSL library enables forged certificate use",
       "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
       "published": "Mon, 13 Apr 2026 15:56:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
       "source": "BleepingComputer"
     },
     {
