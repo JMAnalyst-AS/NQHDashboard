@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T16:05:30.831075Z",
+  "generated_at": "2026-04-15T17:38:49.562196Z",
   "segment1": [
     {
       "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "published": "Wed, 15 Apr 2026 12:20:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
       "published": "Wed, 15 Apr 2026 10:51:05 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "published": "Mon, 13 Apr 2026 17:50:01 -0400",
-      "source": "BleepingComputer"
+      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+      "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+      "published": "Wed, 15 Apr 2026 22:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
@@ -387,12 +393,6 @@
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
       "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
       "published": "Mon, 13 Apr 2026 12:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-      "published": "Sun, 12 Apr 2026 11:24:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "published": "Wed, 15 Apr 2026 12:20:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
       "published": "Wed, 15 Apr 2026 10:51:05 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "published": "Mon, 13 Apr 2026 17:50:01 -0400",
-      "source": "BleepingComputer"
+      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+      "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+      "published": "Wed, 15 Apr 2026 22:39:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
@@ -719,12 +725,6 @@
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
       "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
       "published": "Mon, 13 Apr 2026 12:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-      "published": "Sun, 12 Apr 2026 11:24:00 +0530",
       "source": "The Hacker News"
     },
     {
