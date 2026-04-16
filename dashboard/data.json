@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T06:01:45.319631Z",
+  "generated_at": "2026-04-16T08:12:22.311715Z",
   "segment1": [
     {
       "title": "California’s cybersecurity audit rule is now in effect: its impact for class litigation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: April Windows Server 2025 update may fail to install",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+      "published": "Thu, 16 Apr 2026 03:37:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
       "published": "Wed, 15 Apr 2026 18:35:09 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
@@ -387,12 +393,6 @@
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
       "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
       "published": "Mon, 13 Apr 2026 14:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-      "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-      "published": "Mon, 13 Apr 2026 12:20:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: April Windows Server 2025 update may fail to install",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+      "published": "Thu, 16 Apr 2026 03:37:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
       "published": "Wed, 15 Apr 2026 18:35:09 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
@@ -719,12 +725,6 @@
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
       "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
       "published": "Mon, 13 Apr 2026 14:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-      "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-      "published": "Mon, 13 Apr 2026 12:20:00 +0530",
       "source": "The Hacker News"
     },
     {
