@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T12:42:16.779726Z",
+  "generated_at": "2026-04-16T14:55:53.754315Z",
   "segment1": [
     {
       "title": "P3 Advertised 20+ Years and 0 Security Breaches. You Can Guess What Happened Next.",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
+      "published": "Thu, 16 Apr 2026 10:09:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+      "url": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+      "published": "Thu, 16 Apr 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco says critical Webex Services flaw requires customer action",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
       "published": "Thu, 16 Apr 2026 08:01:42 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-      "published": "Tue, 14 Apr 2026 18:23:33 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
+      "published": "Thu, 16 Apr 2026 18:35:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-      "published": "Tue, 14 Apr 2026 17:58:31 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+      "published": "Thu, 16 Apr 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
@@ -282,15 +294,15 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "published": "Thu, 16 Apr 2026 16:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
       "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
       "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
       "published": "Thu, 16 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -381,18 +393,6 @@
       "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
       "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
       "published": "Tue, 14 Apr 2026 11:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-      "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
-      "published": "Mon, 13 Apr 2026 22:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
-      "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
-      "published": "Mon, 13 Apr 2026 20:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
+      "published": "Thu, 16 Apr 2026 10:09:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+      "url": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+      "published": "Thu, 16 Apr 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco says critical Webex Services flaw requires customer action",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
       "published": "Thu, 16 Apr 2026 08:01:42 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-      "published": "Tue, 14 Apr 2026 18:23:33 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
+      "published": "Thu, 16 Apr 2026 18:35:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-      "published": "Tue, 14 Apr 2026 17:58:31 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+      "published": "Thu, 16 Apr 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
@@ -614,15 +626,15 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "published": "Thu, 16 Apr 2026 16:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
       "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
       "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
       "published": "Thu, 16 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -713,18 +725,6 @@
       "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
       "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
       "published": "Tue, 14 Apr 2026 11:09:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-      "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
-      "published": "Mon, 13 Apr 2026 22:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
-      "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
-      "published": "Mon, 13 Apr 2026 20:16:00 +0530",
       "source": "The Hacker News"
     },
     {
