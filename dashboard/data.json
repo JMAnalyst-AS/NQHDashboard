@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T21:10:10.981991Z",
+  "generated_at": "2026-04-16T22:06:40.255252Z",
   "segment1": [
     {
       "title": "Double trouble: Hackers used both Claude Code and ChatGPT in a cybersecurity hack that lasted two and a half months.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "url": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "published": "Thu, 16 Apr 2026 18:04:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
       "published": "Thu, 16 Apr 2026 16:19:31 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
       "published": "Wed, 15 Apr 2026 12:20:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "published": "Wed, 15 Apr 2026 10:51:05 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "url": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "published": "Thu, 16 Apr 2026 18:04:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
       "published": "Thu, 16 Apr 2026 16:19:31 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
       "published": "Wed, 15 Apr 2026 12:20:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "published": "Wed, 15 Apr 2026 10:51:05 -0400",
       "source": "BleepingComputer"
     },
     {
