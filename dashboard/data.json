@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T20:09:23.277274Z",
+  "generated_at": "2026-04-16T21:10:10.981991Z",
   "segment1": [
     {
       "title": "Double trouble: Hackers used both Claude Code and ChatGPT in a cybersecurity hack that lasted two and a half months.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "published": "Thu, 16 Apr 2026 16:19:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
       "published": "Thu, 16 Apr 2026 12:58:06 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
       "published": "Wed, 15 Apr 2026 10:51:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rolling Networks: Securing the Transportation Sector",
-      "url": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
-      "published": "Wed, 15 Apr 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "published": "Thu, 16 Apr 2026 16:19:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
       "published": "Thu, 16 Apr 2026 12:58:06 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
       "published": "Wed, 15 Apr 2026 10:51:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rolling Networks: Securing the Transportation Sector",
-      "url": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
-      "published": "Wed, 15 Apr 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
