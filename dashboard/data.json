@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T11:04:18.124817Z",
+  "generated_at": "2026-04-16T12:42:16.779726Z",
   "segment1": [
     {
       "title": "P3 Advertised 20+ Years and 0 Security Breaches. You Can Guess What Happened Next.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco says critical Webex Services flaw requires customer action",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+      "published": "Thu, 16 Apr 2026 08:01:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
       "published": "Thu, 16 Apr 2026 06:35:09 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-      "url": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-      "published": "Tue, 14 Apr 2026 16:33:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+      "published": "Thu, 16 Apr 2026 16:57:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "published": "Thu, 16 Apr 2026 16:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
+      "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
+      "published": "Thu, 16 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
@@ -375,24 +393,6 @@
       "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
       "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
       "published": "Mon, 13 Apr 2026 20:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-      "url": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
-      "published": "Mon, 13 Apr 2026 18:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-      "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "published": "Mon, 13 Apr 2026 17:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
-      "published": "Mon, 13 Apr 2026 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco says critical Webex Services flaw requires customer action",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+      "published": "Thu, 16 Apr 2026 08:01:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
       "published": "Thu, 16 Apr 2026 06:35:09 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-      "url": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-      "published": "Tue, 14 Apr 2026 16:33:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+      "published": "Thu, 16 Apr 2026 16:57:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "published": "Thu, 16 Apr 2026 16:32:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
+      "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
+      "published": "Thu, 16 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
@@ -707,24 +725,6 @@
       "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
       "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
       "published": "Mon, 13 Apr 2026 20:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-      "url": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
-      "published": "Mon, 13 Apr 2026 18:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-      "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "published": "Mon, 13 Apr 2026 17:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
-      "published": "Mon, 13 Apr 2026 14:45:00 +0530",
       "source": "The Hacker News"
     },
     {
