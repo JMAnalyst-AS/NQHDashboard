@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T08:11:51.334801Z",
+  "generated_at": "2026-04-17T09:54:04.810057Z",
   "segment1": [
     {
       "title": "Double trouble: Hackers used both Claude Code and ChatGPT in a cybersecurity hack that lasted two and a half months.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+      "published": "Fri, 17 Apr 2026 05:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
       "published": "Fri, 17 Apr 2026 03:59:47 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft: April Windows Server 2025 update may fail to install",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
       "published": "Thu, 16 Apr 2026 03:37:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-      "published": "Wed, 15 Apr 2026 18:35:09 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+      "published": "Fri, 17 Apr 2026 05:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
       "published": "Fri, 17 Apr 2026 03:59:47 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft: April Windows Server 2025 update may fail to install",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
       "published": "Thu, 16 Apr 2026 03:37:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-      "published": "Wed, 15 Apr 2026 18:35:09 -0400",
       "source": "BleepingComputer"
     },
     {
