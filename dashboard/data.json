@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T18:11:36.784814Z",
+  "generated_at": "2026-04-17T19:37:05.487741Z",
   "segment1": [
     {
       "title": "Anthropic’s Dario Amodei heads to White House amid hacking fears over Mythos",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "published": "Fri, 17 Apr 2026 15:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
       "url": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
       "published": "Fri, 17 Apr 2026 11:08:53 -0400",
@@ -267,12 +273,6 @@
       "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
       "url": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
       "published": "Thu, 16 Apr 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco says critical Webex Services flaw requires customer action",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
-      "published": "Thu, 16 Apr 2026 08:01:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "published": "Fri, 17 Apr 2026 15:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
       "url": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
       "published": "Fri, 17 Apr 2026 11:08:53 -0400",
@@ -599,12 +605,6 @@
       "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
       "url": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
       "published": "Thu, 16 Apr 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco says critical Webex Services flaw requires customer action",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
-      "published": "Thu, 16 Apr 2026 08:01:42 -0400",
       "source": "BleepingComputer"
     },
     {
