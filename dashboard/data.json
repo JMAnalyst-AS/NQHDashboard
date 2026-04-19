@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-19T14:09:27.019468Z",
+  "generated_at": "2026-04-19T15:06:16.746959Z",
   "segment1": [
+    {
+      "title": "Qilin’s 2024 attack on NHS vendor continues to impact patient care for one NHS Trust",
+      "url": "https://databreaches.net/2026/04/19/qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust/?pk_campaign=feed&pk_kwd=qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust",
+      "published": "Sun, 19 Apr 2026 14:27:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ukrainian emergency services and hospitals hit by espionage campaign using new AgingFly malware",
       "url": "https://databreaches.net/2026/04/18/ukrainian-emergency-services-and-hospitals-hit-by-espionage-campaign-using-new-agingfly-malware/?pk_campaign=feed&pk_kwd=ukrainian-emergency-services-and-hospitals-hit-by-espionage-campaign-using-new-agingfly-malware",
@@ -53,17 +59,17 @@
       "title": "Are Former Black Basta Affiliates Automating Executive Targeting?",
       "url": "https://databreaches.net/2026/04/17/are-former-black-basta-affiliates-automating-executive-targeting/?pk_campaign=feed&pk_kwd=are-former-black-basta-affiliates-automating-executive-targeting",
       "published": "Fri, 17 Apr 2026 12:39:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "State to audit Ohio school districts’ cybersecurity plans",
-      "url": "https://databreaches.net/2026/04/17/state-to-audit-ohio-school-districts-cybersecurity-plans/?pk_campaign=feed&pk_kwd=state-to-audit-ohio-school-districts-cybersecurity-plans",
-      "published": "Fri, 17 Apr 2026 12:39:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Qilin’s 2024 attack on NHS vendor continues to impact patient care for one NHS Trust",
+      "url": "https://databreaches.net/2026/04/19/qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust/?pk_campaign=feed&pk_kwd=qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust",
+      "published": "Sun, 19 Apr 2026 14:27:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ukrainian emergency services and hospitals hit by espionage campaign using new AgingFly malware",
       "url": "https://databreaches.net/2026/04/18/ukrainian-emergency-services-and-hospitals-hit-by-espionage-campaign-using-new-agingfly-malware/?pk_campaign=feed&pk_kwd=ukrainian-emergency-services-and-hospitals-hit-by-espionage-campaign-using-new-agingfly-malware",
       "published": "Sat, 18 Apr 2026 13:40:07 +0000",
@@ -115,12 +121,6 @@
       "title": "Are Former Black Basta Affiliates Automating Executive Targeting?",
       "url": "https://databreaches.net/2026/04/17/are-former-black-basta-affiliates-automating-executive-targeting/?pk_campaign=feed&pk_kwd=are-former-black-basta-affiliates-automating-executive-targeting",
       "published": "Fri, 17 Apr 2026 12:39:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "State to audit Ohio school districts’ cybersecurity plans",
-      "url": "https://databreaches.net/2026/04/17/state-to-audit-ohio-school-districts-cybersecurity-plans/?pk_campaign=feed&pk_kwd=state-to-audit-ohio-school-districts-cybersecurity-plans",
-      "published": "Fri, 17 Apr 2026 12:39:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
       "published": "Fri, 20 Feb 2026 20:00:30 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical flaw in Protobuf library enables JavaScript code execution",
@@ -267,12 +273,6 @@
       "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
       "published": "Thu, 16 Apr 2026 16:19:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "published": "Thu, 16 Apr 2026 12:58:06 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical flaw in Protobuf library enables JavaScript code execution",
       "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
       "published": "Sat, 18 Apr 2026 11:09:44 -0400",
@@ -599,12 +605,6 @@
       "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
       "published": "Thu, 16 Apr 2026 16:19:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "published": "Thu, 16 Apr 2026 12:58:06 -0400",
       "source": "BleepingComputer"
     },
     {
