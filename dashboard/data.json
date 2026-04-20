@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T08:08:00.106288Z",
+  "generated_at": "2026-04-20T10:15:11.452053Z",
   "segment1": [
     {
       "title": "Qilin’s 2024 attack on NHS vendor continues to impact patient care for one NHS Trust",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "published": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "published": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Vercel confirms breach as hackers claim to be selling stolen data",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
       "published": "Sun, 19 Apr 2026 13:32:45 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "published": "Fri, 17 Apr 2026 02:14:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-      "url": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "published": "Thu, 16 Apr 2026 18:26:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
@@ -387,12 +393,6 @@
       "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
       "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
       "published": "Wed, 15 Apr 2026 14:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-      "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-      "published": "Wed, 15 Apr 2026 10:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "published": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "published": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Vercel confirms breach as hackers claim to be selling stolen data",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
       "published": "Sun, 19 Apr 2026 13:32:45 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "published": "Fri, 17 Apr 2026 02:14:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-      "url": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "published": "Thu, 16 Apr 2026 18:26:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
@@ -719,12 +725,6 @@
       "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
       "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
       "published": "Wed, 15 Apr 2026 14:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-      "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-      "published": "Wed, 15 Apr 2026 10:00:00 +0530",
       "source": "The Hacker News"
     },
     {
