@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-20T11:51:09.252460Z",
+  "generated_at": "2026-04-20T13:43:32.874445Z",
   "segment1": [
+    {
+      "title": "Minidoka Memorial Hospital updates Easter morning cyberattack",
+      "url": "https://databreaches.net/2026/04/20/minidoka-memorial-hospital-updates-easter-morning-cyberattack/?pk_campaign=feed&pk_kwd=minidoka-memorial-hospital-updates-easter-morning-cyberattack",
+      "published": "Mon, 20 Apr 2026 13:09:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Breach at BE PRIME cybersecurity company exposes client data and surveillance systems; Be Prime threatens journalists",
+      "url": "https://databreaches.net/2026/04/20/breach-at-be-prime-cybersecurity-company-exposes-client-data-and-surveillance-systems-be-prime-threatens-journalists/?pk_campaign=feed&pk_kwd=breach-at-be-prime-cybersecurity-company-exposes-client-data-and-surveillance-systems-be-prime-threatens-journalists",
+      "published": "Mon, 20 Apr 2026 12:57:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Qilin’s 2024 attack on NHS vendor continues to impact patient care for one NHS Trust",
       "url": "https://databreaches.net/2026/04/19/qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust/?pk_campaign=feed&pk_kwd=qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust",
@@ -47,23 +59,23 @@
       "title": "Brussels launched an age checking app. It took 2 minutes to hack it.",
       "url": "https://databreaches.net/2026/04/17/brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it/?pk_campaign=feed&pk_kwd=brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it",
       "published": "Fri, 17 Apr 2026 12:39:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Connecticut AG Puts Businesses on Notice: Old Laws Still Apply to AI",
-      "url": "https://databreaches.net/2026/04/17/connecticut-ag-puts-businesses-on-notice-old-laws-still-apply-to-ai/?pk_campaign=feed&pk_kwd=connecticut-ag-puts-businesses-on-notice-old-laws-still-apply-to-ai",
-      "published": "Fri, 17 Apr 2026 12:39:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Are Former Black Basta Affiliates Automating Executive Targeting?",
-      "url": "https://databreaches.net/2026/04/17/are-former-black-basta-affiliates-automating-executive-targeting/?pk_campaign=feed&pk_kwd=are-former-black-basta-affiliates-automating-executive-targeting",
-      "published": "Fri, 17 Apr 2026 12:39:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Minidoka Memorial Hospital updates Easter morning cyberattack",
+      "url": "https://databreaches.net/2026/04/20/minidoka-memorial-hospital-updates-easter-morning-cyberattack/?pk_campaign=feed&pk_kwd=minidoka-memorial-hospital-updates-easter-morning-cyberattack",
+      "published": "Mon, 20 Apr 2026 13:09:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Breach at BE PRIME cybersecurity company exposes client data and surveillance systems; Be Prime threatens journalists",
+      "url": "https://databreaches.net/2026/04/20/breach-at-be-prime-cybersecurity-company-exposes-client-data-and-surveillance-systems-be-prime-threatens-journalists/?pk_campaign=feed&pk_kwd=breach-at-be-prime-cybersecurity-company-exposes-client-data-and-surveillance-systems-be-prime-threatens-journalists",
+      "published": "Mon, 20 Apr 2026 12:57:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Qilin’s 2024 attack on NHS vendor continues to impact patient care for one NHS Trust",
       "url": "https://databreaches.net/2026/04/19/qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust/?pk_campaign=feed&pk_kwd=qilins-2024-attack-on-nhs-vendor-continues-to-impact-patient-care-for-one-nhs-trust",
       "published": "Sun, 19 Apr 2026 14:27:33 +0000",
@@ -109,18 +121,6 @@
       "title": "Brussels launched an age checking app. It took 2 minutes to hack it.",
       "url": "https://databreaches.net/2026/04/17/brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it/?pk_campaign=feed&pk_kwd=brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it",
       "published": "Fri, 17 Apr 2026 12:39:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Connecticut AG Puts Businesses on Notice: Old Laws Still Apply to AI",
-      "url": "https://databreaches.net/2026/04/17/connecticut-ag-puts-businesses-on-notice-old-laws-still-apply-to-ai/?pk_campaign=feed&pk_kwd=connecticut-ag-puts-businesses-on-notice-old-laws-still-apply-to-ai",
-      "published": "Fri, 17 Apr 2026 12:39:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Are Former Black Basta Affiliates Automating Executive Targeting?",
-      "url": "https://databreaches.net/2026/04/17/are-former-black-basta-affiliates-automating-executive-targeting/?pk_campaign=feed&pk_kwd=are-former-black-basta-affiliates-automating-executive-targeting",
-      "published": "Fri, 17 Apr 2026 12:39:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "published": "Mon, 20 Apr 2026 08:04:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft pulls service update causing Teams launch failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
       "published": "Mon, 20 Apr 2026 05:40:20 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "published": "Fri, 17 Apr 2026 03:59:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "published": "Fri, 17 Apr 2026 03:10:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Most AI Deployments Stall After the Demo",
+      "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
@@ -390,10 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
-      "url": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
-      "published": "Wed, 15 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
+      "title": "Mining China’s ‘Little Red Book’ for Open Source Gold",
+      "url": "https://www.bellingcat.com/resources/2026/04/20/xiaohongshu-rednote-open-source-guide/",
+      "published": "Mon, 20 Apr 2026 12:52:25 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Painkiller Pipeline: 300 Million Tapentadol Pills Sent from India to West Africa",
@@ -447,12 +453,6 @@
       "title": "Evidence Points to US Scattering Mines over Iranian Village",
       "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/",
       "published": "Thu, 26 Mar 2026 18:37:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Munition Remnants Pictured at Site of Deadly Chad Strike Match Weapon Previously Used by Sudan’s RSF",
-      "url": "https://www.bellingcat.com/news/2026/03/24/munition-remnants-pictured-at-site-of-deadly-chad-strike-match-weapon-previously-used-by-sudans-rsf/",
-      "published": "Tue, 24 Mar 2026 10:44:36 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "published": "Mon, 20 Apr 2026 08:04:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft pulls service update causing Teams launch failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
       "published": "Mon, 20 Apr 2026 05:40:20 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "published": "Fri, 17 Apr 2026 03:59:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "published": "Fri, 17 Apr 2026 03:10:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Most AI Deployments Stall After the Demo",
+      "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
@@ -722,10 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
-      "url": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
-      "published": "Wed, 15 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
+      "title": "Mining China’s ‘Little Red Book’ for Open Source Gold",
+      "url": "https://www.bellingcat.com/resources/2026/04/20/xiaohongshu-rednote-open-source-guide/",
+      "published": "Mon, 20 Apr 2026 12:52:25 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Painkiller Pipeline: 300 Million Tapentadol Pills Sent from India to West Africa",
@@ -779,12 +785,6 @@
       "title": "Evidence Points to US Scattering Mines over Iranian Village",
       "url": "https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/",
       "published": "Thu, 26 Mar 2026 18:37:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Munition Remnants Pictured at Site of Deadly Chad Strike Match Weapon Previously Used by Sudan’s RSF",
-      "url": "https://www.bellingcat.com/news/2026/03/24/munition-remnants-pictured-at-site-of-deadly-chad-strike-match-weapon-previously-used-by-sudans-rsf/",
-      "published": "Tue, 24 Mar 2026 10:44:36 +0000",
       "source": "bellingcat"
     }
   ]
