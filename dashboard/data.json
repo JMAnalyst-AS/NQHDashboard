@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-21T09:59:02.722319Z",
+  "generated_at": "2026-04-21T11:18:00.158582Z",
   "segment1": [
+    {
+      "title": "Florida Man Working as a Ransomware Negotiator Pleads Guilty to Conspiracy to Deploy Ransomware and Extort U.S. Victims",
+      "url": "https://databreaches.net/2026/04/21/florida-man-working-as-a-ransomware-negotiator-pleads-guilty-to-conspiracy-to-deploy-ransomware-and-extort-u-s-victims/?pk_campaign=feed&pk_kwd=florida-man-working-as-a-ransomware-negotiator-pleads-guilty-to-conspiracy-to-deploy-ransomware-and-extort-u-s-victims",
+      "published": "Tue, 21 Apr 2026 10:37:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Minidoka Memorial Hospital updates Easter morning cyberattack",
       "url": "https://databreaches.net/2026/04/20/minidoka-memorial-hospital-updates-easter-morning-cyberattack/?pk_campaign=feed&pk_kwd=minidoka-memorial-hospital-updates-easter-morning-cyberattack",
@@ -53,17 +59,17 @@
       "title": "AI ghost narratives create a minefield for entities and journalists",
       "url": "https://databreaches.net/2026/04/17/ai-ghost-narratives-create-a-minefield-for-entities-and-journalists/?pk_campaign=feed&pk_kwd=ai-ghost-narratives-create-a-minefield-for-entities-and-journalists",
       "published": "Fri, 17 Apr 2026 13:05:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brussels launched an age checking app. It took 2 minutes to hack it.",
-      "url": "https://databreaches.net/2026/04/17/brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it/?pk_campaign=feed&pk_kwd=brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it",
-      "published": "Fri, 17 Apr 2026 12:39:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Florida Man Working as a Ransomware Negotiator Pleads Guilty to Conspiracy to Deploy Ransomware and Extort U.S. Victims",
+      "url": "https://databreaches.net/2026/04/21/florida-man-working-as-a-ransomware-negotiator-pleads-guilty-to-conspiracy-to-deploy-ransomware-and-extort-u-s-victims/?pk_campaign=feed&pk_kwd=florida-man-working-as-a-ransomware-negotiator-pleads-guilty-to-conspiracy-to-deploy-ransomware-and-extort-u-s-victims",
+      "published": "Tue, 21 Apr 2026 10:37:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Minidoka Memorial Hospital updates Easter morning cyberattack",
       "url": "https://databreaches.net/2026/04/20/minidoka-memorial-hospital-updates-easter-morning-cyberattack/?pk_campaign=feed&pk_kwd=minidoka-memorial-hospital-updates-easter-morning-cyberattack",
       "published": "Mon, 20 Apr 2026 13:09:34 +0000",
@@ -115,12 +121,6 @@
       "title": "AI ghost narratives create a minefield for entities and journalists",
       "url": "https://databreaches.net/2026/04/17/ai-ghost-narratives-create-a-minefield-for-entities-and-journalists/?pk_campaign=feed&pk_kwd=ai-ghost-narratives-create-a-minefield-for-entities-and-journalists",
       "published": "Fri, 17 Apr 2026 13:05:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brussels launched an age checking app. It took 2 minutes to hack it.",
-      "url": "https://databreaches.net/2026/04/17/brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it/?pk_campaign=feed&pk_kwd=brussels-launched-an-age-checking-app-it-took-2-minutes-to-hack-it",
-      "published": "Fri, 17 Apr 2026 12:39:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
       "published": "Fri, 20 Feb 2026 20:00:30 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "NGate Android malware uses HandyPay NFC app to steal card data",
@@ -261,18 +273,6 @@
       "title": "Apple account change alerts abused to send phishing emails",
       "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
       "published": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "published": "Sat, 18 Apr 2026 11:09:44 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NGate Android malware uses HandyPay NFC app to steal card data",
       "url": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
       "published": "Tue, 21 Apr 2026 05:00:00 -0400",
@@ -593,18 +605,6 @@
       "title": "Apple account change alerts abused to send phishing emails",
       "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
       "published": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "published": "Sat, 18 Apr 2026 11:09:44 -0400",
       "source": "BleepingComputer"
     },
     {
