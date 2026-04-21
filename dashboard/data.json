@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T14:46:25.388061Z",
+  "generated_at": "2026-04-21T16:10:37.778471Z",
   "segment1": [
     {
       "title": "Dutch warship compromised with $5 tracker and a postcard",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "published": "Tue, 14 Apr 2026 21:47:59 +0000",
@@ -177,12 +183,6 @@
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -274,6 +274,18 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
       "published": "Mon, 20 Apr 2026 05:40:20 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters",
+      "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+      "published": "Tue, 21 Apr 2026 21:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+      "url": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+      "published": "Tue, 21 Apr 2026 20:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
@@ -381,18 +393,6 @@
       "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
       "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
       "published": "Fri, 17 Apr 2026 11:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-      "published": "Fri, 17 Apr 2026 08:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-      "url": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-      "published": "Thu, 16 Apr 2026 23:22:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "published": "Tue, 14 Apr 2026 21:47:59 +0000",
@@ -509,12 +515,6 @@
       "title": "Who is the Kimwolf Botmaster “Dort”?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -606,6 +606,18 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
       "published": "Mon, 20 Apr 2026 05:40:20 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters",
+      "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+      "published": "Tue, 21 Apr 2026 21:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+      "url": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+      "published": "Tue, 21 Apr 2026 20:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
@@ -713,18 +725,6 @@
       "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
       "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
       "published": "Fri, 17 Apr 2026 11:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-      "published": "Fri, 17 Apr 2026 08:52:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-      "url": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-      "published": "Thu, 16 Apr 2026 23:22:00 +0530",
       "source": "The Hacker News"
     },
     {
