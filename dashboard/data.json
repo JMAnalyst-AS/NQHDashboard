@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T11:18:00.158582Z",
+  "generated_at": "2026-04-21T12:40:55.179397Z",
   "segment1": [
     {
       "title": "Florida Man Working as a Ransomware Negotiator Pleads Guilty to Conspiracy to Deploy Ransomware and Extort U.S. Victims",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
       "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
       "published": "Tue, 21 Apr 2026 07:17:51 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple account change alerts abused to send phishing emails",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "published": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "source": "BleepingComputer"
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "url": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "url": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
@@ -375,24 +393,6 @@
       "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "published": "Thu, 16 Apr 2026 18:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-      "published": "Thu, 16 Apr 2026 16:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
       "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
       "published": "Tue, 21 Apr 2026 07:17:51 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple account change alerts abused to send phishing emails",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "published": "Sun, 19 Apr 2026 12:03:01 -0400",
-      "source": "BleepingComputer"
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "url": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "url": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
@@ -707,24 +725,6 @@
       "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "published": "Thu, 16 Apr 2026 18:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-      "published": "Thu, 16 Apr 2026 16:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
       "source": "The Hacker News"
     },
     {
