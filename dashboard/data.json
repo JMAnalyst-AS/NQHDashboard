@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T18:37:29.593886Z",
+  "generated_at": "2026-04-22T20:05:01.592465Z",
   "segment1": [
     {
       "title": "Outside FDA, Inside the Crosshairs: Cybersecurity Risks for General Wellness and Fitness Products",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "published": "Wed, 22 Apr 2026 14:52:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
       "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
       "published": "Wed, 22 Apr 2026 11:06:34 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
@@ -387,12 +393,6 @@
       "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
       "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
       "published": "Mon, 20 Apr 2026 16:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "published": "Wed, 22 Apr 2026 14:52:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
       "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
       "published": "Wed, 22 Apr 2026 11:06:34 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
@@ -719,12 +725,6 @@
       "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
       "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
       "published": "Mon, 20 Apr 2026 16:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
       "source": "The Hacker News"
     },
     {
