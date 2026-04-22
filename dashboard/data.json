@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-22T17:02:02.815660Z",
+  "generated_at": "2026-04-22T18:37:29.593886Z",
   "segment1": [
+    {
+      "title": "Outside FDA, Inside the Crosshairs: Cybersecurity Risks for General Wellness and Fitness Products",
+      "url": "https://databreaches.net/2026/04/22/outside-fda-inside-the-crosshairs-cybersecurity-risks-for-general-wellness-and-fitness-products/?pk_campaign=feed&pk_kwd=outside-fda-inside-the-crosshairs-cybersecurity-risks-for-general-wellness-and-fitness-products",
+      "published": "Wed, 22 Apr 2026 17:03:36 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "BlueLeaks 2.0: 7,300+ Schools, Referral Systems Reported, and a Breach Navigate360 Still Hasn’t Publicly Confirmed",
       "url": "https://databreaches.net/2026/04/22/blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed/?pk_campaign=feed&pk_kwd=blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed",
@@ -53,17 +59,17 @@
       "title": "Tax documents for school employees potentially stolen across Los Angeles County",
       "url": "https://databreaches.net/2026/04/18/tax-documents-for-school-employees-potentially-stolen-across-los-angeles-county/?pk_campaign=feed&pk_kwd=tax-documents-for-school-employees-potentially-stolen-across-los-angeles-county",
       "published": "Sat, 18 Apr 2026 13:38:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Judge lets state auditor’s investigation into data breach affecting Blue Cross Blue Shield members move forward",
-      "url": "https://databreaches.net/2026/04/18/judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward/?pk_campaign=feed&pk_kwd=judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward",
-      "published": "Sat, 18 Apr 2026 13:38:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Outside FDA, Inside the Crosshairs: Cybersecurity Risks for General Wellness and Fitness Products",
+      "url": "https://databreaches.net/2026/04/22/outside-fda-inside-the-crosshairs-cybersecurity-risks-for-general-wellness-and-fitness-products/?pk_campaign=feed&pk_kwd=outside-fda-inside-the-crosshairs-cybersecurity-risks-for-general-wellness-and-fitness-products",
+      "published": "Wed, 22 Apr 2026 17:03:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "BlueLeaks 2.0: 7,300+ Schools, Referral Systems Reported, and a Breach Navigate360 Still Hasn’t Publicly Confirmed",
       "url": "https://databreaches.net/2026/04/22/blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed/?pk_campaign=feed&pk_kwd=blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed",
       "published": "Wed, 22 Apr 2026 14:14:48 +0000",
@@ -115,12 +121,6 @@
       "title": "Tax documents for school employees potentially stolen across Los Angeles County",
       "url": "https://databreaches.net/2026/04/18/tax-documents-for-school-employees-potentially-stolen-across-los-angeles-county/?pk_campaign=feed&pk_kwd=tax-documents-for-school-employees-potentially-stolen-across-los-angeles-county",
       "published": "Sat, 18 Apr 2026 13:38:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Judge lets state auditor’s investigation into data breach affecting Blue Cross Blue Shield members move forward",
-      "url": "https://databreaches.net/2026/04/18/judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward/?pk_campaign=feed&pk_kwd=judge-lets-state-auditors-investigation-into-data-breach-affecting-blue-cross-blue-shield-members-move-forward",
-      "published": "Sat, 18 Apr 2026 13:38:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "published": "Wed, 22 Apr 2026 23:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
       "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
       "published": "Wed, 22 Apr 2026 20:58:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
       "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
       "published": "Mon, 20 Apr 2026 13:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "published": "Wed, 22 Apr 2026 23:03:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
       "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
       "published": "Wed, 22 Apr 2026 20:58:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
       "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
       "published": "Mon, 20 Apr 2026 13:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
       "source": "The Hacker News"
     },
     {
