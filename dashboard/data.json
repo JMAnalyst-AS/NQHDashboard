@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:12:42.288975Z",
+  "generated_at": "2026-04-23T22:07:44.428668Z",
   "segment1": [
     {
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "published": "Thu, 23 Apr 2026 17:33:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Bitwarden CLI npm package compromised to steal developer credentials",
       "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
       "published": "Thu, 23 Apr 2026 15:21:01 -0400",
@@ -267,12 +273,6 @@
       "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
       "url": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
       "published": "Wed, 22 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "published": "Thu, 23 Apr 2026 17:33:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Bitwarden CLI npm package compromised to steal developer credentials",
       "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
       "published": "Thu, 23 Apr 2026 15:21:01 -0400",
@@ -599,12 +605,6 @@
       "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
       "url": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
       "published": "Wed, 22 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
       "source": "BleepingComputer"
     },
     {
