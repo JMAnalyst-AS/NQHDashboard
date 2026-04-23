@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:19:00.005099Z",
+  "generated_at": "2026-04-23T10:05:10.627738Z",
   "segment1": [
     {
       "title": "NOT for Sale! BlueLeaks 2.0 Hacktivist decides not to sell dataset with sensitive data",
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+      "url": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+      "published": "Thu, 23 Apr 2026 14:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+      "published": "Thu, 23 Apr 2026 13:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
       "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
       "published": "Wed, 22 Apr 2026 23:25:00 +0530",
@@ -375,24 +393,6 @@
       "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
       "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
       "published": "Mon, 20 Apr 2026 22:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-      "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-      "published": "Mon, 20 Apr 2026 19:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "published": "Mon, 20 Apr 2026 16:12:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+      "url": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+      "published": "Thu, 23 Apr 2026 14:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+      "published": "Thu, 23 Apr 2026 13:36:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
       "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
       "published": "Wed, 22 Apr 2026 23:25:00 +0530",
@@ -707,24 +725,6 @@
       "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
       "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
       "published": "Mon, 20 Apr 2026 22:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-      "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-      "published": "Mon, 20 Apr 2026 19:11:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "url": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "published": "Mon, 20 Apr 2026 16:12:00 +0530",
       "source": "The Hacker News"
     },
     {
