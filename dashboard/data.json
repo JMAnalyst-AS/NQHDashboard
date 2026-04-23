@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T18:41:29.105394Z",
+  "generated_at": "2026-04-23T20:05:52.575057Z",
   "segment1": [
     {
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "published": "Thu, 23 Apr 2026 15:21:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
       "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
       "published": "Thu, 23 Apr 2026 12:05:12 -0400",
@@ -261,18 +273,6 @@
       "title": "New npm supply-chain attack self-spreads to steal auth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
       "published": "Wed, 22 Apr 2026 08:57:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "published": "Wed, 22 Apr 2026 08:24:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "published": "Wed, 22 Apr 2026 06:15:09 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "published": "Thu, 23 Apr 2026 15:21:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
       "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
       "published": "Thu, 23 Apr 2026 12:05:12 -0400",
@@ -593,18 +605,6 @@
       "title": "New npm supply-chain attack self-spreads to steal auth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
       "published": "Wed, 22 Apr 2026 08:57:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "published": "Wed, 22 Apr 2026 08:24:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "published": "Wed, 22 Apr 2026 06:15:09 -0400",
       "source": "BleepingComputer"
     },
     {
