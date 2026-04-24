@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T16:04:33.940873Z",
+  "generated_at": "2026-04-24T17:29:35.528923Z",
   "segment1": [
     {
       "title": "OCR Announces Settlements of Four Ransomware Investigations that Affected Over 427,000 Individuals",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "published": "Fri, 24 Apr 2026 13:28:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DORA and operational resilience: Credential management as a financial risk control",
       "url": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
       "published": "Fri, 24 Apr 2026 10:10:20 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
-      "source": "BleepingComputer"
+      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+      "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
@@ -387,12 +393,6 @@
       "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
       "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
       "published": "Wed, 22 Apr 2026 14:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "published": "Wed, 22 Apr 2026 13:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "published": "Fri, 24 Apr 2026 13:28:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DORA and operational resilience: Credential management as a financial risk control",
       "url": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
       "published": "Fri, 24 Apr 2026 10:10:20 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
-      "source": "BleepingComputer"
+      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+      "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
@@ -719,12 +725,6 @@
       "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
       "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
       "published": "Wed, 22 Apr 2026 14:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "published": "Wed, 22 Apr 2026 13:28:00 +0530",
       "source": "The Hacker News"
     },
     {
