@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-24T11:39:58.614966Z",
+  "generated_at": "2026-04-24T13:24:52.203292Z",
   "segment1": [
+    {
+      "title": "OCR Announces Settlements of Four Ransomware Investigations that Affected Over 427,000 Individuals",
+      "url": "https://databreaches.net/2026/04/24/ocr-announces-settlements-of-four-ransomware-investigations-that-affected-over-427000-individuals/?pk_campaign=feed&pk_kwd=ocr-announces-settlements-of-four-ransomware-investigations-that-affected-over-427000-individuals",
+      "published": "Fri, 24 Apr 2026 11:59:52 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
       "url": "https://databreaches.net/2026/04/23/south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach/?pk_campaign=feed&pk_kwd=south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach",
@@ -53,17 +59,17 @@
       "title": "BlueLeaks 2.0: 7,300+ Schools, Referral Systems Reported, and a Breach Navigate360 Still Hasn’t Publicly Confirmed",
       "url": "https://databreaches.net/2026/04/22/blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed/?pk_campaign=feed&pk_kwd=blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed",
       "published": "Wed, 22 Apr 2026 14:14:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch warship compromised with $5 tracker and a postcard",
-      "url": "https://databreaches.net/2026/04/21/dutch-warship-compromised-with-5-tracker-and-a-postcard/?pk_campaign=feed&pk_kwd=dutch-warship-compromised-with-5-tracker-and-a-postcard",
-      "published": "Tue, 21 Apr 2026 13:10:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "OCR Announces Settlements of Four Ransomware Investigations that Affected Over 427,000 Individuals",
+      "url": "https://databreaches.net/2026/04/24/ocr-announces-settlements-of-four-ransomware-investigations-that-affected-over-427000-individuals/?pk_campaign=feed&pk_kwd=ocr-announces-settlements-of-four-ransomware-investigations-that-affected-over-427000-individuals",
+      "published": "Fri, 24 Apr 2026 11:59:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
       "url": "https://databreaches.net/2026/04/23/south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach/?pk_campaign=feed&pk_kwd=south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach",
       "published": "Thu, 23 Apr 2026 17:02:02 +0000",
@@ -115,12 +121,6 @@
       "title": "BlueLeaks 2.0: 7,300+ Schools, Referral Systems Reported, and a Breach Navigate360 Still Hasn’t Publicly Confirmed",
       "url": "https://databreaches.net/2026/04/22/blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed/?pk_campaign=feed&pk_kwd=blueleaks-2-0-7300-schools-referral-systems-reported-and-a-breach-navigate360-still-hasnt-publicly-confirmed",
       "published": "Wed, 22 Apr 2026 14:14:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch warship compromised with $5 tracker and a postcard",
-      "url": "https://databreaches.net/2026/04/21/dutch-warship-compromised-with-5-tracker-and-a-postcard/?pk_campaign=feed&pk_kwd=dutch-warship-compromised-with-5-tracker-and-a-postcard",
-      "published": "Tue, 21 Apr 2026 13:10:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+      "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+      "published": "Fri, 24 Apr 2026 17:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+      "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
       "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
       "published": "Fri, 24 Apr 2026 14:59:00 +0530",
@@ -381,18 +393,6 @@
       "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
       "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
       "published": "Wed, 22 Apr 2026 12:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-      "url": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
-      "published": "Tue, 21 Apr 2026 23:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-      "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-      "published": "Tue, 21 Apr 2026 21:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+      "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+      "published": "Fri, 24 Apr 2026 17:19:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+      "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
       "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
       "published": "Fri, 24 Apr 2026 14:59:00 +0530",
@@ -713,18 +725,6 @@
       "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
       "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
       "published": "Wed, 22 Apr 2026 12:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-      "url": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
-      "published": "Tue, 21 Apr 2026 23:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-      "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-      "published": "Tue, 21 Apr 2026 21:16:00 +0530",
       "source": "The Hacker News"
     },
     {
