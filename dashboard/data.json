@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T10:31:39.047636Z",
+  "generated_at": "2026-04-27T12:20:02.959788Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "published": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "American utility firm Itron discloses breach of internal IT network",
@@ -148,10 +154,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+      "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+      "published": "Mon, 27 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "published": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
@@ -253,24 +271,6 @@
       "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
       "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
       "published": "Thu, 23 Apr 2026 13:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
-      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
-      "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
-      "published": "Wed, 22 Apr 2026 23:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
-      "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
-      "published": "Wed, 22 Apr 2026 20:58:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "published": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "American utility firm Itron discloses breach of internal IT network",
       "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
       "published": "Sun, 26 Apr 2026 10:22:34 -0400",
@@ -480,10 +486,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+      "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+      "published": "Mon, 27 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "published": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
@@ -585,24 +603,6 @@
       "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
       "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
       "published": "Thu, 23 Apr 2026 13:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
-      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
-      "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
-      "published": "Wed, 22 Apr 2026 23:03:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
-      "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
-      "published": "Wed, 22 Apr 2026 20:58:00 +0530",
       "source": "The Hacker News"
     },
     {
