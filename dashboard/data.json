@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:39:28.649008Z",
+  "generated_at": "2026-04-27T21:53:46.585562Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,12 @@
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
@@ -145,12 +151,6 @@
       "title": "ADT confirms data breach after ShinyHunters leak threat",
       "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
       "published": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "url": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
       "url": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
       "published": "Mon, 27 Apr 2026 16:00:31 -0400",
@@ -477,12 +483,6 @@
       "title": "ADT confirms data breach after ShinyHunters leak threat",
       "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
       "published": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "url": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
       "source": "BleepingComputer"
     },
     {
