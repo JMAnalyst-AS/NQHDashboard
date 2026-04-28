@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:46:34.555450Z",
+  "generated_at": "2026-04-28T19:41:44.666270Z",
   "segment1": [
     {
       "title": "The “BlueLeaks 2.0” Breach: Will there be any accountability? Senators start with transparency.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "published": "Tue, 28 Apr 2026 15:04:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
       "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
       "published": "Tue, 28 Apr 2026 11:39:52 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "published": "Mon, 27 Apr 2026 09:50:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "published": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
@@ -381,18 +393,6 @@
       "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
       "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
       "published": "Fri, 24 Apr 2026 17:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-      "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-      "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-      "published": "Fri, 24 Apr 2026 14:59:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "published": "Tue, 28 Apr 2026 15:04:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
       "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
       "published": "Tue, 28 Apr 2026 11:39:52 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "published": "Mon, 27 Apr 2026 09:50:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "published": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
@@ -713,18 +725,6 @@
       "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
       "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
       "published": "Fri, 24 Apr 2026 17:19:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-      "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-      "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-      "published": "Fri, 24 Apr 2026 14:59:00 +0530",
       "source": "The Hacker News"
     },
     {
