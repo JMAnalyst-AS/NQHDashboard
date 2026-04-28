@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-28T11:05:37.850205Z",
+  "generated_at": "2026-04-28T13:12:18.483399Z",
   "segment1": [
+    {
+      "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
+      "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
+      "published": "Tue, 28 Apr 2026 11:29:02 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "",
       "url": "https://databreaches.net/2026/04/27/127254/?pk_campaign=feed&pk_kwd=127254",
@@ -53,17 +59,17 @@
       "title": "Healthcare AI Firm Sued Over Alleged Unlawful Disclosures of Genetic Data",
       "url": "https://databreaches.net/2026/04/23/healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data/?pk_campaign=feed&pk_kwd=healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data",
       "published": "Thu, 23 Apr 2026 16:59:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
-      "url": "https://databreaches.net/2026/04/23/trigona-affiliates-deploy-custom-exfiltration-tool-to-streamline-data-theft/?pk_campaign=feed&pk_kwd=trigona-affiliates-deploy-custom-exfiltration-tool-to-streamline-data-theft",
-      "published": "Thu, 23 Apr 2026 16:42:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
+      "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
+      "published": "Tue, 28 Apr 2026 11:29:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "",
       "url": "https://databreaches.net/2026/04/27/127254/?pk_campaign=feed&pk_kwd=127254",
       "published": "Tue, 28 Apr 2026 01:08:52 +0000",
@@ -115,12 +121,6 @@
       "title": "Healthcare AI Firm Sued Over Alleged Unlawful Disclosures of Genetic Data",
       "url": "https://databreaches.net/2026/04/23/healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data/?pk_campaign=feed&pk_kwd=healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data",
       "published": "Thu, 23 Apr 2026 16:59:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
-      "url": "https://databreaches.net/2026/04/23/trigona-affiliates-deploy-custom-exfiltration-tool-to-streamline-data-theft/?pk_campaign=feed&pk_kwd=trigona-affiliates-deploy-custom-exfiltration-tool-to-streamline-data-theft",
-      "published": "Thu, 23 Apr 2026 16:42:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "published": "Tue, 28 Apr 2026 08:50:58 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "published": "Sun, 26 Apr 2026 10:22:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+      "published": "Tue, 28 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+      "published": "Tue, 28 Apr 2026 16:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "After Mythos: New Playbooks For a Zero-Window Era",
@@ -381,18 +393,6 @@
       "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
       "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
       "published": "Fri, 24 Apr 2026 12:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "published": "Thu, 23 Apr 2026 23:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "published": "Thu, 23 Apr 2026 19:12:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "published": "Tue, 28 Apr 2026 08:50:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
       "published": "Tue, 28 Apr 2026 05:51:26 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "published": "Sun, 26 Apr 2026 10:22:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+      "published": "Tue, 28 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+      "published": "Tue, 28 Apr 2026 16:48:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "After Mythos: New Playbooks For a Zero-Window Era",
@@ -713,18 +725,6 @@
       "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
       "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
       "published": "Fri, 24 Apr 2026 12:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "published": "Thu, 23 Apr 2026 23:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "published": "Thu, 23 Apr 2026 19:12:00 +0530",
       "source": "The Hacker News"
     },
     {
