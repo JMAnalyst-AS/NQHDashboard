@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T21:07:16.614290Z",
+  "generated_at": "2026-04-28T22:30:59.935406Z",
   "segment1": [
     {
       "title": "In Moldova, hackers attacked a medical database, damaging 30% of the information",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "published": "Tue, 28 Apr 2026 17:07:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
       "published": "Tue, 28 Apr 2026 15:04:22 -0400",
@@ -261,18 +273,6 @@
       "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
       "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "published": "Mon, 27 Apr 2026 10:43:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "published": "Mon, 27 Apr 2026 10:25:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "published": "Tue, 28 Apr 2026 17:07:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
       "published": "Tue, 28 Apr 2026 15:04:22 -0400",
@@ -593,18 +605,6 @@
       "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
       "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "published": "Mon, 27 Apr 2026 10:43:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "published": "Mon, 27 Apr 2026 10:25:35 -0400",
       "source": "BleepingComputer"
     },
     {
