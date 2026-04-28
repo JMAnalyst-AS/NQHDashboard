@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-28T13:12:18.483399Z",
+  "generated_at": "2026-04-28T15:43:12.622061Z",
   "segment1": [
+    {
+      "title": "The “BlueLeaks 2.0” Breach: Will there be any accountability? Senators start with transparency.",
+      "url": "https://databreaches.net/2026/04/28/the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency/?pk_campaign=feed&pk_kwd=the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency",
+      "published": "Tue, 28 Apr 2026 13:37:59 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
       "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
@@ -53,17 +59,17 @@
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
       "url": "https://databreaches.net/2026/04/23/south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach/?pk_campaign=feed&pk_kwd=south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach",
       "published": "Thu, 23 Apr 2026 17:02:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Healthcare AI Firm Sued Over Alleged Unlawful Disclosures of Genetic Data",
-      "url": "https://databreaches.net/2026/04/23/healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data/?pk_campaign=feed&pk_kwd=healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data",
-      "published": "Thu, 23 Apr 2026 16:59:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The “BlueLeaks 2.0” Breach: Will there be any accountability? Senators start with transparency.",
+      "url": "https://databreaches.net/2026/04/28/the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency/?pk_campaign=feed&pk_kwd=the-blueleaks-2-0-breach-will-there-be-any-accountability-senators-start-with-transparency",
+      "published": "Tue, 28 Apr 2026 13:37:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
       "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
       "published": "Tue, 28 Apr 2026 11:29:02 +0000",
@@ -115,12 +121,6 @@
       "title": "South Korea’s regulator fines matchmaking service Duo $830,000 over data breach",
       "url": "https://databreaches.net/2026/04/23/south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach/?pk_campaign=feed&pk_kwd=south-koreas-regulator-fines-matchmaking-service-duo-830000-over-data-breach",
       "published": "Thu, 23 Apr 2026 17:02:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Healthcare AI Firm Sued Over Alleged Unlawful Disclosures of Genetic Data",
-      "url": "https://databreaches.net/2026/04/23/healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data/?pk_campaign=feed&pk_kwd=healthcare-ai-firm-sued-over-alleged-unlawful-disclosures-of-genetic-data",
-      "published": "Thu, 23 Apr 2026 16:59:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "Sat, 28 Feb 2026 12:01:57 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-      "published": "Mon, 27 Apr 2026 09:01:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
-      "url": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
-      "published": "Mon, 27 Apr 2026 09:00:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "published": "Mon, 27 Apr 2026 08:03:46 -0400",
-      "source": "BleepingComputer"
+      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+      "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+      "published": "Tue, 28 Apr 2026 19:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
@@ -387,12 +393,6 @@
       "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
       "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
       "published": "Fri, 24 Apr 2026 14:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "published": "Fri, 24 Apr 2026 12:54:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
       "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
       "published": "Tue, 28 Apr 2026 08:50:58 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-      "published": "Mon, 27 Apr 2026 09:01:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
-      "url": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
-      "published": "Mon, 27 Apr 2026 09:00:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "published": "Mon, 27 Apr 2026 08:03:46 -0400",
-      "source": "BleepingComputer"
+      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+      "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+      "published": "Tue, 28 Apr 2026 19:31:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
@@ -719,12 +725,6 @@
       "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
       "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
       "published": "Fri, 24 Apr 2026 14:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "published": "Fri, 24 Apr 2026 12:54:00 +0530",
       "source": "The Hacker News"
     },
     {
