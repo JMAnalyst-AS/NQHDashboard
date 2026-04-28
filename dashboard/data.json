@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T08:42:35.333132Z",
+  "generated_at": "2026-04-28T11:05:37.850205Z",
   "segment1": [
     {
       "title": "",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
       "published": "Tue, 28 Apr 2026 04:37:12 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "published": "Sat, 25 Apr 2026 13:07:13 -0400",
-      "source": "BleepingComputer"
+      "title": "After Mythos: New Playbooks For a Zero-Window Era",
+      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+      "published": "Tue, 28 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
@@ -381,18 +393,6 @@
       "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
       "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
       "published": "Thu, 23 Apr 2026 19:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-      "published": "Thu, 23 Apr 2026 18:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "published": "Thu, 23 Apr 2026 17:33:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
       "published": "Tue, 28 Apr 2026 04:37:12 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "published": "Sat, 25 Apr 2026 13:07:13 -0400",
-      "source": "BleepingComputer"
+      "title": "After Mythos: New Playbooks For a Zero-Window Era",
+      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+      "published": "Tue, 28 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
@@ -713,18 +725,6 @@
       "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
       "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
       "published": "Thu, 23 Apr 2026 19:12:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-      "published": "Thu, 23 Apr 2026 18:47:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "published": "Thu, 23 Apr 2026 17:33:00 +0530",
       "source": "The Hacker News"
     },
     {
