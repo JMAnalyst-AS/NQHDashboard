@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T06:08:54.190234Z",
+  "generated_at": "2026-04-28T08:42:35.333132Z",
   "segment1": [
     {
       "title": "",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "published": "Tue, 28 Apr 2026 04:37:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Robinhood account creation flaw abused to send phishing emails",
       "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
       "published": "Mon, 27 Apr 2026 19:11:01 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "published": "Sat, 25 Apr 2026 11:07:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
@@ -381,18 +393,6 @@
       "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
       "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
       "published": "Thu, 23 Apr 2026 17:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "published": "Thu, 23 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "published": "Tue, 28 Apr 2026 04:37:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Robinhood account creation flaw abused to send phishing emails",
       "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
       "published": "Mon, 27 Apr 2026 19:11:01 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "published": "Sat, 25 Apr 2026 11:07:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
@@ -713,18 +725,6 @@
       "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
       "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
       "published": "Thu, 23 Apr 2026 17:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "published": "Thu, 23 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
       "source": "The Hacker News"
     },
     {
