@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T22:30:35.180557Z",
+  "generated_at": "2026-04-29T23:54:46.232868Z",
   "segment1": [
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
       "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
       "published": "Wed, 29 Apr 2026 18:13:15 -0400",
@@ -267,12 +273,6 @@
       "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
       "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
       "published": "Tue, 28 Apr 2026 10:50:40 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
       "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
       "published": "Wed, 29 Apr 2026 18:13:15 -0400",
@@ -599,12 +605,6 @@
       "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
       "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
       "published": "Tue, 28 Apr 2026 10:50:40 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
       "source": "BleepingComputer"
     },
     {
