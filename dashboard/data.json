@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T08:20:00.685652Z",
+  "generated_at": "2026-04-29T10:24:45.289524Z",
   "segment1": [
     {
       "title": "In Moldova, hackers attacked a medical database, damaging 30% of the information",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says backend change broke Teams Free chat and calls",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
       "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
       "published": "Tue, 28 Apr 2026 17:25:57 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "published": "Wed, 29 Apr 2026 14:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
@@ -387,12 +393,6 @@
       "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
       "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
       "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-      "url": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-      "published": "Fri, 24 Apr 2026 19:43:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says backend change broke Teams Free chat and calls",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
       "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
       "published": "Tue, 28 Apr 2026 17:25:57 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "published": "Wed, 29 Apr 2026 14:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
@@ -719,12 +725,6 @@
       "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
       "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
       "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-      "url": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-      "published": "Fri, 24 Apr 2026 19:43:00 +0530",
       "source": "The Hacker News"
     },
     {
