@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T10:24:45.289524Z",
+  "generated_at": "2026-04-29T12:01:30.759729Z",
   "segment1": [
     {
       "title": "In Moldova, hackers attacked a medical database, damaging 30% of the information",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
       "published": "Wed, 29 Apr 2026 04:38:07 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-      "published": "Mon, 27 Apr 2026 12:27:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
@@ -387,12 +393,6 @@
       "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
       "url": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
       "published": "Sat, 25 Apr 2026 10:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-      "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
       "published": "Wed, 29 Apr 2026 04:38:07 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-      "published": "Mon, 27 Apr 2026 12:27:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
@@ -719,12 +725,6 @@
       "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
       "url": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
       "published": "Sat, 25 Apr 2026 10:38:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-      "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
       "source": "The Hacker News"
     },
     {
