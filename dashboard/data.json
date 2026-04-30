@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:19:14.006609Z",
+  "generated_at": "2026-04-30T17:50:04.491345Z",
   "segment1": [
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "April KB5083769 Windows 11 update causes backup software failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
       "published": "Thu, 30 Apr 2026 11:23:03 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft says backend change broke Teams Free chat and calls",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "source": "BleepingComputer"
+      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
@@ -387,12 +393,6 @@
       "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
       "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
       "published": "Tue, 28 Apr 2026 13:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "April KB5083769 Windows 11 update causes backup software failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
       "published": "Thu, 30 Apr 2026 11:23:03 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft says backend change broke Teams Free chat and calls",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "source": "BleepingComputer"
+      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
@@ -719,12 +725,6 @@
       "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
       "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
       "published": "Tue, 28 Apr 2026 13:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
       "source": "The Hacker News"
     },
     {
