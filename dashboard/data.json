@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T06:06:56.344309Z",
+  "generated_at": "2026-04-30T08:38:30.345491Z",
   "segment1": [
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
       "published": "Wed, 29 Apr 2026 21:56:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
       "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
       "published": "Mon, 27 Apr 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
       "published": "Wed, 29 Apr 2026 21:56:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
       "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
       "published": "Mon, 27 Apr 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
       "source": "The Hacker News"
     },
     {
