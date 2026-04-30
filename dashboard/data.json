@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T10:55:52.387556Z",
+  "generated_at": "2026-04-30T12:15:47.088227Z",
   "segment1": [
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "published": "Thu, 30 Apr 2026 07:40:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+      "published": "Thu, 30 Apr 2026 07:21:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Official SAP npm packages compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
       "published": "Wed, 29 Apr 2026 18:43:44 -0400",
@@ -261,18 +273,6 @@
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
       "published": "Tue, 28 Apr 2026 15:04:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "published": "Thu, 30 Apr 2026 07:40:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+      "published": "Thu, 30 Apr 2026 07:21:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Official SAP npm packages compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
       "published": "Wed, 29 Apr 2026 18:43:44 -0400",
@@ -593,18 +605,6 @@
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
       "published": "Tue, 28 Apr 2026 15:04:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
       "source": "BleepingComputer"
     },
     {
