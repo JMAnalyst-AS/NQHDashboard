@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T14:33:02.471258Z",
+  "generated_at": "2026-04-30T16:19:14.006609Z",
   "segment1": [
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "published": "Thu, 30 Apr 2026 11:23:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
       "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
       "published": "Thu, 30 Apr 2026 10:02:12 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
       "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "published": "Thu, 30 Apr 2026 11:23:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
       "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
       "published": "Thu, 30 Apr 2026 10:02:12 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
       "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
       "source": "BleepingComputer"
     },
     {
