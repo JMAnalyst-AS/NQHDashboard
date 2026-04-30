@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-30T17:50:04.491345Z",
+  "generated_at": "2026-04-30T19:22:22.279702Z",
   "segment1": [
+    {
+      "title": "The Human Element: DPRK IT Worker Fraud and Insider Risk",
+      "url": "https://databreaches.net/2026/04/30/the-human-element-dprk-it-worker-fraud-and-insider-risk/?pk_campaign=feed&pk_kwd=the-human-element-dprk-it-worker-fraud-and-insider-risk",
+      "published": "Thu, 30 Apr 2026 18:06:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "15-year-old arrested in massive French Government data leak",
+      "url": "https://databreaches.net/2026/04/30/15-year-old-arrested-in-massive-french-government-data-leak/?pk_campaign=feed&pk_kwd=15-year-old-arrested-in-massive-french-government-data-leak",
+      "published": "Thu, 30 Apr 2026 17:52:14 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
       "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
@@ -47,23 +59,23 @@
       "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
       "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
       "published": "Tue, 28 Apr 2026 11:29:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cherry Health continues to experience issues, but hasn’t publicly acknowledged ransomware attack  (Updated)",
-      "url": "https://databreaches.net/2026/04/27/127254/?pk_campaign=feed&pk_kwd=127254",
-      "published": "Tue, 28 Apr 2026 01:08:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Regulator fines Fidelity Brokerage Services $1.25M over data breach",
-      "url": "https://databreaches.net/2026/04/27/regulator-fines-fidelity-brokerage-services-1-25m-over-data-breach/?pk_campaign=feed&pk_kwd=regulator-fines-fidelity-brokerage-services-1-25m-over-data-breach",
-      "published": "Mon, 27 Apr 2026 23:44:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The Human Element: DPRK IT Worker Fraud and Insider Risk",
+      "url": "https://databreaches.net/2026/04/30/the-human-element-dprk-it-worker-fraud-and-insider-risk/?pk_campaign=feed&pk_kwd=the-human-element-dprk-it-worker-fraud-and-insider-risk",
+      "published": "Thu, 30 Apr 2026 18:06:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "15-year-old arrested in massive French Government data leak",
+      "url": "https://databreaches.net/2026/04/30/15-year-old-arrested-in-massive-french-government-data-leak/?pk_campaign=feed&pk_kwd=15-year-old-arrested-in-massive-french-government-data-leak",
+      "published": "Thu, 30 Apr 2026 17:52:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
       "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
       "published": "Wed, 29 Apr 2026 16:08:45 +0000",
@@ -109,18 +121,6 @@
       "title": "Alleged member of Scattered Spider arrested in Finland, U.S. seeks extradition",
       "url": "https://databreaches.net/2026/04/28/alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition/?pk_campaign=feed&pk_kwd=alleged-member-of-scattered-spider-arrested-in-finland-u-s-seeks-extradition",
       "published": "Tue, 28 Apr 2026 11:29:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cherry Health continues to experience issues, but hasn’t publicly acknowledged ransomware attack  (Updated)",
-      "url": "https://databreaches.net/2026/04/27/127254/?pk_campaign=feed&pk_kwd=127254",
-      "published": "Tue, 28 Apr 2026 01:08:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Regulator fines Fidelity Brokerage Services $1.25M over data breach",
-      "url": "https://databreaches.net/2026/04/27/regulator-fines-fidelity-brokerage-services-1-25m-over-data-breach/?pk_campaign=feed&pk_kwd=regulator-fines-fidelity-brokerage-services-1-25m-over-data-breach",
-      "published": "Mon, 27 Apr 2026 23:44:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Romanian leader of online swatting ring gets 4 years in prison",
@@ -270,13 +276,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "published": "Wed, 29 Apr 2026 08:41:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
       "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
       "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "source": "The Hacker News"
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Romanian leader of online swatting ring gets 4 years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
       "published": "Thu, 30 Apr 2026 13:45:12 -0400",
@@ -602,13 +608,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "published": "Wed, 29 Apr 2026 08:41:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
       "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
       "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "source": "The Hacker News"
