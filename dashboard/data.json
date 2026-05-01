@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-01T15:57:58.478802Z",
+  "generated_at": "2026-05-01T17:05:06.601189Z",
   "segment1": [
+    {
+      "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
+      "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
+      "published": "Fri, 01 May 2026 16:20:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Never forgotten.",
       "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
@@ -53,17 +59,17 @@
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
       "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
       "published": "Wed, 29 Apr 2026 16:08:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Almost one year after discovery, Sandhills Medical Foundation notifies 169,017 people affected by a cyberattack",
-      "url": "https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack",
-      "published": "Wed, 29 Apr 2026 15:58:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
+      "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
+      "published": "Fri, 01 May 2026 16:20:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Never forgotten.",
       "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
       "published": "Fri, 01 May 2026 12:14:36 +0000",
@@ -115,12 +121,6 @@
       "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
       "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
       "published": "Wed, 29 Apr 2026 16:08:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Almost one year after discovery, Sandhills Medical Foundation notifies 169,017 people affected by a cyberattack",
-      "url": "https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack",
-      "published": "Wed, 29 Apr 2026 15:58:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Story retracted",
+      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "published": "Fri, 01 May 2026 12:26:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
@@ -267,12 +273,6 @@
       "title": "Official SAP npm packages compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
       "published": "Wed, 29 Apr 2026 18:43:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Story retracted",
+      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "published": "Fri, 01 May 2026 12:26:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
       "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
       "published": "Fri, 01 May 2026 10:02:12 -0400",
@@ -599,12 +605,6 @@
       "title": "Official SAP npm packages compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
       "published": "Wed, 29 Apr 2026 18:43:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
       "source": "BleepingComputer"
     },
     {
