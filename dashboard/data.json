@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-01T18:38:03.210041Z",
+  "generated_at": "2026-05-01T20:04:24.295328Z",
   "segment1": [
+    {
+      "title": "Michigan residents sue Thomson Reuters over public display of Social Security numbers",
+      "url": "https://databreaches.net/2026/05/01/michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers/?pk_campaign=feed&pk_kwd=michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers",
+      "published": "Fri, 01 May 2026 18:50:03 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
       "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
@@ -53,17 +59,17 @@
       "title": "15-year-old arrested in massive French Government data leak",
       "url": "https://databreaches.net/2026/04/30/15-year-old-arrested-in-massive-french-government-data-leak/?pk_campaign=feed&pk_kwd=15-year-old-arrested-in-massive-french-government-data-leak",
       "published": "Thu, 30 Apr 2026 17:52:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
-      "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
-      "published": "Wed, 29 Apr 2026 16:08:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Michigan residents sue Thomson Reuters over public display of Social Security numbers",
+      "url": "https://databreaches.net/2026/05/01/michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers/?pk_campaign=feed&pk_kwd=michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers",
+      "published": "Fri, 01 May 2026 18:50:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
       "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
       "published": "Fri, 01 May 2026 16:20:09 +0000",
@@ -115,12 +121,6 @@
       "title": "15-year-old arrested in massive French Government data leak",
       "url": "https://databreaches.net/2026/04/30/15-year-old-arrested-in-massive-french-government-data-leak/?pk_campaign=feed&pk_kwd=15-year-old-arrested-in-massive-french-government-data-leak",
       "published": "Thu, 30 Apr 2026 17:52:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "VECT Ransomware is a Wiper, Not Ransomware — Don’t Bother Paying, Says Check Point Research",
-      "url": "https://databreaches.net/2026/04/29/vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research/?pk_campaign=feed&pk_kwd=vect-ransomware-is-a-wiper-not-ransomware-dont-bother-paying-says-checkpoint-research",
-      "published": "Wed, 29 Apr 2026 16:08:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "published": "Fri, 01 May 2026 23:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
       "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
       "published": "Fri, 01 May 2026 19:56:00 +0530",
@@ -387,12 +393,6 @@
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
       "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
       "published": "Tue, 28 Apr 2026 23:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "published": "Fri, 01 May 2026 23:39:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
       "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
       "published": "Fri, 01 May 2026 19:56:00 +0530",
@@ -719,12 +725,6 @@
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
       "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
       "published": "Tue, 28 Apr 2026 23:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
       "source": "The Hacker News"
     },
     {
