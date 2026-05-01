@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-01T11:38:42.559779Z",
+  "generated_at": "2026-05-01T13:19:04.419537Z",
   "segment1": [
+    {
+      "title": "Never forgotten.",
+      "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
+      "published": "Fri, 01 May 2026 12:14:36 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Unprecedented: Private Equity Firm Potentially on Hook for PowerSchool’s Data Breach",
       "url": "https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach",
@@ -53,17 +59,17 @@
       "title": "Almost one year after discovery, Sandhills Medical Foundation notifies 169,017 people affected by a cyberattack",
       "url": "https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack",
       "published": "Wed, 29 Apr 2026 15:58:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Over 200 Japanese firms have paid ransomware attackers; 60% fail to recover data",
-      "url": "https://databreaches.net/2026/04/29/over-200-japanese-firms-have-paid-ransomware-attackers-60-fail-to-recover-data/?pk_campaign=feed&pk_kwd=over-200-japanese-firms-have-paid-ransomware-attackers-60-fail-to-recover-data",
-      "published": "Wed, 29 Apr 2026 13:37:52 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Never forgotten.",
+      "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
+      "published": "Fri, 01 May 2026 12:14:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Unprecedented: Private Equity Firm Potentially on Hook for PowerSchool’s Data Breach",
       "url": "https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach",
       "published": "Fri, 01 May 2026 11:14:01 +0000",
@@ -115,12 +121,6 @@
       "title": "Almost one year after discovery, Sandhills Medical Foundation notifies 169,017 people affected by a cyberattack",
       "url": "https://databreaches.net/2026/04/29/almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack/?pk_campaign=feed&pk_kwd=almost-one-year-after-discovery-sandhills-medical-foundation-notifies-169017-people-affected-by-a-cyberattack",
       "published": "Wed, 29 Apr 2026 15:58:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Over 200 Japanese firms have paid ransomware attackers; 60% fail to recover data",
-      "url": "https://databreaches.net/2026/04/29/over-200-japanese-firms-have-paid-ransomware-attackers-60-fail-to-recover-data/?pk_campaign=feed&pk_kwd=over-200-japanese-firms-have-paid-ransomware-attackers-60-fail-to-recover-data",
-      "published": "Wed, 29 Apr 2026 13:37:52 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "published": "Fri, 01 May 2026 08:46:48 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
@@ -267,12 +273,6 @@
       "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
       "published": "Wed, 29 Apr 2026 16:50:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "published": "Wed, 29 Apr 2026 14:32:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "published": "Fri, 01 May 2026 08:46:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
       "published": "Fri, 01 May 2026 07:10:07 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
       "published": "Wed, 29 Apr 2026 16:50:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "published": "Wed, 29 Apr 2026 14:32:15 -0400",
       "source": "BleepingComputer"
     },
     {
