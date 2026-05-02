@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T14:29:55.099355Z",
+  "generated_at": "2026-05-02T15:25:17.662299Z",
   "segment1": [
     {
       "title": "Maryland pharmacist indicted on unauthorized computer access related to U. Maryland Medical Center",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "published": "Sat, 02 May 2026 10:32:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "published": "Fri, 01 May 2026 20:18:05 -0400",
@@ -267,12 +273,6 @@
       "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
       "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
       "published": "Thu, 30 Apr 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "published": "Thu, 30 Apr 2026 09:54:47 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "published": "Sat, 02 May 2026 10:32:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "published": "Fri, 01 May 2026 20:18:05 -0400",
@@ -599,12 +605,6 @@
       "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
       "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
       "published": "Thu, 30 Apr 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "published": "Thu, 30 Apr 2026 09:54:47 -0400",
       "source": "BleepingComputer"
     },
     {
