@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T09:02:35.693506Z",
+  "generated_at": "2026-05-04T11:21:50.447154Z",
   "segment1": [
     {
       "title": "Instructure discloses second data breach in less than a year",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft confirms April Windows updates cause backup failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "published": "Mon, 04 May 2026 06:40:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Instructure confirms data breach, ShinyHunters claims attack",
       "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
       "published": "Sun, 03 May 2026 18:16:27 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "published": "Mon, 04 May 2026 14:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
@@ -387,12 +393,6 @@
       "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
       "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
       "published": "Wed, 29 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft confirms April Windows updates cause backup failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "published": "Mon, 04 May 2026 06:40:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Instructure confirms data breach, ShinyHunters claims attack",
       "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
       "published": "Sun, 03 May 2026 18:16:27 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "published": "Mon, 04 May 2026 14:57:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
@@ -719,12 +725,6 @@
       "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
       "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
       "published": "Wed, 29 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
       "source": "The Hacker News"
     },
     {
