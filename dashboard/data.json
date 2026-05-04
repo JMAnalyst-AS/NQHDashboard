@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T11:21:50.447154Z",
+  "generated_at": "2026-05-04T13:07:19.931908Z",
   "segment1": [
     {
       "title": "Instructure discloses second data breach in less than a year",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "published": "Mon, 04 May 2026 08:18:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why MSPs must rethink security and backup strategies",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+      "published": "Mon, 04 May 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "published": "Mon, 04 May 2026 07:28:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft confirms April Windows updates cause backup failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
       "published": "Mon, 04 May 2026 06:40:11 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "published": "Fri, 01 May 2026 07:10:07 -0400",
-      "source": "BleepingComputer"
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "published": "Mon, 04 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "published": "Fri, 01 May 2026 06:00:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "published": "Fri, 01 May 2026 03:47:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "published": "Mon, 04 May 2026 17:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
@@ -381,18 +393,6 @@
       "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
       "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
       "published": "Wed, 29 Apr 2026 20:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-      "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-      "published": "Wed, 29 Apr 2026 17:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-      "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-      "published": "Wed, 29 Apr 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "published": "Mon, 04 May 2026 08:18:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why MSPs must rethink security and backup strategies",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+      "published": "Mon, 04 May 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "published": "Mon, 04 May 2026 07:28:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft confirms April Windows updates cause backup failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
       "published": "Mon, 04 May 2026 06:40:11 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "published": "Fri, 01 May 2026 07:10:07 -0400",
-      "source": "BleepingComputer"
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "published": "Mon, 04 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "published": "Fri, 01 May 2026 06:00:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "published": "Fri, 01 May 2026 03:47:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "published": "Mon, 04 May 2026 17:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
@@ -713,18 +725,6 @@
       "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
       "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
       "published": "Wed, 29 Apr 2026 20:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-      "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-      "published": "Wed, 29 Apr 2026 17:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-      "url": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-      "published": "Wed, 29 Apr 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
