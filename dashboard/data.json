@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-04T22:01:04.389998Z",
+  "generated_at": "2026-05-04T23:26:57.756688Z",
   "segment1": [
+    {
+      "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
+      "url": "https://databreaches.net/2026/05/04/latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization/?pk_campaign=feed&pk_kwd=latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization",
+      "published": "Mon, 04 May 2026 22:02:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Medicare portal database exposed health providers’ Social Security numbers",
       "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
@@ -53,17 +59,17 @@
       "title": "Unprecedented: Private Equity Firm Potentially on Hook for PowerSchool’s Data Breach",
       "url": "https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach",
       "published": "Fri, 01 May 2026 11:14:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kentwood, Michigan, schools say student malware disrupted Wi-Fi",
-      "url": "https://databreaches.net/2026/05/01/kentwood-michigan-schools-say-student-malware-disrupted-wi-fi/?pk_campaign=feed&pk_kwd=kentwood-michigan-schools-say-student-malware-disrupted-wi-fi",
-      "published": "Fri, 01 May 2026 10:47:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
+      "url": "https://databreaches.net/2026/05/04/latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization/?pk_campaign=feed&pk_kwd=latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization",
+      "published": "Mon, 04 May 2026 22:02:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Medicare portal database exposed health providers’ Social Security numbers",
       "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
       "published": "Mon, 04 May 2026 20:17:56 +0000",
@@ -115,12 +121,6 @@
       "title": "Unprecedented: Private Equity Firm Potentially on Hook for PowerSchool’s Data Breach",
       "url": "https://databreaches.net/2026/05/01/unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach/?pk_campaign=feed&pk_kwd=unprecedented-private-equity-firm-potentially-on-hook-for-powerschools-data-breach",
       "published": "Fri, 01 May 2026 11:14:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kentwood, Michigan, schools say student malware disrupted Wi-Fi",
-      "url": "https://databreaches.net/2026/05/01/kentwood-michigan-schools-say-student-malware-disrupted-wi-fi/?pk_campaign=feed&pk_kwd=kentwood-michigan-schools-say-student-malware-disrupted-wi-fi",
-      "published": "Fri, 01 May 2026 10:47:20 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "published": "Mon, 04 May 2026 18:12:57 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Amazon SES increasingly abused in phishing to evade detection",
@@ -267,12 +273,6 @@
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "published": "Fri, 01 May 2026 19:43:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "published": "Mon, 04 May 2026 18:12:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Amazon SES increasingly abused in phishing to evade detection",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
       "published": "Mon, 04 May 2026 16:03:28 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "published": "Fri, 01 May 2026 19:43:35 -0400",
       "source": "BleepingComputer"
     },
     {
