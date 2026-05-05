@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T20:07:30.271449Z",
+  "generated_at": "2026-05-05T21:35:09.450640Z",
   "segment1": [
     {
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "published": "Tue, 05 May 2026 17:20:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
       "published": "Tue, 05 May 2026 15:21:18 -0400",
@@ -246,8 +252,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "title": "Researchers report Amazon SES abused in phishing to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
       "published": "Mon, 04 May 2026 16:03:28 -0400",
       "source": "BleepingComputer"
     },
@@ -267,12 +273,6 @@
       "title": "They don’t hack, they borrow: How fraudsters target credit unions",
       "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
       "published": "Mon, 04 May 2026 09:42:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "published": "Mon, 04 May 2026 08:18:57 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "published": "Tue, 05 May 2026 17:20:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
       "published": "Tue, 05 May 2026 15:21:18 -0400",
@@ -578,8 +584,8 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "title": "Researchers report Amazon SES abused in phishing to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
       "published": "Mon, 04 May 2026 16:03:28 -0400",
       "source": "BleepingComputer"
     },
@@ -599,12 +605,6 @@
       "title": "They don’t hack, they borrow: How fraudsters target credit unions",
       "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
       "published": "Mon, 04 May 2026 09:42:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "published": "Mon, 04 May 2026 08:18:57 -0400",
       "source": "BleepingComputer"
     },
     {
