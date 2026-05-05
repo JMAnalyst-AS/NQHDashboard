@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:47:27.004415Z",
+  "generated_at": "2026-05-05T17:04:08.997408Z",
   "segment1": [
     {
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "published": "Tue, 05 May 2026 10:39:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "published": "Tue, 05 May 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "published": "Tue, 05 May 2026 09:03:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
       "published": "Tue, 05 May 2026 07:24:48 -0400",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms April Windows updates cause backup failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "published": "Mon, 04 May 2026 06:40:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "published": "Tue, 05 May 2026 21:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "published": "Sun, 03 May 2026 18:16:27 -0400",
-      "source": "BleepingComputer"
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "published": "Tue, 05 May 2026 21:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "published": "Sun, 03 May 2026 14:11:25 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "published": "Tue, 05 May 2026 19:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+      "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+      "published": "Tue, 05 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+      "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+      "published": "Tue, 05 May 2026 17:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
@@ -363,36 +393,6 @@
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
       "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
       "published": "Fri, 01 May 2026 19:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-      "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-      "published": "Fri, 01 May 2026 19:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-      "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-      "published": "Fri, 01 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "published": "Fri, 01 May 2026 15:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "published": "Fri, 01 May 2026 15:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "published": "Tue, 05 May 2026 10:39:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "published": "Tue, 05 May 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "published": "Tue, 05 May 2026 09:03:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
       "published": "Tue, 05 May 2026 07:24:48 -0400",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms April Windows updates cause backup failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "published": "Mon, 04 May 2026 06:40:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "published": "Tue, 05 May 2026 21:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "published": "Sun, 03 May 2026 18:16:27 -0400",
-      "source": "BleepingComputer"
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "published": "Tue, 05 May 2026 21:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "published": "Sun, 03 May 2026 14:11:25 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "published": "Tue, 05 May 2026 19:49:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+      "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+      "published": "Tue, 05 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+      "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+      "published": "Tue, 05 May 2026 17:26:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
@@ -695,36 +725,6 @@
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
       "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
       "published": "Fri, 01 May 2026 19:56:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-      "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-      "published": "Fri, 01 May 2026 19:32:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-      "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-      "published": "Fri, 01 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "published": "Fri, 01 May 2026 15:26:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "published": "Fri, 01 May 2026 15:13:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "source": "The Hacker News"
     },
     {
