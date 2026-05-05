@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:27:14.451181Z",
+  "generated_at": "2026-05-05T11:02:01.585850Z",
   "segment1": [
     {
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "published": "Tue, 05 May 2026 06:13:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "published": "Tue, 05 May 2026 06:03:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ScarCruft hackers push BirdCall Android malware via game platform",
       "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
       "published": "Tue, 05 May 2026 05:04:13 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "published": "Sat, 02 May 2026 17:54:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "published": "Sat, 02 May 2026 10:32:25 -0400",
-      "source": "BleepingComputer"
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "published": "Tue, 05 May 2026 14:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
@@ -387,12 +393,6 @@
       "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
       "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
       "published": "Thu, 30 Apr 2026 19:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "published": "Thu, 30 Apr 2026 18:06:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "published": "Tue, 05 May 2026 06:13:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "published": "Tue, 05 May 2026 06:03:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ScarCruft hackers push BirdCall Android malware via game platform",
       "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
       "published": "Tue, 05 May 2026 05:04:13 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "published": "Sat, 02 May 2026 17:54:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "published": "Sat, 02 May 2026 10:32:25 -0400",
-      "source": "BleepingComputer"
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "published": "Tue, 05 May 2026 14:37:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
@@ -719,12 +725,6 @@
       "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
       "url": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
       "published": "Thu, 30 Apr 2026 19:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "published": "Thu, 30 Apr 2026 18:06:00 +0530",
       "source": "The Hacker News"
     },
     {
