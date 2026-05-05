@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:17:48.279214Z",
+  "generated_at": "2026-05-05T09:27:14.451181Z",
   "segment1": [
     {
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "published": "Tue, 05 May 2026 05:04:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Weaver E-cology critical bug exploited in attacks since March",
       "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
       "published": "Mon, 04 May 2026 18:12:57 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "published": "Tue, 05 May 2026 13:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "published": "Tue, 05 May 2026 12:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -381,18 +393,6 @@
       "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
       "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
       "published": "Thu, 30 Apr 2026 18:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "published": "Thu, 30 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "published": "Thu, 30 Apr 2026 14:54:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "published": "Tue, 05 May 2026 05:04:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Weaver E-cology critical bug exploited in attacks since March",
       "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
       "published": "Mon, 04 May 2026 18:12:57 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "published": "Tue, 05 May 2026 13:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "published": "Tue, 05 May 2026 12:05:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -713,18 +725,6 @@
       "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
       "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
       "published": "Thu, 30 Apr 2026 18:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "published": "Thu, 30 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "published": "Thu, 30 Apr 2026 14:54:00 +0530",
       "source": "The Hacker News"
     },
     {
