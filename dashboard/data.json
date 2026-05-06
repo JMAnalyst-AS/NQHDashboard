@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T17:40:52.277410Z",
+  "generated_at": "2026-05-06T19:46:14.024376Z",
   "segment1": [
     {
       "title": "Missouri regulators escalate pressure on Conduent over data breach potentially affecting millions",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "published": "Wed, 06 May 2026 14:38:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "published": "Wed, 06 May 2026 14:06:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DAEMON Tools devs confirm breach, release malware-free version",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
       "published": "Wed, 06 May 2026 12:43:30 -0400",
@@ -261,18 +273,6 @@
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
       "published": "Tue, 05 May 2026 07:24:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "published": "Tue, 05 May 2026 06:13:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "published": "Tue, 05 May 2026 06:03:52 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "published": "Wed, 06 May 2026 14:38:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "published": "Wed, 06 May 2026 14:06:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DAEMON Tools devs confirm breach, release malware-free version",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
       "published": "Wed, 06 May 2026 12:43:30 -0400",
@@ -593,18 +605,6 @@
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
       "published": "Tue, 05 May 2026 07:24:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "published": "Tue, 05 May 2026 06:13:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "published": "Tue, 05 May 2026 06:03:52 -0400",
       "source": "BleepingComputer"
     },
     {
