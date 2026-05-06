@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-06T11:24:22.807858Z",
+  "generated_at": "2026-05-06T13:12:51.769900Z",
   "segment1": [
+    {
+      "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
+      "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
+      "published": "Wed, 06 May 2026 11:32:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
+      "published": "Wed, 06 May 2026 11:24:38 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NYC Public Schools Lack Central Inventory to Track Vendors Used By Schools — NYS Auditor",
       "url": "https://databreaches.net/2026/05/05/nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor/?pk_campaign=feed&pk_kwd=nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor",
@@ -47,23 +59,23 @@
       "title": "Michigan residents sue Thomson Reuters over public display of Social Security numbers",
       "url": "https://databreaches.net/2026/05/01/michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers/?pk_campaign=feed&pk_kwd=michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers",
       "published": "Fri, 01 May 2026 18:50:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
-      "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
-      "published": "Fri, 01 May 2026 16:20:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Never forgotten.",
-      "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
-      "published": "Fri, 01 May 2026 12:14:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
+      "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
+      "published": "Wed, 06 May 2026 11:32:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
+      "published": "Wed, 06 May 2026 11:24:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NYC Public Schools Lack Central Inventory to Track Vendors Used By Schools — NYS Auditor",
       "url": "https://databreaches.net/2026/05/05/nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor/?pk_campaign=feed&pk_kwd=nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor",
       "published": "Wed, 06 May 2026 00:12:31 +0000",
@@ -109,18 +121,6 @@
       "title": "Michigan residents sue Thomson Reuters over public display of Social Security numbers",
       "url": "https://databreaches.net/2026/05/01/michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers/?pk_campaign=feed&pk_kwd=michigan-residents-sue-thomson-reuters-over-public-display-of-social-security-numbers",
       "published": "Fri, 01 May 2026 18:50:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYSDFS Secures $2.25 Million Cybersecurity Settlement with Delta Dental",
-      "url": "https://databreaches.net/2026/05/01/nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental/?pk_campaign=feed&pk_kwd=nysdfs-secures-2-25-million-cybersecurity-settlement-with-delta-dental",
-      "published": "Fri, 01 May 2026 16:20:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Never forgotten.",
-      "url": "https://databreaches.net/2026/05/01/never-forgotten/?pk_campaign=feed&pk_kwd=never-forgotten",
-      "published": "Fri, 01 May 2026 12:14:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "published": "Wed, 06 May 2026 09:02:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "published": "Wed, 06 May 2026 08:56:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Researchers report Amazon SES abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "published": "Mon, 04 May 2026 16:03:28 -0400",
-      "source": "BleepingComputer"
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "published": "Wed, 06 May 2026 17:33:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "published": "Mon, 04 May 2026 13:15:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      "url": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+      "published": "Wed, 06 May 2026 16:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
@@ -381,18 +393,6 @@
       "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
       "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
       "published": "Mon, 04 May 2026 14:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "published": "Mon, 04 May 2026 11:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "published": "Sun, 03 May 2026 11:56:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "published": "Wed, 06 May 2026 09:02:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "published": "Wed, 06 May 2026 08:56:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
       "published": "Wed, 06 May 2026 05:18:16 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Researchers report Amazon SES abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "published": "Mon, 04 May 2026 16:03:28 -0400",
-      "source": "BleepingComputer"
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "published": "Wed, 06 May 2026 17:33:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "published": "Mon, 04 May 2026 13:15:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      "url": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+      "published": "Wed, 06 May 2026 16:27:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
@@ -713,18 +725,6 @@
       "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
       "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
       "published": "Mon, 04 May 2026 14:57:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "published": "Mon, 04 May 2026 11:29:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "published": "Sun, 03 May 2026 11:56:00 +0530",
       "source": "The Hacker News"
     },
     {
