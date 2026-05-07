@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-07T21:58:53.498572Z",
+  "generated_at": "2026-05-07T23:05:11.565768Z",
   "segment1": [
+    {
+      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down",
+      "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
+      "published": "Thu, 07 May 2026 22:08:00 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cybersecurity Stolen ChipSoft claims patient data confirmed destroyed following cyberattack",
       "url": "https://databreaches.net/2026/05/07/cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack/?pk_campaign=feed&pk_kwd=cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack",
@@ -53,17 +59,17 @@
       "title": "Medicare portal database exposed health providers’ Social Security numbers",
       "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
       "published": "Mon, 04 May 2026 20:17:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Summary of Court Approved Legal Notice for Pennsylvania State Education Association Data Incident Settlement",
-      "url": "https://databreaches.net/2026/05/04/summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement/?pk_campaign=feed&pk_kwd=summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement",
-      "published": "Mon, 04 May 2026 18:46:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down",
+      "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
+      "published": "Thu, 07 May 2026 22:08:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cybersecurity Stolen ChipSoft claims patient data confirmed destroyed following cyberattack",
       "url": "https://databreaches.net/2026/05/07/cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack/?pk_campaign=feed&pk_kwd=cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack",
       "published": "Thu, 07 May 2026 11:25:01 +0000",
@@ -115,12 +121,6 @@
       "title": "Medicare portal database exposed health providers’ Social Security numbers",
       "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
       "published": "Mon, 04 May 2026 20:17:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Summary of Court Approved Legal Notice for Pennsylvania State Education Association Data Incident Settlement",
-      "url": "https://databreaches.net/2026/05/04/summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement/?pk_campaign=feed&pk_kwd=summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement",
-      "published": "Mon, 04 May 2026 18:46:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "published": "Thu, 07 May 2026 18:36:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "published": "Thu, 07 May 2026 18:06:52 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
@@ -261,18 +273,6 @@
       "title": "DAEMON Tools devs confirm breach, release malware-free version",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
       "published": "Wed, 06 May 2026 12:43:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "published": "Wed, 06 May 2026 10:04:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "published": "Wed, 06 May 2026 09:02:52 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "published": "Thu, 07 May 2026 18:36:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "published": "Thu, 07 May 2026 18:06:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
       "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
       "published": "Thu, 07 May 2026 14:35:50 -0400",
@@ -593,18 +605,6 @@
       "title": "DAEMON Tools devs confirm breach, release malware-free version",
       "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
       "published": "Wed, 06 May 2026 12:43:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "published": "Wed, 06 May 2026 10:04:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "published": "Wed, 06 May 2026 09:02:52 -0400",
       "source": "BleepingComputer"
     },
     {
