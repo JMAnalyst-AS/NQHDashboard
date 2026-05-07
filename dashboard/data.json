@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-07T10:00:31.759703Z",
+  "generated_at": "2026-05-07T12:16:03.054277Z",
   "segment1": [
+    {
+      "title": "Cybersecurity Stolen ChipSoft claims patient data confirmed destroyed following cyberattack",
+      "url": "https://databreaches.net/2026/05/07/cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack/?pk_campaign=feed&pk_kwd=cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack",
+      "published": "Thu, 07 May 2026 11:25:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "‘GothFerrari’ Sentenced to 78 Months in Prison for Role in Massive Cryptocurrency Heist",
       "url": "https://databreaches.net/2026/05/06/gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist/?pk_campaign=feed&pk_kwd=gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist",
@@ -53,17 +59,17 @@
       "title": "Summary of Court Approved Legal Notice for Pennsylvania State Education Association Data Incident Settlement",
       "url": "https://databreaches.net/2026/05/04/summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement/?pk_campaign=feed&pk_kwd=summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement",
       "published": "Mon, 04 May 2026 18:46:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Instructure discloses second data breach in less than a year",
-      "url": "https://databreaches.net/2026/05/03/instructure-discloses-second-data-breach-in-less-than-a-year/?pk_campaign=feed&pk_kwd=instructure-discloses-second-data-breach-in-less-than-a-year",
-      "published": "Mon, 04 May 2026 00:00:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cybersecurity Stolen ChipSoft claims patient data confirmed destroyed following cyberattack",
+      "url": "https://databreaches.net/2026/05/07/cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack/?pk_campaign=feed&pk_kwd=cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack",
+      "published": "Thu, 07 May 2026 11:25:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "‘GothFerrari’ Sentenced to 78 Months in Prison for Role in Massive Cryptocurrency Heist",
       "url": "https://databreaches.net/2026/05/06/gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist/?pk_campaign=feed&pk_kwd=gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist",
       "published": "Wed, 06 May 2026 22:25:35 +0000",
@@ -115,12 +121,6 @@
       "title": "Summary of Court Approved Legal Notice for Pennsylvania State Education Association Data Incident Settlement",
       "url": "https://databreaches.net/2026/05/04/summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement/?pk_campaign=feed&pk_kwd=summary-of-court-approved-legal-notice-for-pennsylvania-state-education-association-data-incident-settlement",
       "published": "Mon, 04 May 2026 18:46:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Instructure discloses second data breach in less than a year",
-      "url": "https://databreaches.net/2026/05/03/instructure-discloses-second-data-breach-in-less-than-a-year/?pk_campaign=feed&pk_kwd=instructure-discloses-second-data-breach-in-less-than-a-year",
-      "published": "Mon, 04 May 2026 00:00:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,30 @@
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "published": "Sun, 08 Mar 2026 23:35:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
+      "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
+      "published": "Thu, 07 May 2026 08:11:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why modern attacks require both security and recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
+      "published": "Thu, 07 May 2026 08:00:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "published": "Thu, 07 May 2026 06:57:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "published": "Thu, 07 May 2026 06:02:35 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
@@ -252,28 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "published": "Tue, 05 May 2026 13:34:09 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "published": "Thu, 07 May 2026 17:03:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "published": "Tue, 05 May 2026 10:39:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "published": "Tue, 05 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "published": "Tue, 05 May 2026 09:03:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
+      "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
+      "published": "Thu, 07 May 2026 16:24:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
@@ -381,18 +393,6 @@
       "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
       "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
       "published": "Tue, 05 May 2026 12:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "published": "Mon, 04 May 2026 23:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "published": "Mon, 04 May 2026 22:04:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
+      "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
+      "published": "Thu, 07 May 2026 08:11:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Why modern attacks require both security and recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
+      "published": "Thu, 07 May 2026 08:00:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "published": "Thu, 07 May 2026 06:57:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "published": "Thu, 07 May 2026 06:02:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
       "published": "Wed, 06 May 2026 17:36:06 -0400",
@@ -584,28 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "published": "Tue, 05 May 2026 13:34:09 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "published": "Thu, 07 May 2026 17:03:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "published": "Tue, 05 May 2026 10:39:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "published": "Tue, 05 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "published": "Tue, 05 May 2026 09:03:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
+      "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
+      "published": "Thu, 07 May 2026 16:24:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
@@ -713,18 +725,6 @@
       "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
       "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
       "published": "Tue, 05 May 2026 12:05:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "published": "Mon, 04 May 2026 23:36:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "published": "Mon, 04 May 2026 22:04:00 +0530",
       "source": "The Hacker News"
     },
     {
