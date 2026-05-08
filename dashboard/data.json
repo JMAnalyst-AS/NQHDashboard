@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T15:22:27.258888Z",
+  "generated_at": "2026-05-08T16:50:48.318172Z",
   "segment1": [
     {
       "title": "One size does not fit all — sometimes, victims probably should pay ransom",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "published": "Fri, 08 May 2026 12:18:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
       "url": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
       "published": "Fri, 08 May 2026 10:02:12 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "published": "Thu, 07 May 2026 08:00:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "published": "Fri, 08 May 2026 20:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
@@ -387,12 +393,6 @@
       "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
       "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
       "published": "Wed, 06 May 2026 11:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
-      "published": "Tue, 05 May 2026 21:49:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "published": "Fri, 08 May 2026 12:18:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
       "url": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
       "published": "Fri, 08 May 2026 10:02:12 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "published": "Thu, 07 May 2026 08:00:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "published": "Fri, 08 May 2026 20:38:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
@@ -719,12 +725,6 @@
       "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
       "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
       "published": "Wed, 06 May 2026 11:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
-      "published": "Tue, 05 May 2026 21:49:00 +0530",
       "source": "The Hacker News"
     },
     {
