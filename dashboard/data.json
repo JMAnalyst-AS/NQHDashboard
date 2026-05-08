@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-08T11:53:17.092504Z",
+  "generated_at": "2026-05-08T13:48:49.972877Z",
   "segment1": [
+    {
+      "title": "One size does not fit all — sometimes, victims probably should pay ransom",
+      "url": "https://databreaches.net/2026/05/08/one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom/?pk_campaign=feed&pk_kwd=one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom",
+      "published": "Fri, 08 May 2026 12:48:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down (1)",
       "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
@@ -53,17 +59,17 @@
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
       "url": "https://databreaches.net/2026/05/04/latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization/?pk_campaign=feed&pk_kwd=latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization",
       "published": "Mon, 04 May 2026 22:02:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Medicare portal database exposed health providers’ Social Security numbers",
-      "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
-      "published": "Mon, 04 May 2026 20:17:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "One size does not fit all — sometimes, victims probably should pay ransom",
+      "url": "https://databreaches.net/2026/05/08/one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom/?pk_campaign=feed&pk_kwd=one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom",
+      "published": "Fri, 08 May 2026 12:48:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down (1)",
       "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
       "published": "Thu, 07 May 2026 22:08:00 +0000",
@@ -115,12 +121,6 @@
       "title": "Latvian national involved with Karakurt and other ransomware gangs sentenced for his role in ransomware organization",
       "url": "https://databreaches.net/2026/05/04/latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization/?pk_campaign=feed&pk_kwd=latvian-national-involved-with-karakurt-and-other-ransomware-gangs-sentenced-for-his-role-in-ransomware-organization",
       "published": "Mon, 04 May 2026 22:02:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Medicare portal database exposed health providers’ Social Security numbers",
-      "url": "https://databreaches.net/2026/05/04/medicare-portal-database-exposed-health-providers-social-security-numbers/?pk_campaign=feed&pk_kwd=medicare-portal-database-exposed-health-providers-social-security-numbers",
-      "published": "Mon, 04 May 2026 20:17:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "published": "Wed, 11 Mar 2026 00:32:51 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "published": "Fri, 08 May 2026 09:23:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "published": "Fri, 08 May 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Zara data breach exposed personal information of 197,000 people",
@@ -261,18 +273,6 @@
       "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
       "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
       "published": "Thu, 07 May 2026 06:57:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "published": "Thu, 07 May 2026 06:02:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "published": "Wed, 06 May 2026 17:36:06 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "published": "Fri, 08 May 2026 09:23:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "published": "Fri, 08 May 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zara data breach exposed personal information of 197,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
       "published": "Fri, 08 May 2026 06:42:22 -0400",
@@ -593,18 +605,6 @@
       "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
       "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
       "published": "Thu, 07 May 2026 06:57:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "published": "Thu, 07 May 2026 06:02:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "published": "Wed, 06 May 2026 17:36:06 -0400",
       "source": "BleepingComputer"
     },
     {
