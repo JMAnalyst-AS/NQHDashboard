@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T10:02:50.150691Z",
+  "generated_at": "2026-05-08T11:53:17.092504Z",
   "segment1": [
     {
-      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down",
+      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down (1)",
       "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
       "published": "Thu, 07 May 2026 22:08:00 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down",
+      "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down (1)",
       "url": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
       "published": "Thu, 07 May 2026 22:08:00 +0000",
       "source": "DataBreaches.Net"
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "published": "Fri, 08 May 2026 06:42:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Former govt contractor convicted for wiping dozens of federal databases",
       "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
       "published": "Fri, 08 May 2026 04:45:04 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "published": "Wed, 06 May 2026 14:38:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "published": "Fri, 08 May 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
+      "published": "Fri, 08 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
+      "published": "Fri, 08 May 2026 14:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
@@ -375,24 +393,6 @@
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
       "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
       "published": "Tue, 05 May 2026 21:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-      "published": "Tue, 05 May 2026 21:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "published": "Tue, 05 May 2026 19:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
-      "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "published": "Tue, 05 May 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "published": "Fri, 08 May 2026 06:42:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Former govt contractor convicted for wiping dozens of federal databases",
       "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
       "published": "Fri, 08 May 2026 04:45:04 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "published": "Wed, 06 May 2026 14:38:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "published": "Fri, 08 May 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
+      "published": "Fri, 08 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
+      "published": "Fri, 08 May 2026 14:11:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
@@ -707,24 +725,6 @@
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
       "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
       "published": "Tue, 05 May 2026 21:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-      "published": "Tue, 05 May 2026 21:37:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "published": "Tue, 05 May 2026 19:49:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
-      "url": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "published": "Tue, 05 May 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
