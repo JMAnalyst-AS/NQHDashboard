@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-11T12:38:27.511747Z",
+  "generated_at": "2026-05-11T15:54:59.784572Z",
   "segment1": [
+    {
+      "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
+      "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
+      "published": "Mon, 11 May 2026 15:49:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
       "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
@@ -53,17 +59,17 @@
       "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
       "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
       "published": "Wed, 06 May 2026 11:32:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
-      "published": "Wed, 06 May 2026 11:24:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
+      "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
+      "published": "Mon, 11 May 2026 15:49:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
       "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
       "published": "Mon, 11 May 2026 12:23:39 +0000",
@@ -115,12 +121,6 @@
       "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
       "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
       "published": "Wed, 06 May 2026 11:32:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
-      "published": "Wed, 06 May 2026 11:24:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "published": "Mon, 11 May 2026 11:26:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "published": "Mon, 11 May 2026 09:53:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "published": "Mon, 11 May 2026 09:02:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar this week: Prevention alone is not enough against modern attacks",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
       "published": "Mon, 11 May 2026 08:30:00 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "published": "Thu, 07 May 2026 18:36:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "published": "Thu, 07 May 2026 18:06:52 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "published": "Mon, 11 May 2026 18:06:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
@@ -390,10 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "published": "Wed, 06 May 2026 18:30:00 +0530",
-      "source": "The Hacker News"
+      "title": "Unearthing a Colombian Politician’s Connections to Neo-Nazi Active Club Group",
+      "url": "https://www.bellingcat.com/news/2026/05/11/active-club-colombia-politics/",
+      "published": "Mon, 11 May 2026 14:26:49 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "“Make Iran Ungovernable” – Tracking Efforts To Destroy Iran’s Police Infrastructure",
@@ -447,12 +453,6 @@
       "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
       "url": "https://www.bellingcat.com/resources/2026/03/30/explosive-misinformation-a-guide-to-mushroom-clouds-sonic-weapons-and-disintegration/",
       "published": "Mon, 30 Mar 2026 13:46:42 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike",
-      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/",
-      "published": "Fri, 27 Mar 2026 21:12:24 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "published": "Mon, 11 May 2026 11:26:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "published": "Mon, 11 May 2026 09:53:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "published": "Mon, 11 May 2026 09:02:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar this week: Prevention alone is not enough against modern attacks",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
       "published": "Mon, 11 May 2026 08:30:00 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "published": "Thu, 07 May 2026 18:36:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "published": "Thu, 07 May 2026 18:06:52 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "published": "Mon, 11 May 2026 18:06:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
@@ -722,10 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "published": "Wed, 06 May 2026 18:30:00 +0530",
-      "source": "The Hacker News"
+      "title": "Unearthing a Colombian Politician’s Connections to Neo-Nazi Active Club Group",
+      "url": "https://www.bellingcat.com/news/2026/05/11/active-club-colombia-politics/",
+      "published": "Mon, 11 May 2026 14:26:49 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "“Make Iran Ungovernable” – Tracking Efforts To Destroy Iran’s Police Infrastructure",
@@ -779,12 +785,6 @@
       "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’ and Disintegration",
       "url": "https://www.bellingcat.com/resources/2026/03/30/explosive-misinformation-a-guide-to-mushroom-clouds-sonic-weapons-and-disintegration/",
       "published": "Mon, 30 Mar 2026 13:46:42 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike",
-      "url": "https://www.bellingcat.com/news/2026/03/27/new-videos-reveal-more-details-about-iran-girls-school-strike/",
-      "published": "Fri, 27 Mar 2026 21:12:24 +0000",
       "source": "bellingcat"
     }
   ]
