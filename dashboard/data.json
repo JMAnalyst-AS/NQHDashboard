@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T17:54:19.558221Z",
+  "generated_at": "2026-05-11T19:47:12.580351Z",
   "segment1": [
     {
       "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "published": "Tue, 12 May 2026 00:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "published": "Mon, 11 May 2026 23:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
       "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
       "published": "Mon, 11 May 2026 21:15:00 +0530",
@@ -381,18 +393,6 @@
       "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
       "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
       "published": "Thu, 07 May 2026 16:24:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "published": "Thu, 07 May 2026 14:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "published": "Thu, 07 May 2026 09:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "published": "Tue, 12 May 2026 00:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "published": "Mon, 11 May 2026 23:24:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
       "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
       "published": "Mon, 11 May 2026 21:15:00 +0530",
@@ -713,18 +725,6 @@
       "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
       "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
       "published": "Thu, 07 May 2026 16:24:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "published": "Thu, 07 May 2026 14:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "published": "Thu, 07 May 2026 09:45:00 +0530",
       "source": "The Hacker News"
     },
     {
