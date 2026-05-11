@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-11T09:39:51.052789Z",
+  "generated_at": "2026-05-11T12:38:27.511747Z",
   "segment1": [
+    {
+      "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
+      "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
+      "published": "Mon, 11 May 2026 12:23:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A government contractor hired twin brothers who were convicted felons. A year later, it regretted it.",
       "url": "https://databreaches.net/2026/05/10/a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it/?pk_campaign=feed&pk_kwd=a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it",
@@ -53,17 +59,17 @@
       "title": "Vimeo data breach exposes personal information of 119,000 people",
       "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
       "published": "Wed, 06 May 2026 11:24:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYC Public Schools Lack Central Inventory to Track Vendors Used By Schools — NYS Auditor",
-      "url": "https://databreaches.net/2026/05/05/nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor/?pk_campaign=feed&pk_kwd=nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor",
-      "published": "Wed, 06 May 2026 00:12:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
+      "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
+      "published": "Mon, 11 May 2026 12:23:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A government contractor hired twin brothers who were convicted felons. A year later, it regretted it.",
       "url": "https://databreaches.net/2026/05/10/a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it/?pk_campaign=feed&pk_kwd=a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it",
       "published": "Sun, 10 May 2026 20:35:49 +0000",
@@ -115,12 +121,6 @@
       "title": "Vimeo data breach exposes personal information of 119,000 people",
       "url": "https://databreaches.net/2026/05/06/vimeo-data-breach-exposes-personal-information-of-119000-people/?pk_campaign=feed&pk_kwd=vimeo-data-breach-exposes-personal-information-of-119000-people",
       "published": "Wed, 06 May 2026 11:24:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYC Public Schools Lack Central Inventory to Track Vendors Used By Schools — NYS Auditor",
-      "url": "https://databreaches.net/2026/05/05/nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor/?pk_campaign=feed&pk_kwd=nyc-public-schools-lack-central-inventory-to-track-vendors-used-by-schools-nys-auditor",
-      "published": "Wed, 06 May 2026 00:12:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "published": "Wed, 11 Mar 2026 00:32:51 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "published": "Mon, 11 May 2026 08:30:00 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "TrickMo Android banker adopts TON blockchain for covert comms",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "published": "Thu, 07 May 2026 14:35:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+      "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+      "published": "Mon, 11 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
@@ -387,12 +393,6 @@
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
       "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
       "published": "Wed, 06 May 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "published": "Wed, 06 May 2026 17:33:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "published": "Mon, 11 May 2026 08:30:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "TrickMo Android banker adopts TON blockchain for covert comms",
       "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
       "published": "Mon, 11 May 2026 05:03:02 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "published": "Thu, 07 May 2026 14:35:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+      "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+      "published": "Mon, 11 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
@@ -719,12 +725,6 @@
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
       "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
       "published": "Wed, 06 May 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "published": "Wed, 06 May 2026 17:33:00 +0530",
       "source": "The Hacker News"
     },
     {
