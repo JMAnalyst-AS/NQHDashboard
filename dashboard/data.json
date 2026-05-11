@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-11T21:16:56.018235Z",
+  "generated_at": "2026-05-11T22:32:28.671282Z",
   "segment1": [
+    {
+      "title": "The Gentlemen Ransomware Group Becomes a Victim",
+      "url": "https://databreaches.net/2026/05/11/the-gentlemen-ransomware-group-becomes-a-victim/?pk_campaign=feed&pk_kwd=the-gentlemen-ransomware-group-becomes-a-victim",
+      "published": "Mon, 11 May 2026 21:45:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
       "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
@@ -53,17 +59,17 @@
       "title": "When Your Vendor’s Breach Becomes Your Lawsuit: Privacy Risk Lessons from Recent Bank Litigation",
       "url": "https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation",
       "published": "Wed, 06 May 2026 16:36:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
-      "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
-      "published": "Wed, 06 May 2026 11:32:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The Gentlemen Ransomware Group Becomes a Victim",
+      "url": "https://databreaches.net/2026/05/11/the-gentlemen-ransomware-group-becomes-a-victim/?pk_campaign=feed&pk_kwd=the-gentlemen-ransomware-group-becomes-a-victim",
+      "published": "Mon, 11 May 2026 21:45:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
       "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
       "published": "Mon, 11 May 2026 15:49:55 +0000",
@@ -115,12 +121,6 @@
       "title": "When Your Vendor’s Breach Becomes Your Lawsuit: Privacy Risk Lessons from Recent Bank Litigation",
       "url": "https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation",
       "published": "Wed, 06 May 2026 16:36:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DeFi Investors Pull $14 Billion Following Cyberattacks",
-      "url": "https://databreaches.net/2026/05/06/defi-investors-pull-14-billion-following-cyberattacks/?pk_campaign=feed&pk_kwd=defi-investors-pull-14-billion-following-cyberattacks",
-      "published": "Wed, 06 May 2026 11:32:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "published": "Wed, 11 Mar 2026 00:32:51 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "published": "Mon, 11 May 2026 18:03:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "published": "Mon, 11 May 2026 18:02:00 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Instructure confirms hackers used Canvas flaw to deface portals",
@@ -261,18 +273,6 @@
       "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
       "published": "Fri, 08 May 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "published": "Fri, 08 May 2026 06:42:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "published": "Fri, 08 May 2026 04:45:04 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "published": "Mon, 11 May 2026 18:03:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "published": "Mon, 11 May 2026 18:02:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Instructure confirms hackers used Canvas flaw to deface portals",
       "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
       "published": "Mon, 11 May 2026 11:26:26 -0400",
@@ -593,18 +605,6 @@
       "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
       "published": "Fri, 08 May 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "published": "Fri, 08 May 2026 06:42:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "published": "Fri, 08 May 2026 04:45:04 -0400",
       "source": "BleepingComputer"
     },
     {
