@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T09:39:21.673842Z",
+  "generated_at": "2026-05-12T11:56:27.873674Z",
   "segment1": [
     {
       "title": "The Gentlemen Ransomware Group Becomes a Victim",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "published": "Tue, 12 May 2026 07:29:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
       "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
       "published": "Tue, 12 May 2026 05:23:56 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "published": "Fri, 08 May 2026 12:18:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "url": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "published": "Fri, 08 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "published": "Tue, 12 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
@@ -390,13 +396,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Congo’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
+      "title": "DRC’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
       "url": "https://www.bellingcat.com/news/africa/2026/05/12/congos-coltan-belt-verifying-deadly-landslides-at-mines-under-m23-control/",
       "published": "Tue, 12 May 2026 06:34:28 +0000",
       "source": "bellingcat"
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "published": "Tue, 12 May 2026 07:29:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
       "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
       "published": "Tue, 12 May 2026 05:23:56 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "published": "Fri, 08 May 2026 12:18:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "url": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "published": "Fri, 08 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "published": "Tue, 12 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
@@ -722,13 +728,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Congo’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
+      "title": "DRC’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
       "url": "https://www.bellingcat.com/news/africa/2026/05/12/congos-coltan-belt-verifying-deadly-landslides-at-mines-under-m23-control/",
       "published": "Tue, 12 May 2026 06:34:28 +0000",
       "source": "bellingcat"
