@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T06:42:51.851529Z",
+  "generated_at": "2026-05-12T09:39:21.673842Z",
   "segment1": [
     {
       "title": "The Gentlemen Ransomware Group Becomes a Victim",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
       "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
       "published": "Mon, 11 May 2026 18:40:34 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trellix source code breach claimed by RansomHouse hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "published": "Fri, 08 May 2026 09:23:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "published": "Tue, 12 May 2026 14:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "published": "Tue, 12 May 2026 13:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "published": "Tue, 12 May 2026 12:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
@@ -375,24 +393,6 @@
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
       "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "published": "Thu, 07 May 2026 23:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "published": "Thu, 07 May 2026 19:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "published": "Thu, 07 May 2026 17:03:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
       "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
       "published": "Mon, 11 May 2026 18:40:34 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Trellix source code breach claimed by RansomHouse hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "published": "Fri, 08 May 2026 09:23:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "published": "Tue, 12 May 2026 14:20:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "published": "Tue, 12 May 2026 13:07:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "published": "Tue, 12 May 2026 12:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
@@ -707,24 +725,6 @@
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
       "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "published": "Thu, 07 May 2026 23:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "published": "Thu, 07 May 2026 19:04:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "published": "Thu, 07 May 2026 17:03:00 +0530",
       "source": "The Hacker News"
     },
     {
