@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:10:58.863357Z",
+  "generated_at": "2026-05-12T19:16:29.656338Z",
   "segment1": [
     {
       "title": "US bank reports itself for revealing customer data to unauthorized AI application",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "published": "Tue, 12 May 2026 14:58:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "published": "Tue, 12 May 2026 14:23:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "published": "Tue, 12 May 2026 14:09:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "published": "Tue, 12 May 2026 14:08:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Škoda warns of customer data breach after online shop hack",
       "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
       "published": "Tue, 12 May 2026 13:07:01 -0400",
@@ -252,28 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "published": "Mon, 11 May 2026 05:03:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "published": "Sun, 10 May 2026 13:52:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "published": "Sun, 10 May 2026 10:16:47 -0400",
-      "source": "BleepingComputer"
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "published": "Tue, 12 May 2026 22:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
@@ -387,12 +393,6 @@
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
       "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
       "published": "Fri, 08 May 2026 19:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "published": "Fri, 08 May 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "published": "Tue, 12 May 2026 14:58:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "published": "Tue, 12 May 2026 14:23:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "published": "Tue, 12 May 2026 14:09:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "published": "Tue, 12 May 2026 14:08:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Škoda warns of customer data breach after online shop hack",
       "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
       "published": "Tue, 12 May 2026 13:07:01 -0400",
@@ -584,28 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "published": "Mon, 11 May 2026 05:03:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "published": "Sun, 10 May 2026 13:52:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "published": "Sun, 10 May 2026 10:16:47 -0400",
-      "source": "BleepingComputer"
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "published": "Tue, 12 May 2026 22:14:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
@@ -719,12 +725,6 @@
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
       "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
       "published": "Fri, 08 May 2026 19:31:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "published": "Fri, 08 May 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
