@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-12T14:31:03.552987Z",
+  "generated_at": "2026-05-12T17:10:58.863357Z",
   "segment1": [
+    {
+      "title": "US bank reports itself for revealing customer data to unauthorized AI application",
+      "url": "https://databreaches.net/2026/05/12/us-bank-reports-itself-for-revealing-customer-data-to-unauthorized-ai-application/?pk_campaign=feed&pk_kwd=us-bank-reports-itself-for-revealing-customer-data-to-unauthorized-ai-application",
+      "published": "Tue, 12 May 2026 15:23:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Homeland Security wants to know about the Instructure breach; we still want to know about the Navigate360 breach",
       "url": "https://databreaches.net/2026/05/12/homeland-security-wants-to-know-about-the-instructure-breach-we-still-want-to-know-about-the-navigate360-breach/?pk_campaign=feed&pk_kwd=homeland-security-wants-to-know-about-the-instructure-breach-we-still-want-to-know-about-the-navigate360-breach",
@@ -53,17 +59,17 @@
       "title": "‘GothFerrari’ Sentenced to 78 Months in Prison for Role in Massive Cryptocurrency Heist",
       "url": "https://databreaches.net/2026/05/06/gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist/?pk_campaign=feed&pk_kwd=gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist",
       "published": "Wed, 06 May 2026 22:25:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Missouri regulators escalate pressure on Conduent over data breach potentially affecting millions",
-      "url": "https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions",
-      "published": "Wed, 06 May 2026 16:55:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "US bank reports itself for revealing customer data to unauthorized AI application",
+      "url": "https://databreaches.net/2026/05/12/us-bank-reports-itself-for-revealing-customer-data-to-unauthorized-ai-application/?pk_campaign=feed&pk_kwd=us-bank-reports-itself-for-revealing-customer-data-to-unauthorized-ai-application",
+      "published": "Tue, 12 May 2026 15:23:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Homeland Security wants to know about the Instructure breach; we still want to know about the Navigate360 breach",
       "url": "https://databreaches.net/2026/05/12/homeland-security-wants-to-know-about-the-instructure-breach-we-still-want-to-know-about-the-navigate360-breach/?pk_campaign=feed&pk_kwd=homeland-security-wants-to-know-about-the-instructure-breach-we-still-want-to-know-about-the-navigate360-breach",
       "published": "Tue, 12 May 2026 13:58:00 +0000",
@@ -115,12 +121,6 @@
       "title": "‘GothFerrari’ Sentenced to 78 Months in Prison for Role in Massive Cryptocurrency Heist",
       "url": "https://databreaches.net/2026/05/06/gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist/?pk_campaign=feed&pk_kwd=gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist",
       "published": "Wed, 06 May 2026 22:25:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Missouri regulators escalate pressure on Conduent over data breach potentially affecting millions",
-      "url": "https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions",
-      "published": "Wed, 06 May 2026 16:55:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "published": "Wed, 11 Mar 2026 00:32:51 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "published": "Tue, 12 May 2026 13:07:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "published": "Tue, 12 May 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "published": "Sat, 09 May 2026 15:27:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "published": "Sat, 09 May 2026 10:26:03 -0400",
-      "source": "BleepingComputer"
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "published": "Tue, 12 May 2026 20:17:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
@@ -387,12 +393,6 @@
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
       "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
       "published": "Fri, 08 May 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "published": "Fri, 08 May 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "published": "Tue, 12 May 2026 13:07:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "published": "Tue, 12 May 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
       "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
       "published": "Tue, 12 May 2026 07:29:36 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "published": "Sat, 09 May 2026 15:27:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "published": "Sat, 09 May 2026 10:26:03 -0400",
-      "source": "BleepingComputer"
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "published": "Tue, 12 May 2026 20:17:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
@@ -719,12 +725,6 @@
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
       "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
       "published": "Fri, 08 May 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "published": "Fri, 08 May 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
