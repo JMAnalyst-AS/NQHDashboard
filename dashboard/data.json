@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:23:22.033977Z",
+  "generated_at": "2026-05-13T17:33:56.442802Z",
   "segment1": [
     {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "published": "Wed, 13 May 2026 12:37:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "published": "Wed, 13 May 2026 11:45:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "published": "Wed, 13 May 2026 11:42:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
       "published": "Wed, 13 May 2026 10:36:09 -0400",
@@ -255,24 +273,6 @@
       "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
       "published": "Tue, 12 May 2026 14:08:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "published": "Tue, 12 May 2026 13:07:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "published": "Tue, 12 May 2026 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "published": "Tue, 12 May 2026 07:29:36 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "published": "Wed, 13 May 2026 12:37:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "published": "Wed, 13 May 2026 11:45:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "published": "Wed, 13 May 2026 11:42:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
       "published": "Wed, 13 May 2026 10:36:09 -0400",
@@ -587,24 +605,6 @@
       "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
       "published": "Tue, 12 May 2026 14:08:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "published": "Tue, 12 May 2026 13:07:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "published": "Tue, 12 May 2026 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "published": "Tue, 12 May 2026 07:29:36 -0400",
       "source": "BleepingComputer"
     },
     {
