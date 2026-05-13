@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T19:54:50.475090Z",
+  "generated_at": "2026-05-13T21:25:26.189900Z",
   "segment1": [
     {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "published": "Wed, 13 May 2026 16:23:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
       "published": "Wed, 13 May 2026 12:37:49 -0400",
@@ -267,12 +273,6 @@
       "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
       "published": "Tue, 12 May 2026 14:09:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "published": "Tue, 12 May 2026 14:08:06 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "published": "Wed, 13 May 2026 16:23:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
       "published": "Wed, 13 May 2026 12:37:49 -0400",
@@ -599,12 +605,6 @@
       "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
       "published": "Tue, 12 May 2026 14:09:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "published": "Tue, 12 May 2026 14:08:06 -0400",
       "source": "BleepingComputer"
     },
     {
