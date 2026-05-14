@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T18:16:57.822126Z",
+  "generated_at": "2026-05-14T20:13:14.804646Z",
   "segment1": [
     {
       "title": "Alleged Dream Market admin arrested in Germany",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "published": "Thu, 14 May 2026 16:09:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "published": "Thu, 14 May 2026 15:07:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "published": "Thu, 14 May 2026 14:53:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
       "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
       "published": "Thu, 14 May 2026 11:43:41 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "published": "Wed, 13 May 2026 10:36:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "published": "Thu, 14 May 2026 23:15:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "published": "Wed, 13 May 2026 08:49:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "published": "Wed, 13 May 2026 08:30:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "published": "Thu, 14 May 2026 22:52:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
@@ -381,18 +393,6 @@
       "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
       "url": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
       "published": "Tue, 12 May 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "published": "Tue, 12 May 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Agentic AI Is Security's Next Blind Spot",
-      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-      "published": "Tue, 12 May 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "published": "Thu, 14 May 2026 16:09:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "published": "Thu, 14 May 2026 15:07:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "published": "Thu, 14 May 2026 14:53:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
       "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
       "published": "Thu, 14 May 2026 11:43:41 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "published": "Wed, 13 May 2026 10:36:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "published": "Thu, 14 May 2026 23:15:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "published": "Wed, 13 May 2026 08:49:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "published": "Wed, 13 May 2026 08:30:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "published": "Thu, 14 May 2026 22:52:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
@@ -713,18 +725,6 @@
       "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
       "url": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
       "published": "Tue, 12 May 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "published": "Tue, 12 May 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Agentic AI Is Security's Next Blind Spot",
-      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-      "published": "Tue, 12 May 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
