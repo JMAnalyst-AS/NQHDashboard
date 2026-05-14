@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T07:27:52.236937Z",
+  "generated_at": "2026-05-14T09:56:15.333094Z",
   "segment1": [
     {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "published": "Thu, 14 May 2026 04:55:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "published": "Thu, 14 May 2026 03:34:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
       "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
       "published": "Wed, 13 May 2026 18:23:31 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "published": "Tue, 12 May 2026 15:40:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "published": "Tue, 12 May 2026 14:58:34 -0400",
-      "source": "BleepingComputer"
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "published": "Thu, 14 May 2026 12:36:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
@@ -390,10 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "published": "Mon, 11 May 2026 21:15:00 +0530",
-      "source": "The Hacker News"
+      "title": "Satellite Imagery Shows Ongoing Demolitions Across Southern Lebanon",
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/",
+      "published": "Thu, 14 May 2026 09:39:28 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "DRC’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
@@ -447,12 +453,6 @@
       "title": "Croatia’s Football Team Signed Deal With Gambling Sponsor Whose Rep Used Fake Name",
       "url": "https://www.bellingcat.com/news/2026/04/01/croatian-football-teams-deal-with-gambling-sponsor/",
       "published": "Wed, 01 Apr 2026 10:00:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
-      "url": "https://www.bellingcat.com/news/2026/03/31/india-bjp-hate-speech-ai/",
-      "published": "Tue, 31 Mar 2026 13:00:16 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "published": "Thu, 14 May 2026 04:55:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "published": "Thu, 14 May 2026 03:34:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
       "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
       "published": "Wed, 13 May 2026 18:23:31 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "published": "Tue, 12 May 2026 15:40:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "published": "Tue, 12 May 2026 14:58:34 -0400",
-      "source": "BleepingComputer"
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "published": "Thu, 14 May 2026 12:36:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
@@ -722,10 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "published": "Mon, 11 May 2026 21:15:00 +0530",
-      "source": "The Hacker News"
+      "title": "Satellite Imagery Shows Ongoing Demolitions Across Southern Lebanon",
+      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/",
+      "published": "Thu, 14 May 2026 09:39:28 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "DRC’s Coltan Belt: Verifying Deadly Landslides At Mines Under M23 Control",
@@ -779,12 +785,6 @@
       "title": "Croatia’s Football Team Signed Deal With Gambling Sponsor Whose Rep Used Fake Name",
       "url": "https://www.bellingcat.com/news/2026/04/01/croatian-football-teams-deal-with-gambling-sponsor/",
       "published": "Wed, 01 Apr 2026 10:00:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
-      "url": "https://www.bellingcat.com/news/2026/03/31/india-bjp-hate-speech-ai/",
-      "published": "Tue, 31 Mar 2026 13:00:16 +0000",
       "source": "bellingcat"
     }
   ]
