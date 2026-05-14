@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T09:56:15.333094Z",
+  "generated_at": "2026-05-14T11:54:22.550437Z",
   "segment1": [
     {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "published": "Thu, 14 May 2026 06:03:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US charges suspected Dream Market admin arrested in Germany",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
       "published": "Thu, 14 May 2026 04:55:46 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "published": "Tue, 12 May 2026 15:46:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "published": "Thu, 14 May 2026 14:55:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
@@ -387,12 +393,6 @@
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
       "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
       "published": "Tue, 12 May 2026 00:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "published": "Mon, 11 May 2026 23:24:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "published": "Thu, 14 May 2026 06:03:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US charges suspected Dream Market admin arrested in Germany",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
       "published": "Thu, 14 May 2026 04:55:46 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "published": "Tue, 12 May 2026 15:46:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "published": "Thu, 14 May 2026 14:55:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
@@ -719,12 +725,6 @@
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
       "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
       "published": "Tue, 12 May 2026 00:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "published": "Mon, 11 May 2026 23:24:00 +0530",
       "source": "The Hacker News"
     },
     {
