@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-14T11:54:22.550437Z",
+  "generated_at": "2026-05-14T14:12:19.890369Z",
   "segment1": [
+    {
+      "title": "Alleged Dream Market admin arrested in Germany",
+      "url": "https://databreaches.net/2026/05/14/alleged-dream-market-admin-arrested-in-germany/?pk_campaign=feed&pk_kwd=alleged-dream-market-admin-arrested-in-germany",
+      "published": "Thu, 14 May 2026 12:24:30 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
       "url": "https://databreaches.net/2026/05/13/nl-dutch-watchdog-says-healthcare-lab-failed-data-security-rules-before-cyberattack-affecting-850000/?pk_campaign=feed&pk_kwd=nl-dutch-watchdog-says-healthcare-lab-failed-data-security-rules-before-cyberattack-affecting-850000",
@@ -53,17 +59,17 @@
       "title": "A government contractor hired twin brothers who were convicted felons. A year later, it regretted it.",
       "url": "https://databreaches.net/2026/05/10/a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it/?pk_campaign=feed&pk_kwd=a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it",
       "published": "Sun, 10 May 2026 20:35:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "One size does not fit all — sometimes, victims probably should pay ransom",
-      "url": "https://databreaches.net/2026/05/08/one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom/?pk_campaign=feed&pk_kwd=one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom",
-      "published": "Fri, 08 May 2026 12:48:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Alleged Dream Market admin arrested in Germany",
+      "url": "https://databreaches.net/2026/05/14/alleged-dream-market-admin-arrested-in-germany/?pk_campaign=feed&pk_kwd=alleged-dream-market-admin-arrested-in-germany",
+      "published": "Thu, 14 May 2026 12:24:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NL: Dutch watchdog says healthcare lab failed data security rules before cyberattack affecting 850,000",
       "url": "https://databreaches.net/2026/05/13/nl-dutch-watchdog-says-healthcare-lab-failed-data-security-rules-before-cyberattack-affecting-850000/?pk_campaign=feed&pk_kwd=nl-dutch-watchdog-says-healthcare-lab-failed-data-security-rules-before-cyberattack-affecting-850000",
       "published": "Wed, 13 May 2026 13:13:05 +0000",
@@ -115,12 +121,6 @@
       "title": "A government contractor hired twin brothers who were convicted felons. A year later, it regretted it.",
       "url": "https://databreaches.net/2026/05/10/a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it/?pk_campaign=feed&pk_kwd=a-government-contractor-hired-twin-brothers-who-were-convicted-felons-a-year-later-they-regretted-it",
       "published": "Sun, 10 May 2026 20:35:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "One size does not fit all — sometimes, victims probably should pay ransom",
-      "url": "https://databreaches.net/2026/05/08/one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom/?pk_campaign=feed&pk_kwd=one-size-does-not-fit-all-sometimes-victims-probably-should-pay-ransom",
-      "published": "Fri, 08 May 2026 12:48:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
       "published": "Wed, 11 Mar 2026 16:20:13 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "published": "Thu, 14 May 2026 08:12:40 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "published": "Tue, 12 May 2026 16:17:19 -0400",
-      "source": "BleepingComputer"
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "published": "Thu, 14 May 2026 17:10:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "published": "Thu, 14 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
@@ -381,18 +393,6 @@
       "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
       "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
       "published": "Tue, 12 May 2026 12:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "published": "Tue, 12 May 2026 10:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "published": "Tue, 12 May 2026 00:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "published": "Thu, 14 May 2026 08:12:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
       "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
       "published": "Thu, 14 May 2026 06:03:39 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "published": "Tue, 12 May 2026 16:17:19 -0400",
-      "source": "BleepingComputer"
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "published": "Thu, 14 May 2026 17:10:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "published": "Thu, 14 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
@@ -713,18 +725,6 @@
       "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
       "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
       "published": "Tue, 12 May 2026 12:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "published": "Tue, 12 May 2026 10:48:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "published": "Tue, 12 May 2026 00:00:00 +0530",
       "source": "The Hacker News"
     },
     {
