@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-15T14:59:51.468580Z",
+  "generated_at": "2026-05-15T16:57:14.029276Z",
   "segment1": [
+    {
+      "title": "UK: Hospital workers inappropriately accessed details of Southport victims, investigation finds",
+      "url": "https://databreaches.net/2026/05/15/uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds/?pk_campaign=feed&pk_kwd=uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds",
+      "published": "Fri, 15 May 2026 16:16:54 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "No need to hack when it’s leaking: Dalbir Singh & Associates law firm edition",
       "url": "https://databreaches.net/2026/05/14/no-need-to-hack-when-its-leaking-dalbir-singh-associates-law-firm-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dalbir-singh-associates-law-firm-edition",
@@ -53,17 +59,17 @@
       "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
       "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
       "published": "Mon, 11 May 2026 15:49:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
-      "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
-      "published": "Mon, 11 May 2026 12:23:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "UK: Hospital workers inappropriately accessed details of Southport victims, investigation finds",
+      "url": "https://databreaches.net/2026/05/15/uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds/?pk_campaign=feed&pk_kwd=uk-hospital-workers-inappropriately-accessed-details-of-southport-victims-investigation-finds",
+      "published": "Fri, 15 May 2026 16:16:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "No need to hack when it’s leaking: Dalbir Singh & Associates law firm edition",
       "url": "https://databreaches.net/2026/05/14/no-need-to-hack-when-its-leaking-dalbir-singh-associates-law-firm-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dalbir-singh-associates-law-firm-edition",
       "published": "Fri, 15 May 2026 00:48:06 +0000",
@@ -115,12 +121,6 @@
       "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
       "url": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
       "published": "Mon, 11 May 2026 15:49:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
-      "url": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
-      "published": "Mon, 11 May 2026 12:23:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,7 +186,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Edge to stop loading cleartext passwords in memory on startup",
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "published": "Fri, 15 May 2026 11:56:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
       "published": "Fri, 15 May 2026 10:49:39 -0400",
       "source": "BleepingComputer"
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "published": "Fri, 15 May 2026 19:05:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
@@ -387,12 +393,6 @@
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
       "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
       "published": "Wed, 13 May 2026 13:38:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "published": "Wed, 13 May 2026 12:25:42 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,7 +518,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Edge to stop loading cleartext passwords in memory on startup",
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "published": "Fri, 15 May 2026 11:56:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
       "published": "Fri, 15 May 2026 10:49:39 -0400",
       "source": "BleepingComputer"
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "published": "Fri, 15 May 2026 19:05:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
@@ -719,12 +725,6 @@
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
       "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
       "published": "Wed, 13 May 2026 13:38:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "published": "Wed, 13 May 2026 12:25:42 +0530",
       "source": "The Hacker News"
     },
     {
