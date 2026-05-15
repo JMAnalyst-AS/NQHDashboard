@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T16:57:14.029276Z",
+  "generated_at": "2026-05-15T18:23:55.538217Z",
   "segment1": [
     {
       "title": "UK: Hospital workers inappropriately accessed details of Southport victims, investigation finds",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "published": "Fri, 15 May 2026 13:47:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "published": "Fri, 15 May 2026 13:10:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Avada Builder WordPress plugin flaws allow site credential theft",
       "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
       "published": "Fri, 15 May 2026 11:56:56 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "published": "Thu, 14 May 2026 06:03:39 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "published": "Thu, 14 May 2026 04:55:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "published": "Fri, 15 May 2026 22:40:25 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -387,12 +393,6 @@
       "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
       "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
       "published": "Wed, 13 May 2026 16:06:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "published": "Wed, 13 May 2026 13:38:54 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "published": "Fri, 15 May 2026 13:47:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "published": "Fri, 15 May 2026 13:10:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Avada Builder WordPress plugin flaws allow site credential theft",
       "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
       "published": "Fri, 15 May 2026 11:56:56 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "published": "Thu, 14 May 2026 06:03:39 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "published": "Thu, 14 May 2026 04:55:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "published": "Fri, 15 May 2026 22:40:25 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -719,12 +725,6 @@
       "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
       "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
       "published": "Wed, 13 May 2026 16:06:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "published": "Wed, 13 May 2026 13:38:54 +0530",
       "source": "The Hacker News"
     },
     {
