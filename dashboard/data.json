@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T12:16:35.651005Z",
+  "generated_at": "2026-05-15T14:59:51.468580Z",
   "segment1": [
     {
       "title": "No need to hack when it’s leaking: Dalbir Singh & Associates law firm edition",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Edge to stop loading cleartext passwords in memory on startup",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "published": "Fri, 15 May 2026 10:49:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "published": "Fri, 15 May 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "published": "Fri, 15 May 2026 08:29:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
       "published": "Fri, 15 May 2026 05:40:42 -0400",
@@ -255,24 +273,6 @@
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
       "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "published": "Wed, 13 May 2026 18:23:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "published": "Wed, 13 May 2026 17:59:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "published": "Wed, 13 May 2026 16:23:50 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Edge to stop loading cleartext passwords in memory on startup",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "published": "Fri, 15 May 2026 10:49:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "published": "Fri, 15 May 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "published": "Fri, 15 May 2026 08:29:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
       "published": "Fri, 15 May 2026 05:40:42 -0400",
@@ -587,24 +605,6 @@
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
       "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "published": "Wed, 13 May 2026 18:23:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "published": "Wed, 13 May 2026 17:59:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "published": "Wed, 13 May 2026 16:23:50 -0400",
       "source": "BleepingComputer"
     },
     {
