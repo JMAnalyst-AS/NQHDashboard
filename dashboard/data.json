@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:40:42.442873Z",
+  "generated_at": "2026-05-15T10:23:28.164618Z",
   "segment1": [
     {
       "title": "No need to hack when it’s leaking: Dalbir Singh & Associates law firm edition",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "published": "Fri, 15 May 2026 05:40:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
       "published": "Thu, 14 May 2026 18:50:36 -0400",
@@ -267,12 +273,6 @@
       "title": "New critical Exim mailer flaw allows remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
       "published": "Wed, 13 May 2026 16:23:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "published": "Wed, 13 May 2026 12:37:49 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "published": "Fri, 15 May 2026 05:40:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
       "published": "Thu, 14 May 2026 18:50:36 -0400",
@@ -599,12 +605,6 @@
       "title": "New critical Exim mailer flaw allows remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
       "published": "Wed, 13 May 2026 16:23:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "published": "Wed, 13 May 2026 12:37:49 -0400",
       "source": "BleepingComputer"
     },
     {
