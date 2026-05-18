@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T04:18:28.126354Z",
+  "generated_at": "2026-05-18T08:30:00.294601Z",
   "segment1": [
     {
       "title": "Another detail emerges about Instructure’s agreement with ShinyHunters; Debate continues about whether to pay",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "published": "Mon, 18 May 2026 03:18:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "published": "Mon, 18 May 2026 01:33:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
       "published": "Sun, 17 May 2026 18:30:08 -0400",
@@ -261,18 +273,6 @@
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
       "published": "Thu, 14 May 2026 18:50:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "published": "Thu, 14 May 2026 17:07:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "published": "Thu, 14 May 2026 16:09:56 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "published": "Mon, 18 May 2026 03:18:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "published": "Mon, 18 May 2026 01:33:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
       "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
       "published": "Sun, 17 May 2026 18:30:08 -0400",
@@ -593,18 +605,6 @@
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
       "published": "Thu, 14 May 2026 18:50:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "published": "Thu, 14 May 2026 17:07:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "published": "Thu, 14 May 2026 16:09:56 -0400",
       "source": "BleepingComputer"
     },
     {
