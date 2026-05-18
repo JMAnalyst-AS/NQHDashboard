@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T16:01:42.699995Z",
+  "generated_at": "2026-05-18T18:17:45.802136Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "published": "Mon, 18 May 2026 13:28:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
       "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
       "published": "Mon, 18 May 2026 09:46:26 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "published": "Fri, 15 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "published": "Mon, 18 May 2026 22:51:18 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
@@ -387,12 +393,6 @@
       "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
       "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
       "published": "Thu, 14 May 2026 21:37:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "published": "Thu, 14 May 2026 19:30:37 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "published": "Mon, 18 May 2026 13:28:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
       "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
       "published": "Mon, 18 May 2026 09:46:26 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "published": "Fri, 15 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "published": "Mon, 18 May 2026 22:51:18 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
@@ -719,12 +725,6 @@
       "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
       "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
       "published": "Thu, 14 May 2026 21:37:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "published": "Thu, 14 May 2026 19:30:37 +0530",
       "source": "The Hacker News"
     },
     {
