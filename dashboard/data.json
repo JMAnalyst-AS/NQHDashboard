@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T08:30:00.294601Z",
+  "generated_at": "2026-05-18T12:00:47.459997Z",
   "segment1": [
     {
       "title": "Another detail emerges about Instructure’s agreement with ShinyHunters; Debate continues about whether to pay",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "published": "Mon, 18 May 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "published": "Mon, 18 May 2026 04:33:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
       "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
       "published": "Mon, 18 May 2026 03:18:33 -0400",
@@ -264,16 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "published": "Fri, 15 May 2026 05:40:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "published": "Mon, 18 May 2026 16:53:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "published": "Thu, 14 May 2026 18:50:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "published": "Mon, 18 May 2026 16:24:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "published": "Mon, 18 May 2026 14:27:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "published": "Mon, 18 May 2026 14:27:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "published": "Mon, 18 May 2026 12:16:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
@@ -363,36 +393,6 @@
       "title": "How AI Hallucinations Are Creating Real Security Risks",
       "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
       "published": "Thu, 14 May 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "published": "Thu, 14 May 2026 14:55:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "published": "Thu, 14 May 2026 12:36:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "published": "Thu, 14 May 2026 11:30:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "published": "Wed, 13 May 2026 19:16:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "published": "Wed, 13 May 2026 18:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "published": "Mon, 18 May 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "published": "Mon, 18 May 2026 04:33:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
       "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
       "published": "Mon, 18 May 2026 03:18:33 -0400",
@@ -596,16 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "published": "Fri, 15 May 2026 05:40:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "published": "Mon, 18 May 2026 16:53:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "published": "Thu, 14 May 2026 18:50:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "published": "Mon, 18 May 2026 16:24:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "published": "Mon, 18 May 2026 14:27:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "published": "Mon, 18 May 2026 14:27:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "published": "Mon, 18 May 2026 12:16:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
@@ -695,36 +725,6 @@
       "title": "How AI Hallucinations Are Creating Real Security Risks",
       "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
       "published": "Thu, 14 May 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "published": "Thu, 14 May 2026 14:55:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "published": "Thu, 14 May 2026 12:36:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "published": "Thu, 14 May 2026 11:30:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "published": "Wed, 13 May 2026 19:16:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "published": "Wed, 13 May 2026 18:30:00 +0530",
       "source": "The Hacker News"
     },
     {
