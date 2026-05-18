@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T20:12:16.720119Z",
+  "generated_at": "2026-05-18T21:45:50.755946Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "Mon, 18 May 2026 20:48:21 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-      "source": "Krebs on Security"
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "published": "Mon, 18 May 2026 17:42:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
@@ -267,12 +273,6 @@
       "title": "Popular node-ipc npm package compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
       "published": "Fri, 15 May 2026 13:10:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "published": "Fri, 15 May 2026 11:56:56 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "Mon, 18 May 2026 20:48:21 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-      "source": "Krebs on Security"
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "published": "Mon, 18 May 2026 17:42:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
@@ -599,12 +605,6 @@
       "title": "Popular node-ipc npm package compromised to steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
       "published": "Fri, 15 May 2026 13:10:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "published": "Fri, 15 May 2026 11:56:56 -0400",
       "source": "BleepingComputer"
     },
     {
