@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T21:45:50.755946Z",
+  "generated_at": "2026-05-18T23:01:11.730273Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "published": "Mon, 18 May 2026 18:15:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SHub macOS infostealer variant spoofs Apple security updates",
       "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
       "published": "Mon, 18 May 2026 17:42:20 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
       "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "published": "Fri, 15 May 2026 13:10:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "published": "Mon, 18 May 2026 18:15:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SHub macOS infostealer variant spoofs Apple security updates",
       "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
       "published": "Mon, 18 May 2026 17:42:20 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
       "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "published": "Fri, 15 May 2026 13:10:42 -0400",
       "source": "BleepingComputer"
     },
     {
