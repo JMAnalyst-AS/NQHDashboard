@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T09:42:46.401458Z",
+  "generated_at": "2026-05-19T12:38:19.350958Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: The hidden bottlenecks in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+      "published": "Tue, 19 May 2026 08:14:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms patching issues in restricted Windows networks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "published": "Tue, 19 May 2026 07:22:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
       "published": "Mon, 18 May 2026 18:15:30 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "published": "Fri, 15 May 2026 15:30:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+      "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+      "published": "Tue, 19 May 2026 14:53:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
@@ -387,12 +393,6 @@
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
       "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
       "published": "Fri, 15 May 2026 11:49:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "published": "Fri, 15 May 2026 10:58:03 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: The hidden bottlenecks in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+      "published": "Tue, 19 May 2026 08:14:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms patching issues in restricted Windows networks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "published": "Tue, 19 May 2026 07:22:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
       "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
       "published": "Mon, 18 May 2026 18:15:30 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "published": "Fri, 15 May 2026 15:30:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+      "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+      "published": "Tue, 19 May 2026 14:53:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
@@ -719,12 +725,6 @@
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
       "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
       "published": "Fri, 15 May 2026 11:49:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "published": "Fri, 15 May 2026 10:58:03 +0530",
       "source": "The Hacker News"
     },
     {
