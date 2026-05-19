@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:38:19.350958Z",
+  "generated_at": "2026-05-19T16:19:38.323556Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft blames undismissible Teams location prompts on macOS update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "published": "Tue, 19 May 2026 12:10:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "published": "Tue, 19 May 2026 10:30:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "published": "Tue, 19 May 2026 10:16:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "published": "Tue, 19 May 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: The hidden bottlenecks in network incident response",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
       "published": "Tue, 19 May 2026 08:14:22 -0400",
@@ -252,28 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "published": "Sun, 17 May 2026 18:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "published": "Tue, 19 May 2026 20:26:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "published": "Sun, 17 May 2026 10:43:10 -0400",
-      "source": "BleepingComputer"
+      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+      "published": "Tue, 19 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "published": "Sat, 16 May 2026 16:55:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "published": "Sat, 16 May 2026 10:15:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+      "published": "Tue, 19 May 2026 16:14:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
@@ -375,24 +393,6 @@
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
       "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
       "published": "Fri, 15 May 2026 19:05:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "published": "Fri, 15 May 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "published": "Fri, 15 May 2026 16:24:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "published": "Fri, 15 May 2026 11:49:04 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft blames undismissible Teams location prompts on macOS update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "published": "Tue, 19 May 2026 12:10:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "published": "Tue, 19 May 2026 10:30:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "published": "Tue, 19 May 2026 10:16:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "published": "Tue, 19 May 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: The hidden bottlenecks in network incident response",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
       "published": "Tue, 19 May 2026 08:14:22 -0400",
@@ -584,28 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "published": "Sun, 17 May 2026 18:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "published": "Tue, 19 May 2026 20:26:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "published": "Sun, 17 May 2026 10:43:10 -0400",
-      "source": "BleepingComputer"
+      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+      "published": "Tue, 19 May 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "published": "Sat, 16 May 2026 16:55:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "published": "Sat, 16 May 2026 10:15:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+      "published": "Tue, 19 May 2026 16:14:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
@@ -707,24 +725,6 @@
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
       "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
       "published": "Fri, 15 May 2026 19:05:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "published": "Fri, 15 May 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "published": "Fri, 15 May 2026 16:24:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "published": "Fri, 15 May 2026 11:49:04 +0530",
       "source": "The Hacker News"
     },
     {
