@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:30:16.929787Z",
+  "generated_at": "2026-05-20T05:46:51.263930Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "published": "Wed, 20 May 2026 01:08:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
       "published": "Tue, 19 May 2026 18:25:49 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "published": "Mon, 18 May 2026 14:45:35 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "published": "Wed, 20 May 2026 09:31:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
@@ -387,12 +393,6 @@
       "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
       "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
       "published": "Sat, 16 May 2026 20:50:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "published": "Fri, 15 May 2026 22:40:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "published": "Wed, 20 May 2026 01:08:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
       "published": "Tue, 19 May 2026 18:25:49 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "published": "Mon, 18 May 2026 14:45:35 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "published": "Wed, 20 May 2026 09:31:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
@@ -719,12 +725,6 @@
       "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
       "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
       "published": "Sat, 16 May 2026 20:50:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "published": "Fri, 15 May 2026 22:40:25 +0530",
       "source": "The Hacker News"
     },
     {
