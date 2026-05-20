@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T09:34:16.555702Z",
+  "generated_at": "2026-05-20T12:24:32.791947Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "published": "Wed, 20 May 2026 06:52:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
       "published": "Wed, 20 May 2026 04:14:08 -0400",
@@ -270,21 +276,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "published": "Tue, 19 May 2026 07:22:15 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "published": "Wed, 20 May 2026 17:08:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+      "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+      "published": "Wed, 20 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "published": "Wed, 20 May 2026 13:58:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
       "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
       "published": "Wed, 20 May 2026 10:42:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
-      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "published": "Wed, 20 May 2026 09:31:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -381,18 +393,6 @@
       "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
       "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
       "published": "Mon, 18 May 2026 12:16:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "published": "Sun, 17 May 2026 17:27:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "published": "Sun, 17 May 2026 12:43:33 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "published": "Wed, 20 May 2026 06:52:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
       "published": "Wed, 20 May 2026 04:14:08 -0400",
@@ -602,21 +608,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "published": "Tue, 19 May 2026 07:22:15 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "published": "Wed, 20 May 2026 17:08:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+      "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+      "published": "Wed, 20 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "published": "Wed, 20 May 2026 13:58:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
       "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
       "published": "Wed, 20 May 2026 10:42:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
-      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "published": "Wed, 20 May 2026 09:31:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -713,18 +725,6 @@
       "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
       "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
       "published": "Mon, 18 May 2026 12:16:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "published": "Sun, 17 May 2026 17:27:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "published": "Sun, 17 May 2026 12:43:33 +0530",
       "source": "The Hacker News"
     },
     {
