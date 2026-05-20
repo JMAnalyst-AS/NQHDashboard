@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T05:46:51.263930Z",
+  "generated_at": "2026-05-20T09:34:16.555702Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "published": "Wed, 20 May 2026 04:14:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "published": "Wed, 20 May 2026 03:31:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
       "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
       "published": "Wed, 20 May 2026 01:08:42 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "published": "Mon, 18 May 2026 18:15:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "published": "Mon, 18 May 2026 17:42:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "published": "Wed, 20 May 2026 10:42:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
@@ -387,12 +393,6 @@
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
       "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
       "published": "Sun, 17 May 2026 12:43:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "published": "Sat, 16 May 2026 20:50:48 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "published": "Wed, 20 May 2026 04:14:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "published": "Wed, 20 May 2026 03:31:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
       "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
       "published": "Wed, 20 May 2026 01:08:42 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "published": "Mon, 18 May 2026 18:15:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "published": "Mon, 18 May 2026 17:42:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "published": "Wed, 20 May 2026 10:42:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
@@ -719,12 +725,6 @@
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
       "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
       "published": "Sun, 17 May 2026 12:43:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "published": "Sat, 16 May 2026 20:50:48 +0530",
       "source": "The Hacker News"
     },
     {
