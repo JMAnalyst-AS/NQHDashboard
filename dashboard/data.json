@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:58:23.086272Z",
+  "generated_at": "2026-05-20T22:38:02.590313Z",
   "segment1": [
     {
       "title": "Chairman Cassidy, Tuberville Seek Answers on Canvas Cybersecurity Incident, Calls for More Safeguards to Protect Students",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "published": "Wed, 20 May 2026 17:36:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "published": "Wed, 20 May 2026 17:19:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "published": "Wed, 20 May 2026 11:46:37 -0400",
@@ -261,18 +273,6 @@
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "published": "Tue, 19 May 2026 12:22:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "published": "Tue, 19 May 2026 12:10:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "published": "Tue, 19 May 2026 10:30:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "published": "Wed, 20 May 2026 17:36:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "published": "Wed, 20 May 2026 17:19:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "published": "Wed, 20 May 2026 11:46:37 -0400",
@@ -593,18 +605,6 @@
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "published": "Tue, 19 May 2026 12:22:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "published": "Tue, 19 May 2026 12:10:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "published": "Tue, 19 May 2026 10:30:22 -0400",
       "source": "BleepingComputer"
     },
     {
