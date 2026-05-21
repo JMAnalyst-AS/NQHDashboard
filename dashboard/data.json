@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:58:40.696137Z",
+  "generated_at": "2026-05-21T20:04:18.769231Z",
   "segment1": [
     {
       "title": "Operation Saffron: Bitdefender Joins “First VPN” Takedown",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "published": "Thu, 21 May 2026 14:13:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
       "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
       "published": "Thu, 21 May 2026 11:11:08 -0400",
@@ -267,12 +273,6 @@
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
       "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "published": "Wed, 20 May 2026 04:14:08 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "published": "Thu, 21 May 2026 14:13:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
       "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
       "published": "Thu, 21 May 2026 11:11:08 -0400",
@@ -599,12 +605,6 @@
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
       "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "published": "Wed, 20 May 2026 04:14:08 -0400",
       "source": "BleepingComputer"
     },
     {
