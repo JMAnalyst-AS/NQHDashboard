@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T01:28:24.903404Z",
+  "generated_at": "2026-05-22T05:43:36.187637Z",
   "segment1": [
     {
       "title": "Operation Saffron: Bitdefender Joins “First VPN” Takedown",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "published": "Fri, 22 May 2026 11:06:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
       "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
       "published": "Thu, 21 May 2026 19:47:09 +0530",
@@ -387,12 +393,6 @@
       "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
       "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
       "published": "Tue, 19 May 2026 16:14:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-      "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-      "published": "Tue, 19 May 2026 14:53:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "published": "Fri, 22 May 2026 11:06:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
       "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
       "published": "Thu, 21 May 2026 19:47:09 +0530",
@@ -719,12 +725,6 @@
       "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
       "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
       "published": "Tue, 19 May 2026 16:14:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-      "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-      "published": "Tue, 19 May 2026 14:53:15 +0530",
       "source": "The Hacker News"
     },
     {
