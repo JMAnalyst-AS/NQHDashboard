@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T05:43:36.187637Z",
+  "generated_at": "2026-05-22T09:24:10.734455Z",
   "segment1": [
     {
       "title": "Operation Saffron: Bitdefender Joins “First VPN” Takedown",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "published": "Fri, 22 May 2026 05:01:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google accidentally exposed details of unfixed Chromium flaw",
       "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
       "published": "Thu, 21 May 2026 14:13:50 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "published": "Fri, 22 May 2026 14:20:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "published": "Fri, 22 May 2026 11:17:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
@@ -381,18 +393,6 @@
       "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
       "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
       "published": "Tue, 19 May 2026 20:26:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "published": "Tue, 19 May 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "published": "Tue, 19 May 2026 16:14:45 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "published": "Fri, 22 May 2026 05:01:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google accidentally exposed details of unfixed Chromium flaw",
       "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
       "published": "Thu, 21 May 2026 14:13:50 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "published": "Fri, 22 May 2026 14:20:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "published": "Fri, 22 May 2026 11:17:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
@@ -713,18 +725,6 @@
       "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
       "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
       "published": "Tue, 19 May 2026 20:26:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "published": "Tue, 19 May 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "published": "Tue, 19 May 2026 16:14:45 +0530",
       "source": "The Hacker News"
     },
     {
