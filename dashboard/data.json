@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-23T13:57:42.315246Z",
+  "generated_at": "2026-05-23T15:07:34.472313Z",
   "segment1": [
+    {
+      "title": "UK: Victims feel ‘violated’ after water firm’s data breach",
+      "url": "https://databreaches.net/2026/05/23/uk-victims-feel-violated-after-water-firms-data-breach/?pk_campaign=feed&pk_kwd=uk-victims-feel-violated-after-water-firms-data-breach",
+      "published": "Sat, 23 May 2026 14:58:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Radiology Associates of Richmond discloses second data breach; 266k people affected",
       "url": "https://databreaches.net/2026/05/22/radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected/?pk_campaign=feed&pk_kwd=radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected",
@@ -53,17 +59,17 @@
       "title": "U.S. officials seeking extradition of Ottawa man accused of record cyberattack",
       "url": "https://databreaches.net/2026/05/22/u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack/?pk_campaign=feed&pk_kwd=u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack",
       "published": "Fri, 22 May 2026 13:51:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Murphy measure to protect Illinois consumers’ sensitive data advances in Senate",
-      "url": "https://databreaches.net/2026/05/22/murphy-measure-to-protect-illinois-consumers-sensitive-data-advances-in-senate/?pk_campaign=feed&pk_kwd=murphy-measure-to-protect-illinois-consumers-sensitive-data-advances-in-senate",
-      "published": "Fri, 22 May 2026 13:50:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "UK: Victims feel ‘violated’ after water firm’s data breach",
+      "url": "https://databreaches.net/2026/05/23/uk-victims-feel-violated-after-water-firms-data-breach/?pk_campaign=feed&pk_kwd=uk-victims-feel-violated-after-water-firms-data-breach",
+      "published": "Sat, 23 May 2026 14:58:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Radiology Associates of Richmond discloses second data breach; 266k people affected",
       "url": "https://databreaches.net/2026/05/22/radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected/?pk_campaign=feed&pk_kwd=radiology-associates-of-richmond-discloses-second-data-breach-266k-people-affected",
       "published": "Fri, 22 May 2026 16:46:49 +0000",
@@ -115,12 +121,6 @@
       "title": "U.S. officials seeking extradition of Ottawa man accused of record cyberattack",
       "url": "https://databreaches.net/2026/05/22/u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack/?pk_campaign=feed&pk_kwd=u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack",
       "published": "Fri, 22 May 2026 13:51:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Murphy measure to protect Illinois consumers’ sensitive data advances in Senate",
-      "url": "https://databreaches.net/2026/05/22/murphy-measure-to-protect-illinois-consumers-sensitive-data-advances-in-senate/?pk_campaign=feed&pk_kwd=murphy-measure-to-protect-illinois-consumers-sensitive-data-advances-in-senate",
-      "published": "Fri, 22 May 2026 13:50:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "published": "Mon, 06 Apr 2026 02:07:17 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "published": "Sat, 23 May 2026 10:23:44 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
@@ -267,12 +273,6 @@
       "title": "Flipper One project needs community help to build open Linux platform",
       "url": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
       "published": "Thu, 21 May 2026 07:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "published": "Thu, 21 May 2026 03:49:48 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "published": "Sat, 23 May 2026 10:23:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
       "published": "Fri, 22 May 2026 13:24:52 -0400",
@@ -599,12 +605,6 @@
       "title": "Flipper One project needs community help to build open Linux platform",
       "url": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
       "published": "Thu, 21 May 2026 07:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "published": "Thu, 21 May 2026 03:49:48 -0400",
       "source": "BleepingComputer"
     },
     {
