@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-23T16:30:42.157793Z",
+  "generated_at": "2026-05-23T18:01:11.087872Z",
   "segment1": [
+    {
+      "title": "Rhode Island’s workers’ compensation notifies those affected by January data breach",
+      "url": "https://databreaches.net/2026/05/23/rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach/?pk_campaign=feed&pk_kwd=rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach",
+      "published": "Sat, 23 May 2026 16:49:22 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "UK: Victims feel ‘violated’ after water firm’s data breach",
       "url": "https://databreaches.net/2026/05/23/uk-victims-feel-violated-after-water-firms-data-breach/?pk_campaign=feed&pk_kwd=uk-victims-feel-violated-after-water-firms-data-breach",
@@ -53,17 +59,17 @@
       "title": "Hackers breach two Vietnamese ministerial systems in major cyberattack",
       "url": "https://databreaches.net/2026/05/22/hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack/?pk_campaign=feed&pk_kwd=hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack",
       "published": "Fri, 22 May 2026 13:52:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "U.S. officials seeking extradition of Ottawa man accused of record cyberattack",
-      "url": "https://databreaches.net/2026/05/22/u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack/?pk_campaign=feed&pk_kwd=u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack",
-      "published": "Fri, 22 May 2026 13:51:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Rhode Island’s workers’ compensation notifies those affected by January data breach",
+      "url": "https://databreaches.net/2026/05/23/rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach/?pk_campaign=feed&pk_kwd=rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach",
+      "published": "Sat, 23 May 2026 16:49:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "UK: Victims feel ‘violated’ after water firm’s data breach",
       "url": "https://databreaches.net/2026/05/23/uk-victims-feel-violated-after-water-firms-data-breach/?pk_campaign=feed&pk_kwd=uk-victims-feel-violated-after-water-firms-data-breach",
       "published": "Sat, 23 May 2026 14:58:13 +0000",
@@ -115,12 +121,6 @@
       "title": "Hackers breach two Vietnamese ministerial systems in major cyberattack",
       "url": "https://databreaches.net/2026/05/22/hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack/?pk_campaign=feed&pk_kwd=hackers-breach-two-vietnamese-ministerial-systems-in-major-cyberattack",
       "published": "Fri, 22 May 2026 13:52:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "U.S. officials seeking extradition of Ottawa man accused of record cyberattack",
-      "url": "https://databreaches.net/2026/05/22/u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack/?pk_campaign=feed&pk_kwd=u-s-officials-seeking-extradition-of-ottawa-man-accused-of-record-cyberattack",
-      "published": "Fri, 22 May 2026 13:51:53 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "published": "Sat, 23 May 2026 22:05:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "published": "Sat, 23 May 2026 21:37:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
       "published": "Sat, 23 May 2026 17:25:35 +0530",
@@ -381,18 +393,6 @@
       "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
       "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
       "published": "Thu, 21 May 2026 09:14:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "published": "Wed, 20 May 2026 22:36:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "published": "Wed, 20 May 2026 20:06:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "published": "Sat, 23 May 2026 22:05:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "published": "Sat, 23 May 2026 21:37:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
       "published": "Sat, 23 May 2026 17:25:35 +0530",
@@ -713,18 +725,6 @@
       "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
       "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
       "published": "Thu, 21 May 2026 09:14:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "published": "Wed, 20 May 2026 22:36:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "published": "Wed, 20 May 2026 20:06:44 +0530",
       "source": "The Hacker News"
     },
     {
