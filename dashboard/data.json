@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-24T12:40:36.466401Z",
+  "generated_at": "2026-05-24T14:23:54.618477Z",
   "segment1": [
+    {
+      "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
+      "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
+      "published": "Sun, 24 May 2026 12:53:07 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "UK: £355,880.10 confiscation order secured following proceeds of crime hearing",
       "url": "https://databreaches.net/2026/05/23/uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing/?pk_campaign=feed&pk_kwd=uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing",
@@ -53,17 +59,17 @@
       "title": "Verus Hacker Returns $8.5M After Bridge Exploit Deal",
       "url": "https://databreaches.net/2026/05/22/verus-hacker-returns-8-5m-after-bridge-exploit-deal/?pk_campaign=feed&pk_kwd=verus-hacker-returns-8-5m-after-bridge-exploit-deal",
       "published": "Fri, 22 May 2026 13:52:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hugging Face Hiding Second-Stage Malware for npm Supply Chain Attack",
-      "url": "https://databreaches.net/2026/05/22/hugging-face-hiding-second-stage-malware-for-npm-supply-chain-attack/?pk_campaign=feed&pk_kwd=hugging-face-hiding-second-stage-malware-for-npm-supply-chain-attack",
-      "published": "Fri, 22 May 2026 13:52:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
+      "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
+      "published": "Sun, 24 May 2026 12:53:07 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "UK: £355,880.10 confiscation order secured following proceeds of crime hearing",
       "url": "https://databreaches.net/2026/05/23/uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing/?pk_campaign=feed&pk_kwd=uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing",
       "published": "Sat, 23 May 2026 23:22:38 +0000",
@@ -115,12 +121,6 @@
       "title": "Verus Hacker Returns $8.5M After Bridge Exploit Deal",
       "url": "https://databreaches.net/2026/05/22/verus-hacker-returns-8-5m-after-bridge-exploit-deal/?pk_campaign=feed&pk_kwd=verus-hacker-returns-8-5m-after-bridge-exploit-deal",
       "published": "Fri, 22 May 2026 13:52:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hugging Face Hiding Second-Stage Malware for npm Supply Chain Attack",
-      "url": "https://databreaches.net/2026/05/22/hugging-face-hiding-second-stage-malware-for-npm-supply-chain-attack/?pk_campaign=feed&pk_kwd=hugging-face-hiding-second-stage-malware-for-npm-supply-chain-attack",
-      "published": "Fri, 22 May 2026 13:52:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "published": "Mon, 06 Apr 2026 02:07:17 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "published": "Sun, 24 May 2026 10:12:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
@@ -267,12 +273,6 @@
       "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
       "published": "Thu, 21 May 2026 09:58:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "published": "Thu, 21 May 2026 09:09:51 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "published": "Sun, 24 May 2026 10:12:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
       "published": "Sat, 23 May 2026 16:48:23 -0400",
@@ -599,12 +605,6 @@
       "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
       "published": "Thu, 21 May 2026 09:58:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "published": "Thu, 21 May 2026 09:09:51 -0400",
       "source": "BleepingComputer"
     },
     {
