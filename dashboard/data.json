@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T04:15:49.719893Z",
+  "generated_at": "2026-05-24T07:36:24.041458Z",
   "segment1": [
     {
       "title": "UK: £355,880.10 confiscation order secured following proceeds of crime hearing",
@@ -125,66 +125,6 @@
     }
   ],
   "segment3": [
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "source": "Krebs on Security"
-    },
     {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
@@ -457,66 +397,6 @@
     }
   ],
   "rss": [
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "source": "Krebs on Security"
-    },
     {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
