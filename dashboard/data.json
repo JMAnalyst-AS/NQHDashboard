@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-25T12:34:27.975405Z",
+  "generated_at": "2026-05-25T15:50:37.510042Z",
   "segment1": [
+    {
+      "title": "PowerSchool’s $17.25 Million Settlement Exposes Years of Student Data Tracking",
+      "url": "https://databreaches.net/2026/05/25/powerschools-17-25-million-settlement-exposes-years-of-student-data-tracking/?pk_campaign=feed&pk_kwd=powerschools-17-25-million-settlement-exposes-years-of-student-data-tracking",
+      "published": "Mon, 25 May 2026 12:59:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
       "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
@@ -53,17 +59,17 @@
       "title": "Hackers steal patient and billing data from German hospitals via third-party provider",
       "url": "https://databreaches.net/2026/05/22/hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider/?pk_campaign=feed&pk_kwd=hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider",
       "published": "Fri, 22 May 2026 13:52:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Verus Hacker Returns $8.5M After Bridge Exploit Deal",
-      "url": "https://databreaches.net/2026/05/22/verus-hacker-returns-8-5m-after-bridge-exploit-deal/?pk_campaign=feed&pk_kwd=verus-hacker-returns-8-5m-after-bridge-exploit-deal",
-      "published": "Fri, 22 May 2026 13:52:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "PowerSchool’s $17.25 Million Settlement Exposes Years of Student Data Tracking",
+      "url": "https://databreaches.net/2026/05/25/powerschools-17-25-million-settlement-exposes-years-of-student-data-tracking/?pk_campaign=feed&pk_kwd=powerschools-17-25-million-settlement-exposes-years-of-student-data-tracking",
+      "published": "Mon, 25 May 2026 12:59:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
       "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
       "published": "Sun, 24 May 2026 12:53:07 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/05/22/hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider/?pk_campaign=feed&pk_kwd=hackers-steal-patient-and-billing-data-from-german-hospitals-via-third-party-provider",
       "published": "Fri, 22 May 2026 13:52:41 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Verus Hacker Returns $8.5M After Bridge Exploit Deal",
-      "url": "https://databreaches.net/2026/05/22/verus-hacker-returns-8-5m-after-bridge-exploit-deal/?pk_campaign=feed&pk_kwd=verus-hacker-returns-8-5m-after-bridge-exploit-deal",
-      "published": "Fri, 22 May 2026 13:52:34 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "source": "Krebs on Security"
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "published": "Mon, 25 May 2026 08:45:54 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "published": "Thu, 21 May 2026 09:58:33 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "published": "Mon, 25 May 2026 19:43:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
@@ -387,12 +393,6 @@
       "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
       "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
       "published": "Thu, 21 May 2026 17:22:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "published": "Thu, 21 May 2026 16:25:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "published": "Fri, 22 May 2026 16:34:24 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "source": "Krebs on Security"
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "published": "Mon, 25 May 2026 08:45:54 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "published": "Thu, 21 May 2026 09:58:33 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "published": "Mon, 25 May 2026 19:43:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
@@ -719,12 +725,6 @@
       "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
       "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
       "published": "Thu, 21 May 2026 17:22:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "published": "Thu, 21 May 2026 16:25:57 +0530",
       "source": "The Hacker News"
     },
     {
