@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:44:07.764073Z",
+  "generated_at": "2026-05-25T08:56:31.617729Z",
   "segment1": [
     {
       "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "published": "Mon, 25 May 2026 11:29:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
       "published": "Sat, 23 May 2026 22:05:10 +0530",
@@ -387,12 +393,6 @@
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
       "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
       "published": "Thu, 21 May 2026 09:57:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "published": "Thu, 21 May 2026 09:14:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "published": "Mon, 25 May 2026 11:29:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
       "published": "Sat, 23 May 2026 22:05:10 +0530",
@@ -719,12 +725,6 @@
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
       "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
       "published": "Thu, 21 May 2026 09:57:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "published": "Thu, 21 May 2026 09:14:11 +0530",
       "source": "The Hacker News"
     },
     {
