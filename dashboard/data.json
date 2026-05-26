@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T08:30:49.475335Z",
+  "generated_at": "2026-05-26T16:23:40.124492Z",
   "segment1": [
     {
       "title": "PowerSchool’s $17.25 Million Settlement Exposes Years of Student Data Tracking",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "url": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "published": "Tue, 26 May 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "published": "Tue, 26 May 2026 08:19:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "published": "Tue, 26 May 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "published": "Tue, 26 May 2026 04:46:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
       "published": "Tue, 26 May 2026 03:41:25 -0400",
@@ -252,28 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "published": "Fri, 22 May 2026 09:09:18 -0400",
-      "source": "BleepingComputer"
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "published": "Tue, 26 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "published": "Fri, 22 May 2026 08:00:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "published": "Tue, 26 May 2026 17:19:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "published": "Fri, 22 May 2026 05:01:20 -0400",
-      "source": "BleepingComputer"
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "published": "Tue, 26 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "published": "Thu, 21 May 2026 14:13:50 -0400",
-      "source": "BleepingComputer"
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "published": "Tue, 26 May 2026 14:43:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "published": "Tue, 26 May 2026 12:43:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
@@ -363,36 +393,6 @@
       "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
       "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
       "published": "Fri, 22 May 2026 17:25:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "published": "Fri, 22 May 2026 17:08:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "published": "Fri, 22 May 2026 14:20:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "published": "Fri, 22 May 2026 11:17:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "published": "Fri, 22 May 2026 11:06:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "published": "Thu, 21 May 2026 19:47:09 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "url": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "published": "Tue, 26 May 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "published": "Tue, 26 May 2026 08:19:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "published": "Tue, 26 May 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "published": "Tue, 26 May 2026 04:46:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
       "published": "Tue, 26 May 2026 03:41:25 -0400",
@@ -584,28 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "published": "Fri, 22 May 2026 09:09:18 -0400",
-      "source": "BleepingComputer"
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "published": "Tue, 26 May 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "published": "Fri, 22 May 2026 08:00:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "published": "Tue, 26 May 2026 17:19:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "published": "Fri, 22 May 2026 05:01:20 -0400",
-      "source": "BleepingComputer"
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "published": "Tue, 26 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "published": "Thu, 21 May 2026 14:13:50 -0400",
-      "source": "BleepingComputer"
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "published": "Tue, 26 May 2026 14:43:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "published": "Tue, 26 May 2026 12:43:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
@@ -695,36 +725,6 @@
       "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
       "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
       "published": "Fri, 22 May 2026 17:25:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "published": "Fri, 22 May 2026 17:08:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "published": "Fri, 22 May 2026 14:20:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "published": "Fri, 22 May 2026 11:17:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "published": "Fri, 22 May 2026 11:06:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "published": "Thu, 21 May 2026 19:47:09 +0530",
       "source": "The Hacker News"
     },
     {
