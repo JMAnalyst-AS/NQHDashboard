@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T04:43:08.105862Z",
+  "generated_at": "2026-05-26T08:30:49.475335Z",
   "segment1": [
     {
       "title": "PowerSchool’s $17.25 Million Settlement Exposes Years of Student Data Tracking",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "published": "Tue, 26 May 2026 03:41:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "published": "Tue, 26 May 2026 03:01:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
       "published": "Mon, 25 May 2026 13:07:33 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "published": "Thu, 21 May 2026 11:11:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "published": "Thu, 21 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "published": "Tue, 26 May 2026 10:49:38 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -387,12 +393,6 @@
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
       "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
       "published": "Thu, 21 May 2026 19:47:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "published": "Thu, 21 May 2026 17:22:14 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "published": "Tue, 26 May 2026 03:41:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "published": "Tue, 26 May 2026 03:01:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
       "published": "Mon, 25 May 2026 13:07:33 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "published": "Thu, 21 May 2026 11:11:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "published": "Thu, 21 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "published": "Tue, 26 May 2026 10:49:38 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -719,12 +725,6 @@
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
       "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
       "published": "Thu, 21 May 2026 19:47:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "published": "Thu, 21 May 2026 17:22:14 +0530",
       "source": "The Hacker News"
     },
     {
