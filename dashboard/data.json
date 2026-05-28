@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T16:11:44.766430Z",
+  "generated_at": "2026-05-28T19:10:45.890417Z",
   "segment1": [
     {
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "published": "Thu, 28 May 2026 15:08:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "published": "Thu, 28 May 2026 13:25:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
       "published": "Thu, 28 May 2026 10:25:43 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "published": "Tue, 26 May 2026 16:07:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "published": "Thu, 28 May 2026 22:54:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "published": "Tue, 26 May 2026 15:46:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "published": "Thu, 28 May 2026 20:56:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
@@ -381,18 +393,6 @@
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
       "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
       "published": "Tue, 26 May 2026 10:49:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "published": "Mon, 25 May 2026 19:43:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "published": "Mon, 25 May 2026 17:32:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "published": "Thu, 28 May 2026 15:08:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "published": "Thu, 28 May 2026 13:25:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
       "published": "Thu, 28 May 2026 10:25:43 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "published": "Tue, 26 May 2026 16:07:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "published": "Thu, 28 May 2026 22:54:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "published": "Tue, 26 May 2026 15:46:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "published": "Thu, 28 May 2026 20:56:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
@@ -713,18 +725,6 @@
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
       "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
       "published": "Tue, 26 May 2026 10:49:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "published": "Mon, 25 May 2026 19:43:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "published": "Mon, 25 May 2026 17:32:46 +0530",
       "source": "The Hacker News"
     },
     {
