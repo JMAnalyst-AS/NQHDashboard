@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T17:32:56.077907Z",
+  "generated_at": "2026-05-29T20:25:14.255567Z",
   "segment1": [
     {
       "title": "French Health Payments Breach Exposed ID Data, Fuels Fraud Fears",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "published": "Fri, 29 May 2026 14:21:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "published": "Fri, 29 May 2026 14:08:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
       "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
       "published": "Fri, 29 May 2026 10:32:02 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "published": "Thu, 28 May 2026 08:43:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Why network incidents take too long to resolve",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "published": "Thu, 28 May 2026 08:20:28 -0400",
-      "source": "BleepingComputer"
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "published": "Fri, 29 May 2026 23:37:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
@@ -387,12 +393,6 @@
       "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
       "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
       "published": "Tue, 26 May 2026 21:18:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "published": "Tue, 26 May 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "published": "Fri, 29 May 2026 14:21:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "published": "Fri, 29 May 2026 14:08:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
       "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
       "published": "Fri, 29 May 2026 10:32:02 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "published": "Thu, 28 May 2026 08:43:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar: Why network incidents take too long to resolve",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "published": "Thu, 28 May 2026 08:20:28 -0400",
-      "source": "BleepingComputer"
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "published": "Fri, 29 May 2026 23:37:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
@@ -719,12 +725,6 @@
       "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
       "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
       "published": "Tue, 26 May 2026 21:18:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "published": "Tue, 26 May 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
