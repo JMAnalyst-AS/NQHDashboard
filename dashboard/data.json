@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T13:43:52.884509Z",
+  "generated_at": "2026-05-29T17:32:56.077907Z",
   "segment1": [
     {
       "title": "French Health Payments Breach Exposed ID Data, Fuels Fraud Fears",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "published": "Fri, 29 May 2026 10:32:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "published": "Fri, 29 May 2026 10:26:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Chrome adds session cookie theft protection for all users",
       "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
       "published": "Fri, 29 May 2026 08:08:08 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "published": "Thu, 28 May 2026 06:49:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
-      "url": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
-      "published": "Thu, 28 May 2026 05:25:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "published": "Fri, 29 May 2026 20:09:56 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
@@ -387,12 +393,6 @@
       "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
       "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
       "published": "Tue, 26 May 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "published": "Tue, 26 May 2026 17:19:53 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "published": "Fri, 29 May 2026 10:32:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "published": "Fri, 29 May 2026 10:26:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Chrome adds session cookie theft protection for all users",
       "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
       "published": "Fri, 29 May 2026 08:08:08 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "published": "Thu, 28 May 2026 06:49:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
-      "url": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
-      "published": "Thu, 28 May 2026 05:25:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "published": "Fri, 29 May 2026 20:09:56 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
@@ -719,12 +725,6 @@
       "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
       "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
       "published": "Tue, 26 May 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "published": "Tue, 26 May 2026 17:19:53 +0530",
       "source": "The Hacker News"
     },
     {
