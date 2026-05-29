@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:13:55.310783Z",
+  "generated_at": "2026-05-29T10:28:52.703252Z",
   "segment1": [
     {
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "published": "Fri, 29 May 2026 06:11:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "published": "Fri, 29 May 2026 04:29:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "published": "Thu, 28 May 2026 20:21:03 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "published": "Wed, 27 May 2026 09:28:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "published": "Fri, 29 May 2026 14:41:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "published": "Wed, 27 May 2026 07:51:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "published": "Fri, 29 May 2026 11:27:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
@@ -381,18 +393,6 @@
       "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
       "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
       "published": "Tue, 26 May 2026 14:43:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "published": "Tue, 26 May 2026 12:43:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "published": "Tue, 26 May 2026 10:49:38 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "published": "Fri, 29 May 2026 06:11:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "published": "Fri, 29 May 2026 04:29:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "published": "Thu, 28 May 2026 20:21:03 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "published": "Wed, 27 May 2026 09:28:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "published": "Fri, 29 May 2026 14:41:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "published": "Wed, 27 May 2026 07:51:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "published": "Fri, 29 May 2026 11:27:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
@@ -713,18 +725,6 @@
       "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
       "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
       "published": "Tue, 26 May 2026 14:43:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "published": "Tue, 26 May 2026 12:43:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "published": "Tue, 26 May 2026 10:49:38 +0530",
       "source": "The Hacker News"
     },
     {
