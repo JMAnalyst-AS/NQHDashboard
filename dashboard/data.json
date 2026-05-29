@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-29T10:28:52.703252Z",
+  "generated_at": "2026-05-29T13:43:52.884509Z",
   "segment1": [
+    {
+      "title": "French Health Payments Breach Exposed ID Data, Fuels Fraud Fears",
+      "url": "https://databreaches.net/2026/05/29/french-health-payments-breach-exposed-id-data-fuels-fraud-fears/?pk_campaign=feed&pk_kwd=french-health-payments-breach-exposed-id-data-fuels-fraud-fears",
+      "published": "Fri, 29 May 2026 12:22:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach",
+      "url": "https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach",
+      "published": "Fri, 29 May 2026 12:22:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
       "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
@@ -47,23 +59,23 @@
       "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
       "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
       "published": "Sun, 24 May 2026 12:53:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: £355,880.10 confiscation order secured following proceeds of crime hearing",
-      "url": "https://databreaches.net/2026/05/23/uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing/?pk_campaign=feed&pk_kwd=uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing",
-      "published": "Sat, 23 May 2026 23:22:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rhode Island’s workers’ compensation notifies those affected by January data breach",
-      "url": "https://databreaches.net/2026/05/23/rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach/?pk_campaign=feed&pk_kwd=rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach",
-      "published": "Sat, 23 May 2026 16:49:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "French Health Payments Breach Exposed ID Data, Fuels Fraud Fears",
+      "url": "https://databreaches.net/2026/05/29/french-health-payments-breach-exposed-id-data-fuels-fraud-fears/?pk_campaign=feed&pk_kwd=french-health-payments-breach-exposed-id-data-fuels-fraud-fears",
+      "published": "Fri, 29 May 2026 12:22:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach",
+      "url": "https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach",
+      "published": "Fri, 29 May 2026 12:22:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
       "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
       "published": "Thu, 28 May 2026 10:42:01 +0000",
@@ -109,18 +121,6 @@
       "title": "France Sees More Violent Attacks on Crypto Holders Than Any Other Country",
       "url": "https://databreaches.net/2026/05/24/france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country/?pk_campaign=feed&pk_kwd=france-sees-more-violent-attacks-on-crypto-holders-than-any-other-country",
       "published": "Sun, 24 May 2026 12:53:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: £355,880.10 confiscation order secured following proceeds of crime hearing",
-      "url": "https://databreaches.net/2026/05/23/uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing/?pk_campaign=feed&pk_kwd=uk-355880-10-confiscation-order-secured-following-proceeds-of-crime-hearing",
-      "published": "Sat, 23 May 2026 23:22:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rhode Island’s workers’ compensation notifies those affected by January data breach",
-      "url": "https://databreaches.net/2026/05/23/rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach/?pk_campaign=feed&pk_kwd=rhode-islands-workers-compensation-notifies-those-affected-by-january-data-breach",
-      "published": "Sat, 23 May 2026 16:49:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
       "published": "Tue, 07 Apr 2026 17:02:44 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "published": "Fri, 29 May 2026 08:08:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "url": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "published": "Fri, 29 May 2026 07:07:07 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US charges Google security engineer with Polymarket insider trading",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
-      "url": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
-      "published": "Wed, 27 May 2026 17:31:25 -0400",
-      "source": "BleepingComputer"
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "published": "Fri, 29 May 2026 17:01:59 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
-      "url": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-      "published": "Wed, 27 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "published": "Fri, 29 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
@@ -381,18 +393,6 @@
       "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
       "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
       "published": "Tue, 26 May 2026 17:19:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "published": "Tue, 26 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "published": "Tue, 26 May 2026 14:43:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "published": "Fri, 29 May 2026 08:08:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "url": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "published": "Fri, 29 May 2026 07:07:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US charges Google security engineer with Polymarket insider trading",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
       "published": "Fri, 29 May 2026 06:11:44 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
-      "url": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
-      "published": "Wed, 27 May 2026 17:31:25 -0400",
-      "source": "BleepingComputer"
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "published": "Fri, 29 May 2026 17:01:59 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
-      "url": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-      "published": "Wed, 27 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "published": "Fri, 29 May 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
@@ -713,18 +725,6 @@
       "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
       "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
       "published": "Tue, 26 May 2026 17:19:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "published": "Tue, 26 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "published": "Tue, 26 May 2026 14:43:02 +0530",
       "source": "The Hacker News"
     },
     {
