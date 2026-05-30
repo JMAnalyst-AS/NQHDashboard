@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T14:12:42.743800Z",
+  "generated_at": "2026-05-30T15:45:55.807617Z",
   "segment1": [
     {
       "title": "Microsoft’s incident response is getting a failing grade from researchers",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "published": "Sat, 30 May 2026 10:16:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "published": "Fri, 29 May 2026 14:21:36 -0400",
@@ -267,12 +273,6 @@
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
       "published": "Thu, 28 May 2026 10:25:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "published": "Thu, 28 May 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "published": "Sat, 30 May 2026 10:16:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "published": "Fri, 29 May 2026 14:21:36 -0400",
@@ -599,12 +605,6 @@
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
       "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
       "published": "Thu, 28 May 2026 10:25:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "published": "Thu, 28 May 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
