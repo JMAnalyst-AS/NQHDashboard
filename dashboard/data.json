@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T17:04:53.125514Z",
+  "generated_at": "2026-05-30T18:38:36.802783Z",
   "segment1": [
     {
       "title": "Microsoft’s incident response is getting a failing grade from researchers",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "published": "Sat, 30 May 2026 14:02:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
       "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
       "published": "Sat, 30 May 2026 10:16:08 -0400",
@@ -267,12 +273,6 @@
       "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
       "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "published": "Thu, 28 May 2026 10:25:43 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "published": "Sat, 30 May 2026 14:02:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
       "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
       "published": "Sat, 30 May 2026 10:16:08 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
       "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "published": "Thu, 28 May 2026 10:25:43 -0400",
       "source": "BleepingComputer"
     },
     {
