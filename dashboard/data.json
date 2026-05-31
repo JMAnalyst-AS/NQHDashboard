@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-31T12:00:57.355340Z",
+  "generated_at": "2026-05-31T14:17:04.707361Z",
   "segment1": [
+    {
+      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data",
+      "url": "https://databreaches.net/2026/05/31/bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data/?pk_campaign=feed&pk_kwd=bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data",
+      "published": "Sun, 31 May 2026 12:55:44 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Microsoft’s incident response is getting a failing grade from researchers",
       "url": "https://databreaches.net/2026/05/30/microsofts-incident-response-is-getting-a-failing-grade-from-researchers/?pk_campaign=feed&pk_kwd=microsofts-incident-response-is-getting-a-failing-grade-from-researchers",
@@ -53,17 +59,17 @@
       "title": "Malware seller known as “Venom” extradited to France",
       "url": "https://databreaches.net/2026/05/27/malware-seller-known-as-venom-extradited-to-france/?pk_campaign=feed&pk_kwd=malware-seller-known-as-venom-extradited-to-france",
       "published": "Wed, 27 May 2026 12:11:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lithuania investigates theft of 600,000 state registry records",
-      "url": "https://databreaches.net/2026/05/27/lithuania-investigates-theft-of-600000-state-registry-records/?pk_campaign=feed&pk_kwd=lithuania-investigates-theft-of-600000-state-registry-records",
-      "published": "Wed, 27 May 2026 12:10:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data",
+      "url": "https://databreaches.net/2026/05/31/bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data/?pk_campaign=feed&pk_kwd=bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data",
+      "published": "Sun, 31 May 2026 12:55:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Microsoft’s incident response is getting a failing grade from researchers",
       "url": "https://databreaches.net/2026/05/30/microsofts-incident-response-is-getting-a-failing-grade-from-researchers/?pk_campaign=feed&pk_kwd=microsofts-incident-response-is-getting-a-failing-grade-from-researchers",
       "published": "Sat, 30 May 2026 11:57:55 +0000",
@@ -115,12 +121,6 @@
       "title": "Malware seller known as “Venom” extradited to France",
       "url": "https://databreaches.net/2026/05/27/malware-seller-known-as-venom-extradited-to-france/?pk_campaign=feed&pk_kwd=malware-seller-known-as-venom-extradited-to-france",
       "published": "Wed, 27 May 2026 12:11:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lithuania investigates theft of 600,000 state registry records",
-      "url": "https://databreaches.net/2026/05/27/lithuania-investigates-theft-of-600000-state-registry-records/?pk_campaign=feed&pk_kwd=lithuania-investigates-theft-of-600000-state-registry-records",
-      "published": "Wed, 27 May 2026 12:10:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
       "published": "Tue, 07 Apr 2026 17:02:44 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "published": "Sun, 31 May 2026 10:06:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "published": "Sun, 31 May 2026 17:52:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
@@ -387,12 +393,6 @@
       "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
       "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
       "published": "Wed, 27 May 2026 15:36:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "published": "Wed, 27 May 2026 13:15:52 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "published": "Sun, 31 May 2026 10:06:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
       "published": "Sat, 30 May 2026 14:02:51 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "published": "Sun, 31 May 2026 17:52:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
@@ -719,12 +725,6 @@
       "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
       "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
       "published": "Wed, 27 May 2026 15:36:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "published": "Wed, 27 May 2026 13:15:52 +0530",
       "source": "The Hacker News"
     },
     {
