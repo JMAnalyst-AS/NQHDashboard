@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-01T10:37:36.523545Z",
+  "generated_at": "2026-06-01T16:37:22.832708Z",
   "segment1": [
     {
-      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data",
+      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data (1)",
       "url": "https://databreaches.net/2026/05/31/bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data/?pk_campaign=feed&pk_kwd=bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data",
       "published": "Sun, 31 May 2026 12:55:44 +0000",
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Microsoft’s incident response is getting a failing grade from researchers",
+      "title": "Microsoft’s incident response is getting a failing grade from researchers (1)",
       "url": "https://databreaches.net/2026/05/30/microsofts-incident-response-is-getting-a-failing-grade-from-researchers/?pk_campaign=feed&pk_kwd=microsofts-incident-response-is-getting-a-failing-grade-from-researchers",
       "published": "Sat, 30 May 2026 11:57:55 +0000",
       "source": "DataBreaches.Net"
@@ -64,13 +64,13 @@
   ],
   "hacks": [
     {
-      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data",
+      "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data (1)",
       "url": "https://databreaches.net/2026/05/31/bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data/?pk_campaign=feed&pk_kwd=bombay-high-court-issues-injunction-prohibiting-hackers-from-publishing-allegedly-hacked-hdfc-investor-data",
       "published": "Sun, 31 May 2026 12:55:44 +0000",
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Microsoft’s incident response is getting a failing grade from researchers",
+      "title": "Microsoft’s incident response is getting a failing grade from researchers (1)",
       "url": "https://databreaches.net/2026/05/30/microsofts-incident-response-is-getting-a-failing-grade-from-researchers/?pk_campaign=feed&pk_kwd=microsofts-incident-response-is-getting-a-failing-grade-from-researchers",
       "published": "Sat, 30 May 2026 11:57:55 +0000",
       "source": "DataBreaches.Net"
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 01 Jun 2026 08:30:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "published": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "published": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
       "published": "Sun, 31 May 2026 10:06:42 -0400",
@@ -240,40 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "published": "Fri, 29 May 2026 06:11:44 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "published": "Mon, 01 Jun 2026 19:29:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "published": "Fri, 29 May 2026 04:29:40 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "published": "Mon, 01 Jun 2026 17:24:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "published": "Thu, 28 May 2026 20:21:03 -0400",
-      "source": "BleepingComputer"
+      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "published": "Thu, 28 May 2026 18:24:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "published": "Thu, 28 May 2026 17:10:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "published": "Thu, 28 May 2026 15:08:10 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
@@ -369,30 +393,6 @@
       "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
       "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
       "published": "Wed, 27 May 2026 21:40:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-      "published": "Wed, 27 May 2026 21:14:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-      "published": "Wed, 27 May 2026 18:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "published": "Wed, 27 May 2026 17:18:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "published": "Wed, 27 May 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 01 Jun 2026 08:30:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "published": "Mon, 01 Jun 2026 08:01:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "published": "Mon, 01 Jun 2026 07:40:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
       "published": "Sun, 31 May 2026 10:06:42 -0400",
@@ -572,40 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "published": "Fri, 29 May 2026 06:11:44 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "published": "Mon, 01 Jun 2026 19:29:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "published": "Fri, 29 May 2026 04:29:40 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "published": "Mon, 01 Jun 2026 17:24:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "published": "Thu, 28 May 2026 20:21:03 -0400",
-      "source": "BleepingComputer"
+      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "published": "Thu, 28 May 2026 18:24:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "published": "Thu, 28 May 2026 17:10:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "published": "Thu, 28 May 2026 15:08:10 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
@@ -701,30 +725,6 @@
       "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
       "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
       "published": "Wed, 27 May 2026 21:40:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-      "published": "Wed, 27 May 2026 21:14:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-      "published": "Wed, 27 May 2026 18:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "published": "Wed, 27 May 2026 17:18:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "published": "Wed, 27 May 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
