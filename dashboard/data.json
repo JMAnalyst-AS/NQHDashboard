@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T20:54:54.374432Z",
+  "generated_at": "2026-06-01T23:02:04.371230Z",
   "segment1": [
     {
       "title": "Bombay High Court Issues Injunction Prohibiting Hackers From Publishing Allegedly Hacked HDFC Investor Data (1)",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dashlane password manager users locked out by brute force attacks",
       "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
       "published": "Mon, 01 Jun 2026 14:17:13 -0400",
@@ -255,24 +273,6 @@
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "published": "Fri, 29 May 2026 14:21:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "published": "Fri, 29 May 2026 14:08:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "published": "Fri, 29 May 2026 10:32:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "published": "Fri, 29 May 2026 10:26:36 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dashlane password manager users locked out by brute force attacks",
       "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
       "published": "Mon, 01 Jun 2026 14:17:13 -0400",
@@ -587,24 +605,6 @@
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "published": "Fri, 29 May 2026 14:21:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "published": "Fri, 29 May 2026 14:08:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "published": "Fri, 29 May 2026 10:32:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "published": "Fri, 29 May 2026 10:26:36 -0400",
       "source": "BleepingComputer"
     },
     {
