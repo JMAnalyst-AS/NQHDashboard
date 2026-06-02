@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T15:40:39.502811Z",
+  "generated_at": "2026-06-02T19:40:43.180049Z",
   "segment1": [
+    {
+      "title": "Data of 600,000 Gaza households exposed in World Food Programme cyberattack",
+      "url": "https://databreaches.net/2026/06/02/data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack/?pk_campaign=feed&pk_kwd=data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack",
+      "published": "Tue, 02 Jun 2026 16:02:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
       "url": "https://databreaches.net/2026/06/02/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/?pk_campaign=feed&pk_kwd=hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked",
@@ -53,17 +59,17 @@
       "title": "NL: Schiphol cargo worker arrested over alleged data leaks to drug networks",
       "url": "https://databreaches.net/2026/05/27/nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks/?pk_campaign=feed&pk_kwd=nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks",
       "published": "Wed, 27 May 2026 13:39:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Silent Ransom Group Impersonating IT Personnel through Social Engineering",
-      "url": "https://databreaches.net/2026/05/27/silent-ransom-group-impersonating-it-personnel-through-social-engineering/?pk_campaign=feed&pk_kwd=silent-ransom-group-impersonating-it-personnel-through-social-engineering",
-      "published": "Wed, 27 May 2026 12:42:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Data of 600,000 Gaza households exposed in World Food Programme cyberattack",
+      "url": "https://databreaches.net/2026/06/02/data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack/?pk_campaign=feed&pk_kwd=data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack",
+      "published": "Tue, 02 Jun 2026 16:02:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
       "url": "https://databreaches.net/2026/06/02/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/?pk_campaign=feed&pk_kwd=hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked",
       "published": "Tue, 02 Jun 2026 12:24:04 +0000",
@@ -116,74 +122,26 @@
       "url": "https://databreaches.net/2026/05/27/nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks/?pk_campaign=feed&pk_kwd=nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks",
       "published": "Wed, 27 May 2026 13:39:34 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Silent Ransom Group Impersonating IT Personnel through Social Engineering",
-      "url": "https://databreaches.net/2026/05/27/silent-ransom-group-impersonating-it-personnel-through-social-engineering/?pk_campaign=feed&pk_kwd=silent-ransom-group-impersonating-it-personnel-through-social-engineering",
-      "published": "Wed, 27 May 2026 12:42:24 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "published": "Tue, 02 Jun 2026 13:02:40 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "source": "Krebs on Security"
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "published": "Tue, 02 Jun 2026 11:47:33 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
+      "title": "Why the browser is now the front line for AI security",
+      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
@@ -258,22 +216,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "published": "Sun, 31 May 2026 10:06:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "published": "Sat, 30 May 2026 14:02:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
@@ -381,18 +333,6 @@
       "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
       "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
       "published": "Fri, 29 May 2026 11:27:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "published": "Thu, 28 May 2026 22:54:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "published": "Thu, 28 May 2026 20:56:04 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,64 +398,22 @@
   ],
   "rss": [
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "published": "Tue, 02 Jun 2026 13:02:40 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "source": "Krebs on Security"
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "published": "Tue, 02 Jun 2026 11:47:33 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
+      "title": "Why the browser is now the front line for AI security",
+      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
@@ -590,22 +488,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "published": "Sun, 31 May 2026 10:06:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "published": "Sat, 30 May 2026 14:02:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
@@ -713,18 +605,6 @@
       "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
       "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
       "published": "Fri, 29 May 2026 11:27:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "published": "Thu, 28 May 2026 22:54:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "published": "Thu, 28 May 2026 20:56:04 +0530",
       "source": "The Hacker News"
     },
     {
