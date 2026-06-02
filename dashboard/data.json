@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T06:48:43.761586Z",
+  "generated_at": "2026-06-02T11:17:50.186754Z",
   "segment1": [
     {
       "title": "Alberto Daniel Hill’s Cybermidnight Coverage of the Latin American Digital Sovereignty Crisis (March–June 2026)",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
       "published": "Mon, 01 Jun 2026 18:14:19 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-      "published": "Fri, 29 May 2026 14:21:36 -0400",
-      "source": "BleepingComputer"
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "published": "Tue, 02 Jun 2026 14:35:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
@@ -381,18 +393,6 @@
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
       "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
       "published": "Thu, 28 May 2026 19:23:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "published": "Thu, 28 May 2026 19:03:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "published": "Thu, 28 May 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
       "published": "Mon, 01 Jun 2026 18:14:19 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-      "published": "Fri, 29 May 2026 14:21:36 -0400",
-      "source": "BleepingComputer"
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "published": "Tue, 02 Jun 2026 14:35:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
@@ -713,18 +725,6 @@
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
       "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
       "published": "Thu, 28 May 2026 19:23:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "published": "Thu, 28 May 2026 19:03:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "published": "Thu, 28 May 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
