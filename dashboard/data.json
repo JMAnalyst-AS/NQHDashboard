@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T11:17:50.186754Z",
+  "generated_at": "2026-06-02T15:40:39.502811Z",
   "segment1": [
+    {
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "url": "https://databreaches.net/2026/06/02/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/?pk_campaign=feed&pk_kwd=hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked",
+      "published": "Tue, 02 Jun 2026 12:24:04 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Alberto Daniel Hill’s Cybermidnight Coverage of the Latin American Digital Sovereignty Crisis (March–June 2026)",
       "url": "https://databreaches.net/2026/06/01/alberto-daniel-hills-cybermidnight-coverage-of-the-latin-american-digital-sovereignty-crisis-march-june-2026/?pk_campaign=feed&pk_kwd=alberto-daniel-hills-cybermidnight-coverage-of-the-latin-american-digital-sovereignty-crisis-march-june-2026",
@@ -53,17 +59,17 @@
       "title": "Silent Ransom Group Impersonating IT Personnel through Social Engineering",
       "url": "https://databreaches.net/2026/05/27/silent-ransom-group-impersonating-it-personnel-through-social-engineering/?pk_campaign=feed&pk_kwd=silent-ransom-group-impersonating-it-personnel-through-social-engineering",
       "published": "Wed, 27 May 2026 12:42:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-      "url": "https://databreaches.net/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/?pk_campaign=feed&pk_kwd=uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak",
-      "published": "Wed, 27 May 2026 12:24:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "url": "https://databreaches.net/2026/06/02/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/?pk_campaign=feed&pk_kwd=hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked",
+      "published": "Tue, 02 Jun 2026 12:24:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Alberto Daniel Hill’s Cybermidnight Coverage of the Latin American Digital Sovereignty Crisis (March–June 2026)",
       "url": "https://databreaches.net/2026/06/01/alberto-daniel-hills-cybermidnight-coverage-of-the-latin-american-digital-sovereignty-crisis-march-june-2026/?pk_campaign=feed&pk_kwd=alberto-daniel-hills-cybermidnight-coverage-of-the-latin-american-digital-sovereignty-crisis-march-june-2026",
       "published": "Tue, 02 Jun 2026 00:16:05 +0000",
@@ -115,12 +121,6 @@
       "title": "Silent Ransom Group Impersonating IT Personnel through Social Engineering",
       "url": "https://databreaches.net/2026/05/27/silent-ransom-group-impersonating-it-personnel-through-social-engineering/?pk_campaign=feed&pk_kwd=silent-ransom-group-impersonating-it-personnel-through-social-engineering",
       "published": "Wed, 27 May 2026 12:42:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-      "url": "https://databreaches.net/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/?pk_campaign=feed&pk_kwd=uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak",
-      "published": "Wed, 27 May 2026 12:24:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "published": "Tue, 14 Apr 2026 21:47:59 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "published": "Sat, 30 May 2026 10:16:08 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
@@ -387,12 +393,6 @@
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
       "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
       "published": "Thu, 28 May 2026 20:56:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "published": "Thu, 28 May 2026 19:23:52 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
       "published": "Tue, 02 Jun 2026 07:10:15 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "published": "Sat, 30 May 2026 10:16:08 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
@@ -719,12 +725,6 @@
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
       "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
       "published": "Thu, 28 May 2026 20:56:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "published": "Thu, 28 May 2026 19:23:52 +0530",
       "source": "The Hacker News"
     },
     {
