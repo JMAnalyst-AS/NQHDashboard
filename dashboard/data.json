@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-03T10:19:29.775910Z",
+  "generated_at": "2026-06-03T15:15:13.991108Z",
   "segment1": [
+    {
+      "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
+      "url": "https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak",
+      "published": "Wed, 03 Jun 2026 13:52:20 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Most organizations that miss 24-hour patch window report breaches",
       "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
@@ -53,17 +59,17 @@
       "title": "California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach",
       "url": "https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach",
       "published": "Fri, 29 May 2026 12:22:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
-      "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
-      "published": "Thu, 28 May 2026 10:42:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
+      "url": "https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak",
+      "published": "Wed, 03 Jun 2026 13:52:20 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Most organizations that miss 24-hour patch window report breaches",
       "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
       "published": "Tue, 02 Jun 2026 23:24:54 +0000",
@@ -115,12 +121,6 @@
       "title": "California AG Bonta Sues Chrome Holding Co., Formerly Known as 23andMe, Over 2023 Data Breach",
       "url": "https://databreaches.net/2026/05/29/california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach/?pk_campaign=feed&pk_kwd=california-ag-bonta-sues-chrome-holding-co-formerly-known-as-23andme-over-2023-data-breach",
       "published": "Fri, 29 May 2026 12:22:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
-      "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
-      "published": "Thu, 28 May 2026 10:42:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "published": "Tue, 14 Apr 2026 21:47:59 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "published": "Wed, 03 Jun 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "url": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "published": "Wed, 03 Jun 2026 07:35:47 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
@@ -264,16 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
-      "source": "BleepingComputer"
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "published": "Wed, 03 Jun 2026 18:28:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
-      "source": "BleepingComputer"
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "published": "Wed, 03 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "published": "Wed, 03 Jun 2026 15:48:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
@@ -369,30 +393,6 @@
       "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
       "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
       "published": "Sun, 31 May 2026 17:52:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "published": "Sat, 30 May 2026 12:11:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "published": "Fri, 29 May 2026 23:37:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-      "published": "Fri, 29 May 2026 20:09:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-      "published": "Fri, 29 May 2026 17:01:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "published": "Wed, 03 Jun 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "url": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "published": "Wed, 03 Jun 2026 07:35:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
       "published": "Wed, 03 Jun 2026 06:12:24 -0400",
@@ -596,16 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
-      "source": "BleepingComputer"
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "published": "Wed, 03 Jun 2026 18:28:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
-      "source": "BleepingComputer"
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "published": "Wed, 03 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "published": "Wed, 03 Jun 2026 15:48:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
@@ -701,30 +725,6 @@
       "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
       "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
       "published": "Sun, 31 May 2026 17:52:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "published": "Sat, 30 May 2026 12:11:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "published": "Fri, 29 May 2026 23:37:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-      "published": "Fri, 29 May 2026 20:09:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-      "published": "Fri, 29 May 2026 17:01:59 +0530",
       "source": "The Hacker News"
     },
     {
