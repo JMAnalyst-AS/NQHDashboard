@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T05:25:48.571755Z",
+  "generated_at": "2026-06-03T10:19:29.775910Z",
   "segment1": [
     {
       "title": "Most organizations that miss 24-hour patch window report breaches",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "published": "Wed, 03 Jun 2026 06:12:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "published": "Wed, 03 Jun 2026 05:02:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
       "published": "Tue, 02 Jun 2026 18:52:40 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "source": "BleepingComputer"
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "published": "Mon, 01 Jun 2026 14:17:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
@@ -381,18 +393,6 @@
       "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "published": "Fri, 29 May 2026 17:01:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-      "published": "Fri, 29 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-      "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-      "published": "Fri, 29 May 2026 14:41:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "published": "Wed, 03 Jun 2026 06:12:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "published": "Wed, 03 Jun 2026 05:02:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
       "published": "Tue, 02 Jun 2026 18:52:40 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "source": "BleepingComputer"
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "published": "Mon, 01 Jun 2026 14:17:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
@@ -713,18 +725,6 @@
       "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "published": "Fri, 29 May 2026 17:01:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-      "published": "Fri, 29 May 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-      "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-      "published": "Fri, 29 May 2026 14:41:25 +0530",
       "source": "The Hacker News"
     },
     {
