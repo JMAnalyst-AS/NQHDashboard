@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T15:15:13.991108Z",
+  "generated_at": "2026-06-03T19:05:44.345144Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
       "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
       "published": "Wed, 03 Jun 2026 10:02:12 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
       "published": "Tue, 02 Jun 2026 08:40:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
       "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
       "published": "Wed, 03 Jun 2026 10:02:12 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
       "published": "Tue, 02 Jun 2026 08:40:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
       "source": "BleepingComputer"
     },
     {
