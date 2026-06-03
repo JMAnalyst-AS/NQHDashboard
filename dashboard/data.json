@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T19:05:44.345144Z",
+  "generated_at": "2026-06-03T22:09:54.381001Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of active attacks exploiting Android, Linux bugs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
       "published": "Wed, 03 Jun 2026 11:36:16 -0400",
@@ -252,28 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "published": "Tue, 02 Jun 2026 13:02:40 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "published": "Tue, 02 Jun 2026 11:47:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "published": "Wed, 03 Jun 2026 21:59:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Why the browser is now the front line for AI security",
-      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "Wed, 03 Jun 2026 20:26:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "published": "Wed, 03 Jun 2026 20:26:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "published": "Wed, 03 Jun 2026 19:17:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
@@ -285,12 +315,6 @@
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
       "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
       "published": "Wed, 03 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -369,30 +393,6 @@
       "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
       "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
       "published": "Mon, 01 Jun 2026 17:24:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "published": "Mon, 01 Jun 2026 14:15:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "published": "Sun, 31 May 2026 17:52:12 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of active attacks exploiting Android, Linux bugs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
       "published": "Wed, 03 Jun 2026 11:36:16 -0400",
@@ -584,28 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "published": "Tue, 02 Jun 2026 13:02:40 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "published": "Tue, 02 Jun 2026 11:47:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "published": "Wed, 03 Jun 2026 21:59:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Why the browser is now the front line for AI security",
-      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "Wed, 03 Jun 2026 20:26:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "published": "Wed, 03 Jun 2026 20:26:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "published": "Wed, 03 Jun 2026 19:17:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
@@ -617,12 +647,6 @@
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
       "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
       "published": "Wed, 03 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -701,30 +725,6 @@
       "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
       "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
       "published": "Mon, 01 Jun 2026 17:24:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "published": "Mon, 01 Jun 2026 14:15:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "published": "Sun, 31 May 2026 17:52:12 +0530",
       "source": "The Hacker News"
     },
     {
