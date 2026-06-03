@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-02T22:22:29.649487Z",
+  "generated_at": "2026-06-03T00:10:38.523742Z",
   "segment1": [
+    {
+      "title": "Most organizations that miss 24-hour patch window report breaches",
+      "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
+      "published": "Tue, 02 Jun 2026 23:24:54 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Data of 600,000 Gaza households exposed in World Food Programme cyberattack",
       "url": "https://databreaches.net/2026/06/02/data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack/?pk_campaign=feed&pk_kwd=data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack",
@@ -53,17 +59,17 @@
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
       "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
       "published": "Thu, 28 May 2026 10:42:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NL: Schiphol cargo worker arrested over alleged data leaks to drug networks",
-      "url": "https://databreaches.net/2026/05/27/nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks/?pk_campaign=feed&pk_kwd=nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks",
-      "published": "Wed, 27 May 2026 13:39:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Most organizations that miss 24-hour patch window report breaches",
+      "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
+      "published": "Tue, 02 Jun 2026 23:24:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Data of 600,000 Gaza households exposed in World Food Programme cyberattack",
       "url": "https://databreaches.net/2026/06/02/data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack/?pk_campaign=feed&pk_kwd=data-of-600000-gaza-households-exposed-in-world-food-programme-cyberattack",
       "published": "Tue, 02 Jun 2026 16:02:50 +0000",
@@ -115,12 +121,6 @@
       "title": "Romanian National Sentenced for Selling Access to Networks of Oregon State Government Office",
       "url": "https://databreaches.net/2026/05/28/romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office/?pk_campaign=feed&pk_kwd=romanian-national-sentenced-for-selling-access-to-networks-of-oregon-state-government-office",
       "published": "Thu, 28 May 2026 10:42:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NL: Schiphol cargo worker arrested over alleged data leaks to drug networks",
-      "url": "https://databreaches.net/2026/05/27/nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks/?pk_campaign=feed&pk_kwd=nl-schiphol-cargo-worker-arrested-over-alleged-data-leaks-to-drug-networks",
-      "published": "Wed, 27 May 2026 13:39:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "published": "Tue, 14 Apr 2026 21:47:59 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
@@ -261,18 +273,6 @@
       "title": "WordPress malware campaign hides payloads in Steam profiles",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
       "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
       "published": "Tue, 02 Jun 2026 18:12:57 -0400",
@@ -593,18 +605,6 @@
       "title": "WordPress malware campaign hides payloads in Steam profiles",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
       "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
