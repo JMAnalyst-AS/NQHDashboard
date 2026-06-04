@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:59:43.714181Z",
+  "generated_at": "2026-06-04T18:26:09.235412Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "published": "Thu, 04 Jun 2026 12:38:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
       "published": "Thu, 04 Jun 2026 11:25:37 -0400",
@@ -270,15 +276,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "published": "Thu, 04 Jun 2026 22:25:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
       "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
       "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "url": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "published": "Thu, 04 Jun 2026 20:40:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -288,7 +300,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "published": "Thu, 04 Jun 2026 17:52:25 +0530",
       "source": "The Hacker News"
@@ -381,18 +393,6 @@
       "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
       "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
       "published": "Wed, 03 Jun 2026 11:46:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "published": "Wed, 03 Jun 2026 00:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "published": "Thu, 04 Jun 2026 12:38:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
       "published": "Thu, 04 Jun 2026 11:25:37 -0400",
@@ -602,15 +608,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "published": "Thu, 04 Jun 2026 22:25:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
       "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
       "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "url": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "published": "Thu, 04 Jun 2026 20:40:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -620,7 +632,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "published": "Thu, 04 Jun 2026 17:52:25 +0530",
       "source": "The Hacker News"
@@ -713,18 +725,6 @@
       "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
       "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
       "published": "Wed, 03 Jun 2026 11:46:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "published": "Wed, 03 Jun 2026 00:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
       "source": "The Hacker News"
     },
     {
