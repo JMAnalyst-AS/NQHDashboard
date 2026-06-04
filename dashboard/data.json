@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:10:32.205935Z",
+  "generated_at": "2026-06-04T12:26:46.096878Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -126,64 +126,10 @@
   ],
   "segment3": [
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "published": "Thu, 04 Jun 2026 07:09:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
@@ -270,15 +216,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "published": "Tue, 02 Jun 2026 16:01:20 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+      "published": "Thu, 04 Jun 2026 17:52:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "published": "Thu, 04 Jun 2026 12:49:33 +0530",
+      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+      "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+      "published": "Thu, 04 Jun 2026 16:49:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "published": "Thu, 04 Jun 2026 15:21:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+      "published": "Thu, 04 Jun 2026 15:03:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -291,6 +249,24 @@
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
       "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
       "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "published": "Wed, 03 Jun 2026 23:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "published": "Wed, 03 Jun 2026 22:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "published": "Wed, 03 Jun 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -309,18 +285,6 @@
       "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
       "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
       "published": "Wed, 03 Jun 2026 20:26:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "published": "Wed, 03 Jun 2026 19:17:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "published": "Wed, 03 Jun 2026 18:28:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -369,30 +333,6 @@
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
       "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
       "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "published": "Tue, 02 Jun 2026 14:35:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "published": "Tue, 02 Jun 2026 09:25:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "published": "Mon, 01 Jun 2026 23:10:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,64 +398,10 @@
   ],
   "rss": [
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "source": "Krebs on Security"
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "published": "Thu, 04 Jun 2026 07:09:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
@@ -602,15 +488,27 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "published": "Tue, 02 Jun 2026 16:01:20 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+      "published": "Thu, 04 Jun 2026 17:52:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "published": "Thu, 04 Jun 2026 12:49:33 +0530",
+      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+      "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+      "published": "Thu, 04 Jun 2026 16:49:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "published": "Thu, 04 Jun 2026 15:21:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+      "published": "Thu, 04 Jun 2026 15:03:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -623,6 +521,24 @@
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
       "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
       "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "published": "Wed, 03 Jun 2026 23:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "published": "Wed, 03 Jun 2026 22:10:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "published": "Wed, 03 Jun 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -641,18 +557,6 @@
       "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
       "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
       "published": "Wed, 03 Jun 2026 20:26:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "published": "Wed, 03 Jun 2026 19:17:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "published": "Wed, 03 Jun 2026 18:28:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -701,30 +605,6 @@
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
       "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
       "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "published": "Tue, 02 Jun 2026 14:35:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "published": "Tue, 02 Jun 2026 09:25:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "published": "Mon, 01 Jun 2026 23:10:28 +0530",
       "source": "The Hacker News"
     },
     {
