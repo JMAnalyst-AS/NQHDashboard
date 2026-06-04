@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T12:26:46.096878Z",
+  "generated_at": "2026-06-04T15:59:43.714181Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -126,6 +126,90 @@
   ],
   "segment3": [
     {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "Fri, 22 May 2026 16:34:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "published": "Thu, 21 May 2026 21:50:25 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "Mon, 18 May 2026 20:48:21 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "published": "Tue, 12 May 2026 21:46:45 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "published": "Fri, 08 May 2026 02:58:46 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "published": "Thu, 04 Jun 2026 11:25:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "published": "Thu, 04 Jun 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "published": "Thu, 04 Jun 2026 08:29:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
       "published": "Thu, 04 Jun 2026 07:09:50 -0400",
@@ -192,28 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "published": "Tue, 02 Jun 2026 18:12:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "published": "Tue, 02 Jun 2026 17:54:49 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+      "published": "Thu, 04 Jun 2026 19:30:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
@@ -324,16 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
+      "title": "Tracing Digital Links Between Viory and Ruptly",
+      "url": "https://www.bellingcat.com/news/2026/06/04/viory-ruptly-rt-russia-uae-propaganda-video-news/",
+      "published": "Thu, 04 Jun 2026 12:27:02 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "The ‘Lost’ Villages of Myanmar’s Rakhine",
@@ -387,17 +453,95 @@
       "title": "‘Snoopy’, ‘Adolf’ and ‘Password’: The Hungarian Government Passwords Exposed Online",
       "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/",
       "published": "Thu, 09 Apr 2026 12:25:22 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "When Satellite Imagery Goes Dark: New Tool Shows Damage in Iran and the Gulf",
-      "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
-      "published": "Tue, 07 Apr 2026 13:35:12 +0000",
       "source": "bellingcat"
     }
   ],
   "rss": [
     {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "Fri, 22 May 2026 16:34:24 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "published": "Thu, 21 May 2026 21:50:25 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "Mon, 18 May 2026 20:48:21 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "published": "Tue, 12 May 2026 21:46:45 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "published": "Fri, 08 May 2026 02:58:46 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "published": "Thu, 04 Jun 2026 11:25:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "published": "Thu, 04 Jun 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "published": "Thu, 04 Jun 2026 08:29:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
       "published": "Thu, 04 Jun 2026 07:09:50 -0400",
@@ -464,28 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "published": "Tue, 02 Jun 2026 18:12:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "published": "Tue, 02 Jun 2026 17:54:49 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+      "published": "Thu, 04 Jun 2026 19:30:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
@@ -596,16 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News"
+      "title": "Tracing Digital Links Between Viory and Ruptly",
+      "url": "https://www.bellingcat.com/news/2026/06/04/viory-ruptly-rt-russia-uae-propaganda-video-news/",
+      "published": "Thu, 04 Jun 2026 12:27:02 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "The ‘Lost’ Villages of Myanmar’s Rakhine",
@@ -659,12 +785,6 @@
       "title": "‘Snoopy’, ‘Adolf’ and ‘Password’: The Hungarian Government Passwords Exposed Online",
       "url": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/",
       "published": "Thu, 09 Apr 2026 12:25:22 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "When Satellite Imagery Goes Dark: New Tool Shows Damage in Iran and the Gulf",
-      "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
-      "published": "Tue, 07 Apr 2026 13:35:12 +0000",
       "source": "bellingcat"
     }
   ]
