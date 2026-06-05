@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T17:18:45.873562Z",
+  "generated_at": "2026-06-05T19:16:40.060272Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "published": "Fri, 05 Jun 2026 15:15:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "published": "Fri, 05 Jun 2026 14:09:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "url": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "published": "Fri, 05 Jun 2026 13:50:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 900 US gas station tank gauge systems exposed to attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
       "published": "Fri, 05 Jun 2026 10:50:15 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "published": "Thu, 04 Jun 2026 07:09:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
-      "source": "BleepingComputer"
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
@@ -387,12 +393,6 @@
       "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
       "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
       "published": "Wed, 03 Jun 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
-      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "published": "Wed, 03 Jun 2026 21:59:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "published": "Fri, 05 Jun 2026 15:15:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "published": "Fri, 05 Jun 2026 14:09:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "url": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "published": "Fri, 05 Jun 2026 13:50:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 900 US gas station tank gauge systems exposed to attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
       "published": "Fri, 05 Jun 2026 10:50:15 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "published": "Thu, 04 Jun 2026 07:09:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
-      "source": "BleepingComputer"
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
@@ -719,12 +725,6 @@
       "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
       "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
       "published": "Wed, 03 Jun 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
-      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "published": "Wed, 03 Jun 2026 21:59:16 +0530",
       "source": "The Hacker News"
     },
     {
