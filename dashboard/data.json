@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T11:41:40.435852Z",
+  "generated_at": "2026-06-05T14:51:47.694491Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "published": "Fri, 05 Jun 2026 10:50:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+      "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "published": "Fri, 05 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
       "published": "Fri, 05 Jun 2026 02:24:20 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
-      "source": "BleepingComputer"
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
@@ -381,18 +393,6 @@
       "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
       "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
       "published": "Wed, 03 Jun 2026 20:26:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
-      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
-      "published": "Wed, 03 Jun 2026 20:26:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-      "published": "Wed, 03 Jun 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "published": "Fri, 05 Jun 2026 10:50:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+      "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "published": "Fri, 05 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
       "published": "Fri, 05 Jun 2026 02:24:20 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
-      "source": "BleepingComputer"
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
@@ -713,18 +725,6 @@
       "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
       "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
       "published": "Wed, 03 Jun 2026 20:26:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
-      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
-      "published": "Wed, 03 Jun 2026 20:26:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-      "published": "Wed, 03 Jun 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
