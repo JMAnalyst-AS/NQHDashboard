@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T03:49:53.638890Z",
+  "generated_at": "2026-06-05T08:06:56.056771Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "published": "Fri, 05 Jun 2026 02:24:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
       "url": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
       "published": "Thu, 04 Jun 2026 17:37:10 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
-      "source": "BleepingComputer"
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "published": "Fri, 05 Jun 2026 12:31:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "published": "Fri, 05 Jun 2026 11:04:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
@@ -381,18 +393,6 @@
       "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
       "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
       "published": "Wed, 03 Jun 2026 15:48:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "published": "Fri, 05 Jun 2026 02:24:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
       "url": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
       "published": "Thu, 04 Jun 2026 17:37:10 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
-      "source": "BleepingComputer"
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "published": "Fri, 05 Jun 2026 12:31:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "published": "Fri, 05 Jun 2026 11:04:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
@@ -713,18 +725,6 @@
       "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
       "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
       "published": "Wed, 03 Jun 2026 15:48:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
       "source": "The Hacker News"
     },
     {
