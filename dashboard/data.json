@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T07:45:43.789335Z",
+  "generated_at": "2026-06-06T10:03:53.645399Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -276,6 +276,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "published": "Sat, 06 Jun 2026 13:59:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "published": "Sat, 06 Jun 2026 13:44:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "published": "Sat, 06 Jun 2026 12:58:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
       "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
       "published": "Sat, 06 Jun 2026 09:49:28 +0530",
@@ -369,30 +393,6 @@
       "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
       "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
       "published": "Thu, 04 Jun 2026 15:03:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "published": "Thu, 04 Jun 2026 11:36:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "published": "Wed, 03 Jun 2026 23:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "published": "Wed, 03 Jun 2026 22:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "published": "Sat, 06 Jun 2026 13:59:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "published": "Sat, 06 Jun 2026 13:44:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "published": "Sat, 06 Jun 2026 12:58:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
       "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
       "published": "Sat, 06 Jun 2026 09:49:28 +0530",
@@ -701,30 +725,6 @@
       "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
       "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
       "published": "Thu, 04 Jun 2026 15:03:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "published": "Thu, 04 Jun 2026 11:36:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "published": "Wed, 03 Jun 2026 23:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "published": "Wed, 03 Jun 2026 22:10:00 +0530",
       "source": "The Hacker News"
     },
     {
