@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T04:36:19.712667Z",
+  "generated_at": "2026-06-06T07:45:43.789335Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+      "published": "Sat, 06 Jun 2026 09:49:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
       "published": "Fri, 05 Jun 2026 23:35:30 +0530",
@@ -387,12 +393,6 @@
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
       "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
       "published": "Wed, 03 Jun 2026 22:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "published": "Wed, 03 Jun 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+      "published": "Sat, 06 Jun 2026 09:49:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
       "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
       "published": "Fri, 05 Jun 2026 23:35:30 +0530",
@@ -719,12 +725,6 @@
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
       "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
       "published": "Wed, 03 Jun 2026 22:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "published": "Wed, 03 Jun 2026 22:00:00 +0530",
       "source": "The Hacker News"
     },
     {
