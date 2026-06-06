@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T13:43:33.476109Z",
+  "generated_at": "2026-06-06T15:15:38.836402Z",
   "segment1": [
     {
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "Sat, 06 Jun 2026 10:09:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
       "url": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
       "published": "Fri, 05 Jun 2026 17:54:42 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
-      "source": "BleepingComputer"
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "published": "Sat, 06 Jun 2026 19:06:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
@@ -387,12 +393,6 @@
       "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
       "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
       "published": "Thu, 04 Jun 2026 15:21:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "published": "Thu, 04 Jun 2026 15:03:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "Sat, 06 Jun 2026 10:09:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
       "url": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
       "published": "Fri, 05 Jun 2026 17:54:42 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
-      "source": "BleepingComputer"
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "published": "Sat, 06 Jun 2026 19:06:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
@@ -719,12 +725,6 @@
       "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
       "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
       "published": "Thu, 04 Jun 2026 15:21:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "published": "Thu, 04 Jun 2026 15:03:57 +0530",
       "source": "The Hacker News"
     },
     {
