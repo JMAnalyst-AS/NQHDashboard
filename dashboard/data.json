@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T05:12:29.708267Z",
+  "generated_at": "2026-06-08T10:03:02.696670Z",
   "segment1": [
     {
       "title": "Silent Ransom Group (SRG): Uncovering DNS Fast Flux Infrastructure",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
       "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
       "published": "Sun, 07 Jun 2026 19:20:02 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "published": "Thu, 04 Jun 2026 14:36:27 -0400",
-      "source": "BleepingComputer"
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "published": "Mon, 08 Jun 2026 13:09:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "published": "Mon, 08 Jun 2026 11:38:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -381,18 +393,6 @@
       "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "published": "Thu, 04 Jun 2026 17:52:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "published": "Thu, 04 Jun 2026 16:49:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "published": "Thu, 04 Jun 2026 15:21:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
       "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
       "published": "Sun, 07 Jun 2026 19:20:02 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "published": "Thu, 04 Jun 2026 14:36:27 -0400",
-      "source": "BleepingComputer"
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "published": "Mon, 08 Jun 2026 13:09:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "published": "Mon, 08 Jun 2026 11:38:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -713,18 +725,6 @@
       "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "published": "Thu, 04 Jun 2026 17:52:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "published": "Thu, 04 Jun 2026 16:49:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "published": "Thu, 04 Jun 2026 15:21:28 +0530",
       "source": "The Hacker News"
     },
     {
