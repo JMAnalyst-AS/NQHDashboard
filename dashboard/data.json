@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:49:37.205422Z",
+  "generated_at": "2026-06-09T11:15:14.612523Z",
   "segment1": [
     {
       "title": "JP: Hokkaido hospitals data leak may hit 510k, HDDs sold online blamed",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "French govt messaging service breached in account hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "published": "Tue, 09 Jun 2026 06:53:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google patches new Chrome zero-day flaw exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
       "published": "Tue, 09 Jun 2026 02:56:27 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "published": "Sun, 07 Jun 2026 10:17:46 -0400",
-      "source": "BleepingComputer"
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "published": "Tue, 09 Jun 2026 15:20:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "published": "Sun, 07 Jun 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
@@ -381,18 +393,6 @@
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
       "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
       "published": "Fri, 05 Jun 2026 20:23:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "French govt messaging service breached in account hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "published": "Tue, 09 Jun 2026 06:53:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google patches new Chrome zero-day flaw exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
       "published": "Tue, 09 Jun 2026 02:56:27 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "published": "Sun, 07 Jun 2026 10:17:46 -0400",
-      "source": "BleepingComputer"
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "published": "Tue, 09 Jun 2026 15:20:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "published": "Sun, 07 Jun 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
@@ -713,18 +725,6 @@
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
       "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
       "published": "Fri, 05 Jun 2026 20:23:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
       "source": "The Hacker News"
     },
     {
