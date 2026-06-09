@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-09T11:15:14.612523Z",
+  "generated_at": "2026-06-09T13:58:44.431726Z",
   "segment1": [
+    {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://databreaches.net/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day/?pk_campaign=feed&pk_kwd=cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day",
+      "published": "Tue, 09 Jun 2026 12:05:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "JP: Hokkaido hospitals data leak may hit 510k, HDDs sold online blamed",
       "url": "https://databreaches.net/2026/06/08/jp-hokkaido-hospitals-data-leak-may-hit-510k-hdds-sold-online-blamed/?pk_campaign=feed&pk_kwd=jp-hokkaido-hospitals-data-leak-may-hit-510k-hdds-sold-online-blamed",
@@ -53,17 +59,17 @@
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
       "url": "https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak",
       "published": "Wed, 03 Jun 2026 13:52:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Most organizations that miss 24-hour patch window report breaches",
-      "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
-      "published": "Tue, 02 Jun 2026 23:24:54 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://databreaches.net/2026/06/09/cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day/?pk_campaign=feed&pk_kwd=cisa-gives-feds-3-days-to-patch-check-point-vpn-bug-exploited-as-zero-day",
+      "published": "Tue, 09 Jun 2026 12:05:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "JP: Hokkaido hospitals data leak may hit 510k, HDDs sold online blamed",
       "url": "https://databreaches.net/2026/06/08/jp-hokkaido-hospitals-data-leak-may-hit-510k-hdds-sold-online-blamed/?pk_campaign=feed&pk_kwd=jp-hokkaido-hospitals-data-leak-may-hit-510k-hdds-sold-online-blamed",
       "published": "Mon, 08 Jun 2026 20:53:50 +0000",
@@ -115,12 +121,6 @@
       "title": "KR: Tving CEO Apologizes for Unprecedented Data Leak",
       "url": "https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak",
       "published": "Wed, 03 Jun 2026 13:52:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Most organizations that miss 24-hour patch window report breaches",
-      "url": "https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches",
-      "published": "Tue, 02 Jun 2026 23:24:54 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "published": "Tue, 09 Jun 2026 17:28:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+      "published": "Tue, 09 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
       "published": "Tue, 09 Jun 2026 15:20:41 +0530",
@@ -369,30 +393,6 @@
       "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
       "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
       "published": "Sat, 06 Jun 2026 12:58:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "published": "Sat, 06 Jun 2026 09:49:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "published": "Fri, 05 Jun 2026 20:23:40 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "published": "Tue, 09 Jun 2026 17:28:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+      "published": "Tue, 09 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
       "published": "Tue, 09 Jun 2026 15:20:41 +0530",
@@ -701,30 +725,6 @@
       "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
       "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
       "published": "Sat, 06 Jun 2026 12:58:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "published": "Sat, 06 Jun 2026 09:49:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "published": "Fri, 05 Jun 2026 20:23:40 +0530",
       "source": "The Hacker News"
     },
     {
