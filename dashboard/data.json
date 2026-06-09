@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T13:58:44.431726Z",
+  "generated_at": "2026-06-09T16:34:50.996880Z",
   "segment1": [
     {
       "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "published": "Tue, 09 Jun 2026 11:42:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "published": "Tue, 09 Jun 2026 10:27:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "French govt messaging service breached in account hijacking attack",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
       "published": "Tue, 09 Jun 2026 06:53:00 -0400",
@@ -255,24 +273,6 @@
       "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
       "published": "Mon, 08 Jun 2026 09:05:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "published": "Mon, 08 Jun 2026 07:14:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "published": "Sun, 07 Jun 2026 19:20:02 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "published": "Tue, 09 Jun 2026 11:42:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "published": "Tue, 09 Jun 2026 10:27:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "French govt messaging service breached in account hijacking attack",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
       "published": "Tue, 09 Jun 2026 06:53:00 -0400",
@@ -587,24 +605,6 @@
       "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
       "published": "Mon, 08 Jun 2026 09:05:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "published": "Mon, 08 Jun 2026 07:14:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "published": "Sun, 07 Jun 2026 19:20:02 -0400",
       "source": "BleepingComputer"
     },
     {
