@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T03:33:00.535468Z",
+  "generated_at": "2026-06-09T07:49:37.205422Z",
   "segment1": [
     {
       "title": "JP: Hokkaido hospitals data leak may hit 510k, HDDs sold online blamed",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
       "published": "Mon, 08 Jun 2026 18:11:58 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "published": "Sat, 06 Jun 2026 10:09:26 -0400",
-      "source": "BleepingComputer"
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "published": "Tue, 09 Jun 2026 11:56:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
@@ -387,12 +393,6 @@
       "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
       "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
       "published": "Fri, 05 Jun 2026 16:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "published": "Fri, 05 Jun 2026 14:08:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
       "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
       "published": "Mon, 08 Jun 2026 18:11:58 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "published": "Sat, 06 Jun 2026 10:09:26 -0400",
-      "source": "BleepingComputer"
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "published": "Tue, 09 Jun 2026 11:56:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
@@ -719,12 +725,6 @@
       "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
       "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
       "published": "Fri, 05 Jun 2026 16:50:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "published": "Fri, 05 Jun 2026 14:08:59 +0530",
       "source": "The Hacker News"
     },
     {
