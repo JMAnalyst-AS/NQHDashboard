@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T16:20:18.925428Z",
+  "generated_at": "2026-06-10T19:10:16.688510Z",
   "segment1": [
     {
       "title": "Power company in Japan fears data breach after losing storage drive containing customer details",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "published": "Wed, 10 Jun 2026 14:31:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
       "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
       "published": "Wed, 10 Jun 2026 11:00:00 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "published": "Wed, 10 Jun 2026 21:38:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
@@ -387,12 +393,6 @@
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
       "published": "Tue, 09 Jun 2026 11:56:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "published": "Tue, 09 Jun 2026 01:47:39 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "published": "Wed, 10 Jun 2026 14:31:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
       "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
       "published": "Wed, 10 Jun 2026 11:00:00 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "published": "Wed, 10 Jun 2026 21:38:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
@@ -719,12 +725,6 @@
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
       "published": "Tue, 09 Jun 2026 11:56:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "published": "Tue, 09 Jun 2026 01:47:39 +0530",
       "source": "The Hacker News"
     },
     {
