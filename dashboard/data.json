@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T16:01:38.545496Z",
+  "generated_at": "2026-06-11T19:17:55.232383Z",
   "segment1": [
     {
       "title": "Women’s health advocacy organization prepares mass suit against Clinical Diagnostics",
@@ -276,13 +276,31 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "published": "Thu, 11 Jun 2026 23:13:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "published": "Thu, 11 Jun 2026 22:20:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
       "published": "Thu, 11 Jun 2026 18:56:13 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "published": "Thu, 11 Jun 2026 18:50:41 +0530",
       "source": "The Hacker News"
@@ -318,7 +336,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
       "published": "Wed, 10 Jun 2026 20:30:59 +0530",
       "source": "The Hacker News"
@@ -375,24 +393,6 @@
       "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
       "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
       "published": "Tue, 09 Jun 2026 22:09:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "published": "Tue, 09 Jun 2026 22:04:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,13 +608,31 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "published": "Thu, 11 Jun 2026 23:13:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "published": "Thu, 11 Jun 2026 22:20:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
       "published": "Thu, 11 Jun 2026 18:56:13 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "published": "Thu, 11 Jun 2026 18:50:41 +0530",
       "source": "The Hacker News"
@@ -650,7 +668,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
       "published": "Wed, 10 Jun 2026 20:30:59 +0530",
       "source": "The Hacker News"
@@ -707,24 +725,6 @@
       "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
       "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
       "published": "Tue, 09 Jun 2026 22:09:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "published": "Tue, 09 Jun 2026 22:04:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
       "source": "The Hacker News"
     },
     {
