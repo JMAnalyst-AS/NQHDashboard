@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:17:55.232383Z",
+  "generated_at": "2026-06-11T21:34:12.163309Z",
   "segment1": [
     {
       "title": "Women’s health advocacy organization prepares mass suit against Clinical Diagnostics",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "published": "Thu, 11 Jun 2026 15:39:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
       "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
       "published": "Thu, 11 Jun 2026 11:55:41 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "published": "Wed, 10 Jun 2026 07:33:32 -0400",
-      "source": "BleepingComputer"
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+      "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
@@ -387,12 +393,6 @@
       "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
       "url": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
       "published": "Tue, 09 Jun 2026 22:33:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-      "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-      "published": "Tue, 09 Jun 2026 22:09:47 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "published": "Thu, 11 Jun 2026 15:39:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
       "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
       "published": "Thu, 11 Jun 2026 11:55:41 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "published": "Wed, 10 Jun 2026 07:33:32 -0400",
-      "source": "BleepingComputer"
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+      "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
@@ -719,12 +725,6 @@
       "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
       "url": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
       "published": "Tue, 09 Jun 2026 22:33:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-      "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-      "published": "Tue, 09 Jun 2026 22:09:47 +0530",
       "source": "The Hacker News"
     },
     {
