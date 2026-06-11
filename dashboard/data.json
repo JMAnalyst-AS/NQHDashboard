@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T06:58:59.369586Z",
+  "generated_at": "2026-06-11T11:42:26.137265Z",
   "segment1": [
     {
       "title": "Suspected Russian Hacker Arrested and Charged in the United States",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
       "published": "Thu, 11 Jun 2026 02:20:22 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "published": "Tue, 09 Jun 2026 17:34:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "url": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "published": "Tue, 09 Jun 2026 17:20:20 -0400",
-      "source": "BleepingComputer"
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "published": "Thu, 11 Jun 2026 15:15:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
@@ -387,12 +393,6 @@
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
       "published": "Tue, 09 Jun 2026 15:20:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
-      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
       "published": "Thu, 11 Jun 2026 02:20:22 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "published": "Tue, 09 Jun 2026 17:34:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "url": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "published": "Tue, 09 Jun 2026 17:20:20 -0400",
-      "source": "BleepingComputer"
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "published": "Thu, 11 Jun 2026 15:15:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
@@ -719,12 +725,6 @@
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
       "published": "Tue, 09 Jun 2026 15:20:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
-      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
       "source": "The Hacker News"
     },
     {
