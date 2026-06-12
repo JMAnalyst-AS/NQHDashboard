@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:21:33.657547Z",
+  "generated_at": "2026-06-12T19:29:16.931961Z",
   "segment1": [
     {
       "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
       "published": "Fri, 12 Jun 2026 13:03:55 -0400",
@@ -261,18 +273,6 @@
       "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
       "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
       "published": "Fri, 12 Jun 2026 13:03:55 -0400",
@@ -593,18 +605,6 @@
       "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
       "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
       "source": "BleepingComputer"
     },
     {
