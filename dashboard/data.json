@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-12T14:19:05.807366Z",
+  "generated_at": "2026-06-12T17:21:33.657547Z",
   "segment1": [
+    {
+      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+      "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
+      "published": "Fri, 12 Jun 2026 16:30:05 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "After a Massive Hack, Global Schools Group’s Negotiator Acted “Bizarrely.” It Didn’t End Well for Them.",
       "url": "https://databreaches.net/2026/06/12/after-a-massive-hack-global-schools-groups-negotiator-acted-bizarrely-it-didnt-end-well-for-them/?pk_campaign=feed&pk_kwd=after-a-massive-hack-global-schools-groups-negotiator-acted-bizarrely-it-didnt-end-well-for-them",
@@ -53,17 +59,17 @@
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
       "url": "https://databreaches.net/2026/06/10/who-runs-the-ransomware-group-the-gentlemen/?pk_campaign=feed&pk_kwd=who-runs-the-ransomware-group-the-gentlemen",
       "published": "Wed, 10 Jun 2026 14:55:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "LA: St. George fire district sues IT company over cyberattack",
-      "url": "https://databreaches.net/2026/06/10/la-st-george-fire-district-sues-it-company-over-cyberattack/?pk_campaign=feed&pk_kwd=la-st-george-fire-district-sues-it-company-over-cyberattack",
-      "published": "Wed, 10 Jun 2026 14:45:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+      "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
+      "published": "Fri, 12 Jun 2026 16:30:05 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "After a Massive Hack, Global Schools Group’s Negotiator Acted “Bizarrely.” It Didn’t End Well for Them.",
       "url": "https://databreaches.net/2026/06/12/after-a-massive-hack-global-schools-groups-negotiator-acted-bizarrely-it-didnt-end-well-for-them/?pk_campaign=feed&pk_kwd=after-a-massive-hack-global-schools-groups-negotiator-acted-bizarrely-it-didnt-end-well-for-them",
       "published": "Fri, 12 Jun 2026 13:44:04 +0000",
@@ -115,12 +121,6 @@
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
       "url": "https://databreaches.net/2026/06/10/who-runs-the-ransomware-group-the-gentlemen/?pk_campaign=feed&pk_kwd=who-runs-the-ransomware-group-the-gentlemen",
       "published": "Wed, 10 Jun 2026 14:55:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "LA: St. George fire district sues IT company over cyberattack",
-      "url": "https://databreaches.net/2026/06/10/la-st-george-fire-district-sues-it-company-over-cyberattack/?pk_campaign=feed&pk_kwd=la-st-george-fire-district-sues-it-company-over-cyberattack",
-      "published": "Wed, 10 Jun 2026 14:45:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "published": "Thu, 30 Apr 2026 14:04:26 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
@@ -267,12 +273,6 @@
       "title": "Nottingham University data breach affects over 450,000 students",
       "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
       "published": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
       "url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
       "published": "Fri, 12 Jun 2026 10:01:11 -0400",
@@ -599,12 +605,6 @@
       "title": "Nottingham University data breach affects over 450,000 students",
       "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
       "published": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
       "source": "BleepingComputer"
     },
     {
