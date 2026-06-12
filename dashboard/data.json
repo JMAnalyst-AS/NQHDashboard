@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-12T19:29:16.931961Z",
+  "generated_at": "2026-06-12T21:16:08.596352Z",
   "segment1": [
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation",
+      "published": "Fri, 12 Jun 2026 19:32:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Labcorp reaches $35M settlement over American Medical Collection Agency breach",
+      "url": "https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach",
+      "published": "Fri, 12 Jun 2026 19:32:38 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
       "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
@@ -47,23 +59,23 @@
       "title": "67 million Thais exposed in massive data leak, parliament launches probe",
       "url": "https://databreaches.net/2026/06/10/67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe/?pk_campaign=feed&pk_kwd=67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe",
       "published": "Wed, 10 Jun 2026 20:11:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Power company in Japan fears data breach after losing storage drive containing customer details",
-      "url": "https://databreaches.net/2026/06/10/power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details/?pk_campaign=feed&pk_kwd=power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details",
-      "published": "Wed, 10 Jun 2026 15:05:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://databreaches.net/2026/06/10/who-runs-the-ransomware-group-the-gentlemen/?pk_campaign=feed&pk_kwd=who-runs-the-ransomware-group-the-gentlemen",
-      "published": "Wed, 10 Jun 2026 14:55:02 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation",
+      "published": "Fri, 12 Jun 2026 19:32:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Labcorp reaches $35M settlement over American Medical Collection Agency breach",
+      "url": "https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach",
+      "published": "Fri, 12 Jun 2026 19:32:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
       "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
       "published": "Fri, 12 Jun 2026 16:30:05 +0000",
@@ -109,18 +121,6 @@
       "title": "67 million Thais exposed in massive data leak, parliament launches probe",
       "url": "https://databreaches.net/2026/06/10/67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe/?pk_campaign=feed&pk_kwd=67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe",
       "published": "Wed, 10 Jun 2026 20:11:05 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Power company in Japan fears data breach after losing storage drive containing customer details",
-      "url": "https://databreaches.net/2026/06/10/power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details/?pk_campaign=feed&pk_kwd=power-company-in-japan-fears-data-breach-after-losing-storage-drive-containing-customer-details",
-      "published": "Wed, 10 Jun 2026 15:05:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://databreaches.net/2026/06/10/who-runs-the-ransomware-group-the-gentlemen/?pk_campaign=feed&pk_kwd=who-runs-the-ransomware-group-the-gentlemen",
-      "published": "Wed, 10 Jun 2026 14:55:02 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "published": "Thu, 30 Apr 2026 14:04:26 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "published": "Fri, 12 Jun 2026 15:33:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
@@ -375,24 +393,6 @@
       "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
       "published": "Wed, 10 Jun 2026 20:30:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
-      "published": "Wed, 10 Jun 2026 20:14:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-      "url": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
-      "published": "Wed, 10 Jun 2026 15:57:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-      "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-      "published": "Wed, 10 Jun 2026 15:08:13 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "published": "Fri, 12 Jun 2026 15:33:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
       "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
       "published": "Fri, 12 Jun 2026 14:19:34 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
@@ -707,24 +725,6 @@
       "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
       "published": "Wed, 10 Jun 2026 20:30:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
-      "published": "Wed, 10 Jun 2026 20:14:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-      "url": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
-      "published": "Wed, 10 Jun 2026 15:57:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-      "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-      "published": "Wed, 10 Jun 2026 15:08:13 +0530",
       "source": "The Hacker News"
     },
     {
