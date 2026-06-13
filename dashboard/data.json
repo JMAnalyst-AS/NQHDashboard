@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-13T13:04:50.736447Z",
+  "generated_at": "2026-06-13T15:16:24.955342Z",
   "segment1": [
+    {
+      "title": "South Korea Hands Coupang a Record-Breaking $409 Million Data Privacy Fine",
+      "url": "https://databreaches.net/2026/06/13/south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine/?pk_campaign=feed&pk_kwd=south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine",
+      "published": "Sat, 13 Jun 2026 13:20:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
       "url": "https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation",
@@ -53,17 +59,17 @@
       "title": "Saskatoon man facing extradition for cyberattacks on American institutions",
       "url": "https://databreaches.net/2026/06/10/saskatoon-man-facing-extradition-for-cyberattacks-on-american-institutions/?pk_campaign=feed&pk_kwd=saskatoon-man-facing-extradition-for-cyberattacks-on-american-institutions",
       "published": "Wed, 10 Jun 2026 20:20:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "67 million Thais exposed in massive data leak, parliament launches probe",
-      "url": "https://databreaches.net/2026/06/10/67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe/?pk_campaign=feed&pk_kwd=67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe",
-      "published": "Wed, 10 Jun 2026 20:11:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "South Korea Hands Coupang a Record-Breaking $409 Million Data Privacy Fine",
+      "url": "https://databreaches.net/2026/06/13/south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine/?pk_campaign=feed&pk_kwd=south-korea-hands-coupang-a-record-breaking-409-million-data-privacy-fine",
+      "published": "Sat, 13 Jun 2026 13:20:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
       "url": "https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation",
       "published": "Fri, 12 Jun 2026 19:32:48 +0000",
@@ -115,12 +121,6 @@
       "title": "Saskatoon man facing extradition for cyberattacks on American institutions",
       "url": "https://databreaches.net/2026/06/10/saskatoon-man-facing-extradition-for-cyberattacks-on-american-institutions/?pk_campaign=feed&pk_kwd=saskatoon-man-facing-extradition-for-cyberattacks-on-american-institutions",
       "published": "Wed, 10 Jun 2026 20:20:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "67 million Thais exposed in massive data leak, parliament launches probe",
-      "url": "https://databreaches.net/2026/06/10/67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe/?pk_campaign=feed&pk_kwd=67-million-thais-exposed-in-massive-data-leak-parliament-launches-probe",
-      "published": "Wed, 10 Jun 2026 20:11:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "published": "Thu, 30 Apr 2026 14:04:26 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "published": "Sat, 13 Jun 2026 10:06:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "published": "Thu, 11 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "published": "Sat, 13 Jun 2026 18:53:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -387,12 +393,6 @@
       "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
       "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
       "published": "Wed, 10 Jun 2026 21:38:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "published": "Wed, 10 Jun 2026 20:40:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "published": "Sat, 13 Jun 2026 10:06:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
       "url": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
       "published": "Sat, 13 Jun 2026 06:01:32 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "published": "Thu, 11 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "published": "Sat, 13 Jun 2026 18:53:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -719,12 +725,6 @@
       "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
       "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
       "published": "Wed, 10 Jun 2026 21:38:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "published": "Wed, 10 Jun 2026 20:40:59 +0530",
       "source": "The Hacker News"
     },
     {
