@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T17:29:44.660397Z",
+  "generated_at": "2026-06-15T20:37:54.345287Z",
   "segment1": [
     {
       "title": "JLR ordered 30,000 staff to reset passwords in person after cyberattack",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "published": "Mon, 15 Jun 2026 16:06:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "published": "Mon, 15 Jun 2026 13:37:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
       "published": "Mon, 15 Jun 2026 13:12:42 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "published": "Tue, 16 Jun 2026 01:02:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
@@ -387,12 +393,6 @@
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
       "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
       "published": "Fri, 12 Jun 2026 01:59:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "published": "Mon, 15 Jun 2026 16:06:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "published": "Mon, 15 Jun 2026 13:37:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
       "published": "Mon, 15 Jun 2026 13:12:42 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "published": "Tue, 16 Jun 2026 01:02:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
@@ -719,12 +725,6 @@
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
       "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
       "published": "Fri, 12 Jun 2026 01:59:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
       "source": "The Hacker News"
     },
     {
