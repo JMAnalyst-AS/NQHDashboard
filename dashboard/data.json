@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:11:40.135435Z",
+  "generated_at": "2026-06-16T18:15:07.610331Z",
   "segment1": [
     {
       "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "published": "Tue, 16 Jun 2026 10:38:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "published": "Tue, 16 Jun 2026 10:17:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "published": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
       "published": "Tue, 16 Jun 2026 06:47:59 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "published": "Mon, 15 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "published": "Mon, 15 Jun 2026 09:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "published": "Mon, 15 Jun 2026 08:38:55 -0400",
-      "source": "BleepingComputer"
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
@@ -387,12 +393,6 @@
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
       "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
       "published": "Sat, 13 Jun 2026 01:03:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "published": "Tue, 16 Jun 2026 10:38:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "published": "Tue, 16 Jun 2026 10:17:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "published": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
       "published": "Tue, 16 Jun 2026 06:47:59 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "published": "Mon, 15 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "published": "Mon, 15 Jun 2026 09:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "published": "Mon, 15 Jun 2026 08:38:55 -0400",
-      "source": "BleepingComputer"
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
@@ -719,12 +725,6 @@
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
       "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
       "published": "Sat, 13 Jun 2026 01:03:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
       "source": "The Hacker News"
     },
     {
