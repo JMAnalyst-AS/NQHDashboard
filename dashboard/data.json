@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-06-16T18:15:07.610331Z",
+  "generated_at": "2026-06-16T21:25:20.293618Z",
   "segment1": [
     {
-      "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid",
+      "title": "One threat actor demanded $50 million from Novo Nordisk. Another one demanded $25 million. Neither got paid.",
+      "url": "https://databreaches.net/2026/06/16/one-threat-actor-demanded-50-million-from-novo-nordisk-another-one-demanded-25-million-neither-got-paid/?pk_campaign=feed&pk_kwd=one-threat-actor-demanded-50-million-from-novo-nordisk-another-one-demanded-25-million-neither-got-paid",
+      "published": "Tue, 16 Jun 2026 18:24:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid (2)",
       "url": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/?pk_campaign=feed&pk_kwd=scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid",
       "published": "Tue, 16 Jun 2026 00:51:53 +0000",
       "source": "DataBreaches.Net"
@@ -53,18 +59,18 @@
       "title": "Labcorp reaches $35M settlement over American Medical Collection Agency breach",
       "url": "https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach",
       "published": "Fri, 12 Jun 2026 19:32:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-      "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
-      "published": "Fri, 12 Jun 2026 16:30:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
-      "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid",
+      "title": "One threat actor demanded $50 million from Novo Nordisk. Another one demanded $25 million. Neither got paid.",
+      "url": "https://databreaches.net/2026/06/16/one-threat-actor-demanded-50-million-from-novo-nordisk-another-one-demanded-25-million-neither-got-paid/?pk_campaign=feed&pk_kwd=one-threat-actor-demanded-50-million-from-novo-nordisk-another-one-demanded-25-million-neither-got-paid",
+      "published": "Tue, 16 Jun 2026 18:24:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid (2)",
       "url": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/?pk_campaign=feed&pk_kwd=scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid",
       "published": "Tue, 16 Jun 2026 00:51:53 +0000",
       "source": "DataBreaches.Net"
@@ -115,12 +121,6 @@
       "title": "Labcorp reaches $35M settlement over American Medical Collection Agency breach",
       "url": "https://databreaches.net/2026/06/12/labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach/?pk_campaign=feed&pk_kwd=labcorp-reaches-35m-settlement-over-american-medical-collection-agency-breach",
       "published": "Fri, 12 Jun 2026 19:32:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-      "url": "https://databreaches.net/2026/06/12/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/?pk_campaign=feed&pk_kwd=shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit",
-      "published": "Fri, 12 Jun 2026 16:30:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "published": "Thu, 30 Apr 2026 14:04:26 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "published": "Tue, 16 Jun 2026 14:27:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "UK to require ID or face scan before you can make social media accounts",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "published": "Mon, 15 Jun 2026 11:30:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "url": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "published": "Mon, 15 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
@@ -381,18 +393,6 @@
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
       "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
       "published": "Sat, 13 Jun 2026 18:53:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-      "published": "Sat, 13 Jun 2026 11:12:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "published": "Tue, 16 Jun 2026 14:27:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "UK to require ID or face scan before you can make social media accounts",
       "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
       "published": "Tue, 16 Jun 2026 10:38:49 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "published": "Mon, 15 Jun 2026 11:30:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "url": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "published": "Mon, 15 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
@@ -713,18 +725,6 @@
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
       "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
       "published": "Sat, 13 Jun 2026 18:53:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-      "published": "Sat, 13 Jun 2026 11:12:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
       "source": "The Hacker News"
     },
     {
