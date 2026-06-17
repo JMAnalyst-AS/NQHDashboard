@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T02:01:03.781447Z",
+  "generated_at": "2026-06-17T07:32:57.188136Z",
   "segment1": [
     {
       "title": "One threat actor demanded $50 million from Novo Nordisk. Another one demanded $25 million. Neither got paid.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "published": "Tue, 16 Jun 2026 17:54:50 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "published": "Mon, 15 Jun 2026 13:12:42 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
@@ -387,12 +393,6 @@
       "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
       "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
       "published": "Mon, 15 Jun 2026 11:47:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "published": "Sat, 13 Jun 2026 18:53:03 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "published": "Tue, 16 Jun 2026 17:54:50 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "published": "Mon, 15 Jun 2026 13:12:42 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
@@ -719,12 +725,6 @@
       "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
       "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
       "published": "Mon, 15 Jun 2026 11:47:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "published": "Sat, 13 Jun 2026 18:53:03 +0530",
       "source": "The Hacker News"
     },
     {
