@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-17T12:16:02.702819Z",
+  "generated_at": "2026-06-17T16:11:09.796365Z",
   "segment1": [
+    {
+      "title": "Hospital worker suspected of accessing Princess of Wales’s medical records to face prosecution",
+      "url": "https://databreaches.net/2026/06/17/hospital-worker-suspected-of-accessing-princess-of-waless-medical-records-to-face-prosecution/?pk_campaign=feed&pk_kwd=hospital-worker-suspected-of-accessing-princess-of-waless-medical-records-to-face-prosecution",
+      "published": "Wed, 17 Jun 2026 16:05:19 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cybercriminals Are Targeting EdTech: Data Breaches and Ransomware Attacks on the Rise",
       "url": "https://databreaches.net/2026/06/17/cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise/?pk_campaign=feed&pk_kwd=cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise",
@@ -53,17 +59,17 @@
       "title": "Novo Nordisk reports data breach, tells clinical trial patients to ‘remain vigilant’",
       "url": "https://databreaches.net/2026/06/14/novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant/?pk_campaign=feed&pk_kwd=novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant",
       "published": "Sun, 14 Jun 2026 13:51:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters Claims Theft of 297GB of Council of Europe Data; Claims Unconfirmed As Yet",
-      "url": "https://databreaches.net/2026/06/14/shinyhunters-claims-theft-of-297gb-of-council-of-europe-data-claims-unconfirmed-as-yet/?pk_campaign=feed&pk_kwd=shinyhunters-claims-theft-of-297gb-of-council-of-europe-data-claims-unconfirmed-as-yet",
-      "published": "Sun, 14 Jun 2026 12:00:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hospital worker suspected of accessing Princess of Wales’s medical records to face prosecution",
+      "url": "https://databreaches.net/2026/06/17/hospital-worker-suspected-of-accessing-princess-of-waless-medical-records-to-face-prosecution/?pk_campaign=feed&pk_kwd=hospital-worker-suspected-of-accessing-princess-of-waless-medical-records-to-face-prosecution",
+      "published": "Wed, 17 Jun 2026 16:05:19 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cybercriminals Are Targeting EdTech: Data Breaches and Ransomware Attacks on the Rise",
       "url": "https://databreaches.net/2026/06/17/cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise/?pk_campaign=feed&pk_kwd=cybercriminals-are-targeting-edtech-data-breaches-and-ransomware-attacks-on-the-rise",
       "published": "Wed, 17 Jun 2026 11:48:37 +0000",
@@ -115,12 +121,6 @@
       "title": "Novo Nordisk reports data breach, tells clinical trial patients to ‘remain vigilant’",
       "url": "https://databreaches.net/2026/06/14/novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant/?pk_campaign=feed&pk_kwd=novo-nordisk-reports-data-breach-tells-clinical-trial-patients-to-remain-vigilant",
       "published": "Sun, 14 Jun 2026 13:51:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters Claims Theft of 297GB of Council of Europe Data; Claims Unconfirmed As Yet",
-      "url": "https://databreaches.net/2026/06/14/shinyhunters-claims-theft-of-297gb-of-council-of-europe-data-claims-unconfirmed-as-yet/?pk_campaign=feed&pk_kwd=shinyhunters-claims-theft-of-297gb-of-council-of-europe-data-claims-unconfirmed-as-yet",
-      "published": "Sun, 14 Jun 2026 12:00:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "published": "Thu, 30 Apr 2026 14:04:26 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "url": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "published": "Wed, 17 Jun 2026 09:12:45 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft confirms Office apps launch issues after June updates",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "published": "Tue, 16 Jun 2026 05:19:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "published": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "published": "Tue, 16 Jun 2026 02:31:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
@@ -285,12 +291,6 @@
       "title": "The Top 10 Attack Surface Exposures in 2026",
       "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
       "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "published": "Wed, 17 Jun 2026 15:08:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "url": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "published": "Wed, 17 Jun 2026 09:12:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft confirms Office apps launch issues after June updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
       "published": "Wed, 17 Jun 2026 07:54:21 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "published": "Tue, 16 Jun 2026 05:19:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "published": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "published": "Tue, 16 Jun 2026 02:31:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
@@ -617,12 +623,6 @@
       "title": "The Top 10 Attack Surface Exposures in 2026",
       "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
       "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "published": "Wed, 17 Jun 2026 15:08:46 +0530",
       "source": "The Hacker News"
     },
     {
