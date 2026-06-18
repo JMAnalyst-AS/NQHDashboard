@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-18T12:51:57.375444Z",
+  "generated_at": "2026-06-18T16:32:30.093751Z",
   "segment1": [
+    {
+      "title": "Data analysis of the Global Schools Group breach, Part 1",
+      "url": "https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-1/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-1",
+      "published": "Thu, 18 Jun 2026 14:46:17 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Active FortiBleed Campaign Impacting Fortinet Devices Across 194 Countries",
       "url": "https://databreaches.net/2026/06/18/active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries/?pk_campaign=feed&pk_kwd=active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries",
@@ -53,17 +59,17 @@
       "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid (2)",
       "url": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/?pk_campaign=feed&pk_kwd=scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid",
       "published": "Tue, 16 Jun 2026 00:51:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "JLR ordered 30,000 staff to reset passwords in person after cyberattack",
-      "url": "https://databreaches.net/2026/06/15/jlr-ordered-30000-staff-to-reset-passwords-in-person-after-cyberattack/?pk_campaign=feed&pk_kwd=jlr-ordered-30000-staff-to-reset-passwords-in-person-after-cyberattack",
-      "published": "Mon, 15 Jun 2026 11:31:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Data analysis of the Global Schools Group breach, Part 1",
+      "url": "https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-1/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-1",
+      "published": "Thu, 18 Jun 2026 14:46:17 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Active FortiBleed Campaign Impacting Fortinet Devices Across 194 Countries",
       "url": "https://databreaches.net/2026/06/18/active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries/?pk_campaign=feed&pk_kwd=active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries",
       "published": "Thu, 18 Jun 2026 12:23:38 +0000",
@@ -115,12 +121,6 @@
       "title": "Scoop: FulcrumSec Leaks Novo Nordisk Data After $25M Demand Goes Unpaid (2)",
       "url": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/?pk_campaign=feed&pk_kwd=scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid",
       "published": "Tue, 16 Jun 2026 00:51:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "JLR ordered 30,000 staff to reset passwords in person after cyberattack",
-      "url": "https://databreaches.net/2026/06/15/jlr-ordered-30000-staff-to-reset-passwords-in-person-after-cyberattack/?pk_campaign=feed&pk_kwd=jlr-ordered-30000-staff-to-reset-passwords-in-person-after-cyberattack",
-      "published": "Mon, 15 Jun 2026 11:31:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "published": "Thu, 18 Jun 2026 10:19:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+      "published": "Thu, 18 Jun 2026 09:48:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+      "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+      "published": "Thu, 18 Jun 2026 09:25:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "published": "Thu, 18 Jun 2026 08:55:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "published": "Thu, 18 Jun 2026 08:54:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
       "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
       "published": "Thu, 18 Jun 2026 08:23:58 -0400",
@@ -222,12 +258,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
       "published": "Wed, 17 Jun 2026 10:00:10 -0400",
@@ -246,45 +276,39 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "published": "Wed, 17 Jun 2026 06:09:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "published": "Wed, 17 Jun 2026 04:32:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
       "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "published": "Thu, 18 Jun 2026 17:28:00 +0530",
+      "published": "Thu, 18 Jun 2026 21:03:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
+      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
+      "published": "Thu, 18 Jun 2026 20:00:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
+      "published": "Thu, 18 Jun 2026 19:42:48 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
       "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+      "published": "Thu, 18 Jun 2026 19:28:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -324,7 +348,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
       "published": "Wed, 17 Jun 2026 13:08:24 +0530",
       "source": "The Hacker News"
@@ -369,30 +393,6 @@
       "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
       "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
       "published": "Tue, 16 Jun 2026 15:14:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "published": "Tue, 16 Jun 2026 13:44:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "published": "Tue, 16 Jun 2026 11:35:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "published": "Tue, 16 Jun 2026 11:11:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "published": "Tue, 16 Jun 2026 01:14:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "published": "Thu, 18 Jun 2026 10:19:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "url": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+      "published": "Thu, 18 Jun 2026 09:48:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+      "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+      "published": "Thu, 18 Jun 2026 09:25:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "published": "Thu, 18 Jun 2026 08:55:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "published": "Thu, 18 Jun 2026 08:54:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
       "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
       "published": "Thu, 18 Jun 2026 08:23:58 -0400",
@@ -554,12 +590,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
       "published": "Wed, 17 Jun 2026 10:00:10 -0400",
@@ -578,45 +608,39 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "published": "Wed, 17 Jun 2026 06:09:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "published": "Wed, 17 Jun 2026 04:32:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
       "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "published": "Thu, 18 Jun 2026 17:28:00 +0530",
+      "published": "Thu, 18 Jun 2026 21:03:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
+      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
+      "published": "Thu, 18 Jun 2026 20:00:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
+      "published": "Thu, 18 Jun 2026 19:42:48 +0530",
       "source": "The Hacker News"
     },
     {
       "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
       "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+      "published": "Thu, 18 Jun 2026 19:28:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -656,7 +680,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
       "published": "Wed, 17 Jun 2026 13:08:24 +0530",
       "source": "The Hacker News"
@@ -701,30 +725,6 @@
       "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
       "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
       "published": "Tue, 16 Jun 2026 15:14:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "published": "Tue, 16 Jun 2026 13:44:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "published": "Tue, 16 Jun 2026 11:35:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "published": "Tue, 16 Jun 2026 11:11:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "published": "Tue, 16 Jun 2026 01:14:06 +0530",
       "source": "The Hacker News"
     },
     {
