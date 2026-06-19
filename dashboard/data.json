@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T18:15:23.382277Z",
+  "generated_at": "2026-06-19T20:14:23.237456Z",
   "segment1": [
     {
       "title": "Bombay High Court Blocks FulcrumSec Data Leak (1)",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "published": "Sat, 20 Jun 2026 00:07:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "published": "Sat, 20 Jun 2026 00:03:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
       "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
       "published": "Fri, 19 Jun 2026 21:00:47 +0530",
@@ -381,18 +393,6 @@
       "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
       "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
       "published": "Wed, 17 Jun 2026 20:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "published": "Wed, 17 Jun 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "published": "Sat, 20 Jun 2026 00:07:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "published": "Sat, 20 Jun 2026 00:03:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
       "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
       "published": "Fri, 19 Jun 2026 21:00:47 +0530",
@@ -713,18 +725,6 @@
       "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
       "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
       "published": "Wed, 17 Jun 2026 20:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "published": "Wed, 17 Jun 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
