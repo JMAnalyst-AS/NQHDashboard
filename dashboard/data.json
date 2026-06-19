@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:10:44.890631Z",
+  "generated_at": "2026-06-19T18:15:23.382277Z",
   "segment1": [
     {
       "title": "Bombay High Court Blocks FulcrumSec Data Leak (1)",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
       "published": "Fri, 19 Jun 2026 09:10:19 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "published": "Thu, 18 Jun 2026 08:23:58 -0400",
-      "source": "BleepingComputer"
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "published": "Fri, 19 Jun 2026 21:00:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
@@ -387,12 +393,6 @@
       "title": "The Top 10 Attack Surface Exposures in 2026",
       "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
       "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "published": "Wed, 17 Jun 2026 13:08:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
       "published": "Fri, 19 Jun 2026 09:10:19 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "published": "Thu, 18 Jun 2026 08:23:58 -0400",
-      "source": "BleepingComputer"
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "published": "Fri, 19 Jun 2026 21:00:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
@@ -719,12 +725,6 @@
       "title": "The Top 10 Attack Surface Exposures in 2026",
       "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
       "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "published": "Wed, 17 Jun 2026 13:08:24 +0530",
       "source": "The Hacker News"
     },
     {
