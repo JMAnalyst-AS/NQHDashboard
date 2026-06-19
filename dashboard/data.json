@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T09:20:09.216957Z",
+  "generated_at": "2026-06-19T12:58:22.323153Z",
   "segment1": [
     {
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
       "published": "Fri, 19 Jun 2026 04:44:08 -0400",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "Thu, 18 Jun 2026 07:33:00 -0400",
-      "source": "BleepingComputer"
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Windows Server 2016 security update failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-      "published": "Thu, 18 Jun 2026 06:14:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "published": "Wed, 17 Jun 2026 21:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+      "published": "Fri, 19 Jun 2026 14:33:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
@@ -375,24 +393,6 @@
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
       "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
       "published": "Wed, 17 Jun 2026 00:35:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-      "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-      "published": "Tue, 16 Jun 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
       "published": "Fri, 19 Jun 2026 04:44:08 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "Thu, 18 Jun 2026 07:33:00 -0400",
-      "source": "BleepingComputer"
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Windows Server 2016 security update failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-      "published": "Thu, 18 Jun 2026 06:14:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "published": "Wed, 17 Jun 2026 21:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+      "published": "Fri, 19 Jun 2026 14:33:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
@@ -707,24 +725,6 @@
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
       "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
       "published": "Wed, 17 Jun 2026 00:35:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-      "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-      "published": "Tue, 16 Jun 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
