@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T04:20:23.409580Z",
+  "generated_at": "2026-06-19T09:20:09.216957Z",
   "segment1": [
     {
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
       "published": "Thu, 18 Jun 2026 18:31:52 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "published": "Wed, 17 Jun 2026 17:02:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "published": "Fri, 19 Jun 2026 12:06:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
@@ -387,12 +393,6 @@
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
       "published": "Tue, 16 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-      "published": "Tue, 16 Jun 2026 16:00:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
       "published": "Thu, 18 Jun 2026 18:31:52 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "published": "Wed, 17 Jun 2026 17:02:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "published": "Fri, 19 Jun 2026 12:06:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
@@ -719,12 +725,6 @@
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
       "published": "Tue, 16 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-      "published": "Tue, 16 Jun 2026 16:00:41 +0530",
       "source": "The Hacker News"
     },
     {
