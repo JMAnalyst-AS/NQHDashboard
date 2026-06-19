@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-19T12:58:22.323153Z",
+  "generated_at": "2026-06-19T16:10:44.890631Z",
   "segment1": [
+    {
+      "title": "Bombay High Court Blocks FulcrumSec Data Leak (1)",
+      "url": "https://databreaches.net/2026/06/19/bombay-high-court-blocks-fulcrumsec-data-leak/?pk_campaign=feed&pk_kwd=bombay-high-court-blocks-fulcrumsec-data-leak",
+      "published": "Fri, 19 Jun 2026 13:03:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
       "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
@@ -53,17 +59,17 @@
       "title": "Data analysis of the Global Schools Group breach, Part 1",
       "url": "https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-1/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-1",
       "published": "Thu, 18 Jun 2026 14:46:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Active FortiBleed Campaign Impacting Fortinet Devices Across 194 Countries",
-      "url": "https://databreaches.net/2026/06/18/active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries/?pk_campaign=feed&pk_kwd=active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries",
-      "published": "Thu, 18 Jun 2026 12:23:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Bombay High Court Blocks FulcrumSec Data Leak (1)",
+      "url": "https://databreaches.net/2026/06/19/bombay-high-court-blocks-fulcrumsec-data-leak/?pk_campaign=feed&pk_kwd=bombay-high-court-blocks-fulcrumsec-data-leak",
+      "published": "Fri, 19 Jun 2026 13:03:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
       "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
       "published": "Fri, 19 Jun 2026 00:58:42 +0000",
@@ -115,12 +121,6 @@
       "title": "Data analysis of the Global Schools Group breach, Part 1",
       "url": "https://databreaches.net/2026/06/18/data-analysis-of-the-global-schools-group-breach-part-1/?pk_campaign=feed&pk_kwd=data-analysis-of-the-global-schools-group-breach-part-1",
       "published": "Thu, 18 Jun 2026 14:46:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Active FortiBleed Campaign Impacting Fortinet Devices Across 194 Countries",
-      "url": "https://databreaches.net/2026/06/18/active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries/?pk_campaign=feed&pk_kwd=active-fortibleed-campaign-impacting-fortinet-devices-across-194-countries",
-      "published": "Thu, 18 Jun 2026 12:23:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
       "published": "Fri, 08 May 2026 02:58:46 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "published": "Thu, 18 Jun 2026 08:18:49 -0400",
-      "source": "BleepingComputer"
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
@@ -381,18 +393,6 @@
       "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
       "published": "Wed, 17 Jun 2026 13:08:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
       "published": "Fri, 19 Jun 2026 08:12:20 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "published": "Thu, 18 Jun 2026 08:18:49 -0400",
-      "source": "BleepingComputer"
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
@@ -713,18 +725,6 @@
       "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
       "published": "Wed, 17 Jun 2026 13:08:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
       "source": "The Hacker News"
     },
     {
