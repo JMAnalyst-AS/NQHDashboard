@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-22T10:20:55.150684Z",
+  "generated_at": "2026-06-22T15:34:52.094616Z",
   "segment1": [
+    {
+      "title": "Cherry Health provides preliminary notice of recent data breach",
+      "url": "https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach",
+      "published": "Mon, 22 Jun 2026 15:22:53 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Brazil’s Civil Defense suffers a cyberattack on its official alert network",
       "url": "https://databreaches.net/2026/06/21/brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network/?pk_campaign=feed&pk_kwd=brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network",
@@ -53,17 +59,17 @@
       "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
       "url": "https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports",
       "published": "Fri, 19 Jun 2026 00:57:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Oﬃce for Civil Rights Settles Ransomware Investigation with Spencer Gifts Health Plan for $450k, Corrective Action Plan",
-      "url": "https://databreaches.net/2026/06/18/hhs-o%ef%ac%83ce-for-civil-rights-settles-ransomware-investigation-with-spencer-gifts-health-plan-for-450k-corrective-action-plan/?pk_campaign=feed&pk_kwd=hhs-o%25ef%25ac%2583ce-for-civil-rights-settles-ransomware-investigation-with-spencer-gifts-health-plan-for-450k-corrective-action-plan",
-      "published": "Fri, 19 Jun 2026 00:56:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cherry Health provides preliminary notice of recent data breach",
+      "url": "https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach",
+      "published": "Mon, 22 Jun 2026 15:22:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Brazil’s Civil Defense suffers a cyberattack on its official alert network",
       "url": "https://databreaches.net/2026/06/21/brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network/?pk_campaign=feed&pk_kwd=brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network",
       "published": "Sun, 21 Jun 2026 19:13:49 +0000",
@@ -115,12 +121,6 @@
       "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
       "url": "https://databreaches.net/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/?pk_campaign=feed&pk_kwd=texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports",
       "published": "Fri, 19 Jun 2026 00:57:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Oﬃce for Civil Rights Settles Ransomware Investigation with Spencer Gifts Health Plan for $450k, Corrective Action Plan",
-      "url": "https://databreaches.net/2026/06/18/hhs-o%ef%ac%83ce-for-civil-rights-settles-ransomware-investigation-with-spencer-gifts-health-plan-for-450k-corrective-action-plan/?pk_campaign=feed&pk_kwd=hhs-o%25ef%25ac%2583ce-for-civil-rights-settles-ransomware-investigation-with-spencer-gifts-health-plan-for-450k-corrective-action-plan",
-      "published": "Fri, 19 Jun 2026 00:56:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
       "published": "Fri, 08 May 2026 02:58:46 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
@@ -270,10 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
-      "source": "BleepingComputer"
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "published": "Mon, 22 Jun 2026 18:50:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "published": "Mon, 22 Jun 2026 18:15:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "published": "Mon, 22 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "published": "Mon, 22 Jun 2026 16:25:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
@@ -363,36 +393,6 @@
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
       "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
       "published": "Thu, 18 Jun 2026 21:03:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "published": "Thu, 18 Jun 2026 20:00:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "published": "Thu, 18 Jun 2026 19:42:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "published": "Thu, 18 Jun 2026 19:28:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
       "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
       "published": "Sun, 21 Jun 2026 10:14:22 -0400",
@@ -602,10 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
-      "source": "BleepingComputer"
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "published": "Mon, 22 Jun 2026 18:50:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "published": "Mon, 22 Jun 2026 18:15:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "published": "Mon, 22 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "published": "Mon, 22 Jun 2026 16:25:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
@@ -695,36 +725,6 @@
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
       "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
       "published": "Thu, 18 Jun 2026 21:03:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "published": "Thu, 18 Jun 2026 20:00:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "published": "Thu, 18 Jun 2026 19:42:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "published": "Thu, 18 Jun 2026 19:28:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
       "source": "The Hacker News"
     },
     {
