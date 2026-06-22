@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T19:27:24.630081Z",
+  "generated_at": "2026-06-22T21:37:59.068935Z",
   "segment1": [
     {
       "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400",
@@ -261,18 +273,6 @@
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
       "published": "Fri, 19 Jun 2026 06:39:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400",
@@ -593,18 +605,6 @@
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
       "published": "Fri, 19 Jun 2026 06:39:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
       "source": "BleepingComputer"
     },
     {
