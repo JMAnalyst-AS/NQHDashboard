@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T17:55:16.366425Z",
+  "generated_at": "2026-06-23T20:05:56.697390Z",
   "segment1": [
+    {
+      "title": "“The Timeline Is Months, Not Years”: Five Eyes Warns of AI-Powered Cyberattacks",
+      "url": "https://databreaches.net/2026/06/23/the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks/?pk_campaign=feed&pk_kwd=the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks",
+      "published": "Tue, 23 Jun 2026 18:44:03 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
       "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
@@ -53,17 +59,17 @@
       "title": "Bombay High Court Blocks FulcrumSec Data Leak (3)",
       "url": "https://databreaches.net/2026/06/19/bombay-high-court-blocks-fulcrumsec-data-leak/?pk_campaign=feed&pk_kwd=bombay-high-court-blocks-fulcrumsec-data-leak",
       "published": "Fri, 19 Jun 2026 13:03:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
-      "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
-      "published": "Fri, 19 Jun 2026 00:58:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "“The Timeline Is Months, Not Years”: Five Eyes Warns of AI-Powered Cyberattacks",
+      "url": "https://databreaches.net/2026/06/23/the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks/?pk_campaign=feed&pk_kwd=the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks",
+      "published": "Tue, 23 Jun 2026 18:44:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
       "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
       "published": "Tue, 23 Jun 2026 12:20:12 +0000",
@@ -115,12 +121,6 @@
       "title": "Bombay High Court Blocks FulcrumSec Data Leak (3)",
       "url": "https://databreaches.net/2026/06/19/bombay-high-court-blocks-fulcrumsec-data-leak/?pk_campaign=feed&pk_kwd=bombay-high-court-blocks-fulcrumsec-data-leak",
       "published": "Fri, 19 Jun 2026 13:03:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
-      "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
-      "published": "Fri, 19 Jun 2026 00:58:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "published": "Tue, 23 Jun 2026 15:59:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "published": "Tue, 23 Jun 2026 14:30:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
@@ -261,18 +273,6 @@
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "published": "Tue, 23 Jun 2026 15:59:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "published": "Tue, 23 Jun 2026 14:30:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
       "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
       "published": "Tue, 23 Jun 2026 11:31:59 -0400",
@@ -593,18 +605,6 @@
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
       "source": "BleepingComputer"
     },
     {
