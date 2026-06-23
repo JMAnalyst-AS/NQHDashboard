@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:48:07.185053Z",
+  "generated_at": "2026-06-23T17:55:16.366425Z",
   "segment1": [
     {
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "published": "Thu, 18 Jun 2026 17:37:58 +0000",
@@ -177,12 +183,6 @@
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -274,6 +274,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "published": "Fri, 19 Jun 2026 18:31:04 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "published": "Tue, 23 Jun 2026 20:46:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "published": "Tue, 23 Jun 2026 20:46:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -381,18 +393,6 @@
       "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
       "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
       "published": "Sat, 20 Jun 2026 00:03:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "published": "Fri, 19 Jun 2026 21:00:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "published": "Thu, 18 Jun 2026 17:37:58 +0000",
@@ -509,12 +515,6 @@
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -606,6 +606,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "published": "Fri, 19 Jun 2026 18:31:04 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "published": "Tue, 23 Jun 2026 20:46:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "published": "Tue, 23 Jun 2026 20:46:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -713,18 +725,6 @@
       "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
       "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
       "published": "Sat, 20 Jun 2026 00:03:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "published": "Fri, 19 Jun 2026 21:00:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
       "source": "The Hacker News"
     },
     {
