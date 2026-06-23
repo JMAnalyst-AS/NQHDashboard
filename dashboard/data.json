@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T12:32:18.892828Z",
+  "generated_at": "2026-06-23T15:48:07.185053Z",
   "segment1": [
     {
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "published": "Tue, 23 Jun 2026 11:31:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "published": "Tue, 23 Jun 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "published": "Tue, 23 Jun 2026 09:58:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: Why email security teams are drowning in alerts",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
       "published": "Tue, 23 Jun 2026 08:12:20 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "published": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "published": "Tue, 23 Jun 2026 19:52:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
@@ -387,12 +393,6 @@
       "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
       "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
       "published": "Fri, 19 Jun 2026 20:37:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "published": "Tue, 23 Jun 2026 11:31:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "published": "Tue, 23 Jun 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "published": "Tue, 23 Jun 2026 09:58:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: Why email security teams are drowning in alerts",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
       "published": "Tue, 23 Jun 2026 08:12:20 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "published": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "published": "Tue, 23 Jun 2026 19:52:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
@@ -719,12 +725,6 @@
       "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
       "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
       "published": "Fri, 19 Jun 2026 20:37:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
       "source": "The Hacker News"
     },
     {
