@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-23T09:39:14.183930Z",
+  "generated_at": "2026-06-23T12:32:18.892828Z",
   "segment1": [
+    {
+      "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
+      "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
+      "published": "Tue, 23 Jun 2026 12:20:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
       "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
@@ -53,17 +59,17 @@
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
       "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
       "published": "Fri, 19 Jun 2026 00:58:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Blue Fish Pediatrics notifies 41,485 Texans about data breach last year",
-      "url": "https://databreaches.net/2026/06/18/blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year/?pk_campaign=feed&pk_kwd=blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year",
-      "published": "Fri, 19 Jun 2026 00:58:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
+      "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
+      "published": "Tue, 23 Jun 2026 12:20:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
       "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
       "published": "Mon, 22 Jun 2026 19:17:06 +0000",
@@ -115,12 +121,6 @@
       "title": "Canadian hacker pleads guilty to charges for cyberattack on Texas Republican website",
       "url": "https://databreaches.net/2026/06/18/canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website/?pk_campaign=feed&pk_kwd=canadian-hacker-pleads-guilty-to-charges-for-cyberattack-on-texas-republican-website",
       "published": "Fri, 19 Jun 2026 00:58:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Blue Fish Pediatrics notifies 41,485 Texans about data breach last year",
-      "url": "https://databreaches.net/2026/06/18/blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year/?pk_campaign=feed&pk_kwd=blue-fish-pediatrics-notifies-41485-texans-about-data-breach-last-year",
-      "published": "Fri, 19 Jun 2026 00:58:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
       "published": "Fri, 08 May 2026 02:58:46 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "published": "Tue, 23 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "published": "Tue, 23 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
@@ -300,15 +306,15 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "published": "Mon, 22 Jun 2026 21:59:00 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -387,12 +393,6 @@
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
       "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
       "published": "Fri, 19 Jun 2026 19:30:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-      "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "published": "Tue, 23 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
       "published": "Mon, 22 Jun 2026 18:42:21 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "published": "Tue, 23 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
@@ -632,15 +638,15 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "published": "Mon, 22 Jun 2026 21:59:00 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -719,12 +725,6 @@
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
       "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
       "published": "Fri, 19 Jun 2026 19:30:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-      "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
