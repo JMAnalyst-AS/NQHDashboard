@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:05:56.697390Z",
+  "generated_at": "2026-06-23T21:56:29.732833Z",
   "segment1": [
     {
       "title": "“The Timeline Is Months, Not Years”: Five Eyes Warns of AI-Powered Cyberattacks",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "published": "Tue, 23 Jun 2026 17:48:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "published": "Tue, 23 Jun 2026 16:22:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
       "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
       "published": "Tue, 23 Jun 2026 15:59:12 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "published": "Sun, 21 Jun 2026 10:14:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
@@ -387,12 +393,6 @@
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
       "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
       "published": "Sat, 20 Jun 2026 00:07:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "published": "Sat, 20 Jun 2026 00:03:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "published": "Tue, 23 Jun 2026 17:48:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "published": "Tue, 23 Jun 2026 16:22:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
       "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
       "published": "Tue, 23 Jun 2026 15:59:12 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "published": "Sun, 21 Jun 2026 10:14:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
@@ -719,12 +725,6 @@
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
       "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
       "published": "Sat, 20 Jun 2026 00:07:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "published": "Sat, 20 Jun 2026 00:03:07 +0530",
       "source": "The Hacker News"
     },
     {
