@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:30:04.241984Z",
+  "generated_at": "2026-06-24T12:06:51.727973Z",
   "segment1": [
     {
       "title": "“The Timeline Is Months, Not Years”: Five Eyes Warns of AI-Powered Cyberattacks",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "published": "Tue, 23 Jun 2026 17:48:32 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "published": "Mon, 22 Jun 2026 13:28:57 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "published": "Tue, 23 Jun 2026 17:48:32 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "published": "Mon, 22 Jun 2026 13:28:57 -0400",
       "source": "BleepingComputer"
     },
     {
