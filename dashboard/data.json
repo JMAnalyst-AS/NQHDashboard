@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T22:22:38.125954Z",
+  "generated_at": "2026-06-25T23:52:10.830683Z",
   "segment1": [
+    {
+      "title": "Third Defendant Sentenced To Prison For Hacking DraftKings",
+      "url": "https://databreaches.net/2026/06/25/third-defendant-sentenced-to-prison-for-hacking-draftkings/?pk_campaign=feed&pk_kwd=third-defendant-sentenced-to-prison-for-hacking-draftkings",
+      "published": "Thu, 25 Jun 2026 21:04:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed",
       "url": "https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed",
@@ -53,17 +59,17 @@
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
       "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
       "published": "Tue, 23 Jun 2026 12:20:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
-      "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
-      "published": "Mon, 22 Jun 2026 19:17:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Third Defendant Sentenced To Prison For Hacking DraftKings",
+      "url": "https://databreaches.net/2026/06/25/third-defendant-sentenced-to-prison-for-hacking-draftkings/?pk_campaign=feed&pk_kwd=third-defendant-sentenced-to-prison-for-hacking-draftkings",
+      "published": "Thu, 25 Jun 2026 21:04:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed",
       "url": "https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed",
       "published": "Thu, 25 Jun 2026 16:23:16 +0000",
@@ -115,12 +121,6 @@
       "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
       "url": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
       "published": "Tue, 23 Jun 2026 12:20:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
-      "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
-      "published": "Mon, 22 Jun 2026 19:17:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "published": "Thu, 25 Jun 2026 18:37:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
@@ -261,18 +273,6 @@
       "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
       "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
       "published": "Wed, 24 Jun 2026 10:35:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "published": "Wed, 24 Jun 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "published": "Thu, 25 Jun 2026 18:37:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
       "published": "Thu, 25 Jun 2026 15:45:48 -0400",
@@ -593,18 +605,6 @@
       "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
       "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
       "published": "Wed, 24 Jun 2026 10:35:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "published": "Wed, 24 Jun 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
       "source": "BleepingComputer"
     },
     {
