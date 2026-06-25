@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-25T11:15:06.159243Z",
+  "generated_at": "2026-06-25T13:35:55.097118Z",
   "segment1": [
+    {
+      "title": "No need to hack when it’s leaking: Dialog edition",
+      "url": "https://databreaches.net/2026/06/25/no-need-to-hack-when-its-leaking-dialog-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dialog-edition",
+      "published": "Thu, 25 Jun 2026 12:48:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ukraine’s National Postal Service Ukrposhta Hacked Overnight",
+      "url": "https://databreaches.net/2026/06/25/ukraines-national-postal-service-ukrposhta-hacked-overnight/?pk_campaign=feed&pk_kwd=ukraines-national-postal-service-ukrposhta-hacked-overnight",
+      "published": "Thu, 25 Jun 2026 12:06:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Another BreachForums Clone Shuts Down, Citing Fears of ShinyHunters",
       "url": "https://databreaches.net/2026/06/24/another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters/?pk_campaign=feed&pk_kwd=another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters",
@@ -47,23 +59,23 @@
       "title": "Xsolis breach affected 1,396,519 of its clients’ patients",
       "url": "https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients",
       "published": "Mon, 22 Jun 2026 16:04:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cherry Health provides preliminary notice of recent data breach",
-      "url": "https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach",
-      "published": "Mon, 22 Jun 2026 15:22:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brazil’s Civil Defense suffers a cyberattack on its official alert network",
-      "url": "https://databreaches.net/2026/06/21/brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network/?pk_campaign=feed&pk_kwd=brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network",
-      "published": "Sun, 21 Jun 2026 19:13:49 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "No need to hack when it’s leaking: Dialog edition",
+      "url": "https://databreaches.net/2026/06/25/no-need-to-hack-when-its-leaking-dialog-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dialog-edition",
+      "published": "Thu, 25 Jun 2026 12:48:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ukraine’s National Postal Service Ukrposhta Hacked Overnight",
+      "url": "https://databreaches.net/2026/06/25/ukraines-national-postal-service-ukrposhta-hacked-overnight/?pk_campaign=feed&pk_kwd=ukraines-national-postal-service-ukrposhta-hacked-overnight",
+      "published": "Thu, 25 Jun 2026 12:06:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Another BreachForums Clone Shuts Down, Citing Fears of ShinyHunters",
       "url": "https://databreaches.net/2026/06/24/another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters/?pk_campaign=feed&pk_kwd=another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters",
       "published": "Thu, 25 Jun 2026 01:26:45 +0000",
@@ -109,18 +121,6 @@
       "title": "Xsolis breach affected 1,396,519 of its clients’ patients",
       "url": "https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients",
       "published": "Mon, 22 Jun 2026 16:04:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cherry Health provides preliminary notice of recent data breach",
-      "url": "https://databreaches.net/2026/06/22/cherry-health-provides-preliminary-notice-of-recent-data-breach/?pk_campaign=feed&pk_kwd=cherry-health-provides-preliminary-notice-of-recent-data-breach",
-      "published": "Mon, 22 Jun 2026 15:22:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brazil’s Civil Defense suffers a cyberattack on its official alert network",
-      "url": "https://databreaches.net/2026/06/21/brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network/?pk_campaign=feed&pk_kwd=brazils-civil-defense-suffers-a-cyberattack-on-its-official-alert-network",
-      "published": "Sun, 21 Jun 2026 19:13:49 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "published": "Thu, 25 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google releases new privacy controls for activity history, personalization",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "published": "Tue, 23 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
@@ -381,18 +393,6 @@
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
       "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
       "published": "Mon, 22 Jun 2026 23:30:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "published": "Mon, 22 Jun 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "published": "Thu, 25 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google releases new privacy controls for activity history, personalization",
       "url": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "published": "Wed, 24 Jun 2026 19:46:17 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "published": "Tue, 23 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
@@ -713,18 +725,6 @@
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
       "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
       "published": "Mon, 22 Jun 2026 23:30:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "published": "Mon, 22 Jun 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
       "source": "The Hacker News"
     },
     {
