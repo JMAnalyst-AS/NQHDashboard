@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-25T16:23:55.174877Z",
+  "generated_at": "2026-06-25T18:32:44.278377Z",
   "segment1": [
+    {
+      "title": "Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed",
+      "url": "https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed",
+      "published": "Thu, 25 Jun 2026 16:23:16 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "No need to hack when it’s leaking: Dialog edition",
       "url": "https://databreaches.net/2026/06/25/no-need-to-hack-when-its-leaking-dialog-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dialog-edition",
@@ -53,17 +59,17 @@
       "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
       "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
       "published": "Mon, 22 Jun 2026 19:17:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Xsolis breach affected 1,396,519 of its clients’ patients",
-      "url": "https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients",
-      "published": "Mon, 22 Jun 2026 16:04:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Colorado Health Network Notifies Patients of Last Year’s Breach—But Key Details Remain Undisclosed",
+      "url": "https://databreaches.net/2026/06/25/colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed/?pk_campaign=feed&pk_kwd=colorado-health-network-notifies-patients-of-last-years-breach-but-key-details-remain-undisclosed",
+      "published": "Thu, 25 Jun 2026 16:23:16 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "No need to hack when it’s leaking: Dialog edition",
       "url": "https://databreaches.net/2026/06/25/no-need-to-hack-when-its-leaking-dialog-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dialog-edition",
       "published": "Thu, 25 Jun 2026 12:48:24 +0000",
@@ -115,12 +121,6 @@
       "title": "Two men, believed to part of Scattered Spiders, plead guilty over £39m TfL cyber attack",
       "url": "https://databreaches.net/2026/06/22/two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack/?pk_campaign=feed&pk_kwd=two-men-believed-to-part-of-scattered-spiders-plead-guilty-over-39m-tfl-cyber-attack",
       "published": "Mon, 22 Jun 2026 19:17:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Xsolis breach affected 1,396,519 of its clients’ patients",
-      "url": "https://databreaches.net/2026/06/22/xsolis-breach-affected-1396519-of-its-clients-patients/?pk_campaign=feed&pk_kwd=xsolis-breach-affected-1396519-of-its-clients-patients",
-      "published": "Mon, 22 Jun 2026 16:04:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "published": "Thu, 25 Jun 2026 14:29:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
@@ -267,12 +273,6 @@
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "published": "Tue, 23 Jun 2026 17:48:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "published": "Thu, 25 Jun 2026 14:29:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
       "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "published": "Thu, 25 Jun 2026 12:23:19 -0400",
@@ -599,12 +605,6 @@
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "published": "Tue, 23 Jun 2026 17:48:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
       "source": "BleepingComputer"
     },
     {
