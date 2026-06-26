@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T19:47:57.054731Z",
+  "generated_at": "2026-06-26T21:18:47.523456Z",
   "segment1": [
+    {
+      "title": "First Circuit Affirms Dismissal of Data Breach Class Action for Lack of Traceable Injury",
+      "url": "https://databreaches.net/2026/06/26/first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury/?pk_campaign=feed&pk_kwd=first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury",
+      "published": "Fri, 26 Jun 2026 19:00:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Iranian-Turkish national sought by US on hacking charges arrested in Montenegro",
       "url": "https://databreaches.net/2026/06/26/iranian-turkish-national-sought-by-us-on-hacking-charges-arrested-in-montenegro/?pk_campaign=feed&pk_kwd=iranian-turkish-national-sought-by-us-on-hacking-charges-arrested-in-montenegro",
@@ -53,17 +59,17 @@
       "title": "How Hackers Broke into Madison Square Garden",
       "url": "https://databreaches.net/2026/06/24/how-hackers-broke-into-madison-square-garden/?pk_campaign=feed&pk_kwd=how-hackers-broke-into-madison-square-garden",
       "published": "Wed, 24 Jun 2026 13:50:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "url": "https://databreaches.net/2026/06/24/tata-electronics-confirms-cyberattack-as-hackers-leak-data/?pk_campaign=feed&pk_kwd=tata-electronics-confirms-cyberattack-as-hackers-leak-data",
-      "published": "Wed, 24 Jun 2026 13:17:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "First Circuit Affirms Dismissal of Data Breach Class Action for Lack of Traceable Injury",
+      "url": "https://databreaches.net/2026/06/26/first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury/?pk_campaign=feed&pk_kwd=first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury",
+      "published": "Fri, 26 Jun 2026 19:00:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Iranian-Turkish national sought by US on hacking charges arrested in Montenegro",
       "url": "https://databreaches.net/2026/06/26/iranian-turkish-national-sought-by-us-on-hacking-charges-arrested-in-montenegro/?pk_campaign=feed&pk_kwd=iranian-turkish-national-sought-by-us-on-hacking-charges-arrested-in-montenegro",
       "published": "Fri, 26 Jun 2026 14:06:36 +0000",
@@ -115,12 +121,6 @@
       "title": "How Hackers Broke into Madison Square Garden",
       "url": "https://databreaches.net/2026/06/24/how-hackers-broke-into-madison-square-garden/?pk_campaign=feed&pk_kwd=how-hackers-broke-into-madison-square-garden",
       "published": "Wed, 24 Jun 2026 13:50:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "url": "https://databreaches.net/2026/06/24/tata-electronics-confirms-cyberattack-as-hackers-leak-data/?pk_campaign=feed&pk_kwd=tata-electronics-confirms-cyberattack-as-hackers-leak-data",
-      "published": "Wed, 24 Jun 2026 13:17:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
       "published": "Fri, 26 Jun 2026 23:47:46 +0530",
@@ -387,12 +393,6 @@
       "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
       "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
       "published": "Wed, 24 Jun 2026 21:29:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-      "published": "Wed, 24 Jun 2026 18:18:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
       "published": "Fri, 26 Jun 2026 23:47:46 +0530",
@@ -719,12 +725,6 @@
       "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
       "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
       "published": "Wed, 24 Jun 2026 21:29:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-      "published": "Wed, 24 Jun 2026 18:18:11 +0530",
       "source": "The Hacker News"
     },
     {
