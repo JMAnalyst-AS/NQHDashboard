@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-26T21:18:47.523456Z",
+  "generated_at": "2026-06-26T22:44:49.741189Z",
   "segment1": [
+    {
+      "title": "Russian Hackers Behind the $2.5 Billion Jaguar Land Rover Cyberattack, Investigators Say",
+      "url": "https://databreaches.net/2026/06/26/russian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say/?pk_campaign=feed&pk_kwd=russian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say",
+      "published": "Fri, 26 Jun 2026 21:43:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "First Circuit Affirms Dismissal of Data Breach Class Action for Lack of Traceable Injury",
       "url": "https://databreaches.net/2026/06/26/first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury/?pk_campaign=feed&pk_kwd=first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury",
@@ -53,17 +59,17 @@
       "title": "Another BreachForums Clone Shuts Down, Citing Fears of ShinyHunters",
       "url": "https://databreaches.net/2026/06/24/another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters/?pk_campaign=feed&pk_kwd=another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters",
       "published": "Thu, 25 Jun 2026 01:26:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How Hackers Broke into Madison Square Garden",
-      "url": "https://databreaches.net/2026/06/24/how-hackers-broke-into-madison-square-garden/?pk_campaign=feed&pk_kwd=how-hackers-broke-into-madison-square-garden",
-      "published": "Wed, 24 Jun 2026 13:50:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Russian Hackers Behind the $2.5 Billion Jaguar Land Rover Cyberattack, Investigators Say",
+      "url": "https://databreaches.net/2026/06/26/russian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say/?pk_campaign=feed&pk_kwd=russian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say",
+      "published": "Fri, 26 Jun 2026 21:43:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "First Circuit Affirms Dismissal of Data Breach Class Action for Lack of Traceable Injury",
       "url": "https://databreaches.net/2026/06/26/first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury/?pk_campaign=feed&pk_kwd=first-circuit-affirms-dismissal-of-data-breach-class-action-for-lack-of-traceable-injury",
       "published": "Fri, 26 Jun 2026 19:00:40 +0000",
@@ -115,12 +121,6 @@
       "title": "Another BreachForums Clone Shuts Down, Citing Fears of ShinyHunters",
       "url": "https://databreaches.net/2026/06/24/another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters/?pk_campaign=feed&pk_kwd=another-breachforums-clone-shuts-down-citing-fears-of-shinyhunters",
       "published": "Thu, 25 Jun 2026 01:26:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "How Hackers Broke into Madison Square Garden",
-      "url": "https://databreaches.net/2026/06/24/how-hackers-broke-into-madison-square-garden/?pk_campaign=feed&pk_kwd=how-hackers-broke-into-madison-square-garden",
-      "published": "Wed, 24 Jun 2026 13:50:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
@@ -267,12 +273,6 @@
       "title": "Google releases new privacy controls for activity history, personalization",
       "url": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "published": "Wed, 24 Jun 2026 19:46:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "published": "Wed, 24 Jun 2026 17:55:43 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
       "published": "Fri, 26 Jun 2026 15:43:06 -0400",
@@ -599,12 +605,6 @@
       "title": "Google releases new privacy controls for activity history, personalization",
       "url": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "published": "Wed, 24 Jun 2026 19:46:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "published": "Wed, 24 Jun 2026 17:55:43 -0400",
       "source": "BleepingComputer"
     },
     {
