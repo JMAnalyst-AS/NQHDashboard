@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-30T14:18:30.568113Z",
+  "generated_at": "2026-06-30T16:35:31.628063Z",
   "segment1": [
+    {
+      "title": "The Fall of XSS Forum: From DaMaGeLaB to the 2025 takedown",
+      "url": "https://databreaches.net/2026/06/30/the-fall-of-xss-forum-from-damagelab-to-the-2025-takedown/?pk_campaign=feed&pk_kwd=the-fall-of-xss-forum-from-damagelab-to-the-2025-takedown",
+      "published": "Tue, 30 Jun 2026 13:52:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Insurance giant Aflac discloses data breach at Japan subsidiary",
+      "url": "https://databreaches.net/2026/06/30/insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary/?pk_campaign=feed&pk_kwd=insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary",
+      "published": "Tue, 30 Jun 2026 12:40:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "EXCLUSIVE: Top-100 Law Firm Fox Rothschild Suffers Data Breach and Leak by Silent Ransom Group",
       "url": "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
@@ -47,23 +59,23 @@
       "title": "AssuranceAmerica breach may have affected more than 1.1 million people in seven states",
       "url": "https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states",
       "published": "Sun, 28 Jun 2026 13:52:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ pharmacy scrambles to scrub internet of patients’ private messages",
-      "url": "https://databreaches.net/2026/06/28/nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages/?pk_campaign=feed&pk_kwd=nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages",
-      "published": "Sun, 28 Jun 2026 13:40:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NAIC suspends investment risk designations after cyber attack",
-      "url": "https://databreaches.net/2026/06/27/naic-suspends-investment-risk-designations-after-cyber-attack/?pk_campaign=feed&pk_kwd=naic-suspends-investment-risk-designations-after-cyber-attack",
-      "published": "Sat, 27 Jun 2026 11:53:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The Fall of XSS Forum: From DaMaGeLaB to the 2025 takedown",
+      "url": "https://databreaches.net/2026/06/30/the-fall-of-xss-forum-from-damagelab-to-the-2025-takedown/?pk_campaign=feed&pk_kwd=the-fall-of-xss-forum-from-damagelab-to-the-2025-takedown",
+      "published": "Tue, 30 Jun 2026 13:52:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Insurance giant Aflac discloses data breach at Japan subsidiary",
+      "url": "https://databreaches.net/2026/06/30/insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary/?pk_campaign=feed&pk_kwd=insurance-giant-aflac-discloses-data-breach-at-japan-subsidiary",
+      "published": "Tue, 30 Jun 2026 12:40:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "EXCLUSIVE: Top-100 Law Firm Fox Rothschild Suffers Data Breach and Leak by Silent Ransom Group",
       "url": "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
       "published": "Mon, 29 Jun 2026 22:13:43 +0000",
@@ -109,18 +121,6 @@
       "title": "AssuranceAmerica breach may have affected more than 1.1 million people in seven states",
       "url": "https://databreaches.net/2026/06/28/assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states/?pk_campaign=feed&pk_kwd=assuranceamerica-breach-may-have-affected-more-than-1-1-million-people-in-seven-states",
       "published": "Sun, 28 Jun 2026 13:52:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NZ pharmacy scrambles to scrub internet of patients’ private messages",
-      "url": "https://databreaches.net/2026/06/28/nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages/?pk_campaign=feed&pk_kwd=nz-pharmacy-scrambles-to-scrub-internet-of-patients-private-messages",
-      "published": "Sun, 28 Jun 2026 13:40:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NAIC suspends investment risk designations after cyber attack",
-      "url": "https://databreaches.net/2026/06/27/naic-suspends-investment-risk-designations-after-cyber-attack/?pk_campaign=feed&pk_kwd=naic-suspends-investment-risk-designations-after-cyber-attack",
-      "published": "Sat, 27 Jun 2026 11:53:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+      "published": "Tue, 30 Jun 2026 11:46:19 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "published": "Tue, 30 Jun 2026 21:10:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "published": "Tue, 30 Jun 2026 19:56:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "published": "Tue, 30 Jun 2026 19:19:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
@@ -375,24 +393,6 @@
       "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
       "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
       "published": "Mon, 29 Jun 2026 11:06:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "published": "Sat, 27 Jun 2026 22:57:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "published": "Sat, 27 Jun 2026 17:49:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+      "published": "Tue, 30 Jun 2026 11:46:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
       "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
       "published": "Tue, 30 Jun 2026 10:00:10 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "published": "Tue, 30 Jun 2026 21:10:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "published": "Tue, 30 Jun 2026 19:56:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "published": "Tue, 30 Jun 2026 19:19:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
@@ -707,24 +725,6 @@
       "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
       "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
       "published": "Mon, 29 Jun 2026 11:06:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "published": "Sat, 27 Jun 2026 22:57:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "published": "Sat, 27 Jun 2026 17:49:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
       "source": "The Hacker News"
     },
     {
