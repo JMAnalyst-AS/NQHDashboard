@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:56:41.328838Z",
+  "generated_at": "2026-06-30T22:17:08.843898Z",
   "segment1": [
     {
       "title": "Kaspersky Lab experts have discovered a new attack vector and toolkit for compromising corporate Gmail accounts",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+      "published": "Tue, 30 Jun 2026 17:20:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "published": "Tue, 30 Jun 2026 17:02:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
       "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
       "published": "Tue, 30 Jun 2026 11:46:19 -0400",
@@ -255,24 +273,6 @@
       "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
       "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
       "published": "Mon, 29 Jun 2026 11:09:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "published": "Mon, 29 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "published": "Mon, 29 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+      "published": "Tue, 30 Jun 2026 17:20:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "published": "Tue, 30 Jun 2026 17:02:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
       "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
       "published": "Tue, 30 Jun 2026 11:46:19 -0400",
@@ -587,24 +605,6 @@
       "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
       "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
       "published": "Mon, 29 Jun 2026 11:09:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "published": "Mon, 29 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "published": "Mon, 29 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
       "source": "BleepingComputer"
     },
     {
