@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T08:29:43.345974Z",
+  "generated_at": "2026-06-30T11:30:16.847057Z",
   "segment1": [
     {
       "title": "EXCLUSIVE: Top-100 Law Firm Fox Rothschild Suffers Data Breach and Leak by Silent Ransom Group",
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "published": "Tue, 30 Jun 2026 07:12:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "published": "Tue, 30 Jun 2026 06:52:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "published": "Tue, 30 Jun 2026 05:46:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "Tue, 30 Jun 2026 04:53:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
       "published": "Mon, 29 Jun 2026 16:40:44 -0400",
@@ -246,34 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "published": "Sun, 28 Jun 2026 10:13:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "published": "Tue, 30 Jun 2026 16:48:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
-      "source": "BleepingComputer"
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
-      "source": "BleepingComputer"
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "published": "Fri, 26 Jun 2026 14:04:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "published": "Tue, 30 Jun 2026 13:08:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
@@ -369,30 +393,6 @@
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
       "published": "Fri, 26 Jun 2026 23:47:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "published": "Fri, 26 Jun 2026 21:51:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "published": "Fri, 26 Jun 2026 19:27:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "published": "Fri, 26 Jun 2026 19:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "published": "Fri, 26 Jun 2026 18:01:56 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "published": "Tue, 30 Jun 2026 07:12:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "published": "Tue, 30 Jun 2026 06:52:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "published": "Tue, 30 Jun 2026 05:46:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "Tue, 30 Jun 2026 04:53:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
       "published": "Mon, 29 Jun 2026 16:40:44 -0400",
@@ -578,34 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "published": "Sun, 28 Jun 2026 10:13:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "published": "Tue, 30 Jun 2026 16:48:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
-      "source": "BleepingComputer"
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
-      "source": "BleepingComputer"
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "published": "Fri, 26 Jun 2026 14:04:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "published": "Tue, 30 Jun 2026 13:08:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
@@ -701,30 +725,6 @@
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
       "published": "Fri, 26 Jun 2026 23:47:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "published": "Fri, 26 Jun 2026 21:51:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "published": "Fri, 26 Jun 2026 19:27:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "published": "Fri, 26 Jun 2026 19:23:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "published": "Fri, 26 Jun 2026 18:01:56 +0530",
       "source": "The Hacker News"
     },
     {
