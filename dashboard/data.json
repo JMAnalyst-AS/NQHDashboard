@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-30T22:17:08.843898Z",
+  "generated_at": "2026-06-30T23:43:55.280149Z",
   "segment1": [
+    {
+      "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
+      "url": "https://databreaches.net/2026/06/30/uk-journalists-and-ngos-risk-terrorism-prosecutions-under-new-security-bill/?pk_campaign=feed&pk_kwd=uk-journalists-and-ngos-risk-terrorism-prosecutions-under-new-security-bill",
+      "published": "Tue, 30 Jun 2026 21:22:32 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Kaspersky Lab experts have discovered a new attack vector and toolkit for compromising corporate Gmail accounts",
       "url": "https://databreaches.net/2026/06/30/kaspersky-lab-experts-have-discovered-a-new-attack-vector-and-toolkit-for-compromising-corporate-gmail-accounts/?pk_campaign=feed&pk_kwd=kaspersky-lab-experts-have-discovered-a-new-attack-vector-and-toolkit-for-compromising-corporate-gmail-accounts",
@@ -53,17 +59,17 @@
       "title": "Central Bank of Libya investigates alleged data leak after cyberattack",
       "url": "https://databreaches.net/2026/06/29/central-bank-of-libya-investigates-alleged-data-leak-after-cyberattack/?pk_campaign=feed&pk_kwd=central-bank-of-libya-investigates-alleged-data-leak-after-cyberattack",
       "published": "Mon, 29 Jun 2026 12:54:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ZA: Copying the wrong person on an email could be considered a data breach in South Africa",
-      "url": "https://databreaches.net/2026/06/29/za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa/?pk_campaign=feed&pk_kwd=za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa",
-      "published": "Mon, 29 Jun 2026 12:54:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
+      "url": "https://databreaches.net/2026/06/30/uk-journalists-and-ngos-risk-terrorism-prosecutions-under-new-security-bill/?pk_campaign=feed&pk_kwd=uk-journalists-and-ngos-risk-terrorism-prosecutions-under-new-security-bill",
+      "published": "Tue, 30 Jun 2026 21:22:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Kaspersky Lab experts have discovered a new attack vector and toolkit for compromising corporate Gmail accounts",
       "url": "https://databreaches.net/2026/06/30/kaspersky-lab-experts-have-discovered-a-new-attack-vector-and-toolkit-for-compromising-corporate-gmail-accounts/?pk_campaign=feed&pk_kwd=kaspersky-lab-experts-have-discovered-a-new-attack-vector-and-toolkit-for-compromising-corporate-gmail-accounts",
       "published": "Tue, 30 Jun 2026 16:00:05 +0000",
@@ -115,12 +121,6 @@
       "title": "Central Bank of Libya investigates alleged data leak after cyberattack",
       "url": "https://databreaches.net/2026/06/29/central-bank-of-libya-investigates-alleged-data-leak-after-cyberattack/?pk_campaign=feed&pk_kwd=central-bank-of-libya-investigates-alleged-data-leak-after-cyberattack",
       "published": "Mon, 29 Jun 2026 12:54:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ZA: Copying the wrong person on an email could be considered a data breach in South Africa",
-      "url": "https://databreaches.net/2026/06/29/za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa/?pk_campaign=feed&pk_kwd=za-copying-the-wrong-person-on-an-email-could-be-considered-a-data-breach-in-south-africa",
-      "published": "Mon, 29 Jun 2026 12:54:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
+      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New BioShocking attack manipulates AI browser into data theft",
@@ -267,12 +273,6 @@
       "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
       "published": "Mon, 29 Jun 2026 13:11:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-      "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-      "published": "Mon, 29 Jun 2026 11:09:43 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
+      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New BioShocking attack manipulates AI browser into data theft",
       "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
       "published": "Tue, 30 Jun 2026 17:50:24 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
       "published": "Mon, 29 Jun 2026 13:11:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-      "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-      "published": "Mon, 29 Jun 2026 11:09:43 -0400",
       "source": "BleepingComputer"
     },
     {
