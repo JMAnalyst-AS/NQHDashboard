@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T18:55:33.811971Z",
+  "generated_at": "2026-06-30T20:56:41.328838Z",
   "segment1": [
     {
       "title": "Kaspersky Lab experts have discovered a new attack vector and toolkit for compromising corporate Gmail accounts",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
       "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
       "published": "Tue, 30 Jun 2026 21:17:20 +0530",
@@ -381,18 +393,6 @@
       "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
       "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
       "published": "Mon, 29 Jun 2026 17:10:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
       "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
       "published": "Tue, 30 Jun 2026 21:17:20 +0530",
@@ -713,18 +725,6 @@
       "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
       "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
       "published": "Mon, 29 Jun 2026 17:10:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
       "source": "The Hacker News"
     },
     {
