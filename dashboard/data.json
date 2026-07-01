@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T21:05:58.014077Z",
+  "generated_at": "2026-07-01T22:46:30.052317Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "published": "Wed, 01 Jul 2026 17:37:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kubota says hackers had month-long access to network systems",
+      "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "published": "Wed, 01 Jul 2026 17:09:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "published": "Wed, 01 Jul 2026 16:08:13 -0400",
@@ -261,18 +273,6 @@
       "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
       "published": "Tue, 30 Jun 2026 17:20:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "published": "Tue, 30 Jun 2026 17:02:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "published": "Tue, 30 Jun 2026 11:46:19 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "published": "Wed, 01 Jul 2026 17:37:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kubota says hackers had month-long access to network systems",
+      "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "published": "Wed, 01 Jul 2026 17:09:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "published": "Wed, 01 Jul 2026 16:08:13 -0400",
@@ -593,18 +605,6 @@
       "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
       "published": "Tue, 30 Jun 2026 17:20:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "published": "Tue, 30 Jun 2026 17:02:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "published": "Tue, 30 Jun 2026 11:46:19 -0400",
       "source": "BleepingComputer"
     },
     {
