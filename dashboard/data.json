@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T11:37:40.419414Z",
+  "generated_at": "2026-07-01T14:35:38.338010Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "published": "Wed, 01 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "published": "Wed, 01 Jul 2026 08:30:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
       "published": "Wed, 01 Jul 2026 06:52:26 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "published": "Wed, 01 Jul 2026 19:26:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "published": "Tue, 30 Jun 2026 04:53:13 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "published": "Wed, 01 Jul 2026 18:29:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "url": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
@@ -375,24 +393,6 @@
       "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
       "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
       "published": "Tue, 30 Jun 2026 13:08:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "published": "Tue, 30 Jun 2026 10:34:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-      "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
-      "published": "Mon, 29 Jun 2026 21:39:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "published": "Mon, 29 Jun 2026 21:10:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "published": "Wed, 01 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "published": "Wed, 01 Jul 2026 08:30:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
       "published": "Wed, 01 Jul 2026 06:52:26 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "published": "Wed, 01 Jul 2026 19:26:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "published": "Tue, 30 Jun 2026 04:53:13 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "published": "Wed, 01 Jul 2026 18:29:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "url": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
@@ -707,24 +725,6 @@
       "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
       "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
       "published": "Tue, 30 Jun 2026 13:08:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "published": "Tue, 30 Jun 2026 10:34:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-      "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
-      "published": "Mon, 29 Jun 2026 21:39:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "published": "Mon, 29 Jun 2026 21:10:00 +0530",
       "source": "The Hacker News"
     },
     {
