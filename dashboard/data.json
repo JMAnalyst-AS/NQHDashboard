@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T03:55:33.674883Z",
+  "generated_at": "2026-07-01T08:14:30.426590Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic to restore Claude Fable access on Wednesday",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
       "published": "Tue, 30 Jun 2026 20:35:14 -0400",
@@ -270,10 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "published": "Mon, 29 Jun 2026 13:48:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "published": "Wed, 01 Jul 2026 11:16:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "published": "Wed, 01 Jul 2026 11:02:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
@@ -363,36 +393,6 @@
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
       "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
       "published": "Mon, 29 Jun 2026 21:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "published": "Mon, 29 Jun 2026 20:33:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "published": "Mon, 29 Jun 2026 20:11:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "url": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "published": "Mon, 29 Jun 2026 17:27:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic to restore Claude Fable access on Wednesday",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
       "published": "Tue, 30 Jun 2026 20:35:14 -0400",
@@ -602,10 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "published": "Mon, 29 Jun 2026 13:48:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "published": "Wed, 01 Jul 2026 11:16:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "published": "Wed, 01 Jul 2026 11:02:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
@@ -695,36 +725,6 @@
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
       "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
       "published": "Mon, 29 Jun 2026 21:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "published": "Mon, 29 Jun 2026 20:33:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "published": "Mon, 29 Jun 2026 20:11:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "url": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "published": "Mon, 29 Jun 2026 17:27:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
       "source": "The Hacker News"
     },
     {
