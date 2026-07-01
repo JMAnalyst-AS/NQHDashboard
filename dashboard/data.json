@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:14:30.426590Z",
+  "generated_at": "2026-07-01T11:37:40.419414Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "published": "Wed, 01 Jul 2026 06:52:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
       "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
       "published": "Wed, 01 Jul 2026 03:34:52 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "published": "Mon, 29 Jun 2026 16:40:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "published": "Mon, 29 Jun 2026 16:30:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
@@ -387,12 +393,6 @@
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
       "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "published": "Mon, 29 Jun 2026 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "published": "Mon, 29 Jun 2026 21:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "published": "Wed, 01 Jul 2026 06:52:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
       "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
       "published": "Wed, 01 Jul 2026 03:34:52 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "published": "Mon, 29 Jun 2026 16:40:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "published": "Mon, 29 Jun 2026 16:30:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
@@ -719,12 +725,6 @@
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
       "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "published": "Mon, 29 Jun 2026 21:10:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "published": "Mon, 29 Jun 2026 21:00:00 +0530",
       "source": "The Hacker News"
     },
     {
