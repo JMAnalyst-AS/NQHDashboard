@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T19:17:22.472921Z",
+  "generated_at": "2026-07-01T21:05:58.014077Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DHS confirms hackers breached HSIN info-sharing platform",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
       "published": "Wed, 01 Jul 2026 13:32:22 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "published": "Tue, 30 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
@@ -381,18 +393,6 @@
       "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
       "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
       "published": "Tue, 30 Jun 2026 21:10:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "published": "Tue, 30 Jun 2026 19:56:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "published": "Tue, 30 Jun 2026 19:19:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DHS confirms hackers breached HSIN info-sharing platform",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
       "published": "Wed, 01 Jul 2026 13:32:22 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "published": "Tue, 30 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
@@ -713,18 +725,6 @@
       "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
       "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
       "published": "Tue, 30 Jun 2026 21:10:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "published": "Tue, 30 Jun 2026 19:56:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "published": "Tue, 30 Jun 2026 19:19:34 +0530",
       "source": "The Hacker News"
     },
     {
