@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:35:38.338010Z",
+  "generated_at": "2026-07-01T17:12:56.809081Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "published": "Wed, 01 Jul 2026 12:54:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "published": "Wed, 01 Jul 2026 12:38:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
       "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
       "published": "Wed, 01 Jul 2026 10:01:11 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft adds smarter bot protection to Teams meetings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-      "published": "Tue, 30 Jun 2026 06:52:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "published": "Tue, 30 Jun 2026 05:46:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "published": "Wed, 01 Jul 2026 20:55:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "published": "Wed, 01 Jul 2026 20:12:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
@@ -375,24 +393,6 @@
       "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
       "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
       "published": "Tue, 30 Jun 2026 16:48:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-      "published": "Tue, 30 Jun 2026 13:08:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "published": "Wed, 01 Jul 2026 12:54:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "published": "Wed, 01 Jul 2026 12:38:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
       "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
       "published": "Wed, 01 Jul 2026 10:01:11 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft adds smarter bot protection to Teams meetings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-      "published": "Tue, 30 Jun 2026 06:52:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "published": "Tue, 30 Jun 2026 05:46:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "published": "Wed, 01 Jul 2026 20:55:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "published": "Wed, 01 Jul 2026 20:12:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
@@ -707,24 +725,6 @@
       "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
       "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
       "published": "Tue, 30 Jun 2026 16:48:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-      "published": "Tue, 30 Jun 2026 13:08:07 +0530",
       "source": "The Hacker News"
     },
     {
