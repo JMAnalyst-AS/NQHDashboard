@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T04:39:14.188538Z",
+  "generated_at": "2026-07-02T08:10:48.344774Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
       "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
       "published": "Thu, 02 Jul 2026 01:10:06 +0530",
@@ -324,7 +336,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "published": "Wed, 01 Jul 2026 18:29:19 +0530",
       "source": "The Hacker News"
@@ -381,18 +393,6 @@
       "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
       "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
       "published": "Tue, 30 Jun 2026 23:15:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "published": "Tue, 30 Jun 2026 21:17:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "published": "Tue, 30 Jun 2026 21:10:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
       "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
       "published": "Thu, 02 Jul 2026 01:10:06 +0530",
@@ -656,7 +668,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "published": "Wed, 01 Jul 2026 18:29:19 +0530",
       "source": "The Hacker News"
@@ -713,18 +725,6 @@
       "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
       "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
       "published": "Tue, 30 Jun 2026 23:15:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "published": "Tue, 30 Jun 2026 21:17:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "published": "Tue, 30 Jun 2026 21:10:18 +0530",
       "source": "The Hacker News"
     },
     {
