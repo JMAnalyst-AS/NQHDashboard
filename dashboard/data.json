@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T19:24:18.200015Z",
+  "generated_at": "2026-07-02T20:41:04.835598Z",
   "segment1": [
     {
       "title": "Global Schools Holdings Cites Two Injunctions in a Bid to Chill Our Reporting. It Won’t Work.",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
@@ -177,12 +183,6 @@
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
       "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -274,6 +274,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
       "published": "Wed, 01 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "published": "Fri, 03 Jul 2026 00:24:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
@@ -381,18 +393,6 @@
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
       "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
       "published": "Wed, 01 Jul 2026 16:11:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
@@ -509,12 +515,6 @@
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
       "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -606,6 +606,18 @@
       "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
       "published": "Wed, 01 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "published": "Fri, 03 Jul 2026 00:24:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
@@ -713,18 +725,6 @@
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
       "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
       "published": "Wed, 01 Jul 2026 16:11:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
       "source": "The Hacker News"
     },
     {
