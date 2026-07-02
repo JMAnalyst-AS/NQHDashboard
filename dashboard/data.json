@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T08:10:48.344774Z",
+  "generated_at": "2026-07-02T11:06:17.585945Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
       "published": "Thu, 02 Jul 2026 00:25:42 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "published": "Tue, 30 Jun 2026 20:35:14 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -381,18 +393,6 @@
       "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
       "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "published": "Wed, 01 Jul 2026 09:24:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
       "published": "Thu, 02 Jul 2026 00:25:42 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "published": "Tue, 30 Jun 2026 20:35:14 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
-      "source": "BleepingComputer"
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -713,18 +725,6 @@
       "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
       "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "published": "Wed, 01 Jul 2026 09:24:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
       "source": "The Hacker News"
     },
     {
