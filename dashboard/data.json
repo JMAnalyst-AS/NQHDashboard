@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:06:17.585945Z",
+  "generated_at": "2026-07-02T13:16:06.029229Z",
   "segment1": [
     {
       "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "published": "Thu, 02 Jul 2026 08:15:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "published": "Thu, 02 Jul 2026 07:35:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
       "published": "Thu, 02 Jul 2026 06:52:43 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "url": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "published": "Thu, 02 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
@@ -387,12 +393,6 @@
       "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
       "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
       "published": "Wed, 01 Jul 2026 11:02:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "published": "Thu, 02 Jul 2026 08:15:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "published": "Thu, 02 Jul 2026 07:35:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
       "published": "Thu, 02 Jul 2026 06:52:43 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "url": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "published": "Thu, 02 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
@@ -719,12 +725,6 @@
       "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
       "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
       "published": "Wed, 01 Jul 2026 11:02:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
       "source": "The Hacker News"
     },
     {
