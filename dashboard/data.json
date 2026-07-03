@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-03T20:39:20.465271Z",
+  "generated_at": "2026-07-03T22:03:51.156014Z",
   "segment1": [
+    {
+      "title": "An AI just carried out a cyber attack without any human oversight for the first time",
+      "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
+      "published": "Fri, 03 Jul 2026 20:15:26 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
       "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
@@ -53,17 +59,17 @@
       "title": "NI: Updated warning to parents over schools cyber attack",
       "url": "https://databreaches.net/2026/06/29/ni-updated-warning-to-parents-over-schools-cyber-attack/?pk_campaign=feed&pk_kwd=ni-updated-warning-to-parents-over-schools-cyber-attack",
       "published": "Mon, 29 Jun 2026 18:16:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "MOVEit Breach Defendants Lose 2nd Bid to Toss Negligence Claims",
-      "url": "https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims",
-      "published": "Mon, 29 Jun 2026 17:56:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "An AI just carried out a cyber attack without any human oversight for the first time",
+      "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
+      "published": "Fri, 03 Jul 2026 20:15:26 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
       "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
       "published": "Fri, 03 Jul 2026 12:20:08 +0000",
@@ -115,12 +121,6 @@
       "title": "NI: Updated warning to parents over schools cyber attack",
       "url": "https://databreaches.net/2026/06/29/ni-updated-warning-to-parents-over-schools-cyber-attack/?pk_campaign=feed&pk_kwd=ni-updated-warning-to-parents-over-schools-cyber-attack",
       "published": "Mon, 29 Jun 2026 18:16:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "MOVEit Breach Defendants Lose 2nd Bid to Toss Negligence Claims",
-      "url": "https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims",
-      "published": "Mon, 29 Jun 2026 17:56:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "published": "Sat, 04 Jul 2026 01:49:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
       "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
       "published": "Sat, 04 Jul 2026 01:10:01 +0530",
@@ -387,12 +393,6 @@
       "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
       "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "published": "Wed, 01 Jul 2026 22:48:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "published": "Sat, 04 Jul 2026 01:49:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
       "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
       "published": "Sat, 04 Jul 2026 01:10:01 +0530",
@@ -719,12 +725,6 @@
       "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
       "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "published": "Wed, 01 Jul 2026 22:48:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
       "source": "The Hacker News"
     },
     {
