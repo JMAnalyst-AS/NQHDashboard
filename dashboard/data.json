@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T16:23:41.524133Z",
+  "generated_at": "2026-07-03T17:56:26.238242Z",
   "segment1": [
     {
       "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
       "published": "Fri, 03 Jul 2026 10:12:22 -0400",
@@ -267,12 +273,6 @@
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "published": "Wed, 01 Jul 2026 13:32:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
       "published": "Fri, 03 Jul 2026 10:12:22 -0400",
@@ -599,12 +605,6 @@
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "published": "Wed, 01 Jul 2026 13:32:22 -0400",
       "source": "BleepingComputer"
     },
     {
