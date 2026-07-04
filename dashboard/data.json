@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-04T12:43:55.792340Z",
+  "generated_at": "2026-07-04T14:36:56.843234Z",
   "segment1": [
+    {
+      "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
+      "url": "https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data",
+      "published": "Sat, 04 Jul 2026 12:01:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "An AI just carried out a cyber attack without any human oversight for the first time",
       "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
@@ -53,17 +59,17 @@
       "title": "EXCLUSIVE: Top-100 Law Firm Fox Rothschild Suffers Data Breach and Leak by Silent Ransom Group",
       "url": "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
       "published": "Mon, 29 Jun 2026 22:13:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NI: Updated warning to parents over schools cyber attack",
-      "url": "https://databreaches.net/2026/06/29/ni-updated-warning-to-parents-over-schools-cyber-attack/?pk_campaign=feed&pk_kwd=ni-updated-warning-to-parents-over-schools-cyber-attack",
-      "published": "Mon, 29 Jun 2026 18:16:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
+      "url": "https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data",
+      "published": "Sat, 04 Jul 2026 12:01:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "An AI just carried out a cyber attack without any human oversight for the first time",
       "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
       "published": "Fri, 03 Jul 2026 20:15:26 +0000",
@@ -115,12 +121,6 @@
       "title": "EXCLUSIVE: Top-100 Law Firm Fox Rothschild Suffers Data Breach and Leak by Silent Ransom Group",
       "url": "https://databreaches.net/2026/06/29/exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group/?pk_campaign=feed&pk_kwd=exclusive-top-100-law-firm-fox-rothschild-suffers-data-breach-and-leak-by-silent-ransom-group",
       "published": "Mon, 29 Jun 2026 22:13:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NI: Updated warning to parents over schools cyber attack",
-      "url": "https://databreaches.net/2026/06/29/ni-updated-warning-to-parents-over-schools-cyber-attack/?pk_campaign=feed&pk_kwd=ni-updated-warning-to-parents-over-schools-cyber-attack",
-      "published": "Mon, 29 Jun 2026 18:16:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
       "published": "Mon, 18 May 2026 20:48:21 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-      "source": "BleepingComputer"
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -387,12 +393,6 @@
       "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
       "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
       "published": "Thu, 02 Jul 2026 00:58:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "published": "Wed, 01 Jul 2026 23:23:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
       "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
       "published": "Fri, 03 Jul 2026 13:50:04 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-      "source": "BleepingComputer"
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -719,12 +725,6 @@
       "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
       "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
       "published": "Thu, 02 Jul 2026 00:58:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "published": "Wed, 01 Jul 2026 23:23:06 +0530",
       "source": "The Hacker News"
     },
     {
