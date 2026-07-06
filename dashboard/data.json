@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:23:34.051518Z",
+  "generated_at": "2026-07-06T21:54:39.124479Z",
   "segment1": [
     {
       "title": "Alberta, Centurion Project sued over alleged data breach that affected millions of voters",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
       "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
       "published": "Mon, 06 Jul 2026 14:25:06 -0400",
@@ -261,18 +273,6 @@
       "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
       "published": "Thu, 02 Jul 2026 07:35:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
       "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
       "published": "Mon, 06 Jul 2026 14:25:06 -0400",
@@ -593,18 +605,6 @@
       "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
       "published": "Thu, 02 Jul 2026 07:35:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
       "source": "BleepingComputer"
     },
     {
