@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T03:33:39.446134Z",
+  "generated_at": "2026-07-06T08:20:09.653054Z",
   "segment1": [
     {
       "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
       "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
       "published": "Sat, 04 Jul 2026 18:17:53 +0530",
@@ -381,18 +393,6 @@
       "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
       "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
       "published": "Thu, 02 Jul 2026 11:16:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
       "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
       "published": "Sat, 04 Jul 2026 18:17:53 +0530",
@@ -713,18 +725,6 @@
       "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
       "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
       "published": "Thu, 02 Jul 2026 11:16:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
       "source": "The Hacker News"
     },
     {
