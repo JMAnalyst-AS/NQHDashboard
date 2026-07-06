@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T08:20:09.653054Z",
+  "generated_at": "2026-07-06T12:23:17.481084Z",
   "segment1": [
     {
       "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
@@ -276,6 +276,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
       "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
       "published": "Mon, 06 Jul 2026 12:57:50 +0530",
@@ -372,30 +396,6 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
       "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
       "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
       "published": "Tue, 30 Jun 2026 08:25:31 +0000",
@@ -417,6 +417,12 @@
       "title": "How to Use AI to Help Find Civilian Harm",
       "url": "https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/",
       "published": "Thu, 25 Jun 2026 13:59:13 +0000",
+      "source": "bellingcat"
+    },
+    {
+      "title": "Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook",
+      "url": "https://www.bellingcat.com/news/2026/06/24/rhino-horn-leopard-skin-and-tiger-claws-sold-openly-on-facebook/",
+      "published": "Wed, 24 Jun 2026 12:05:00 +0000",
       "source": "bellingcat"
     },
     {
@@ -447,12 +453,6 @@
       "title": "Banned Russian Submunitions Found After Mali’s Military Announces Airstrikes",
       "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/",
       "published": "Tue, 26 May 2026 17:01:39 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Shows Ongoing Demolitions Across Southern Lebanon",
-      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/",
-      "published": "Thu, 14 May 2026 09:39:28 +0000",
       "source": "bellingcat"
     }
   ],
@@ -608,6 +608,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
       "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
       "published": "Mon, 06 Jul 2026 12:57:50 +0530",
@@ -704,30 +728,6 @@
       "source": "The Hacker News"
     },
     {
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
       "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
       "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
       "published": "Tue, 30 Jun 2026 08:25:31 +0000",
@@ -749,6 +749,12 @@
       "title": "How to Use AI to Help Find Civilian Harm",
       "url": "https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/",
       "published": "Thu, 25 Jun 2026 13:59:13 +0000",
+      "source": "bellingcat"
+    },
+    {
+      "title": "Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook",
+      "url": "https://www.bellingcat.com/news/2026/06/24/rhino-horn-leopard-skin-and-tiger-claws-sold-openly-on-facebook/",
+      "published": "Wed, 24 Jun 2026 12:05:00 +0000",
       "source": "bellingcat"
     },
     {
@@ -779,12 +785,6 @@
       "title": "Banned Russian Submunitions Found After Mali’s Military Announces Airstrikes",
       "url": "https://www.bellingcat.com/news/africa/2026/05/26/banned-russian-submunitions-found-after-malis-military-announces-airstrikes/",
       "published": "Tue, 26 May 2026 17:01:39 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Shows Ongoing Demolitions Across Southern Lebanon",
-      "url": "https://www.bellingcat.com/news/2026/05/14/satellite-imagery-shows-ongoing-demolitions-across-southern-lebanon/",
-      "published": "Thu, 14 May 2026 09:39:28 +0000",
       "source": "bellingcat"
     }
   ]
