@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T18:17:08.989059Z",
+  "generated_at": "2026-07-06T20:23:34.051518Z",
   "segment1": [
     {
       "title": "Alberta, Centurion Project sued over alleged data breach that affected millions of voters",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
       "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
       "published": "Mon, 06 Jul 2026 10:00:10 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "published": "Mon, 06 Jul 2026 23:07:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
@@ -381,18 +393,6 @@
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
       "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
       "published": "Fri, 03 Jul 2026 00:24:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "published": "Thu, 02 Jul 2026 20:54:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
       "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
       "published": "Mon, 06 Jul 2026 10:00:10 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "published": "Mon, 06 Jul 2026 23:07:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
@@ -713,18 +725,6 @@
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
       "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
       "published": "Fri, 03 Jul 2026 00:24:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "published": "Thu, 02 Jul 2026 20:54:18 +0530",
       "source": "The Hacker News"
     },
     {
