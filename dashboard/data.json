@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T15:25:54.735471Z",
+  "generated_at": "2026-07-07T17:32:35.228861Z",
   "segment1": [
     {
       "title": "Bojangles sued again by workers over Russian hacker data breach. NC judge weighs in",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "published": "Tue, 07 Jul 2026 13:27:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
       "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
       "published": "Tue, 07 Jul 2026 11:21:21 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
-      "source": "BleepingComputer"
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
@@ -387,12 +393,6 @@
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
       "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
       "published": "Sat, 04 Jul 2026 16:47:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "published": "Sat, 04 Jul 2026 01:49:31 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "published": "Tue, 07 Jul 2026 13:27:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
       "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
       "published": "Tue, 07 Jul 2026 11:21:21 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
-      "source": "BleepingComputer"
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
@@ -719,12 +725,6 @@
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
       "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
       "published": "Sat, 04 Jul 2026 16:47:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "published": "Sat, 04 Jul 2026 01:49:31 +0530",
       "source": "The Hacker News"
     },
     {
