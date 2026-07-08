@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:12:06.706687Z",
+  "generated_at": "2026-07-08T09:05:50.917398Z",
   "segment1": [
     {
       "title": "Washington Dept. of Social and Health Services announces massive data breach",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "published": "Wed, 08 Jul 2026 03:16:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
       "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
       "published": "Tue, 07 Jul 2026 18:06:07 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-      "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-      "published": "Mon, 06 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 06 Jul 2026 09:18:37 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
@@ -381,18 +393,6 @@
       "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
       "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
       "published": "Mon, 06 Jul 2026 13:43:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "published": "Wed, 08 Jul 2026 03:16:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
       "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
       "published": "Tue, 07 Jul 2026 18:06:07 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-      "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-      "published": "Mon, 06 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 06 Jul 2026 09:18:37 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
@@ -713,18 +725,6 @@
       "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
       "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
       "published": "Mon, 06 Jul 2026 13:43:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
       "source": "The Hacker News"
     },
     {
