@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-08T20:43:03.165544Z",
+  "generated_at": "2026-07-08T22:05:13.909098Z",
   "segment1": [
+    {
+      "title": "Uniondale Union Free School District – Audit Follow-Up by New York State Comptroller (2023M-61-F)",
+      "url": "https://databreaches.net/2026/07/08/uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f/?pk_campaign=feed&pk_kwd=uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f",
+      "published": "Wed, 08 Jul 2026 19:27:53 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Patients Sue Healthcare Corporations Over Data Breaches, Sharing of Personal Information",
       "url": "https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information",
@@ -53,17 +59,17 @@
       "title": "An AI just carried out a cyber attack without any human oversight for the first time",
       "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
       "published": "Fri, 03 Jul 2026 20:15:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
-      "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
-      "published": "Fri, 03 Jul 2026 12:20:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Uniondale Union Free School District – Audit Follow-Up by New York State Comptroller (2023M-61-F)",
+      "url": "https://databreaches.net/2026/07/08/uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f/?pk_campaign=feed&pk_kwd=uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f",
+      "published": "Wed, 08 Jul 2026 19:27:53 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Patients Sue Healthcare Corporations Over Data Breaches, Sharing of Personal Information",
       "url": "https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information",
       "published": "Wed, 08 Jul 2026 15:31:58 +0000",
@@ -115,12 +121,6 @@
       "title": "An AI just carried out a cyber attack without any human oversight for the first time",
       "url": "https://databreaches.net/2026/07/03/an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time/?pk_campaign=feed&pk_kwd=an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-the-first-time",
       "published": "Fri, 03 Jul 2026 20:15:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
-      "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
-      "published": "Fri, 03 Jul 2026 12:20:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "published": "Thu, 21 May 2026 21:50:25 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
@@ -267,12 +273,6 @@
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
       "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
       "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "published": "Tue, 07 Jul 2026 08:12:20 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
       "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
       "published": "Wed, 08 Jul 2026 15:54:59 -0400",
@@ -599,12 +605,6 @@
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
       "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
       "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "published": "Tue, 07 Jul 2026 08:12:20 -0400",
       "source": "BleepingComputer"
     },
     {
