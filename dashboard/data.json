@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-08T15:40:48.218055Z",
+  "generated_at": "2026-07-08T17:36:03.207640Z",
   "segment1": [
+    {
+      "title": "Patients Sue Healthcare Corporations Over Data Breaches, Sharing of Personal Information",
+      "url": "https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information",
+      "published": "Wed, 08 Jul 2026 15:31:58 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Why Bangladesh’s new data protection law may fail to protect your data",
       "url": "https://databreaches.net/2026/07/08/why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data/?pk_campaign=feed&pk_kwd=why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data",
@@ -53,17 +59,17 @@
       "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
       "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
       "published": "Fri, 03 Jul 2026 12:20:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Global Schools Holdings Cites Two Injunctions in a Bid to Chill Our Reporting. It Won’t Work.",
-      "url": "https://databreaches.net/2026/07/02/global-schools-holdings-cites-two-injunctions-in-a-bid-to-chill-our-reporting-it-wont-work/?pk_campaign=feed&pk_kwd=global-schools-holdings-cites-two-injunctions-in-a-bid-to-chill-our-reporting-it-wont-work",
-      "published": "Thu, 02 Jul 2026 18:15:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Patients Sue Healthcare Corporations Over Data Breaches, Sharing of Personal Information",
+      "url": "https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information",
+      "published": "Wed, 08 Jul 2026 15:31:58 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Why Bangladesh’s new data protection law may fail to protect your data",
       "url": "https://databreaches.net/2026/07/08/why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data/?pk_campaign=feed&pk_kwd=why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data",
       "published": "Wed, 08 Jul 2026 15:23:34 +0000",
@@ -115,12 +121,6 @@
       "title": "HK: Shun Hing Group data breach affects 920,000 customers, 1.05m files encrypted in cyber attack",
       "url": "https://databreaches.net/2026/07/03/hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack/?pk_campaign=feed&pk_kwd=hk-shun-hing-group-data-breach-affects-920000-customers-1-05m-files-encrypted-in-cyber-attack",
       "published": "Fri, 03 Jul 2026 12:20:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Global Schools Holdings Cites Two Injunctions in a Bid to Chill Our Reporting. It Won’t Work.",
-      "url": "https://databreaches.net/2026/07/02/global-schools-holdings-cites-two-injunctions-in-a-bid-to-chill-our-reporting-it-wont-work/?pk_campaign=feed&pk_kwd=global-schools-holdings-cites-two-injunctions-in-a-bid-to-chill-our-reporting-it-wont-work",
-      "published": "Thu, 02 Jul 2026 18:15:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "published": "Thu, 21 May 2026 21:50:25 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
@@ -381,18 +393,6 @@
       "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
       "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
       "published": "Tue, 07 Jul 2026 12:10:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "published": "Tue, 07 Jul 2026 10:46:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
       "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
       "published": "Wed, 08 Jul 2026 10:01:11 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
@@ -713,18 +725,6 @@
       "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
       "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
       "published": "Tue, 07 Jul 2026 12:10:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "published": "Tue, 07 Jul 2026 10:46:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
       "source": "The Hacker News"
     },
     {
