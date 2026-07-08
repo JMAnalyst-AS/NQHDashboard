@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:21:56.917933Z",
+  "generated_at": "2026-07-08T13:02:50.492180Z",
   "segment1": [
     {
       "title": "Washington Dept. of Social and Health Services announces massive data breach",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
       "published": "Thu, 02 Jul 2026 19:27:33 +0000",
@@ -180,10 +186,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "url": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "published": "Wed, 08 Jul 2026 08:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
-      "source": "BleepingComputer"
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "url": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
@@ -375,24 +393,6 @@
       "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
       "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
       "published": "Mon, 06 Jul 2026 18:31:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
       "published": "Thu, 02 Jul 2026 19:27:33 +0000",
@@ -512,10 +518,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "source": "Krebs on Security"
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "url": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "published": "Wed, 08 Jul 2026 08:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
-      "source": "BleepingComputer"
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "url": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
@@ -707,24 +725,6 @@
       "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
       "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
       "published": "Mon, 06 Jul 2026 18:31:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
       "source": "The Hacker News"
     },
     {
