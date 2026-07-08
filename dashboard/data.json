@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:05:50.917398Z",
+  "generated_at": "2026-07-08T11:21:56.917933Z",
   "segment1": [
     {
       "title": "Washington Dept. of Social and Health Services announces massive data breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
       "published": "Wed, 08 Jul 2026 04:15:20 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
@@ -387,12 +393,6 @@
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
       "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
       "published": "Mon, 06 Jul 2026 14:20:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
       "published": "Wed, 08 Jul 2026 04:15:20 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
@@ -719,12 +725,6 @@
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
       "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
       "published": "Mon, 06 Jul 2026 14:20:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
       "source": "The Hacker News"
     },
     {
