@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-09T10:41:32.052972Z",
+  "generated_at": "2026-07-09T13:49:16.035394Z",
   "segment1": [
+    {
+      "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
+      "url": "https://databreaches.net/2026/07/09/two-arrests-this-week-in-unrelated-crimes-involved-japanese-teenagers-using-chatgpt-to-assist-in-their-crimes/?pk_campaign=feed&pk_kwd=two-arrests-this-week-in-unrelated-crimes-involved-japanese-teenagers-using-chatgpt-to-assist-in-their-crimes",
+      "published": "Thu, 09 Jul 2026 10:33:56 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Nayax investigating breach; The Syndicate claims it acquired 1 billion card records and other important data",
       "url": "https://databreaches.net/2026/07/08/nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data/?pk_campaign=feed&pk_kwd=nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data",
@@ -53,17 +59,17 @@
       "title": "Alberta, Centurion Project sued over alleged data breach that affected millions of voters",
       "url": "https://databreaches.net/2026/07/06/alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters/?pk_campaign=feed&pk_kwd=alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters",
       "published": "Mon, 06 Jul 2026 12:09:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
-      "url": "https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data",
-      "published": "Sat, 04 Jul 2026 12:01:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
+      "url": "https://databreaches.net/2026/07/09/two-arrests-this-week-in-unrelated-crimes-involved-japanese-teenagers-using-chatgpt-to-assist-in-their-crimes/?pk_campaign=feed&pk_kwd=two-arrests-this-week-in-unrelated-crimes-involved-japanese-teenagers-using-chatgpt-to-assist-in-their-crimes",
+      "published": "Thu, 09 Jul 2026 10:33:56 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Nayax investigating breach; The Syndicate claims it acquired 1 billion card records and other important data",
       "url": "https://databreaches.net/2026/07/08/nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data/?pk_campaign=feed&pk_kwd=nayax-investigating-breach-the-syndicate-claims-it-acquired-1-billion-card-records-and-other-important-data",
       "published": "Thu, 09 Jul 2026 01:01:55 +0000",
@@ -115,12 +121,6 @@
       "title": "Alberta, Centurion Project sued over alleged data breach that affected millions of voters",
       "url": "https://databreaches.net/2026/07/06/alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters/?pk_campaign=feed&pk_kwd=alberta-centurion-project-sued-over-alleged-data-breach-that-affected-millions-of-voters",
       "published": "Mon, 06 Jul 2026 12:09:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
-      "url": "https://databreaches.net/2026/07/04/adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data/?pk_campaign=feed&pk_kwd=adapthealth-says-attackers-sweet-talked-their-way-into-cloud-systems-and-stole-patient-data",
-      "published": "Sat, 04 Jul 2026 12:01:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "published": "Thu, 21 May 2026 21:50:25 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "published": "Thu, 09 Jul 2026 07:00:35 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "published": "Tue, 07 Jul 2026 14:52:19 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "url": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "published": "Thu, 09 Jul 2026 17:56:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Summer of Clearinghouses",
+      "url": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "published": "Thu, 09 Jul 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "url": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "published": "Thu, 09 Jul 2026 16:13:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
@@ -375,24 +393,6 @@
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
       "published": "Tue, 07 Jul 2026 22:40:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "published": "Tue, 07 Jul 2026 22:07:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "published": "Tue, 07 Jul 2026 19:34:50 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "published": "Thu, 09 Jul 2026 07:00:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
       "published": "Thu, 09 Jul 2026 05:47:28 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "published": "Tue, 07 Jul 2026 14:52:19 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "url": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "published": "Thu, 09 Jul 2026 17:56:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Summer of Clearinghouses",
+      "url": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "published": "Thu, 09 Jul 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "url": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "published": "Thu, 09 Jul 2026 16:13:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
@@ -707,24 +725,6 @@
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
       "published": "Tue, 07 Jul 2026 22:40:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "published": "Tue, 07 Jul 2026 22:07:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "published": "Tue, 07 Jul 2026 19:34:50 +0530",
       "source": "The Hacker News"
     },
     {
