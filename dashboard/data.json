@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T16:27:18.143200Z",
+  "generated_at": "2026-07-09T18:17:40.765926Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "published": "Thu, 09 Jul 2026 13:08:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "published": "Thu, 09 Jul 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
       "published": "Thu, 09 Jul 2026 10:39:51 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
-      "source": "BleepingComputer"
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "published": "Thu, 09 Jul 2026 22:19:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "published": "Thu, 09 Jul 2026 20:39:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
@@ -381,18 +393,6 @@
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
       "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
       "published": "Wed, 08 Jul 2026 11:46:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "published": "Tue, 07 Jul 2026 22:40:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "published": "Thu, 09 Jul 2026 13:08:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "published": "Thu, 09 Jul 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
       "published": "Thu, 09 Jul 2026 10:39:51 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
-      "source": "BleepingComputer"
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "published": "Thu, 09 Jul 2026 22:19:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "published": "Thu, 09 Jul 2026 20:39:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
@@ -713,18 +725,6 @@
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
       "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
       "published": "Wed, 08 Jul 2026 11:46:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "published": "Tue, 07 Jul 2026 22:40:15 +0530",
       "source": "The Hacker News"
     },
     {
