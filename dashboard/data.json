@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T18:17:40.765926Z",
+  "generated_at": "2026-07-09T20:18:25.883547Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "published": "Thu, 09 Jul 2026 16:10:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "published": "Thu, 09 Jul 2026 13:08:29 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "published": "Fri, 10 Jul 2026 00:08:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "published": "Thu, 09 Jul 2026 23:38:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
@@ -381,18 +393,6 @@
       "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
       "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
       "published": "Wed, 08 Jul 2026 16:51:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "published": "Thu, 09 Jul 2026 16:10:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "published": "Thu, 09 Jul 2026 13:08:29 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "published": "Fri, 10 Jul 2026 00:08:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "published": "Thu, 09 Jul 2026 23:38:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
@@ -713,18 +725,6 @@
       "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
       "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
       "published": "Wed, 08 Jul 2026 16:51:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
       "source": "The Hacker News"
     },
     {
