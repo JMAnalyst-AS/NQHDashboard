@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T03:18:07.530033Z",
+  "generated_at": "2026-07-09T07:00:20.353420Z",
   "segment1": [
     {
       "title": "Nayax investigating breach; The Syndicate claims it acquired 1 billion card records and other important data",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Mount Royal University confirms breach as hackers claim attack",
       "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
       "published": "Wed, 08 Jul 2026 17:26:59 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
@@ -375,24 +393,6 @@
       "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
       "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
       "published": "Tue, 07 Jul 2026 18:57:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "published": "Tue, 07 Jul 2026 12:10:47 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Mount Royal University confirms breach as hackers claim attack",
       "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
       "published": "Wed, 08 Jul 2026 17:26:59 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
@@ -707,24 +725,6 @@
       "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
       "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
       "published": "Tue, 07 Jul 2026 18:57:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "published": "Tue, 07 Jul 2026 12:10:47 +0530",
       "source": "The Hacker News"
     },
     {
