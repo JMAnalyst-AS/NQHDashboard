@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:11:20.384993Z",
+  "generated_at": "2026-07-10T17:17:58.470446Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "published": "Fri, 10 Jul 2026 12:37:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "published": "Fri, 10 Jul 2026 12:26:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "published": "Fri, 10 Jul 2026 11:48:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "published": "Fri, 10 Jul 2026 11:30:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
       "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
       "published": "Fri, 10 Jul 2026 10:00:10 -0400",
@@ -252,28 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "published": "Thu, 09 Jul 2026 03:47:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "published": "Fri, 10 Jul 2026 20:21:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
@@ -387,12 +393,6 @@
       "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
       "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
       "published": "Thu, 09 Jul 2026 10:45:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "published": "Fri, 10 Jul 2026 12:37:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "published": "Fri, 10 Jul 2026 12:26:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "published": "Fri, 10 Jul 2026 11:48:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "published": "Fri, 10 Jul 2026 11:30:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
       "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
       "published": "Fri, 10 Jul 2026 10:00:10 -0400",
@@ -584,28 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "published": "Thu, 09 Jul 2026 03:47:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "published": "Fri, 10 Jul 2026 20:21:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
@@ -719,12 +725,6 @@
       "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
       "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
       "published": "Thu, 09 Jul 2026 10:45:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
       "source": "The Hacker News"
     },
     {
