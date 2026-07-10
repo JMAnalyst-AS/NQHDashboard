@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:34:42.053868Z",
+  "generated_at": "2026-07-10T12:24:50.284335Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "published": "Fri, 10 Jul 2026 07:47:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
       "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
       "published": "Fri, 10 Jul 2026 04:17:52 -0400",
@@ -270,10 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "published": "Fri, 10 Jul 2026 17:17:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "published": "Fri, 10 Jul 2026 17:09:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "published": "Fri, 10 Jul 2026 17:00:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "published": "Fri, 10 Jul 2026 16:26:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "published": "Fri, 10 Jul 2026 16:00:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
@@ -363,36 +393,6 @@
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
       "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
       "published": "Wed, 08 Jul 2026 22:32:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "published": "Wed, 08 Jul 2026 20:08:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-      "url": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-      "published": "Wed, 08 Jul 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "url": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "published": "Wed, 08 Jul 2026 18:22:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "published": "Fri, 10 Jul 2026 07:47:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
       "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
       "published": "Fri, 10 Jul 2026 04:17:52 -0400",
@@ -602,10 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "published": "Fri, 10 Jul 2026 17:17:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "published": "Fri, 10 Jul 2026 17:09:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "published": "Fri, 10 Jul 2026 17:00:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "published": "Fri, 10 Jul 2026 16:26:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "published": "Fri, 10 Jul 2026 16:00:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
@@ -695,36 +725,6 @@
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
       "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
       "published": "Wed, 08 Jul 2026 22:32:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "published": "Wed, 08 Jul 2026 20:08:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-      "url": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-      "published": "Wed, 08 Jul 2026 18:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "url": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "published": "Wed, 08 Jul 2026 18:22:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
       "source": "The Hacker News"
     },
     {
