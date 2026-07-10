@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T17:17:58.470446Z",
+  "generated_at": "2026-07-10T19:00:11.106761Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "published": "Fri, 10 Jul 2026 13:46:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police suspects Dutch hackers were involved in Odido breach",
       "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
       "published": "Fri, 10 Jul 2026 12:37:01 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "published": "Thu, 09 Jul 2026 05:47:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "published": "Fri, 10 Jul 2026 22:59:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
@@ -381,18 +393,6 @@
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
       "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
       "published": "Thu, 09 Jul 2026 14:18:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-      "published": "Thu, 09 Jul 2026 12:51:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "published": "Fri, 10 Jul 2026 13:46:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police suspects Dutch hackers were involved in Odido breach",
       "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
       "published": "Fri, 10 Jul 2026 12:37:01 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "published": "Thu, 09 Jul 2026 05:47:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "published": "Fri, 10 Jul 2026 22:59:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
@@ -713,18 +725,6 @@
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
       "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
       "published": "Thu, 09 Jul 2026 14:18:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-      "published": "Thu, 09 Jul 2026 12:51:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
       "source": "The Hacker News"
     },
     {
