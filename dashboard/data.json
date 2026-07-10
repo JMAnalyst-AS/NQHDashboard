@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:24:50.284335Z",
+  "generated_at": "2026-07-10T15:11:20.384993Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "published": "Fri, 10 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zimbra urges customers to patch critical web client XSS flaw",
       "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "published": "Fri, 10 Jul 2026 07:47:38 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "published": "Wed, 08 Jul 2026 14:56:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "published": "Fri, 10 Jul 2026 19:49:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "published": "Fri, 10 Jul 2026 18:45:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
@@ -306,7 +318,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "published": "Fri, 10 Jul 2026 14:30:05 +0530",
       "source": "The Hacker News"
@@ -381,18 +393,6 @@
       "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
       "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
       "published": "Thu, 09 Jul 2026 09:57:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "published": "Fri, 10 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zimbra urges customers to patch critical web client XSS flaw",
       "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "published": "Fri, 10 Jul 2026 07:47:38 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "published": "Wed, 08 Jul 2026 14:56:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "published": "Fri, 10 Jul 2026 19:49:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "published": "Fri, 10 Jul 2026 18:45:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
@@ -638,7 +650,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "published": "Fri, 10 Jul 2026 14:30:05 +0530",
       "source": "The Hacker News"
@@ -713,18 +725,6 @@
       "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
       "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
       "published": "Thu, 09 Jul 2026 09:57:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
       "source": "The Hacker News"
     },
     {
