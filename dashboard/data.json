@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:34:37.863855Z",
+  "generated_at": "2026-07-10T09:34:42.053868Z",
   "segment1": [
     {
       "title": "Two arrests this week in unrelated crimes involved Japanese teenagers using ChatGPT to assist in their crimes",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "published": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
       "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
       "published": "Thu, 09 Jul 2026 18:14:13 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "published": "Wed, 08 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "published": "Fri, 10 Jul 2026 14:30:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "published": "Fri, 10 Jul 2026 13:40:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -381,18 +393,6 @@
       "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
       "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
       "published": "Wed, 08 Jul 2026 17:21:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "url": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "published": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
       "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
       "published": "Thu, 09 Jul 2026 18:14:13 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "published": "Wed, 08 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "published": "Fri, 10 Jul 2026 14:30:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "published": "Fri, 10 Jul 2026 13:40:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -713,18 +725,6 @@
       "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
       "url": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
       "published": "Wed, 08 Jul 2026 17:21:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "url": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
       "source": "The Hacker News"
     },
     {
