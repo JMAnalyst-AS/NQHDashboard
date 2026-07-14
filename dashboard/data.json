@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-14T16:14:26.483553Z",
+  "generated_at": "2026-07-14T17:40:16.874882Z",
   "segment1": [
+    {
+      "title": "Doxbin admin jailed for egging on swatters from behind a screen",
+      "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
+      "published": "Tue, 14 Jul 2026 17:26:57 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "VPN service favored by ransomware groups is sanctioned by US",
       "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
@@ -53,17 +59,17 @@
       "title": "TikTok class action alleges data breach affected 2.4B users",
       "url": "https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users",
       "published": "Sat, 11 Jul 2026 12:56:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch police trace Odido telco cyberattack to suspected local accomplice; May leak voice recording",
-      "url": "https://databreaches.net/2026/07/11/dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording/?pk_campaign=feed&pk_kwd=dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording",
-      "published": "Sat, 11 Jul 2026 12:51:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Doxbin admin jailed for egging on swatters from behind a screen",
+      "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
+      "published": "Tue, 14 Jul 2026 17:26:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "VPN service favored by ransomware groups is sanctioned by US",
       "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
       "published": "Mon, 13 Jul 2026 21:15:31 +0000",
@@ -115,12 +121,6 @@
       "title": "TikTok class action alleges data breach affected 2.4B users",
       "url": "https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users",
       "published": "Sat, 11 Jul 2026 12:56:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch police trace Odido telco cyberattack to suspected local accomplice; May leak voice recording",
-      "url": "https://databreaches.net/2026/07/11/dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording/?pk_campaign=feed&pk_kwd=dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording",
-      "published": "Sat, 11 Jul 2026 12:51:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "published": "Tue, 14 Jul 2026 22:22:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
       "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
       "published": "Tue, 14 Jul 2026 19:18:07 +0530",
@@ -387,12 +393,6 @@
       "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
       "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
       "published": "Mon, 13 Jul 2026 11:06:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "published": "Tue, 14 Jul 2026 22:22:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
       "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
       "published": "Tue, 14 Jul 2026 19:18:07 +0530",
@@ -719,12 +725,6 @@
       "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
       "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
       "published": "Mon, 13 Jul 2026 11:06:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
       "source": "The Hacker News"
     },
     {
