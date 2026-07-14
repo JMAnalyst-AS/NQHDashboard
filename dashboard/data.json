@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T09:24:48.353819Z",
+  "generated_at": "2026-07-14T11:06:25.493161Z",
   "segment1": [
     {
       "title": "VPN service favored by ransomware groups is sanctioned by US",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft starts testing cleaner Windows Search without ads",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+      "published": "Tue, 14 Jul 2026 06:47:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "published": "Tue, 14 Jul 2026 05:40:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Japan's largest taxi operator shuts systems after cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
       "published": "Mon, 13 Jul 2026 16:18:59 -0400",
@@ -264,19 +276,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "published": "Fri, 10 Jul 2026 17:59:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
       "published": "Tue, 14 Jul 2026 14:32:48 +0530",
       "source": "The Hacker News"
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft starts testing cleaner Windows Search without ads",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+      "published": "Tue, 14 Jul 2026 06:47:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "published": "Tue, 14 Jul 2026 05:40:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Japan's largest taxi operator shuts systems after cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
       "published": "Mon, 13 Jul 2026 16:18:59 -0400",
@@ -596,19 +608,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "published": "Fri, 10 Jul 2026 17:59:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
       "published": "Tue, 14 Jul 2026 14:32:48 +0530",
       "source": "The Hacker News"
