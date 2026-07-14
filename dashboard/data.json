@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T17:40:16.874882Z",
+  "generated_at": "2026-07-14T19:19:22.204833Z",
   "segment1": [
     {
       "title": "Doxbin admin jailed for egging on swatters from behind a screen",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "published": "Tue, 14 Jul 2026 15:15:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "published": "Tue, 14 Jul 2026 14:49:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "published": "Tue, 14 Jul 2026 14:01:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
       "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
       "published": "Tue, 14 Jul 2026 12:08:47 -0400",
@@ -249,30 +273,6 @@
       "title": "New CrashStealer malware poses as Apple crash reporting tool",
       "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
       "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "published": "Mon, 13 Jul 2026 11:20:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Lidl discloses online shop breach after service provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-      "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "url": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "published": "Tue, 14 Jul 2026 15:15:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "published": "Tue, 14 Jul 2026 14:49:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "published": "Tue, 14 Jul 2026 14:01:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
       "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
       "published": "Tue, 14 Jul 2026 12:08:47 -0400",
@@ -581,30 +605,6 @@
       "title": "New CrashStealer malware poses as Apple crash reporting tool",
       "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
       "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "published": "Mon, 13 Jul 2026 11:20:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Lidl discloses online shop breach after service provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-      "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "url": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
       "source": "BleepingComputer"
     },
     {
