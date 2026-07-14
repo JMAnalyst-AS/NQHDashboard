@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:37:22.326137Z",
+  "generated_at": "2026-07-14T21:57:37.575843Z",
   "segment1": [
     {
       "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
       "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
       "published": "Tue, 14 Jul 2026 16:23:09 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "published": "Mon, 13 Jul 2026 15:44:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
@@ -387,12 +393,6 @@
       "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
       "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
       "published": "Mon, 13 Jul 2026 17:07:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "published": "Mon, 13 Jul 2026 16:32:33 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
       "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
       "published": "Tue, 14 Jul 2026 16:23:09 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "published": "Mon, 13 Jul 2026 15:44:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
@@ -719,12 +725,6 @@
       "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
       "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
       "published": "Mon, 13 Jul 2026 17:07:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "published": "Mon, 13 Jul 2026 16:32:33 +0530",
       "source": "The Hacker News"
     },
     {
