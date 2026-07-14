@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:47:23.577202Z",
+  "generated_at": "2026-07-14T14:51:09.850046Z",
   "segment1": [
     {
       "title": "VPN service favored by ransomware groups is sanctioned by US",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "published": "Tue, 14 Jul 2026 08:49:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "published": "Tue, 14 Jul 2026 08:49:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
       "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
       "published": "Tue, 14 Jul 2026 07:42:21 -0400",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "published": "Sun, 12 Jul 2026 20:44:44 -0400",
-      "source": "BleepingComputer"
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "published": "Tue, 14 Jul 2026 19:18:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-      "published": "Sun, 12 Jul 2026 15:39:12 -0400",
-      "source": "BleepingComputer"
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
@@ -363,36 +393,6 @@
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
       "published": "Sat, 11 Jul 2026 23:29:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "published": "Fri, 10 Jul 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "published": "Fri, 10 Jul 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "published": "Tue, 14 Jul 2026 08:49:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "published": "Tue, 14 Jul 2026 08:49:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
       "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
       "published": "Tue, 14 Jul 2026 07:42:21 -0400",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "published": "Sun, 12 Jul 2026 20:44:44 -0400",
-      "source": "BleepingComputer"
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "published": "Tue, 14 Jul 2026 19:18:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-      "published": "Sun, 12 Jul 2026 15:39:12 -0400",
-      "source": "BleepingComputer"
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
@@ -695,36 +725,6 @@
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
       "published": "Sat, 11 Jul 2026 23:29:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "published": "Fri, 10 Jul 2026 22:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "published": "Fri, 10 Jul 2026 21:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
       "source": "The Hacker News"
     },
     {
