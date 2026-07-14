@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-14T19:19:22.204833Z",
+  "generated_at": "2026-07-14T20:37:22.326137Z",
   "segment1": [
+    {
+      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+      "url": "https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse",
+      "published": "Tue, 14 Jul 2026 18:53:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Doxbin admin jailed for egging on swatters from behind a screen",
       "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
@@ -53,17 +59,17 @@
       "title": "Ransomware negotiator who conspired with BlackCat threat actors sentenced to 70 months in prison",
       "url": "https://databreaches.net/2026/07/11/ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison/?pk_campaign=feed&pk_kwd=ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison",
       "published": "Sat, 11 Jul 2026 13:06:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TikTok class action alleges data breach affected 2.4B users",
-      "url": "https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users",
-      "published": "Sat, 11 Jul 2026 12:56:27 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+      "url": "https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse",
+      "published": "Tue, 14 Jul 2026 18:53:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Doxbin admin jailed for egging on swatters from behind a screen",
       "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
       "published": "Tue, 14 Jul 2026 17:26:57 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/07/11/ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison/?pk_campaign=feed&pk_kwd=ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison",
       "published": "Sat, 11 Jul 2026 13:06:25 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TikTok class action alleges data breach affected 2.4B users",
-      "url": "https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users",
-      "published": "Sat, 11 Jul 2026 12:56:27 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Lessons Learned from CISA’s Recent GitHub Leak",
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
+      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Nearly 300 GitHub repos pose as legit software to push malware",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-      "source": "BleepingComputer"
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
@@ -381,18 +393,6 @@
       "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
       "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
       "published": "Mon, 13 Jul 2026 16:32:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "published": "Mon, 13 Jul 2026 13:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "published": "Mon, 13 Jul 2026 11:06:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Lessons Learned from CISA’s Recent GitHub Leak",
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
       "published": "Mon, 13 Jul 2026 15:03:28 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "source": "Krebs on Security"
+      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Nearly 300 GitHub repos pose as legit software to push malware",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-      "source": "BleepingComputer"
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
@@ -713,18 +725,6 @@
       "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
       "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
       "published": "Mon, 13 Jul 2026 16:32:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "published": "Mon, 13 Jul 2026 13:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "published": "Mon, 13 Jul 2026 11:06:02 +0530",
       "source": "The Hacker News"
     },
     {
