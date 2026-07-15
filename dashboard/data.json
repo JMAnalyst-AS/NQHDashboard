@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:41:46.004946Z",
+  "generated_at": "2026-07-15T10:49:15.131982Z",
   "segment1": [
     {
       "title": "Elon Musk promises to delete all data following a leak of users’ confidential information",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
       "published": "Wed, 15 Jul 2026 04:26:48 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft starts testing cleaner Windows Search without ads",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-      "published": "Tue, 14 Jul 2026 06:47:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+      "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
@@ -387,12 +393,6 @@
       "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
       "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
       "published": "Mon, 13 Jul 2026 18:33:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "published": "Mon, 13 Jul 2026 17:24:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
       "published": "Wed, 15 Jul 2026 04:26:48 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft starts testing cleaner Windows Search without ads",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-      "published": "Tue, 14 Jul 2026 06:47:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+      "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
@@ -719,12 +725,6 @@
       "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
       "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
       "published": "Mon, 13 Jul 2026 18:33:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "published": "Mon, 13 Jul 2026 17:24:46 +0530",
       "source": "The Hacker News"
     },
     {
