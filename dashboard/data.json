@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-15T19:10:20.808323Z",
+  "generated_at": "2026-07-15T20:32:53.351752Z",
   "segment1": [
+    {
+      "title": "Calgary 911 employee charged with breach of trust",
+      "url": "https://databreaches.net/2026/07/15/calgary-911-employee-charged-with-breach-of-trust/?pk_campaign=feed&pk_kwd=calgary-911-employee-charged-with-breach-of-trust",
+      "published": "Wed, 15 Jul 2026 18:48:10 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "WilmerHale Sued Over Client Personal Information Data Breach",
+      "url": "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
+      "published": "Wed, 15 Jul 2026 18:08:17 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
       "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
@@ -47,23 +59,23 @@
       "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
       "url": "https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse",
       "published": "Tue, 14 Jul 2026 18:53:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Doxbin admin jailed for egging on swatters from behind a screen",
-      "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
-      "published": "Tue, 14 Jul 2026 17:26:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
-      "published": "Mon, 13 Jul 2026 21:15:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Calgary 911 employee charged with breach of trust",
+      "url": "https://databreaches.net/2026/07/15/calgary-911-employee-charged-with-breach-of-trust/?pk_campaign=feed&pk_kwd=calgary-911-employee-charged-with-breach-of-trust",
+      "published": "Wed, 15 Jul 2026 18:48:10 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "WilmerHale Sued Over Client Personal Information Data Breach",
+      "url": "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
+      "published": "Wed, 15 Jul 2026 18:08:17 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
       "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
       "published": "Wed, 15 Jul 2026 17:30:34 +0000",
@@ -109,18 +121,6 @@
       "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
       "url": "https://databreaches.net/2026/07/14/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?pk_campaign=feed&pk_kwd=defending-saas-based-applications-against-shinyhunters-oauth-abuse",
       "published": "Tue, 14 Jul 2026 18:53:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Doxbin admin jailed for egging on swatters from behind a screen",
-      "url": "https://databreaches.net/2026/07/14/doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/?pk_campaign=feed&pk_kwd=doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen",
-      "published": "Tue, 14 Jul 2026 17:26:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
-      "published": "Mon, 13 Jul 2026 21:15:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "published": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
@@ -267,12 +273,6 @@
       "title": "LastPass, Bitwarden users targeted with fake security alerts",
       "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
       "published": "Tue, 14 Jul 2026 11:31:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "published": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
       "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
       "published": "Wed, 15 Jul 2026 14:33:48 -0400",
@@ -599,12 +605,6 @@
       "title": "LastPass, Bitwarden users targeted with fake security alerts",
       "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
       "published": "Tue, 14 Jul 2026 11:31:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
