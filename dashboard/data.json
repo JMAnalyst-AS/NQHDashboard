@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-15T17:46:41.423691Z",
+  "generated_at": "2026-07-15T19:10:20.808323Z",
   "segment1": [
+    {
+      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+      "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
+      "published": "Wed, 15 Jul 2026 17:30:34 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Nayax updates its incident status; states it won’t pay any extortion demand",
       "url": "https://databreaches.net/2026/07/15/nayax-updates-its-incident-status-states-it-wont-pay-any-extortion-demand/?pk_campaign=feed&pk_kwd=nayax-updates-its-incident-status-states-it-wont-pay-any-extortion-demand",
@@ -53,17 +59,17 @@
       "title": "VPN service favored by ransomware groups is sanctioned by US",
       "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
       "published": "Mon, 13 Jul 2026 21:15:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach",
-      "url": "https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach",
-      "published": "Mon, 13 Jul 2026 18:36:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+      "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
+      "published": "Wed, 15 Jul 2026 17:30:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Nayax updates its incident status; states it won’t pay any extortion demand",
       "url": "https://databreaches.net/2026/07/15/nayax-updates-its-incident-status-states-it-wont-pay-any-extortion-demand/?pk_campaign=feed&pk_kwd=nayax-updates-its-incident-status-states-it-wont-pay-any-extortion-demand",
       "published": "Wed, 15 Jul 2026 12:28:01 +0000",
@@ -115,12 +121,6 @@
       "title": "VPN service favored by ransomware groups is sanctioned by US",
       "url": "https://databreaches.net/2026/07/13/vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us/?pk_campaign=feed&pk_kwd=vpn-service-favored-by-ransomware-groups-is-sanctioned-by-us",
       "published": "Mon, 13 Jul 2026 21:15:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NG: Zenith Bank, Others To Be Arraigned Over Alleged Data Breach",
-      "url": "https://databreaches.net/2026/07/13/ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach/?pk_campaign=feed&pk_kwd=ng-zenith-bank-others-to-be-arraigned-over-alleged-data-breach",
-      "published": "Mon, 13 Jul 2026 18:36:19 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,7 +186,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "published": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400",
       "source": "BleepingComputer"
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "published": "Tue, 14 Jul 2026 08:49:56 -0400",
-      "source": "BleepingComputer"
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
@@ -387,12 +393,6 @@
       "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
       "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
       "published": "Tue, 14 Jul 2026 13:32:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "published": "Tue, 14 Jul 2026 12:38:36 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,7 +518,13 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "published": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400",
       "source": "BleepingComputer"
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "published": "Tue, 14 Jul 2026 08:49:56 -0400",
-      "source": "BleepingComputer"
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
@@ -719,12 +725,6 @@
       "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
       "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
       "published": "Tue, 14 Jul 2026 13:32:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "published": "Tue, 14 Jul 2026 12:38:36 +0530",
       "source": "The Hacker News"
     },
     {
