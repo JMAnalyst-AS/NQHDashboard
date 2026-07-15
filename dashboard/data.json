@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T06:20:40.405698Z",
+  "generated_at": "2026-07-15T08:41:46.004946Z",
   "segment1": [
     {
       "title": "Elon Musk promises to delete all data following a leak of users’ confidential information",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "published": "Wed, 15 Jul 2026 04:26:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "US charges alleged operators of Russian bulletproof hosting service",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "published": "Wed, 15 Jul 2026 03:45:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
       "published": "Tue, 14 Jul 2026 17:23:24 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-      "published": "Tue, 14 Jul 2026 05:40:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "published": "Mon, 13 Jul 2026 16:18:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+      "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+      "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
@@ -387,12 +393,6 @@
       "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
       "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
       "published": "Mon, 13 Jul 2026 17:24:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "published": "Mon, 13 Jul 2026 17:07:05 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "published": "Wed, 15 Jul 2026 04:26:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "US charges alleged operators of Russian bulletproof hosting service",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "published": "Wed, 15 Jul 2026 03:45:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
       "published": "Tue, 14 Jul 2026 17:23:24 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-      "published": "Tue, 14 Jul 2026 05:40:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "published": "Mon, 13 Jul 2026 16:18:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+      "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+      "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
@@ -719,12 +725,6 @@
       "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
       "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
       "published": "Mon, 13 Jul 2026 17:24:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "published": "Mon, 13 Jul 2026 17:07:05 +0530",
       "source": "The Hacker News"
     },
     {
