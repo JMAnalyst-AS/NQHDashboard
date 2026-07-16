@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:59:08.408207Z",
+  "generated_at": "2026-07-16T15:08:47.541870Z",
   "segment1": [
     {
       "title": "AU: Regulator’s preliminary findings did not indicate Qantas breached privacy obligations",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "published": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "published": "Thu, 16 Jul 2026 09:47:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Scattered Spider members behind TfL hack get five years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
       "published": "Thu, 16 Jul 2026 08:31:29 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
-      "source": "BleepingComputer"
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "source": "BleepingComputer"
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "published": "Thu, 16 Jul 2026 18:20:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+      "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+      "published": "Thu, 16 Jul 2026 18:03:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "20+ Hijacked Government Websites Became an Attack Channel",
@@ -375,24 +393,6 @@
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
       "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
       "published": "Wed, 15 Jul 2026 01:55:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "published": "Tue, 14 Jul 2026 22:22:37 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "published": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "published": "Thu, 16 Jul 2026 09:47:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Scattered Spider members behind TfL hack get five years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
       "published": "Thu, 16 Jul 2026 08:31:29 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
-      "source": "BleepingComputer"
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "source": "BleepingComputer"
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "published": "Thu, 16 Jul 2026 18:20:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+      "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+      "published": "Thu, 16 Jul 2026 18:03:42 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "20+ Hijacked Government Websites Became an Attack Channel",
@@ -707,24 +725,6 @@
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
       "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
       "published": "Wed, 15 Jul 2026 01:55:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "published": "Tue, 14 Jul 2026 22:22:37 +0530",
       "source": "The Hacker News"
     },
     {
