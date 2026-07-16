@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-16T20:58:05.492651Z",
+  "generated_at": "2026-07-16T22:09:15.991456Z",
   "segment1": [
+    {
+      "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
+      "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
+      "published": "Thu, 16 Jul 2026 20:46:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Italy fines WINDTRE €1.7 million over data breaches",
       "url": "https://databreaches.net/2026/07/16/italy-fines-windtre-e1-7-million-over-data-breaches/?pk_campaign=feed&pk_kwd=italy-fines-windtre-e1-7-million-over-data-breaches",
@@ -53,17 +59,17 @@
       "title": "Elon Musk promises to delete all data following a leak of users’ confidential information",
       "url": "https://databreaches.net/2026/07/14/elon-musk-promises-to-delete-all-data-following-a-leak-of-users-confidential-information/?pk_campaign=feed&pk_kwd=elon-musk-promises-to-delete-all-data-following-a-leak-of-users-confidential-information",
       "published": "Tue, 14 Jul 2026 21:50:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-      "url": "https://databreaches.net/2026/07/14/synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims/?pk_campaign=feed&pk_kwd=synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims",
-      "published": "Tue, 14 Jul 2026 21:15:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
+      "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
+      "published": "Thu, 16 Jul 2026 20:46:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Italy fines WINDTRE €1.7 million over data breaches",
       "url": "https://databreaches.net/2026/07/16/italy-fines-windtre-e1-7-million-over-data-breaches/?pk_campaign=feed&pk_kwd=italy-fines-windtre-e1-7-million-over-data-breaches",
       "published": "Thu, 16 Jul 2026 16:53:48 +0000",
@@ -115,12 +121,6 @@
       "title": "Elon Musk promises to delete all data following a leak of users’ confidential information",
       "url": "https://databreaches.net/2026/07/14/elon-musk-promises-to-delete-all-data-following-a-leak-of-users-confidential-information/?pk_campaign=feed&pk_kwd=elon-musk-promises-to-delete-all-data-following-a-leak-of-users-confidential-information",
       "published": "Tue, 14 Jul 2026 21:50:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-      "url": "https://databreaches.net/2026/07/14/synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims/?pk_campaign=feed&pk_kwd=synopsys-finds-no-evidence-of-data-breach-amid-bosch-hack-claims",
-      "published": "Tue, 14 Jul 2026 21:15:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
@@ -261,18 +273,6 @@
       "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "published": "Wed, 15 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
       "published": "Thu, 16 Jul 2026 15:26:07 -0400",
@@ -593,18 +605,6 @@
       "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "published": "Wed, 15 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
       "source": "BleepingComputer"
     },
     {
