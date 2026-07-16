@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T09:13:03.008416Z",
+  "generated_at": "2026-07-16T11:16:49.929680Z",
   "segment1": [
     {
       "title": "Calgary 911 employee charged with breach of trust",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+      "published": "Thu, 16 Jul 2026 06:19:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+      "published": "Thu, 16 Jul 2026 06:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dutch police bust investment fraud ring stealing over €100 million",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
       "published": "Wed, 15 Jul 2026 17:55:50 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-      "published": "Tue, 14 Jul 2026 14:01:36 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+      "published": "Thu, 16 Jul 2026 15:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "published": "Thu, 16 Jul 2026 14:53:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
@@ -381,18 +393,6 @@
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "published": "Tue, 14 Jul 2026 16:51:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+      "published": "Thu, 16 Jul 2026 06:19:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+      "published": "Thu, 16 Jul 2026 06:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Dutch police bust investment fraud ring stealing over €100 million",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
       "published": "Wed, 15 Jul 2026 17:55:50 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-      "published": "Tue, 14 Jul 2026 14:01:36 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+      "published": "Thu, 16 Jul 2026 15:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "published": "Thu, 16 Jul 2026 14:53:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
@@ -713,18 +725,6 @@
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "published": "Tue, 14 Jul 2026 16:51:35 +0530",
       "source": "The Hacker News"
     },
     {
