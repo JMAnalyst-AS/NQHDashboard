@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:26:51.221341Z",
+  "generated_at": "2026-07-17T21:22:24.472268Z",
   "segment1": [
     {
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
@@ -387,12 +393,6 @@
       "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
       "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "published": "Thu, 16 Jul 2026 15:40:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 14:53:19 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
@@ -719,12 +725,6 @@
       "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
       "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "published": "Thu, 16 Jul 2026 15:40:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 14:53:19 +0530",
       "source": "The Hacker News"
     },
     {
