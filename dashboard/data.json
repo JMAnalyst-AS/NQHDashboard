@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:26:34.945324Z",
+  "generated_at": "2026-07-17T11:05:35.861604Z",
   "segment1": [
     {
       "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch police bust investment fraud ring stealing over €100 million",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "published": "Wed, 15 Jul 2026 17:55:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "published": "Fri, 17 Jul 2026 14:26:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "published": "Fri, 17 Jul 2026 14:16:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -381,18 +393,6 @@
       "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
       "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
       "published": "Wed, 15 Jul 2026 16:37:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "url": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "published": "Wed, 15 Jul 2026 16:36:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "published": "Wed, 15 Jul 2026 16:25:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Dutch police bust investment fraud ring stealing over €100 million",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "published": "Wed, 15 Jul 2026 17:55:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "published": "Fri, 17 Jul 2026 14:26:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "published": "Fri, 17 Jul 2026 14:16:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -713,18 +725,6 @@
       "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
       "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
       "published": "Wed, 15 Jul 2026 16:37:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "url": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "published": "Wed, 15 Jul 2026 16:36:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "published": "Wed, 15 Jul 2026 16:25:22 +0530",
       "source": "The Hacker News"
     },
     {
