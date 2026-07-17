@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:38:01.085030Z",
+  "generated_at": "2026-07-17T19:08:14.253949Z",
   "segment1": [
     {
       "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ernst & Young discloses data breach after support system hack",
       "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
       "published": "Fri, 17 Jul 2026 10:55:28 -0400",
@@ -267,12 +273,6 @@
       "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
       "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ernst & Young discloses data breach after support system hack",
       "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
       "published": "Fri, 17 Jul 2026 10:55:28 -0400",
@@ -599,12 +605,6 @@
       "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
       "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
       "source": "BleepingComputer"
     },
     {
