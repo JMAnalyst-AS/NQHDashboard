@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T18:31:43.736506Z",
+  "generated_at": "2026-07-18T20:03:11.761889Z",
   "segment1": [
     {
       "title": "NY Attorney General James Secures $18 Million From 23andMe for Failing to Protect Customers’ Genetic Data",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "published": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
       "published": "Sat, 18 Jul 2026 13:22:47 -0400",
@@ -267,12 +273,6 @@
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
       "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "published": "Thu, 16 Jul 2026 15:09:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "published": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
       "published": "Sat, 18 Jul 2026 13:22:47 -0400",
@@ -599,12 +605,6 @@
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
       "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "published": "Thu, 16 Jul 2026 15:09:35 -0400",
       "source": "BleepingComputer"
     },
     {
