@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:40:31.987990Z",
+  "generated_at": "2026-07-19T14:55:21.522315Z",
   "segment1": [
     {
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "published": "Sun, 19 Jul 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
       "published": "Sat, 18 Jul 2026 15:32:02 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "published": "Sun, 19 Jul 2026 19:00:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "published": "Sun, 19 Jul 2026 18:48:56 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -381,18 +393,6 @@
       "title": "20+ Hijacked Government Websites Became an Attack Channel",
       "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
       "published": "Thu, 16 Jul 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "published": "Thu, 16 Jul 2026 17:02:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "published": "Thu, 16 Jul 2026 16:47:23 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "published": "Sun, 19 Jul 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
       "published": "Sat, 18 Jul 2026 15:32:02 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "published": "Sun, 19 Jul 2026 19:00:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "published": "Sun, 19 Jul 2026 18:48:56 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -713,18 +725,6 @@
       "title": "20+ Hijacked Government Websites Became an Attack Channel",
       "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
       "published": "Thu, 16 Jul 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "published": "Thu, 16 Jul 2026 17:02:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "published": "Thu, 16 Jul 2026 16:47:23 +0530",
       "source": "The Hacker News"
     },
     {
