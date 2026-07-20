@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-20T10:10:10.974044Z",
+  "generated_at": "2026-07-20T12:31:09.117570Z",
   "segment1": [
+    {
+      "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
+      "url": "https://databreaches.net/2026/07/20/broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability/?pk_campaign=feed&pk_kwd=broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability",
+      "published": "Mon, 20 Jul 2026 11:36:04 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
       "url": "https://databreaches.net/2026/07/19/medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches/?pk_campaign=feed&pk_kwd=medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches",
@@ -53,17 +59,17 @@
       "title": "WilmerHale Sued Over Client Personal Information Data Breach",
       "url": "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
       "published": "Wed, 15 Jul 2026 18:08:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
-      "published": "Wed, 15 Jul 2026 17:30:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
+      "url": "https://databreaches.net/2026/07/20/broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability/?pk_campaign=feed&pk_kwd=broken-promises-of-anonymity-four-months-later-still-no-transparency-now-were-seeking-accountability",
+      "published": "Mon, 20 Jul 2026 11:36:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
       "url": "https://databreaches.net/2026/07/19/medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches/?pk_campaign=feed&pk_kwd=medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches",
       "published": "Sun, 19 Jul 2026 13:26:37 +0000",
@@ -115,12 +121,6 @@
       "title": "WilmerHale Sued Over Client Personal Information Data Breach",
       "url": "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
       "published": "Wed, 15 Jul 2026 18:08:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-      "url": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
-      "published": "Wed, 15 Jul 2026 17:30:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hugging Face discloses breach linked to autonomous AI agent",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "published": "Mon, 20 Jul 2026 07:56:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "published": "Mon, 20 Jul 2026 06:47:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
@@ -261,18 +273,6 @@
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "published": "Fri, 17 Jul 2026 04:13:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hugging Face discloses breach linked to autonomous AI agent",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "published": "Mon, 20 Jul 2026 07:56:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "published": "Mon, 20 Jul 2026 06:47:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
       "published": "Mon, 20 Jul 2026 06:06:17 -0400",
@@ -593,18 +605,6 @@
       "title": "Windows Server 2022 reach end of mainstream support in 90 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "published": "Fri, 17 Jul 2026 04:13:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
       "source": "BleepingComputer"
     },
     {
