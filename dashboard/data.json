@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:55:16.023833Z",
+  "generated_at": "2026-07-20T18:52:00.135111Z",
   "segment1": [
     {
       "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "An AI SOC Evaluation Guide for Security Leaders",
       "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
       "published": "Mon, 20 Jul 2026 10:01:11 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
@@ -387,12 +393,6 @@
       "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
       "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
       "published": "Fri, 17 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "published": "Fri, 17 Jul 2026 16:23:31 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "An AI SOC Evaluation Guide for Security Leaders",
       "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
       "published": "Mon, 20 Jul 2026 10:01:11 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
@@ -719,12 +725,6 @@
       "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
       "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
       "published": "Fri, 17 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "published": "Fri, 17 Jul 2026 16:23:31 +0530",
       "source": "The Hacker News"
     },
     {
