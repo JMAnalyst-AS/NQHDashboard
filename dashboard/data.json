@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:20:14.698211Z",
+  "generated_at": "2026-07-20T21:42:34.553867Z",
   "segment1": [
     {
       "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
       "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
       "published": "Mon, 20 Jul 2026 13:43:01 -0400",
@@ -261,18 +273,6 @@
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "published": "Fri, 17 Jul 2026 10:55:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
       "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
       "published": "Mon, 20 Jul 2026 13:43:01 -0400",
@@ -593,18 +605,6 @@
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "published": "Fri, 17 Jul 2026 10:55:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
