@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:42:34.553867Z",
+  "generated_at": "2026-07-20T23:00:15.228310Z",
   "segment1": [
     {
       "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+      "published": "Mon, 20 Jul 2026 18:39:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+      "published": "Mon, 20 Jul 2026 18:23:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+      "published": "Mon, 20 Jul 2026 18:22:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
       "published": "Mon, 20 Jul 2026 17:14:42 -0400",
@@ -255,24 +273,6 @@
       "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
       "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-      "url": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-      "published": "Sat, 18 Jul 2026 09:15:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+      "published": "Mon, 20 Jul 2026 18:39:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+      "published": "Mon, 20 Jul 2026 18:23:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+      "published": "Mon, 20 Jul 2026 18:22:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
       "published": "Mon, 20 Jul 2026 17:14:42 -0400",
@@ -587,24 +605,6 @@
       "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
       "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-      "url": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-      "published": "Sat, 18 Jul 2026 09:15:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
       "source": "BleepingComputer"
     },
     {
