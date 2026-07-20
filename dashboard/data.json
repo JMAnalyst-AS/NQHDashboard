@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:45:14.001082Z",
+  "generated_at": "2026-07-20T10:10:10.974044Z",
   "segment1": [
     {
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "published": "Mon, 20 Jul 2026 06:06:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
       "published": "Sun, 19 Jul 2026 10:23:46 -0400",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
-      "source": "BleepingComputer"
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
@@ -381,18 +393,6 @@
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
       "published": "Thu, 16 Jul 2026 22:39:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "published": "Thu, 16 Jul 2026 21:11:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "published": "Mon, 20 Jul 2026 06:06:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 20 Jul 2026 05:29:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
       "published": "Sun, 19 Jul 2026 10:23:46 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
-      "source": "BleepingComputer"
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
@@ -713,18 +725,6 @@
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
       "published": "Thu, 16 Jul 2026 22:39:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "published": "Thu, 16 Jul 2026 21:11:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
       "source": "The Hacker News"
     },
     {
