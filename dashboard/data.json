@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-21T22:27:16.766724Z",
+  "generated_at": "2026-07-21T23:30:05.920202Z",
   "segment1": [
+    {
+      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+      "url": "https://databreaches.net/2026/07/21/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/?pk_campaign=feed&pk_kwd=pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices",
+      "published": "Tue, 21 Jul 2026 22:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cyberattack against Maine telecom disrupted municipal internet service in 23 towns",
       "url": "https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns",
@@ -53,17 +59,17 @@
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
       "url": "https://databreaches.net/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/?pk_campaign=feed&pk_kwd=fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets",
       "published": "Fri, 17 Jul 2026 17:40:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
-      "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
-      "published": "Thu, 16 Jul 2026 20:46:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+      "url": "https://databreaches.net/2026/07/21/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/?pk_campaign=feed&pk_kwd=pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices",
+      "published": "Tue, 21 Jul 2026 22:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cyberattack against Maine telecom disrupted municipal internet service in 23 towns",
       "url": "https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns",
       "published": "Tue, 21 Jul 2026 19:07:18 +0000",
@@ -115,12 +121,6 @@
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
       "url": "https://databreaches.net/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/?pk_campaign=feed&pk_kwd=fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets",
       "published": "Fri, 17 Jul 2026 17:40:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
-      "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
-      "published": "Thu, 16 Jul 2026 20:46:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Police dismantle Kratos phishing platform, arrest developer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "published": "Tue, 21 Jul 2026 19:07:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
@@ -261,18 +273,6 @@
       "title": "JadePuffer agentic attacks now target AI model data with ransomware",
       "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
       "published": "Mon, 20 Jul 2026 17:08:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "published": "Mon, 20 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police dismantle Kratos phishing platform, arrest developer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "published": "Tue, 21 Jul 2026 19:07:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
       "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
       "published": "Tue, 21 Jul 2026 16:06:55 -0400",
@@ -593,18 +605,6 @@
       "title": "JadePuffer agentic attacks now target AI model data with ransomware",
       "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
       "published": "Mon, 20 Jul 2026 17:08:02 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "published": "Mon, 20 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
