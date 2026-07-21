@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T06:28:21.217249Z",
+  "generated_at": "2026-07-21T09:12:02.999525Z",
   "segment1": [
     {
       "title": "Broken Promises of Anonymity: Four Months Later, Still No Transparency. Now We’re Seeking Accountability.",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
       "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
       "published": "Mon, 20 Jul 2026 18:39:30 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "published": "Sat, 18 Jul 2026 13:22:47 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "source": "BleepingComputer"
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -375,24 +393,6 @@
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
       "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
       "published": "Fri, 17 Jul 2026 22:42:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "published": "Fri, 17 Jul 2026 22:09:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "published": "Fri, 17 Jul 2026 17:14:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
       "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
       "published": "Mon, 20 Jul 2026 18:39:30 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "published": "Sat, 18 Jul 2026 13:22:47 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "source": "BleepingComputer"
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -707,24 +725,6 @@
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
       "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
       "published": "Fri, 17 Jul 2026 22:42:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "published": "Fri, 17 Jul 2026 22:09:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "published": "Fri, 17 Jul 2026 17:14:41 +0530",
       "source": "The Hacker News"
     },
     {
