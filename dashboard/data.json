@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-21T20:00:08.743057Z",
+  "generated_at": "2026-07-21T21:20:13.245963Z",
   "segment1": [
+    {
+      "title": "Cyberattack against Maine telecom disrupted municipal internet service in 23 towns",
+      "url": "https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns",
+      "published": "Tue, 21 Jul 2026 19:07:18 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Personal data of all South Korean diplomats believed leaked in ‘unprecedented’ cyberattack",
       "url": "https://databreaches.net/2026/07/21/personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack/?pk_campaign=feed&pk_kwd=personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack",
@@ -53,17 +59,17 @@
       "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
       "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
       "published": "Thu, 16 Jul 2026 20:46:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Italy fines WINDTRE €1.7 million over data breaches",
-      "url": "https://databreaches.net/2026/07/16/italy-fines-windtre-e1-7-million-over-data-breaches/?pk_campaign=feed&pk_kwd=italy-fines-windtre-e1-7-million-over-data-breaches",
-      "published": "Thu, 16 Jul 2026 16:53:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cyberattack against Maine telecom disrupted municipal internet service in 23 towns",
+      "url": "https://databreaches.net/2026/07/21/cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns/?pk_campaign=feed&pk_kwd=cyberattack-against-maine-telecom-disrupted-municipal-internet-service-in-23-towns",
+      "published": "Tue, 21 Jul 2026 19:07:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Personal data of all South Korean diplomats believed leaked in ‘unprecedented’ cyberattack",
       "url": "https://databreaches.net/2026/07/21/personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack/?pk_campaign=feed&pk_kwd=personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack",
       "published": "Tue, 21 Jul 2026 12:58:07 +0000",
@@ -115,12 +121,6 @@
       "title": "The Breach That Won’t End: An Update on Canvas, and how they created an EdTech’s Vendor Trust Problem",
       "url": "https://databreaches.net/2026/07/16/the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem/?pk_campaign=feed&pk_kwd=the-breach-that-wont-end-an-update-on-canvas-and-how-they-created-an-edtechs-vendor-trust-problem",
       "published": "Thu, 16 Jul 2026 20:46:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Italy fines WINDTRE €1.7 million over data breaches",
-      "url": "https://databreaches.net/2026/07/16/italy-fines-windtre-e1-7-million-over-data-breaches/?pk_campaign=feed&pk_kwd=italy-fines-windtre-e1-7-million-over-data-breaches",
-      "published": "Thu, 16 Jul 2026 16:53:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "published": "Tue, 21 Jul 2026 16:06:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "published": "Mon, 20 Jul 2026 07:56:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "published": "Wed, 22 Jul 2026 00:16:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
@@ -387,12 +393,6 @@
       "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
       "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
       "published": "Mon, 20 Jul 2026 14:37:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "published": "Mon, 20 Jul 2026 10:57:26 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "published": "Tue, 21 Jul 2026 16:06:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "published": "Tue, 21 Jul 2026 14:50:54 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "published": "Mon, 20 Jul 2026 07:56:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "published": "Wed, 22 Jul 2026 00:16:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
@@ -719,12 +725,6 @@
       "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
       "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
       "published": "Mon, 20 Jul 2026 14:37:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "published": "Mon, 20 Jul 2026 10:57:26 +0530",
       "source": "The Hacker News"
     },
     {
