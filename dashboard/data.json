@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:03:10.940052Z",
+  "generated_at": "2026-07-21T16:54:40.631897Z",
   "segment1": [
     {
       "title": "Personal data of all South Korean diplomats believed leaked in ‘unprecedented’ cyberattack",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "published": "Tue, 21 Jul 2026 12:41:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Closing the Identity Gaps in Critical Infrastructure Security",
       "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
       "published": "Tue, 21 Jul 2026 10:00:10 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "published": "Mon, 20 Jul 2026 06:06:17 -0400",
-      "source": "BleepingComputer"
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
@@ -375,24 +393,6 @@
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
       "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "published": "Mon, 20 Jul 2026 10:45:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "published": "Mon, 20 Jul 2026 02:12:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "published": "Sun, 19 Jul 2026 19:00:55 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "published": "Tue, 21 Jul 2026 12:41:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Closing the Identity Gaps in Critical Infrastructure Security",
       "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
       "published": "Tue, 21 Jul 2026 10:00:10 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "published": "Mon, 20 Jul 2026 06:06:17 -0400",
-      "source": "BleepingComputer"
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
@@ -707,24 +725,6 @@
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
       "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "published": "Mon, 20 Jul 2026 10:45:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "published": "Mon, 20 Jul 2026 02:12:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "published": "Sun, 19 Jul 2026 19:00:55 +0530",
       "source": "The Hacker News"
     },
     {
