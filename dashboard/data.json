@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T01:00:07.541182Z",
+  "generated_at": "2026-07-22T04:25:20.148937Z",
   "segment1": [
+    {
+      "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
+      "url": "https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack",
+      "published": "Wed, 22 Jul 2026 00:01:07 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
       "url": "https://databreaches.net/2026/07/21/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/?pk_campaign=feed&pk_kwd=pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices",
@@ -53,17 +59,17 @@
       "title": "NY Attorney General James Secures $18 Million From 23andMe for Failing to Protect Customers’ Genetic Data",
       "url": "https://databreaches.net/2026/07/18/ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data/?pk_campaign=feed&pk_kwd=ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data",
       "published": "Sat, 18 Jul 2026 12:13:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "url": "https://databreaches.net/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/?pk_campaign=feed&pk_kwd=fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets",
-      "published": "Fri, 17 Jul 2026 17:40:54 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
+      "url": "https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack",
+      "published": "Wed, 22 Jul 2026 00:01:07 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
       "url": "https://databreaches.net/2026/07/21/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/?pk_campaign=feed&pk_kwd=pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices",
       "published": "Tue, 21 Jul 2026 22:02:43 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/07/18/ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data/?pk_campaign=feed&pk_kwd=ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data",
       "published": "Sat, 18 Jul 2026 12:13:13 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "url": "https://databreaches.net/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/?pk_campaign=feed&pk_kwd=fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets",
-      "published": "Fri, 17 Jul 2026 17:40:54 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -177,12 +183,6 @@
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Patches a Record 570 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
@@ -509,12 +515,6 @@
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
       "source": "Krebs on Security"
     },
     {
