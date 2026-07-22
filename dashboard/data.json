@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-22T13:54:02.797627Z",
+  "generated_at": "2026-07-22T15:42:06.676029Z",
   "segment1": [
+    {
+      "title": "Greedy ransomware crews return for seconds after victims cough up first extortion payments",
+      "url": "https://databreaches.net/2026/07/22/greedy-ransomware-crews-return-for-seconds-after-victims-cough-up-first-extortion-payments/?pk_campaign=feed&pk_kwd=greedy-ransomware-crews-return-for-seconds-after-victims-cough-up-first-extortion-payments",
+      "published": "Wed, 22 Jul 2026 14:34:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
       "url": "https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack",
@@ -53,17 +59,17 @@
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
       "url": "https://databreaches.net/2026/07/19/medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches/?pk_campaign=feed&pk_kwd=medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches",
       "published": "Sun, 19 Jul 2026 13:26:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NY Attorney General James Secures $18 Million From 23andMe for Failing to Protect Customers’ Genetic Data",
-      "url": "https://databreaches.net/2026/07/18/ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data/?pk_campaign=feed&pk_kwd=ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data",
-      "published": "Sat, 18 Jul 2026 12:13:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Greedy ransomware crews return for seconds after victims cough up first extortion payments",
+      "url": "https://databreaches.net/2026/07/22/greedy-ransomware-crews-return-for-seconds-after-victims-cough-up-first-extortion-payments/?pk_campaign=feed&pk_kwd=greedy-ransomware-crews-return-for-seconds-after-victims-cough-up-first-extortion-payments",
+      "published": "Wed, 22 Jul 2026 14:34:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
       "url": "https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack",
       "published": "Wed, 22 Jul 2026 00:01:07 +0000",
@@ -115,12 +121,6 @@
       "title": "Medical giant Abbott investigates two cyber incidents as ShinyHunters and ShadowByt3$ both claim breaches",
       "url": "https://databreaches.net/2026/07/19/medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches/?pk_campaign=feed&pk_kwd=medical-giant-abbott-investigates-two-cyber-incidents-as-shinyhunters-and-shadowbyt3-both-claim-breaches",
       "published": "Sun, 19 Jul 2026 13:26:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NY Attorney General James Secures $18 Million From 23andMe for Failing to Protect Customers’ Genetic Data",
-      "url": "https://databreaches.net/2026/07/18/ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data/?pk_campaign=feed&pk_kwd=ny-attorney-general-james-secures-18-million-from-23andme-for-failing-to-protect-customers-genetic-data",
-      "published": "Sat, 18 Jul 2026 12:13:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "published": "Wed, 22 Jul 2026 11:30:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "url": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "published": "Wed, 22 Jul 2026 10:15:00 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
@@ -261,18 +273,6 @@
       "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
       "published": "Tue, 21 Jul 2026 07:07:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "published": "Tue, 21 Jul 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "published": "Wed, 22 Jul 2026 11:30:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "url": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "published": "Wed, 22 Jul 2026 10:15:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
       "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
       "published": "Wed, 22 Jul 2026 09:22:20 -0400",
@@ -593,18 +605,6 @@
       "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
       "published": "Tue, 21 Jul 2026 07:07:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "published": "Tue, 21 Jul 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
       "source": "BleepingComputer"
     },
     {
