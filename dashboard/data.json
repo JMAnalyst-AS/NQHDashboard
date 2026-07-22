@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:25:20.148937Z",
+  "generated_at": "2026-07-22T07:10:00.231940Z",
   "segment1": [
     {
       "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
       "published": "Tue, 21 Jul 2026 19:07:33 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "published": "Wed, 22 Jul 2026 10:27:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "published": "Wed, 22 Jul 2026 09:48:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
@@ -375,24 +393,6 @@
       "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
       "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
       "published": "Mon, 20 Jul 2026 17:43:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
       "published": "Tue, 21 Jul 2026 19:07:33 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "published": "Wed, 22 Jul 2026 10:27:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "published": "Wed, 22 Jul 2026 09:48:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
@@ -707,24 +725,6 @@
       "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
       "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
       "published": "Mon, 20 Jul 2026 17:43:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
       "source": "The Hacker News"
     },
     {
