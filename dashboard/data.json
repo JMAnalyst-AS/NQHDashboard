@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-23T12:09:21.099669Z",
+  "generated_at": "2026-07-23T14:40:27.202051Z",
   "segment1": [
+    {
+      "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
+      "url": "https://databreaches.net/2026/07/23/iranian-affiliated-cyber-actors-exploit-programmable-logic-controllers-across-us-critical-infrastructure-2/?pk_campaign=feed&pk_kwd=iranian-affiliated-cyber-actors-exploit-programmable-logic-controllers-across-us-critical-infrastructure-2",
+      "published": "Thu, 23 Jul 2026 12:45:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "ID: Kootenai County notifies residents of data breach",
       "url": "https://databreaches.net/2026/07/22/id-kootenai-county-notifies-residents-of-data-breach/?pk_campaign=feed&pk_kwd=id-kootenai-county-notifies-residents-of-data-breach",
@@ -53,17 +59,17 @@
       "title": "Personal data of all South Korean diplomats believed leaked in ‘unprecedented’ cyberattack",
       "url": "https://databreaches.net/2026/07/21/personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack/?pk_campaign=feed&pk_kwd=personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack",
       "published": "Tue, 21 Jul 2026 12:58:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYSDFS Secures $50 Million Penalty from Swedbank for Withholding Information from Investigators",
-      "url": "https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators",
-      "published": "Tue, 21 Jul 2026 12:53:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
+      "url": "https://databreaches.net/2026/07/23/iranian-affiliated-cyber-actors-exploit-programmable-logic-controllers-across-us-critical-infrastructure-2/?pk_campaign=feed&pk_kwd=iranian-affiliated-cyber-actors-exploit-programmable-logic-controllers-across-us-critical-infrastructure-2",
+      "published": "Thu, 23 Jul 2026 12:45:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "ID: Kootenai County notifies residents of data breach",
       "url": "https://databreaches.net/2026/07/22/id-kootenai-county-notifies-residents-of-data-breach/?pk_campaign=feed&pk_kwd=id-kootenai-county-notifies-residents-of-data-breach",
       "published": "Thu, 23 Jul 2026 00:45:56 +0000",
@@ -115,12 +121,6 @@
       "title": "Personal data of all South Korean diplomats believed leaked in ‘unprecedented’ cyberattack",
       "url": "https://databreaches.net/2026/07/21/personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack/?pk_campaign=feed&pk_kwd=personal-data-of-all-south-korean-diplomats-believed-leaked-in-unprecedented-cyberattack",
       "published": "Tue, 21 Jul 2026 12:58:07 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NYSDFS Secures $50 Million Penalty from Swedbank for Withholding Information from Investigators",
-      "url": "https://databreaches.net/2026/07/21/nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators/?pk_campaign=feed&pk_kwd=nysdfs-secures-50-million-penalty-from-swedbank-for-withholding-information-from-investigators",
-      "published": "Tue, 21 Jul 2026 12:53:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "published": "Thu, 23 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "published": "Thu, 23 Jul 2026 08:33:19 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
@@ -261,18 +273,6 @@
       "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
       "published": "Wed, 22 Jul 2026 06:44:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "published": "Thu, 23 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "published": "Thu, 23 Jul 2026 08:33:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
       "published": "Thu, 23 Jul 2026 07:40:16 -0400",
@@ -593,18 +605,6 @@
       "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
       "published": "Wed, 22 Jul 2026 06:44:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
       "source": "BleepingComputer"
     },
     {
