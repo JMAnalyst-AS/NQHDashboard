@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:25:33.584649Z",
+  "generated_at": "2026-07-23T17:54:32.822503Z",
   "segment1": [
     {
       "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "published": "Thu, 23 Jul 2026 12:49:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "published": "Thu, 23 Jul 2026 12:32:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
       "published": "Thu, 23 Jul 2026 11:34:43 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "published": "Wed, 22 Jul 2026 07:43:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-      "url": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "published": "Wed, 22 Jul 2026 07:09:16 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "published": "Thu, 23 Jul 2026 20:32:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
@@ -387,12 +393,6 @@
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
       "published": "Wed, 22 Jul 2026 00:16:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "published": "Thu, 23 Jul 2026 12:49:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "published": "Thu, 23 Jul 2026 12:32:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
       "published": "Thu, 23 Jul 2026 11:34:43 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "published": "Wed, 22 Jul 2026 07:43:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-      "url": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "published": "Wed, 22 Jul 2026 07:09:16 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "published": "Thu, 23 Jul 2026 20:32:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
@@ -719,12 +725,6 @@
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
       "published": "Wed, 22 Jul 2026 00:16:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
       "source": "The Hacker News"
     },
     {
