@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:32:08.535419Z",
+  "generated_at": "2026-07-23T10:22:20.206280Z",
   "segment1": [
     {
       "title": "ID: Kootenai County notifies residents of data breach",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "published": "Thu, 23 Jul 2026 06:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "published": "Thu, 23 Jul 2026 05:20:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "published": "Thu, 23 Jul 2026 04:13:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
       "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
       "published": "Wed, 22 Jul 2026 17:43:39 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "published": "Thu, 23 Jul 2026 13:34:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "published": "Tue, 21 Jul 2026 16:06:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "published": "Tue, 21 Jul 2026 14:50:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "published": "Thu, 23 Jul 2026 12:04:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
@@ -381,18 +393,6 @@
       "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
       "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
       "published": "Tue, 21 Jul 2026 17:12:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "published": "Tue, 21 Jul 2026 16:54:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "published": "Thu, 23 Jul 2026 06:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "published": "Thu, 23 Jul 2026 05:20:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "published": "Thu, 23 Jul 2026 04:13:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
       "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
       "published": "Wed, 22 Jul 2026 17:43:39 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "published": "Thu, 23 Jul 2026 13:34:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "published": "Tue, 21 Jul 2026 16:06:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "published": "Tue, 21 Jul 2026 14:50:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "published": "Thu, 23 Jul 2026 12:04:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
@@ -713,18 +725,6 @@
       "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
       "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
       "published": "Tue, 21 Jul 2026 17:12:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "published": "Tue, 21 Jul 2026 16:54:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
       "source": "The Hacker News"
     },
     {
