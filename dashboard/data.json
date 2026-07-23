@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:40:27.202051Z",
+  "generated_at": "2026-07-23T16:25:33.584649Z",
   "segment1": [
     {
       "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "published": "Thu, 23 Jul 2026 11:34:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
       "published": "Thu, 23 Jul 2026 10:00:10 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-      "published": "Wed, 22 Jul 2026 06:44:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "published": "Thu, 23 Jul 2026 18:57:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "published": "Thu, 23 Jul 2026 18:41:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "published": "Thu, 23 Jul 2026 17:50:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -375,24 +393,6 @@
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
       "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "published": "Tue, 21 Jul 2026 19:34:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "published": "Thu, 23 Jul 2026 11:34:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
       "published": "Thu, 23 Jul 2026 10:00:10 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-      "published": "Wed, 22 Jul 2026 06:44:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "published": "Thu, 23 Jul 2026 18:57:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "published": "Thu, 23 Jul 2026 18:41:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "published": "Thu, 23 Jul 2026 17:50:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -707,24 +725,6 @@
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
       "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "published": "Tue, 21 Jul 2026 19:34:57 +0530",
       "source": "The Hacker News"
     },
     {
