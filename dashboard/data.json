@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:54:14.907410Z",
+  "generated_at": "2026-07-24T11:41:29.475793Z",
   "segment1": [
     {
       "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "published": "Fri, 24 Jul 2026 07:17:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "published": "Fri, 24 Jul 2026 03:36:39 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "published": "Wed, 22 Jul 2026 16:06:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "published": "Fri, 24 Jul 2026 15:45:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "published": "Fri, 24 Jul 2026 15:39:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
@@ -375,24 +393,6 @@
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "published": "Wed, 22 Jul 2026 18:06:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "published": "Wed, 22 Jul 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "published": "Wed, 22 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "published": "Wed, 22 Jul 2026 16:55:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "published": "Fri, 24 Jul 2026 07:17:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "published": "Fri, 24 Jul 2026 03:36:39 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "published": "Wed, 22 Jul 2026 16:06:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "published": "Fri, 24 Jul 2026 15:45:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "published": "Fri, 24 Jul 2026 15:39:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
@@ -707,24 +725,6 @@
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "published": "Wed, 22 Jul 2026 18:06:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "published": "Wed, 22 Jul 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "published": "Wed, 22 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "published": "Wed, 22 Jul 2026 16:55:35 +0530",
       "source": "The Hacker News"
     },
     {
