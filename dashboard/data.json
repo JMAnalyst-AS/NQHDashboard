@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:06:42.983797Z",
+  "generated_at": "2026-07-24T09:54:14.907410Z",
   "segment1": [
     {
       "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "published": "Fri, 24 Jul 2026 03:36:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "published": "Thu, 23 Jul 2026 17:20:34 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "published": "Wed, 22 Jul 2026 12:59:17 -0400",
-      "source": "BleepingComputer"
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "published": "Fri, 24 Jul 2026 13:11:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "published": "Fri, 24 Jul 2026 12:28:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
@@ -381,18 +393,6 @@
       "title": "Why Modern SOCs Need Multi-Layered Detections",
       "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
       "published": "Wed, 22 Jul 2026 16:55:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "published": "Wed, 22 Jul 2026 12:08:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "published": "Fri, 24 Jul 2026 03:36:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "published": "Thu, 23 Jul 2026 17:20:34 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "published": "Wed, 22 Jul 2026 12:59:17 -0400",
-      "source": "BleepingComputer"
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "published": "Fri, 24 Jul 2026 13:11:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "published": "Fri, 24 Jul 2026 12:28:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
@@ -713,18 +725,6 @@
       "title": "Why Modern SOCs Need Multi-Layered Detections",
       "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
       "published": "Wed, 22 Jul 2026 16:55:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "published": "Wed, 22 Jul 2026 12:08:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
       "source": "The Hacker News"
     },
     {
