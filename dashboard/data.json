@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-26T14:08:27.224232Z",
+  "generated_at": "2026-07-26T15:38:18.062608Z",
   "segment1": [
+    {
+      "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
+      "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/?pk_campaign=feed&pk_kwd=developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open",
+      "published": "Sun, 26 Jul 2026 14:10:29 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A-list directors, actors and celebrities exposed in Tribeca film festival data leak",
       "url": "https://databreaches.net/2026/07/26/a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak/?pk_campaign=feed&pk_kwd=a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak",
@@ -53,17 +59,17 @@
       "title": "Furious KPMG boss expels senior partner over confidential documents in locker",
       "url": "https://databreaches.net/2026/07/24/furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker/?pk_campaign=feed&pk_kwd=furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker",
       "published": "Fri, 24 Jul 2026 12:07:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "IL: Weeks after cyberattack, ETHS students receive phishing scam emails",
-      "url": "https://databreaches.net/2026/07/24/il-weeks-after-cyberattack-eths-students-receive-phishing-scam-emails/?pk_campaign=feed&pk_kwd=il-weeks-after-cyberattack-eths-students-receive-phishing-scam-emails",
-      "published": "Fri, 24 Jul 2026 12:07:02 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
+      "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/?pk_campaign=feed&pk_kwd=developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open",
+      "published": "Sun, 26 Jul 2026 14:10:29 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A-list directors, actors and celebrities exposed in Tribeca film festival data leak",
       "url": "https://databreaches.net/2026/07/26/a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak/?pk_campaign=feed&pk_kwd=a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak",
       "published": "Sun, 26 Jul 2026 13:06:14 +0000",
@@ -115,12 +121,6 @@
       "title": "Furious KPMG boss expels senior partner over confidential documents in locker",
       "url": "https://databreaches.net/2026/07/24/furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker/?pk_campaign=feed&pk_kwd=furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker",
       "published": "Fri, 24 Jul 2026 12:07:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "IL: Weeks after cyberattack, ETHS students receive phishing scam emails",
-      "url": "https://databreaches.net/2026/07/24/il-weeks-after-cyberattack-eths-students-receive-phishing-scam-emails/?pk_campaign=feed&pk_kwd=il-weeks-after-cyberattack-eths-students-receive-phishing-scam-emails",
-      "published": "Fri, 24 Jul 2026 12:07:02 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
@@ -267,12 +273,6 @@
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "published": "Thu, 23 Jul 2026 17:20:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "published": "Thu, 23 Jul 2026 16:14:35 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
       "published": "Sat, 25 Jul 2026 18:37:47 -0400",
@@ -599,12 +605,6 @@
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "published": "Thu, 23 Jul 2026 17:20:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "published": "Thu, 23 Jul 2026 16:14:35 -0400",
       "source": "BleepingComputer"
     },
     {
