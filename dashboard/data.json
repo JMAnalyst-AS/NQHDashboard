@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-27T20:03:41.818873Z",
+  "generated_at": "2026-07-27T21:38:03.764905Z",
   "segment1": [
+    {
+      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
+      "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
+      "published": "Mon, 27 Jul 2026 19:20:14 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Accountant laundered $5.3 million stolen from Children’s Healthcare of Atlanta by hacker, prosecutors say",
       "url": "https://databreaches.net/2026/07/27/accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say/?pk_campaign=feed&pk_kwd=accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say",
@@ -53,17 +59,17 @@
       "title": "Crime Stoppers assured people their tips would be anonymous. Then more than 1 million tips leaked.",
       "url": "https://databreaches.net/2026/07/24/crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked/?pk_campaign=feed&pk_kwd=crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked",
       "published": "Fri, 24 Jul 2026 12:49:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Origin silent on settlement as alleged fired employee breach detail emerges",
-      "url": "https://databreaches.net/2026/07/24/origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges/?pk_campaign=feed&pk_kwd=origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges",
-      "published": "Fri, 24 Jul 2026 12:08:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
+      "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
+      "published": "Mon, 27 Jul 2026 19:20:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Accountant laundered $5.3 million stolen from Children’s Healthcare of Atlanta by hacker, prosecutors say",
       "url": "https://databreaches.net/2026/07/27/accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say/?pk_campaign=feed&pk_kwd=accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say",
       "published": "Mon, 27 Jul 2026 11:15:04 +0000",
@@ -115,12 +121,6 @@
       "title": "Crime Stoppers assured people their tips would be anonymous. Then more than 1 million tips leaked.",
       "url": "https://databreaches.net/2026/07/24/crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked/?pk_campaign=feed&pk_kwd=crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked",
       "published": "Fri, 24 Jul 2026 12:49:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Origin silent on settlement as alleged fired employee breach detail emerges",
-      "url": "https://databreaches.net/2026/07/24/origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges/?pk_campaign=feed&pk_kwd=origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges",
-      "published": "Fri, 24 Jul 2026 12:08:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "published": "Mon, 01 Jun 2026 17:32:50 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "published": "Mon, 27 Jul 2026 17:00:25 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
@@ -261,18 +273,6 @@
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
       "published": "Fri, 24 Jul 2026 11:41:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "published": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "url": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "published": "Fri, 24 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "published": "Mon, 27 Jul 2026 17:00:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
       "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
       "published": "Mon, 27 Jul 2026 13:29:07 -0400",
@@ -593,18 +605,6 @@
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
       "published": "Fri, 24 Jul 2026 11:41:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "published": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "url": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "published": "Fri, 24 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
