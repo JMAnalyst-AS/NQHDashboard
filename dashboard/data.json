@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-27T10:42:29.177915Z",
+  "generated_at": "2026-07-27T13:38:51.445716Z",
   "segment1": [
+    {
+      "title": "Accountant laundered $5.3 million stolen from Children’s Healthcare of Atlanta by hacker, prosecutors say",
+      "url": "https://databreaches.net/2026/07/27/accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say/?pk_campaign=feed&pk_kwd=accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say",
+      "published": "Mon, 27 Jul 2026 11:15:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK:  Council worker who snooped on records handed a suspended sentence",
+      "url": "https://databreaches.net/2026/07/27/uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence/?pk_campaign=feed&pk_kwd=uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence",
+      "published": "Mon, 27 Jul 2026 11:14:56 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
       "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/?pk_campaign=feed&pk_kwd=developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open",
@@ -47,23 +59,23 @@
       "title": "Origin silent on settlement as alleged fired employee breach detail emerges",
       "url": "https://databreaches.net/2026/07/24/origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges/?pk_campaign=feed&pk_kwd=origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges",
       "published": "Fri, 24 Jul 2026 12:08:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "T-Mobile violated WA data breach notification law, judge rules",
-      "url": "https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules",
-      "published": "Fri, 24 Jul 2026 12:08:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Furious KPMG boss expels senior partner over confidential documents in locker",
-      "url": "https://databreaches.net/2026/07/24/furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker/?pk_campaign=feed&pk_kwd=furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker",
-      "published": "Fri, 24 Jul 2026 12:07:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Accountant laundered $5.3 million stolen from Children’s Healthcare of Atlanta by hacker, prosecutors say",
+      "url": "https://databreaches.net/2026/07/27/accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say/?pk_campaign=feed&pk_kwd=accountant-laundered-5-3-million-stolen-from-childrens-healthcare-of-atlanta-by-hacker-prosecutors-say",
+      "published": "Mon, 27 Jul 2026 11:15:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK:  Council worker who snooped on records handed a suspended sentence",
+      "url": "https://databreaches.net/2026/07/27/uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence/?pk_campaign=feed&pk_kwd=uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence",
+      "published": "Mon, 27 Jul 2026 11:14:56 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
       "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/?pk_campaign=feed&pk_kwd=developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open",
       "published": "Sun, 26 Jul 2026 14:10:29 +0000",
@@ -109,18 +121,6 @@
       "title": "Origin silent on settlement as alleged fired employee breach detail emerges",
       "url": "https://databreaches.net/2026/07/24/origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges/?pk_campaign=feed&pk_kwd=origin-silent-on-settlement-as-alleged-fired-employee-breach-detail-emerges",
       "published": "Fri, 24 Jul 2026 12:08:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "T-Mobile violated WA data breach notification law, judge rules",
-      "url": "https://databreaches.net/2026/07/24/t-mobile-violated-wa-data-breach-notification-law-judge-rules/?pk_campaign=feed&pk_kwd=t-mobile-violated-wa-data-breach-notification-law-judge-rules",
-      "published": "Fri, 24 Jul 2026 12:08:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Furious KPMG boss expels senior partner over confidential documents in locker",
-      "url": "https://databreaches.net/2026/07/24/furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker/?pk_campaign=feed&pk_kwd=furious-kpmg-boss-expels-senior-partner-over-confidential-documents-in-locker",
-      "published": "Fri, 24 Jul 2026 12:07:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "published": "Mon, 27 Jul 2026 18:35:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "published": "Mon, 27 Jul 2026 18:07:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+      "published": "Mon, 27 Jul 2026 16:21:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
       "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
       "published": "Mon, 27 Jul 2026 14:18:47 +0530",
@@ -375,24 +393,6 @@
       "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
       "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
       "published": "Fri, 24 Jul 2026 12:28:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "published": "Fri, 24 Jul 2026 12:20:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "published": "Fri, 24 Jul 2026 00:06:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "published": "Thu, 23 Jul 2026 20:32:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "published": "Mon, 27 Jul 2026 18:35:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "published": "Mon, 27 Jul 2026 18:07:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+      "published": "Mon, 27 Jul 2026 16:21:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
       "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
       "published": "Mon, 27 Jul 2026 14:18:47 +0530",
@@ -707,24 +725,6 @@
       "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
       "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
       "published": "Fri, 24 Jul 2026 12:28:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "published": "Fri, 24 Jul 2026 12:20:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "published": "Fri, 24 Jul 2026 00:06:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "published": "Thu, 23 Jul 2026 20:32:07 +0530",
       "source": "The Hacker News"
     },
     {
