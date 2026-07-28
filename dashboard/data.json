@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:12:30.186663Z",
+  "generated_at": "2026-07-28T10:05:13.470131Z",
   "segment1": [
     {
       "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "published": "Tue, 28 Jul 2026 05:10:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "published": "Mon, 27 Jul 2026 19:49:44 -0400",
@@ -270,13 +276,19 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "published": "Tue, 28 Jul 2026 11:37:22 +0530",
       "source": "The Hacker News"
@@ -381,18 +393,6 @@
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
       "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
       "published": "Fri, 24 Jul 2026 20:42:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "published": "Fri, 24 Jul 2026 19:45:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "published": "Fri, 24 Jul 2026 17:23:55 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "published": "Tue, 28 Jul 2026 05:10:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "published": "Mon, 27 Jul 2026 19:49:44 -0400",
@@ -602,13 +608,19 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "published": "Tue, 28 Jul 2026 11:37:22 +0530",
       "source": "The Hacker News"
@@ -713,18 +725,6 @@
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
       "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
       "published": "Fri, 24 Jul 2026 20:42:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "published": "Fri, 24 Jul 2026 19:45:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "published": "Fri, 24 Jul 2026 17:23:55 +0530",
       "source": "The Hacker News"
     },
     {
