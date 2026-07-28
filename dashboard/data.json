@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:16:31.298772Z",
+  "generated_at": "2026-07-28T22:33:22.853901Z",
   "segment1": [
     {
       "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "published": "Tue, 28 Jul 2026 17:17:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "published": "Tue, 28 Jul 2026 16:37:06 -0400",
@@ -267,12 +273,6 @@
       "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "published": "Mon, 27 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "published": "Tue, 28 Jul 2026 17:17:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "published": "Tue, 28 Jul 2026 16:37:06 -0400",
@@ -599,12 +605,6 @@
       "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
       "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "published": "Mon, 27 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
       "source": "BleepingComputer"
     },
     {
