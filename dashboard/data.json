@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-28T12:19:56.649961Z",
+  "generated_at": "2026-07-28T14:58:28.158938Z",
   "segment1": [
+    {
+      "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
+      "url": "https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible",
+      "published": "Tue, 28 Jul 2026 12:02:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too. (Corrected)",
       "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
@@ -53,17 +59,17 @@
       "title": "Suspect arrested in investigation into sadistic “764” group",
       "url": "https://databreaches.net/2026/07/24/suspect-arrested-in-investigation-into-sadistic-764-group/?pk_campaign=feed&pk_kwd=suspect-arrested-in-investigation-into-sadistic-764-group",
       "published": "Fri, 24 Jul 2026 13:47:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Crime Stoppers assured people their tips would be anonymous. Then more than 1 million tips leaked.",
-      "url": "https://databreaches.net/2026/07/24/crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked/?pk_campaign=feed&pk_kwd=crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked",
-      "published": "Fri, 24 Jul 2026 12:49:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
+      "url": "https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible",
+      "published": "Tue, 28 Jul 2026 12:02:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too. (Corrected)",
       "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
       "published": "Mon, 27 Jul 2026 19:20:14 +0000",
@@ -116,15 +122,75 @@
       "url": "https://databreaches.net/2026/07/24/suspect-arrested-in-investigation-into-sadistic-764-group/?pk_campaign=feed&pk_kwd=suspect-arrested-in-investigation-into-sadistic-764-group",
       "published": "Fri, 24 Jul 2026 13:47:04 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Crime Stoppers assured people their tips would be anonymous. Then more than 1 million tips leaked.",
-      "url": "https://databreaches.net/2026/07/24/crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked/?pk_campaign=feed&pk_kwd=crime-stoppers-assured-people-their-tips-would-be-anonymous-then-more-than-1-million-tips-leaked",
-      "published": "Fri, 24 Jul 2026 12:49:59 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "published": "Tue, 28 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
     {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
@@ -210,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer"
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "published": "Tue, 28 Jul 2026 19:03:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "published": "Tue, 28 Jul 2026 18:26:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
@@ -315,24 +393,6 @@
       "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
       "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
       "published": "Sat, 25 Jul 2026 15:44:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "published": "Sat, 25 Jul 2026 15:44:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "published": "Sat, 25 Jul 2026 15:23:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "published": "Fri, 24 Jul 2026 20:42:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -398,6 +458,72 @@
   ],
   "rss": [
     {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "published": "Tue, 28 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "published": "Tue, 28 Jul 2026 08:10:23 -0400",
@@ -482,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer"
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "published": "Tue, 28 Jul 2026 19:03:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "published": "Tue, 28 Jul 2026 18:26:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
@@ -587,24 +725,6 @@
       "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
       "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
       "published": "Sat, 25 Jul 2026 15:44:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "published": "Sat, 25 Jul 2026 15:44:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "published": "Sat, 25 Jul 2026 15:23:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "published": "Fri, 24 Jul 2026 20:42:35 +0530",
       "source": "The Hacker News"
     },
     {
