@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T10:05:13.470131Z",
+  "generated_at": "2026-07-28T12:19:56.649961Z",
   "segment1": [
     {
-      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
+      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too. (Corrected)",
       "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
       "published": "Mon, 27 Jul 2026 19:20:14 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
+      "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too. (Corrected)",
       "url": "https://databreaches.net/2026/07/27/hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too/?pk_campaign=feed&pk_kwd=hackers-breached-an-airline-as-known-vulnerabilities-went-unpatched-now-another-gang-claims-it-hacked-them-too",
       "published": "Mon, 27 Jul 2026 19:20:14 +0000",
       "source": "DataBreaches.Net"
@@ -126,64 +126,10 @@
   ],
   "segment3": [
     {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
@@ -267,12 +213,6 @@
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
       "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,64 +398,10 @@
   ],
   "rss": [
     {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
@@ -599,12 +485,6 @@
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
       "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
       "source": "BleepingComputer"
     },
     {
