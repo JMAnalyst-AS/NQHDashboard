@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:13:48.803199Z",
+  "generated_at": "2026-07-28T20:00:08.329437Z",
   "segment1": [
     {
       "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "published": "Tue, 28 Jul 2026 14:08:50 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "published": "Wed, 29 Jul 2026 00:29:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -387,12 +393,6 @@
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
       "published": "Sun, 26 Jul 2026 00:18:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "published": "Sat, 25 Jul 2026 18:22:43 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "published": "Tue, 28 Jul 2026 14:08:50 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "published": "Wed, 29 Jul 2026 00:29:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -719,12 +725,6 @@
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
       "published": "Sun, 26 Jul 2026 00:18:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "published": "Sat, 25 Jul 2026 18:22:43 +0530",
       "source": "The Hacker News"
     },
     {
