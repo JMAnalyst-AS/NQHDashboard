@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:01:07.948431Z",
+  "generated_at": "2026-07-28T00:54:47.968164Z",
   "segment1": [
     {
       "title": "Hackers Breached an Airline as Known Vulnerabilities Went Unpatched. Now Another Gang Claims It Hacked Them, Too.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "published": "Mon, 27 Jul 2026 19:49:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "published": "Mon, 27 Jul 2026 18:49:44 -0400",
@@ -267,12 +273,6 @@
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "published": "Fri, 24 Jul 2026 13:50:37 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "published": "Mon, 27 Jul 2026 19:49:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "published": "Mon, 27 Jul 2026 18:49:44 -0400",
@@ -599,12 +605,6 @@
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "published": "Fri, 24 Jul 2026 13:50:37 -0400",
       "source": "BleepingComputer"
     },
     {
