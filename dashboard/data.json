@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:45:50.356845Z",
+  "generated_at": "2026-07-28T18:13:48.803199Z",
   "segment1": [
     {
       "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Is Your SSO Protected Against Modern Credential Attacks?",
       "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
       "published": "Tue, 28 Jul 2026 10:00:10 -0400",
@@ -267,12 +273,6 @@
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
       "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "published": "Sat, 25 Jul 2026 10:16:26 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Is Your SSO Protected Against Modern Credential Attacks?",
       "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
       "published": "Tue, 28 Jul 2026 10:00:10 -0400",
@@ -599,12 +605,6 @@
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
       "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "published": "Sat, 25 Jul 2026 10:16:26 -0400",
       "source": "BleepingComputer"
     },
     {
