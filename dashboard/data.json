@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:46:43.658506Z",
+  "generated_at": "2026-07-29T19:15:26.609539Z",
   "segment1": [
     {
       "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible (UPDATED)",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "published": "Wed, 29 Jul 2026 13:54:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
       "published": "Wed, 29 Jul 2026 12:04:59 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
@@ -387,12 +393,6 @@
       "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
       "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
       "published": "Tue, 28 Jul 2026 17:25:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "published": "Wed, 29 Jul 2026 13:54:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
       "published": "Wed, 29 Jul 2026 12:04:59 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
@@ -719,12 +725,6 @@
       "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
       "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
       "published": "Tue, 28 Jul 2026 17:25:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
       "source": "The Hacker News"
     },
     {
