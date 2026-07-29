@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:09:08.987254Z",
+  "generated_at": "2026-07-29T16:01:16.264344Z",
   "segment1": [
     {
       "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible (UPDATED)",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+      "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
       "url": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
       "published": "Wed, 29 Jul 2026 10:02:12 -0400",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "published": "Wed, 29 Jul 2026 21:09:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "published": "Wed, 29 Jul 2026 21:01:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
@@ -369,30 +393,6 @@
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
       "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
       "published": "Tue, 28 Jul 2026 13:41:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "published": "Tue, 28 Jul 2026 11:37:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "published": "Tue, 28 Jul 2026 10:13:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "published": "Mon, 27 Jul 2026 23:40:05 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+      "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
       "url": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
       "published": "Wed, 29 Jul 2026 10:02:12 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "published": "Wed, 29 Jul 2026 21:09:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "published": "Wed, 29 Jul 2026 21:01:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
@@ -701,30 +725,6 @@
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
       "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
       "published": "Tue, 28 Jul 2026 13:41:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "published": "Tue, 28 Jul 2026 11:37:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "published": "Tue, 28 Jul 2026 10:13:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "published": "Mon, 27 Jul 2026 23:40:05 +0530",
       "source": "The Hacker News"
     },
     {
