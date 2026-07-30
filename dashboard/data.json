@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-30T15:30:26.430891Z",
+  "generated_at": "2026-07-30T17:26:37.435453Z",
   "segment1": [
+    {
+      "title": "Crime Stoppers International seeking tips on INC Ransom as part of new bounty program: Operation Silent Vector",
+      "url": "https://databreaches.net/2026/07/30/crime-stoppers-international-seeking-tips-on-inc-ransom-as-part-of-new-bounty-program-operation-silent-vector/?pk_campaign=feed&pk_kwd=crime-stoppers-international-seeking-tips-on-inc-ransom-as-part-of-new-bounty-program-operation-silent-vector",
+      "published": "Thu, 30 Jul 2026 14:15:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "HHS OCR Settles Ransomware Investigation of OSF Healthcare System and Affiliated Covered Entities",
       "url": "https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/?pk_campaign=feed&pk_kwd=hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities",
@@ -53,17 +59,17 @@
       "title": "US House Votes to Extend Cyber Sharing Law for 10 Years",
       "url": "https://databreaches.net/2026/07/25/us-house-votes-to-extend-cyber-sharing-law-for-10-years/?pk_campaign=feed&pk_kwd=us-house-votes-to-extend-cyber-sharing-law-for-10-years",
       "published": "Sat, 25 Jul 2026 14:25:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Sydney nurse accused of downloading patients’ data in alleged ‘breach of trust’",
-      "url": "https://databreaches.net/2026/07/25/au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust/?pk_campaign=feed&pk_kwd=au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust",
-      "published": "Sat, 25 Jul 2026 14:24:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Crime Stoppers International seeking tips on INC Ransom as part of new bounty program: Operation Silent Vector",
+      "url": "https://databreaches.net/2026/07/30/crime-stoppers-international-seeking-tips-on-inc-ransom-as-part-of-new-bounty-program-operation-silent-vector/?pk_campaign=feed&pk_kwd=crime-stoppers-international-seeking-tips-on-inc-ransom-as-part-of-new-bounty-program-operation-silent-vector",
+      "published": "Thu, 30 Jul 2026 14:15:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "HHS OCR Settles Ransomware Investigation of OSF Healthcare System and Affiliated Covered Entities",
       "url": "https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/?pk_campaign=feed&pk_kwd=hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities",
       "published": "Thu, 30 Jul 2026 11:26:37 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/07/25/us-house-votes-to-extend-cyber-sharing-law-for-10-years/?pk_campaign=feed&pk_kwd=us-house-votes-to-extend-cyber-sharing-law-for-10-years",
       "published": "Sat, 25 Jul 2026 14:25:16 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Sydney nurse accused of downloading patients’ data in alleged ‘breach of trust’",
-      "url": "https://databreaches.net/2026/07/25/au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust/?pk_campaign=feed&pk_kwd=au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust",
-      "published": "Sat, 25 Jul 2026 14:24:50 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -180,10 +186,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "published": "Thu, 30 Jul 2026 11:56:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Analog Devices discloses data breach, says operations unaffected",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "published": "Tue, 28 Jul 2026 16:37:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
@@ -387,12 +393,6 @@
       "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
       "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
       "published": "Wed, 29 Jul 2026 14:28:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "published": "Wed, 29 Jul 2026 13:21:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
@@ -512,10 +518,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security"
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "published": "Thu, 30 Jul 2026 11:56:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Analog Devices discloses data breach, says operations unaffected",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "published": "Tue, 28 Jul 2026 16:37:06 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
@@ -719,12 +725,6 @@
       "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
       "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
       "published": "Wed, 29 Jul 2026 14:28:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "published": "Wed, 29 Jul 2026 13:21:00 +0530",
       "source": "The Hacker News"
     },
     {
