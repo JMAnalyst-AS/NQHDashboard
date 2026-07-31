@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-31T13:13:46.961786Z",
+  "generated_at": "2026-07-31T15:36:48.830406Z",
   "segment1": [
+    {
+      "title": "Consumer Dispute Panel Orders Coupang to Pay Affected Consumers 100,000 Won Each for Data Breach",
+      "url": "https://databreaches.net/2026/07/31/consumer-dispute-panel-orders-coupang-to-pay-affected-consumers-100000-won-each-for-data-breach/",
+      "published": "Fri, 31 Jul 2026 13:55:56 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "url": "https://databreaches.net/2026/07/31/north-koreas-lazarus-group-sharing-tools-with-ransomware-hackers-south-korean-agencies-warn/",
+      "published": "Fri, 31 Jul 2026 12:59:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Family says woman violated HIPAA, ‘weaponized’ info",
       "url": "https://databreaches.net/2026/07/30/family-says-woman-violated-hipaa-weaponized-info/",
@@ -47,23 +59,23 @@
       "title": "UK:  Council worker who snooped on records handed a suspended sentence",
       "url": "https://databreaches.net/2026/07/27/uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence/",
       "published": "Mon, 27 Jul 2026 11:14:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
-      "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/",
-      "published": "Sun, 26 Jul 2026 14:10:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A-list directors, actors and celebrities exposed in Tribeca film festival data leak",
-      "url": "https://databreaches.net/2026/07/26/a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak/",
-      "published": "Sun, 26 Jul 2026 13:06:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Consumer Dispute Panel Orders Coupang to Pay Affected Consumers 100,000 Won Each for Data Breach",
+      "url": "https://databreaches.net/2026/07/31/consumer-dispute-panel-orders-coupang-to-pay-affected-consumers-100000-won-each-for-data-breach/",
+      "published": "Fri, 31 Jul 2026 13:55:56 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "url": "https://databreaches.net/2026/07/31/north-koreas-lazarus-group-sharing-tools-with-ransomware-hackers-south-korean-agencies-warn/",
+      "published": "Fri, 31 Jul 2026 12:59:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Family says woman violated HIPAA, ‘weaponized’ info",
       "url": "https://databreaches.net/2026/07/30/family-says-woman-violated-hipaa-weaponized-info/",
       "published": "Thu, 30 Jul 2026 16:48:37 +0000",
@@ -109,18 +121,6 @@
       "title": "UK:  Council worker who snooped on records handed a suspended sentence",
       "url": "https://databreaches.net/2026/07/27/uk-council-worker-who-snooped-on-records-handed-a-suspended-sentence/",
       "published": "Mon, 27 Jul 2026 11:14:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
-      "url": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/",
-      "published": "Sun, 26 Jul 2026 14:10:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A-list directors, actors and celebrities exposed in Tribeca film festival data leak",
-      "url": "https://databreaches.net/2026/07/26/a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak/",
-      "published": "Sun, 26 Jul 2026 13:06:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "published": "Fri, 31 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "published": "Wed, 29 Jul 2026 12:04:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "published": "Fri, 31 Jul 2026 20:15:01 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "published": "Fri, 31 Jul 2026 18:21:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "published": "Fri, 31 Jul 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
@@ -375,24 +393,6 @@
       "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
       "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
       "published": "Wed, 29 Jul 2026 21:01:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "published": "Wed, 29 Jul 2026 17:45:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "published": "Fri, 31 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
       "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
       "published": "Thu, 30 Jul 2026 20:57:25 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "published": "Wed, 29 Jul 2026 12:04:59 -0400",
-      "source": "BleepingComputer"
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "published": "Fri, 31 Jul 2026 20:15:01 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "published": "Fri, 31 Jul 2026 18:21:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "published": "Fri, 31 Jul 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
@@ -707,24 +725,6 @@
       "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
       "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
       "published": "Wed, 29 Jul 2026 21:01:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "published": "Wed, 29 Jul 2026 17:45:00 +0530",
       "source": "The Hacker News"
     },
     {
