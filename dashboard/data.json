@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-01T01:06:37.965003Z",
+  "generated_at": "2026-08-01T04:50:50.689380Z",
   "segment1": [
+    {
+      "title": "AMGEN reports breach to SEC",
+      "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
+      "published": "Sat, 01 Aug 2026 01:45:25 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "RESOURCE: Thomson Reuters Foundation provides free resources and legal help for independent media around the world",
       "url": "https://databreaches.net/2026/07/31/resource-thomson-reuters-foundation-provides-free-resources-and-legal-help-for-independent-media-around-the-world/",
@@ -53,17 +59,17 @@
       "title": "KR: KT Fined 54 Billion Won Over Data Breach via Illegal Base Stations",
       "url": "https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/",
       "published": "Thu, 30 Jul 2026 11:21:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible (UPDATED)",
-      "url": "https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/",
-      "published": "Tue, 28 Jul 2026 12:02:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AMGEN reports breach to SEC",
+      "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
+      "published": "Sat, 01 Aug 2026 01:45:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "RESOURCE: Thomson Reuters Foundation provides free resources and legal help for independent media around the world",
       "url": "https://databreaches.net/2026/07/31/resource-thomson-reuters-foundation-provides-free-resources-and-legal-help-for-independent-media-around-the-world/",
       "published": "Fri, 31 Jul 2026 17:18:51 +0000",
@@ -115,12 +121,6 @@
       "title": "KR: KT Fined 54 Billion Won Over Data Breach via Illegal Base Stations",
       "url": "https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/",
       "published": "Thu, 30 Jul 2026 11:21:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible (UPDATED)",
-      "url": "https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/",
-      "published": "Tue, 28 Jul 2026 12:02:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
