@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-01T09:31:42.570022Z",
+  "generated_at": "2026-08-01T11:15:54.336079Z",
   "segment1": [
+    {
+      "title": "System Announcement: Maintenance",
+      "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
+      "published": "Sat, 01 Aug 2026 10:00:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "AMGEN reports breach to SEC",
       "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
@@ -53,17 +59,17 @@
       "title": "HHS OCR Settles Ransomware Investigation of OSF Healthcare System and Affiliated Covered Entities",
       "url": "https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/",
       "published": "Thu, 30 Jul 2026 11:26:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: KT Fined 54 Billion Won Over Data Breach via Illegal Base Stations",
-      "url": "https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/",
-      "published": "Thu, 30 Jul 2026 11:21:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "System Announcement: Maintenance",
+      "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
+      "published": "Sat, 01 Aug 2026 10:00:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "AMGEN reports breach to SEC",
       "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
       "published": "Sat, 01 Aug 2026 01:45:25 +0000",
@@ -115,12 +121,6 @@
       "title": "HHS OCR Settles Ransomware Investigation of OSF Healthcare System and Affiliated Covered Entities",
       "url": "https://databreaches.net/2026/07/30/hhs-ocr-settles-ransomware-investigation-of-osf-healthcare-system-and-affiliated-covered-entities/",
       "published": "Thu, 30 Jul 2026 11:26:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: KT Fined 54 Billion Won Over Data Breach via Illegal Base Stations",
-      "url": "https://databreaches.net/2026/07/30/kr-kt-fined-54-billion-won-over-data-breach-via-illegal-base-stations/",
-      "published": "Thu, 30 Jul 2026 11:21:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "published": "Sat, 01 Aug 2026 14:33:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "published": "Sat, 01 Aug 2026 12:42:42 +0530",
@@ -390,10 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-      "source": "The Hacker News"
+      "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
+      "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
+      "published": "Sat, 01 Aug 2026 11:03:00 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
@@ -447,12 +453,6 @@
       "title": "Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook",
       "url": "https://www.bellingcat.com/news/2026/06/24/rhino-horn-leopard-skin-and-tiger-claws-sold-openly-on-facebook/",
       "published": "Wed, 24 Jun 2026 12:05:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Super-Potent Synthetic Opioids Spread Across US Amid Fentanyl Crackdown",
-      "url": "https://www.bellingcat.com/news/2026/06/18/super-potent-synthetic-opioids-spread-across-us-amid-fentanyl-crackdown/",
-      "published": "Thu, 18 Jun 2026 08:59:59 +0000",
       "source": "bellingcat"
     }
   ],
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "published": "Sat, 01 Aug 2026 14:33:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "published": "Sat, 01 Aug 2026 12:42:42 +0530",
@@ -722,10 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-      "source": "The Hacker News"
+      "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
+      "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
+      "published": "Sat, 01 Aug 2026 11:03:00 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
@@ -779,12 +785,6 @@
       "title": "Rhino Horn, Leopard Skin and Tiger Claws Sold Openly on Facebook",
       "url": "https://www.bellingcat.com/news/2026/06/24/rhino-horn-leopard-skin-and-tiger-claws-sold-openly-on-facebook/",
       "published": "Wed, 24 Jun 2026 12:05:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Super-Potent Synthetic Opioids Spread Across US Amid Fentanyl Crackdown",
-      "url": "https://www.bellingcat.com/news/2026/06/18/super-potent-synthetic-opioids-spread-across-us-amid-fentanyl-crackdown/",
-      "published": "Thu, 18 Jun 2026 08:59:59 +0000",
       "source": "bellingcat"
     }
   ]
