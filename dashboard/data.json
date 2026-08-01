@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:50:50.689380Z",
+  "generated_at": "2026-08-01T07:27:06.285558Z",
   "segment1": [
     {
       "title": "AMGEN reports breach to SEC",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "published": "Sat, 01 Aug 2026 12:42:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "published": "Sat, 01 Aug 2026 11:59:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
       "published": "Sat, 01 Aug 2026 00:22:04 +0530",
@@ -381,18 +393,6 @@
       "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
       "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
       "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "published": "Thu, 30 Jul 2026 10:38:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "published": "Sat, 01 Aug 2026 12:42:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "published": "Sat, 01 Aug 2026 11:59:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
       "published": "Sat, 01 Aug 2026 00:22:04 +0530",
@@ -713,18 +725,6 @@
       "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
       "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
       "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "published": "Thu, 30 Jul 2026 10:38:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
       "source": "The Hacker News"
     },
     {
