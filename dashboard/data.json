@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-02T14:07:44.925160Z",
+  "generated_at": "2026-08-02T15:37:17.746876Z",
   "segment1": [
+    {
+      "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
+      "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
+      "published": "Sun, 02 Aug 2026 14:03:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
+      "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
+      "published": "Sun, 02 Aug 2026 14:03:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "TN: Sumner County Schools provides limited update on data breach",
+      "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
+      "published": "Sun, 02 Aug 2026 14:02:34 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Sixth Circuit to Rehear Case on FCC Data Breach Rules Case",
       "url": "https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/",
@@ -41,29 +59,29 @@
       "title": "System Announcement: Maintenance",
       "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
       "published": "Sat, 01 Aug 2026 10:00:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AMGEN reports breach to SEC",
-      "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
-      "published": "Sat, 01 Aug 2026 01:45:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "RESOURCE: Thomson Reuters Foundation provides free resources and legal help for independent media around the world",
-      "url": "https://databreaches.net/2026/07/31/resource-thomson-reuters-foundation-provides-free-resources-and-legal-help-for-independent-media-around-the-world/",
-      "published": "Fri, 31 Jul 2026 17:18:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Weaponizing Exposed Data",
-      "url": "https://databreaches.net/2026/07/31/weaponizing-exposed-data/",
-      "published": "Fri, 31 Jul 2026 16:48:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
+      "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
+      "published": "Sun, 02 Aug 2026 14:03:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
+      "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
+      "published": "Sun, 02 Aug 2026 14:03:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "TN: Sumner County Schools provides limited update on data breach",
+      "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
+      "published": "Sun, 02 Aug 2026 14:02:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Sixth Circuit to Rehear Case on FCC Data Breach Rules Case",
       "url": "https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/",
       "published": "Sat, 01 Aug 2026 14:32:00 +0000",
@@ -103,24 +121,6 @@
       "title": "System Announcement: Maintenance",
       "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
       "published": "Sat, 01 Aug 2026 10:00:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AMGEN reports breach to SEC",
-      "url": "https://databreaches.net/2026/07/31/amgen-reports-breach-to-sec/",
-      "published": "Sat, 01 Aug 2026 01:45:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "RESOURCE: Thomson Reuters Foundation provides free resources and legal help for independent media around the world",
-      "url": "https://databreaches.net/2026/07/31/resource-thomson-reuters-foundation-provides-free-resources-and-legal-help-for-independent-media-around-the-world/",
-      "published": "Fri, 31 Jul 2026 17:18:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Weaponizing Exposed Data",
-      "url": "https://databreaches.net/2026/07/31/weaponizing-exposed-data/",
-      "published": "Fri, 31 Jul 2026 16:48:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "published": "Sun, 02 Aug 2026 10:17:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Rails patches critical Active Storage flaw with RCE potential",
@@ -267,12 +273,6 @@
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
       "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
       "published": "Thu, 30 Jul 2026 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "published": "Sun, 02 Aug 2026 10:17:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "published": "Sat, 01 Aug 2026 10:20:30 -0400",
@@ -599,12 +605,6 @@
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
       "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
       "published": "Thu, 30 Jul 2026 13:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
       "source": "BleepingComputer"
     },
     {
