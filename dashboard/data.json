@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:54:58.450037Z",
+  "generated_at": "2026-08-02T21:56:02.459796Z",
   "segment1": [
     {
       "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400",
@@ -267,12 +273,6 @@
       "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
       "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
       "published": "Thu, 30 Jul 2026 14:00:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400",
@@ -599,12 +605,6 @@
       "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
       "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
       "published": "Thu, 30 Jul 2026 14:00:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
       "source": "BleepingComputer"
     },
     {
