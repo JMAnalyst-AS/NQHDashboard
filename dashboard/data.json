@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:57:13.238728Z",
+  "generated_at": "2026-08-03T16:29:40.504716Z",
   "segment1": [
     {
       "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "published": "Sun, 02 Aug 2026 18:31:41 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "published": "Thu, 30 Jul 2026 18:01:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-      "published": "Thu, 30 Jul 2026 14:13:24 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
@@ -387,12 +393,6 @@
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
       "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
       "published": "Thu, 30 Jul 2026 23:48:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "published": "Sun, 02 Aug 2026 18:31:41 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "published": "Thu, 30 Jul 2026 18:01:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-      "published": "Thu, 30 Jul 2026 14:13:24 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
@@ -719,12 +725,6 @@
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
       "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
       "published": "Thu, 30 Jul 2026 23:48:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
       "source": "The Hacker News"
     },
     {
