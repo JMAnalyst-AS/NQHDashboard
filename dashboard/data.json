@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:29:40.504716Z",
+  "generated_at": "2026-08-03T18:19:05.566357Z",
   "segment1": [
     {
       "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
       "published": "Mon, 03 Aug 2026 11:04:39 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "published": "Thu, 30 Jul 2026 18:28:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
@@ -381,18 +393,6 @@
       "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
       "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
       "published": "Fri, 31 Jul 2026 16:51:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "published": "Fri, 31 Jul 2026 12:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
       "published": "Mon, 03 Aug 2026 11:04:39 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "published": "Thu, 30 Jul 2026 18:28:30 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
@@ -713,18 +725,6 @@
       "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
       "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
       "published": "Fri, 31 Jul 2026 16:51:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "published": "Fri, 31 Jul 2026 12:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
       "source": "The Hacker News"
     },
     {
