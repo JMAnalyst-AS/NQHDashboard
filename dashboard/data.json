@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-03T11:26:07.382730Z",
+  "generated_at": "2026-08-03T13:57:13.238728Z",
   "segment1": [
+    {
+      "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
+      "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
+      "published": "Mon, 03 Aug 2026 12:33:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
+      "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
+      "published": "Mon, 03 Aug 2026 12:09:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cyberattack hits Liechtenstein, with 31,000 records stolen",
+      "url": "https://databreaches.net/2026/08/03/cyberattack-hits-liechtenstein-with-31000-records-stolen/",
+      "published": "Mon, 03 Aug 2026 12:09:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
       "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
@@ -41,29 +59,29 @@
       "title": "Suspected cyberattack disrupts Oceanside, California, school district systems",
       "url": "https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/",
       "published": "Sat, 01 Aug 2026 14:18:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: GO2 Health medical clinic in Brisbane waited almost three months to alert patients it was hacked",
-      "url": "https://databreaches.net/2026/08/01/au-go2-health-medical-clinic-in-brisbane-waited-almost-three-months-to-alert-patients-it-was-hacked/",
-      "published": "Sat, 01 Aug 2026 14:16:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Mon General Hospital notifies patients of phishing attack and breach",
-      "url": "https://databreaches.net/2026/08/01/mon-general-hospital-notifies-patients-of-phishing-attack-and-breach/",
-      "published": "Sat, 01 Aug 2026 14:14:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "System Announcement: Maintenance",
-      "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
-      "published": "Sat, 01 Aug 2026 10:00:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
+      "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
+      "published": "Mon, 03 Aug 2026 12:33:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
+      "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
+      "published": "Mon, 03 Aug 2026 12:09:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cyberattack hits Liechtenstein, with 31,000 records stolen",
+      "url": "https://databreaches.net/2026/08/03/cyberattack-hits-liechtenstein-with-31000-records-stolen/",
+      "published": "Mon, 03 Aug 2026 12:09:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
       "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
       "published": "Sun, 02 Aug 2026 14:03:09 +0000",
@@ -103,24 +121,6 @@
       "title": "Suspected cyberattack disrupts Oceanside, California, school district systems",
       "url": "https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/",
       "published": "Sat, 01 Aug 2026 14:18:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: GO2 Health medical clinic in Brisbane waited almost three months to alert patients it was hacked",
-      "url": "https://databreaches.net/2026/08/01/au-go2-health-medical-clinic-in-brisbane-waited-almost-three-months-to-alert-patients-it-was-hacked/",
-      "published": "Sat, 01 Aug 2026 14:16:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Mon General Hospital notifies patients of phishing attack and breach",
-      "url": "https://databreaches.net/2026/08/01/mon-general-hospital-notifies-patients-of-phishing-attack-and-breach/",
-      "published": "Sat, 01 Aug 2026 14:14:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "System Announcement: Maintenance",
-      "url": "https://databreaches.net/2026/08/01/system-announcement-maintenance/",
-      "published": "Sat, 01 Aug 2026 10:00:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "published": "Mon, 03 Aug 2026 16:19:06 +0530",
@@ -387,12 +393,6 @@
       "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
       "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
       "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "published": "Thu, 30 Jul 2026 19:04:09 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "published": "Mon, 03 Aug 2026 16:19:06 +0530",
@@ -719,12 +725,6 @@
       "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
       "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
       "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "published": "Thu, 30 Jul 2026 19:04:09 +0530",
       "source": "The Hacker News"
     },
     {
