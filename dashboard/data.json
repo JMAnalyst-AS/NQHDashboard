@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:08:32.583320Z",
+  "generated_at": "2026-08-04T21:48:42.776685Z",
   "segment1": [
     {
       "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "published": "Tue, 04 Aug 2026 15:03:09 -0400",
@@ -267,12 +273,6 @@
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "published": "Tue, 04 Aug 2026 15:03:09 -0400",
@@ -599,12 +605,6 @@
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
       "source": "BleepingComputer"
     },
     {
