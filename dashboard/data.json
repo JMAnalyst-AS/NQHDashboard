@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:11:16.137040Z",
+  "generated_at": "2026-08-04T20:08:32.583320Z",
   "segment1": [
     {
       "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "published": "Tue, 04 Aug 2026 11:24:35 -0400",
@@ -261,18 +273,6 @@
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "published": "Fri, 31 Jul 2026 18:16:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "published": "Fri, 31 Jul 2026 17:38:08 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "published": "Tue, 04 Aug 2026 11:24:35 -0400",
@@ -593,18 +605,6 @@
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "published": "Fri, 31 Jul 2026 18:16:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "published": "Fri, 31 Jul 2026 17:38:08 -0400",
       "source": "BleepingComputer"
     },
     {
