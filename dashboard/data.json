@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-04T14:10:19.353369Z",
+  "generated_at": "2026-08-04T16:26:56.738940Z",
   "segment1": [
+    {
+      "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
+      "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
+      "published": "Tue, 04 Aug 2026 15:33:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Florida Man Sentenced for Conspiracy to Commit Wire Fraud",
+      "url": "https://databreaches.net/2026/08/04/florida-man-sentenced-for-conspiracy-to-commit-wire-fraud/",
+      "published": "Tue, 04 Aug 2026 15:29:18 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
       "url": "https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/",
@@ -47,23 +59,23 @@
       "title": "TN: Sumner County Schools provides limited update on data breach",
       "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
       "published": "Sun, 02 Aug 2026 14:02:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sixth Circuit to Rehear Case on FCC Data Breach Rules Case",
-      "url": "https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/",
-      "published": "Sat, 01 Aug 2026 14:32:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The double extortion of a Russian ransomware threatens the medical records that Diater has kept for 10 years.",
-      "url": "https://databreaches.net/2026/08/01/the-double-extortion-of-a-russian-ransomware-threatens-the-medical-records-that-diater-has-kept-for-10-years/",
-      "published": "Sat, 01 Aug 2026 14:30:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
+      "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
+      "published": "Tue, 04 Aug 2026 15:33:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Florida Man Sentenced for Conspiracy to Commit Wire Fraud",
+      "url": "https://databreaches.net/2026/08/04/florida-man-sentenced-for-conspiracy-to-commit-wire-fraud/",
+      "published": "Tue, 04 Aug 2026 15:29:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
       "url": "https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/",
       "published": "Tue, 04 Aug 2026 12:39:49 +0000",
@@ -109,18 +121,6 @@
       "title": "TN: Sumner County Schools provides limited update on data breach",
       "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
       "published": "Sun, 02 Aug 2026 14:02:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sixth Circuit to Rehear Case on FCC Data Breach Rules Case",
-      "url": "https://databreaches.net/2026/08/01/sixth-circuit-to-rehear-case-on-fcc-data-breach-rules-case/",
-      "published": "Sat, 01 Aug 2026 14:32:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The double extortion of a Russian ransomware threatens the medical records that Diater has kept for 10 years.",
-      "url": "https://databreaches.net/2026/08/01/the-double-extortion-of-a-russian-ransomware-threatens-the-medical-records-that-diater-has-kept-for-10-years/",
-      "published": "Sat, 01 Aug 2026 14:30:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
@@ -267,12 +273,6 @@
       "title": "Arch Linux disables AUR package adoption to stop malware flood",
       "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
       "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "published": "Fri, 31 Jul 2026 17:09:25 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
       "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
       "published": "Tue, 04 Aug 2026 10:00:10 -0400",
@@ -599,12 +605,6 @@
       "title": "Arch Linux disables AUR package adoption to stop malware flood",
       "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
       "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "published": "Fri, 31 Jul 2026 17:09:25 -0400",
       "source": "BleepingComputer"
     },
     {
