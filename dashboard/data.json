@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-04T11:39:08.702769Z",
+  "generated_at": "2026-08-04T14:10:19.353369Z",
   "segment1": [
+    {
+      "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
+      "url": "https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/",
+      "published": "Tue, 04 Aug 2026 12:39:49 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Swiss federal IT office hit by cyberattack",
+      "url": "https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/",
+      "published": "Tue, 04 Aug 2026 12:39:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
       "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
@@ -47,23 +59,23 @@
       "title": "The double extortion of a Russian ransomware threatens the medical records that Diater has kept for 10 years.",
       "url": "https://databreaches.net/2026/08/01/the-double-extortion-of-a-russian-ransomware-threatens-the-medical-records-that-diater-has-kept-for-10-years/",
       "published": "Sat, 01 Aug 2026 14:30:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CareCloud Data Breach Impacts Over 350,000",
-      "url": "https://databreaches.net/2026/08/01/carecloud-data-breach-impacts-over-350000/",
-      "published": "Sat, 01 Aug 2026 14:25:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Suspected cyberattack disrupts Oceanside, California, school district systems",
-      "url": "https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/",
-      "published": "Sat, 01 Aug 2026 14:18:44 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Republican attorneys general urge OpenAI to preserve records on Hugging Face breach",
+      "url": "https://databreaches.net/2026/08/04/republican-attorneys-general-urge-openai-to-preserve-records-on-hugging-face-breach/",
+      "published": "Tue, 04 Aug 2026 12:39:49 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Swiss federal IT office hit by cyberattack",
+      "url": "https://databreaches.net/2026/08/04/swiss-federal-it-office-hit-by-cyberattack/",
+      "published": "Tue, 04 Aug 2026 12:39:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
       "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
       "published": "Mon, 03 Aug 2026 12:33:23 +0000",
@@ -109,18 +121,6 @@
       "title": "The double extortion of a Russian ransomware threatens the medical records that Diater has kept for 10 years.",
       "url": "https://databreaches.net/2026/08/01/the-double-extortion-of-a-russian-ransomware-threatens-the-medical-records-that-diater-has-kept-for-10-years/",
       "published": "Sat, 01 Aug 2026 14:30:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CareCloud Data Breach Impacts Over 350,000",
-      "url": "https://databreaches.net/2026/08/01/carecloud-data-breach-impacts-over-350000/",
-      "published": "Sat, 01 Aug 2026 14:25:00 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Suspected cyberattack disrupts Oceanside, California, school district systems",
-      "url": "https://databreaches.net/2026/08/01/suspected-cyberattack-disrupts-oceanside-california-school-district-systems/",
-      "published": "Sat, 01 Aug 2026 14:18:44 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
@@ -369,30 +393,6 @@
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "published": "Sat, 01 Aug 2026 12:42:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "published": "Sat, 01 Aug 2026 11:59:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "published": "Sat, 01 Aug 2026 00:22:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "published": "Fri, 31 Jul 2026 22:09:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "published": "Fri, 31 Jul 2026 20:15:01 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
       "published": "Mon, 03 Aug 2026 20:17:15 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
@@ -701,30 +725,6 @@
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "published": "Sat, 01 Aug 2026 12:42:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "published": "Sat, 01 Aug 2026 11:59:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "published": "Sat, 01 Aug 2026 00:22:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "published": "Fri, 31 Jul 2026 22:09:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "published": "Fri, 31 Jul 2026 20:15:01 +0530",
       "source": "The Hacker News"
     },
     {
