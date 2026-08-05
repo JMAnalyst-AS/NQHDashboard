@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:21:09.505443Z",
+  "generated_at": "2026-08-05T20:07:40.346081Z",
   "segment1": [
     {
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "COLDCARD security audit phishing attack installs remote access tool",
       "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
       "published": "Wed, 05 Aug 2026 13:49:41 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "published": "Thu, 06 Aug 2026 00:14:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "published": "Thu, 06 Aug 2026 00:03:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
@@ -381,18 +393,6 @@
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
       "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
       "published": "Tue, 04 Aug 2026 16:06:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "published": "Tue, 04 Aug 2026 14:33:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "published": "Tue, 04 Aug 2026 12:30:13 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "COLDCARD security audit phishing attack installs remote access tool",
       "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
       "published": "Wed, 05 Aug 2026 13:49:41 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "published": "Thu, 06 Aug 2026 00:14:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "published": "Thu, 06 Aug 2026 00:03:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
@@ -713,18 +725,6 @@
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
       "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
       "published": "Tue, 04 Aug 2026 16:06:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "published": "Tue, 04 Aug 2026 14:33:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "published": "Tue, 04 Aug 2026 12:30:13 +0530",
       "source": "The Hacker News"
     },
     {
