@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-05T21:46:13.629961Z",
+  "generated_at": "2026-08-05T22:58:18.022480Z",
   "segment1": [
+    {
+      "title": "Canadian Man Pleads Guilty to Hacking U.S. Cloud Storage Provider and Extorting Its Customers for Millions",
+      "url": "https://databreaches.net/2026/08/05/canadian-man-pleads-guilty-to-hacking-u-s-cloud-storage-provider-and-extorting-its-customers-for-millions/",
+      "published": "Wed, 05 Aug 2026 22:10:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
       "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
@@ -53,17 +59,17 @@
       "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
       "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
       "published": "Sun, 02 Aug 2026 14:03:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
-      "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
-      "published": "Sun, 02 Aug 2026 14:03:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Canadian Man Pleads Guilty to Hacking U.S. Cloud Storage Provider and Extorting Its Customers for Millions",
+      "url": "https://databreaches.net/2026/08/05/canadian-man-pleads-guilty-to-hacking-u-s-cloud-storage-provider-and-extorting-its-customers-for-millions/",
+      "published": "Wed, 05 Aug 2026 22:10:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
       "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
       "published": "Wed, 05 Aug 2026 13:38:23 +0000",
@@ -115,12 +121,6 @@
       "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
       "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
       "published": "Sun, 02 Aug 2026 14:03:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
-      "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
-      "published": "Sun, 02 Aug 2026 14:03:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
@@ -267,12 +273,6 @@
       "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
       "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
       "published": "Mon, 03 Aug 2026 19:58:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "published": "Mon, 03 Aug 2026 16:01:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
       "published": "Wed, 05 Aug 2026 15:55:25 -0400",
@@ -599,12 +605,6 @@
       "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
       "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
       "published": "Mon, 03 Aug 2026 19:58:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "published": "Mon, 03 Aug 2026 16:01:22 -0400",
       "source": "BleepingComputer"
     },
     {
