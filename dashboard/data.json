@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:41:40.551057Z",
+  "generated_at": "2026-08-05T18:21:09.505443Z",
   "segment1": [
     {
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "published": "Wed, 05 Aug 2026 11:51:33 -0400",
@@ -267,12 +273,6 @@
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
       "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "published": "Wed, 05 Aug 2026 11:51:33 -0400",
@@ -599,12 +605,6 @@
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
       "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
       "source": "BleepingComputer"
     },
     {
