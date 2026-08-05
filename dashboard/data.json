@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:14:07.581352Z",
+  "generated_at": "2026-08-05T10:06:52.691554Z",
   "segment1": [
     {
       "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "published": "Wed, 05 Aug 2026 14:53:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "published": "Wed, 05 Aug 2026 13:23:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "published": "Wed, 05 Aug 2026 13:10:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
       "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
       "published": "Wed, 05 Aug 2026 11:17:19 +0530",
@@ -375,24 +393,6 @@
       "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
       "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
       "published": "Mon, 03 Aug 2026 13:35:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "published": "Mon, 03 Aug 2026 12:10:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "published": "Wed, 05 Aug 2026 14:53:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "published": "Wed, 05 Aug 2026 13:23:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "published": "Wed, 05 Aug 2026 13:10:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
       "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
       "published": "Wed, 05 Aug 2026 11:17:19 +0530",
@@ -707,24 +725,6 @@
       "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
       "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
       "published": "Mon, 03 Aug 2026 13:35:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "published": "Mon, 03 Aug 2026 12:10:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
       "source": "The Hacker News"
     },
     {
