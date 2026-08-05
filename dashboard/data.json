@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-05T12:23:06.288866Z",
+  "generated_at": "2026-08-05T14:54:41.548617Z",
   "segment1": [
+    {
+      "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
+      "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
+      "published": "Wed, 05 Aug 2026 13:38:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
       "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
@@ -53,17 +59,17 @@
       "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
       "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
       "published": "Sun, 02 Aug 2026 14:03:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TN: Sumner County Schools provides limited update on data breach",
-      "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
-      "published": "Sun, 02 Aug 2026 14:02:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
+      "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
+      "published": "Wed, 05 Aug 2026 13:38:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
       "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
       "published": "Tue, 04 Aug 2026 15:33:45 +0000",
@@ -115,12 +121,6 @@
       "title": "Brinks Home Confirms Data Breach Following ShinyHunters Claim",
       "url": "https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/",
       "published": "Sun, 02 Aug 2026 14:03:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TN: Sumner County Schools provides limited update on data breach",
-      "url": "https://databreaches.net/2026/08/02/tn-sumner-county-schools-provides-limited-update-on-data-breach/",
-      "published": "Sun, 02 Aug 2026 14:02:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "How AI-powered phishing killed blocklists for good",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "published": "Wed, 05 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-      "source": "BleepingComputer"
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
@@ -381,18 +393,6 @@
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "published": "Mon, 03 Aug 2026 19:33:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "published": "Mon, 03 Aug 2026 16:19:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How AI-powered phishing killed blocklists for good",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "published": "Wed, 05 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
       "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
       "published": "Tue, 04 Aug 2026 19:39:59 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-      "source": "BleepingComputer"
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
@@ -713,18 +725,6 @@
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "published": "Mon, 03 Aug 2026 19:33:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "published": "Mon, 03 Aug 2026 16:19:06 +0530",
       "source": "The Hacker News"
     },
     {
