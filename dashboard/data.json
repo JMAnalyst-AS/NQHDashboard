@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-06T11:39:49.875432Z",
+  "generated_at": "2026-08-06T14:08:13.436777Z",
   "segment1": [
+    {
+      "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+      "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+      "published": "Thu, 06 Aug 2026 12:11:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Dutch retailer Bol follows De Bijenkorf in warning of data breach as leaked data appears on dark web",
+      "url": "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/",
+      "published": "Thu, 06 Aug 2026 12:11:15 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Canadian Man Pleads Guilty to Hacking U.S. Cloud Storage Provider and Extorting Its Customers for Millions",
       "url": "https://databreaches.net/2026/08/05/canadian-man-pleads-guilty-to-hacking-u-s-cloud-storage-provider-and-extorting-its-customers-for-millions/",
@@ -47,23 +59,23 @@
       "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
       "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
       "published": "Mon, 03 Aug 2026 12:09:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack hits Liechtenstein, with 31,000 records stolen",
-      "url": "https://databreaches.net/2026/08/03/cyberattack-hits-liechtenstein-with-31000-records-stolen/",
-      "published": "Mon, 03 Aug 2026 12:09:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
-      "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
-      "published": "Sun, 02 Aug 2026 14:03:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+      "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+      "published": "Thu, 06 Aug 2026 12:11:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Dutch retailer Bol follows De Bijenkorf in warning of data breach as leaked data appears on dark web",
+      "url": "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/",
+      "published": "Thu, 06 Aug 2026 12:11:15 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Canadian Man Pleads Guilty to Hacking U.S. Cloud Storage Provider and Extorting Its Customers for Millions",
       "url": "https://databreaches.net/2026/08/05/canadian-man-pleads-guilty-to-hacking-u-s-cloud-storage-provider-and-extorting-its-customers-for-millions/",
       "published": "Wed, 05 Aug 2026 22:10:13 +0000",
@@ -109,18 +121,6 @@
       "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
       "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
       "published": "Mon, 03 Aug 2026 12:09:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack hits Liechtenstein, with 31,000 records stolen",
-      "url": "https://databreaches.net/2026/08/03/cyberattack-hits-liechtenstein-with-31000-records-stolen/",
-      "published": "Mon, 03 Aug 2026 12:09:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A “No-Logs” VPN That Kept 58 Million Connection Logs: Inside the NotVPN / SplitVPN Breach",
-      "url": "https://databreaches.net/2026/08/02/a-no-logs-vpn-that-kept-58-million-connection-logs-inside-the-notvpn-splitvpn-breach/",
-      "published": "Sun, 02 Aug 2026 14:03:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "published": "Tue, 09 Jun 2026 22:07:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+      "published": "Thu, 06 Aug 2026 17:46:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+      "url": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+      "published": "Thu, 06 Aug 2026 17:19:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+      "url": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+      "published": "Thu, 06 Aug 2026 17:03:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "published": "Thu, 06 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
@@ -369,30 +393,6 @@
       "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
       "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
       "published": "Wed, 05 Aug 2026 16:05:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "published": "Wed, 05 Aug 2026 14:53:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "published": "Wed, 05 Aug 2026 13:23:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "published": "Wed, 05 Aug 2026 13:10:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "published": "Wed, 05 Aug 2026 11:17:19 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
       "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
       "published": "Wed, 05 Aug 2026 19:00:50 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+      "published": "Thu, 06 Aug 2026 17:46:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+      "url": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+      "published": "Thu, 06 Aug 2026 17:19:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+      "url": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+      "published": "Thu, 06 Aug 2026 17:03:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "published": "Thu, 06 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
@@ -701,30 +725,6 @@
       "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
       "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
       "published": "Wed, 05 Aug 2026 16:05:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "published": "Wed, 05 Aug 2026 14:53:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "published": "Wed, 05 Aug 2026 13:23:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "published": "Wed, 05 Aug 2026 13:10:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "published": "Wed, 05 Aug 2026 11:17:19 +0530",
       "source": "The Hacker News"
     },
     {
