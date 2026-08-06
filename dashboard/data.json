@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:24:24.912482Z",
+  "generated_at": "2026-08-06T11:39:49.875432Z",
   "segment1": [
     {
       "title": "Canadian Man Pleads Guilty to Hacking U.S. Cloud Storage Provider and Extorting Its Customers for Millions",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "published": "Thu, 06 Aug 2026 14:49:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "published": "Thu, 06 Aug 2026 14:27:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
       "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
       "published": "Thu, 06 Aug 2026 13:35:22 +0530",
@@ -381,18 +393,6 @@
       "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
       "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
       "published": "Wed, 05 Aug 2026 11:17:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "published": "Tue, 04 Aug 2026 22:57:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "published": "Thu, 06 Aug 2026 14:49:23 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "published": "Thu, 06 Aug 2026 14:27:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
       "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
       "published": "Thu, 06 Aug 2026 13:35:22 +0530",
@@ -713,18 +725,6 @@
       "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
       "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
       "published": "Wed, 05 Aug 2026 11:17:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "published": "Tue, 04 Aug 2026 22:57:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
       "source": "The Hacker News"
     },
     {
