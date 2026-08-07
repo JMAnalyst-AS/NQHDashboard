@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T20:39:57.440500Z",
+  "generated_at": "2026-08-07T21:38:05.552826Z",
   "segment1": [
+    {
+      "title": "City of Coweta hit with system-wide ransomware attack, has backup",
+      "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
+      "published": "Fri, 07 Aug 2026 20:26:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Boston Children’s Hospital named in North Korean hacking operation",
       "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
@@ -53,17 +59,17 @@
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
       "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
       "published": "Wed, 05 Aug 2026 13:38:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
-      "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
-      "published": "Tue, 04 Aug 2026 15:33:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "City of Coweta hit with system-wide ransomware attack, has backup",
+      "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
+      "published": "Fri, 07 Aug 2026 20:26:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Boston Children’s Hospital named in North Korean hacking operation",
       "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
       "published": "Fri, 07 Aug 2026 17:37:17 +0000",
@@ -115,12 +121,6 @@
       "title": "AU: Updoc patients notified of security breach where personal information may have been stolen",
       "url": "https://databreaches.net/2026/08/05/au-updoc-patients-notified-of-security-breach-where-personal-information-may-have-been-stolen/",
       "published": "Wed, 05 Aug 2026 13:38:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Sage Water Resources says Utah saltwater disposal controller intrusion bypassed pump safeguards",
-      "url": "https://databreaches.net/2026/08/04/sage-water-resources-says-utah-saltwater-disposal-controller-intrusion-bypassed-pump-safeguards/",
-      "published": "Tue, 04 Aug 2026 15:33:45 +0000",
       "source": "DataBreaches.Net"
     }
   ],
