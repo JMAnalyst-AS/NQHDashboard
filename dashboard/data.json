@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:52:26.401603Z",
+  "generated_at": "2026-08-07T20:39:57.440500Z",
   "segment1": [
     {
       "title": "Boston Children’s Hospital named in North Korean hacking operation",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
       "published": "Fri, 07 Aug 2026 15:30:41 -0400",
@@ -267,12 +273,6 @@
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
       "published": "Wed, 05 Aug 2026 15:55:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
       "published": "Fri, 07 Aug 2026 15:30:41 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
       "published": "Wed, 05 Aug 2026 15:55:25 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
       "source": "BleepingComputer"
     },
     {
