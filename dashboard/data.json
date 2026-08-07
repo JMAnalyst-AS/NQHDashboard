@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-06T14:08:13.436777Z",
+  "generated_at": "2026-08-07T00:23:45.324230Z",
   "segment1": [
+    {
+      "title": "Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June.",
+      "url": "https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/",
+      "published": "Thu, 06 Aug 2026 19:29:26 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
       "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
@@ -53,17 +59,17 @@
       "title": "KR: Seoul lawmaker criticizes 5,000-won compensation for 4.62 million-person data breach",
       "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
       "published": "Mon, 03 Aug 2026 12:33:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
-      "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
-      "published": "Mon, 03 Aug 2026 12:09:28 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June.",
+      "url": "https://databreaches.net/2026/08/06/cardiology-associates-of-port-huron-remains-silent-although-they-were-allegedly-hacked-and-had-patient-data-stolen-in-june/",
+      "published": "Thu, 06 Aug 2026 19:29:26 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
       "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
       "published": "Thu, 06 Aug 2026 12:11:40 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/08/03/kr-seoul-lawmaker-criticizes-5000-won-compensation-for-4-62-million-person-data-breach/",
       "published": "Mon, 03 Aug 2026 12:33:23 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Details of 100,000 police staff leaked on the dark web after hack",
-      "url": "https://databreaches.net/2026/08/03/uk-details-of-100000-police-staff-leaked-on-the-dark-web-after-hack/",
-      "published": "Mon, 03 Aug 2026 12:09:28 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -180,10 +186,40 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "source": "Krebs on Security"
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "published": "Thu, 06 Aug 2026 18:48:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
@@ -240,40 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "published": "Tue, 04 Aug 2026 18:18:20 -0400",
-      "source": "BleepingComputer"
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "published": "Thu, 06 Aug 2026 22:43:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
-      "source": "BleepingComputer"
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "published": "Thu, 06 Aug 2026 21:47:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "published": "Thu, 06 Aug 2026 20:54:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
@@ -369,30 +393,6 @@
       "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
       "published": "Wed, 05 Aug 2026 19:11:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "published": "Wed, 05 Aug 2026 16:34:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "published": "Wed, 05 Aug 2026 16:05:29 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
@@ -512,10 +518,40 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "source": "Krebs on Security"
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "published": "Thu, 06 Aug 2026 18:48:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
@@ -572,40 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "published": "Tue, 04 Aug 2026 18:18:20 -0400",
-      "source": "BleepingComputer"
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "published": "Thu, 06 Aug 2026 22:43:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
-      "source": "BleepingComputer"
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "published": "Thu, 06 Aug 2026 21:47:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "published": "Thu, 06 Aug 2026 20:54:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
@@ -701,30 +725,6 @@
       "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
       "published": "Wed, 05 Aug 2026 19:11:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "published": "Wed, 05 Aug 2026 16:34:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "published": "Wed, 05 Aug 2026 16:05:29 +0530",
       "source": "The Hacker News"
     },
     {
