@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:45:35.409287Z",
+  "generated_at": "2026-08-07T08:13:23.842300Z",
   "segment1": [
     {
       "title": "Cardiology Associates of Port Huron remains silent although they were allegedly hacked and had patient data stolen in June.",
@@ -276,13 +276,19 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
       "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
       "published": "Thu, 06 Aug 2026 23:28:30 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "published": "Thu, 06 Aug 2026 22:43:15 +0530",
       "source": "The Hacker News"
@@ -387,12 +393,6 @@
       "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
       "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
       "published": "Wed, 05 Aug 2026 19:57:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "published": "Wed, 05 Aug 2026 19:11:27 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,13 +608,19 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
       "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
       "published": "Thu, 06 Aug 2026 23:28:30 +0530",
       "source": "The Hacker News"
     },
     {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "published": "Thu, 06 Aug 2026 22:43:15 +0530",
       "source": "The Hacker News"
@@ -719,12 +725,6 @@
       "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
       "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
       "published": "Wed, 05 Aug 2026 19:57:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "published": "Wed, 05 Aug 2026 19:11:27 +0530",
       "source": "The Hacker News"
     },
     {
