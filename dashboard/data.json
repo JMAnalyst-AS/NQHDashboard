@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-08T11:56:05.294771Z",
+  "generated_at": "2026-08-08T12:50:53.142160Z",
   "segment1": [
+    {
+      "title": "City of Coweta refuses to pay ransom after system-wide cyberattack",
+      "url": "https://databreaches.net/2026/08/08/city-of-coweta-refuses-to-pay-ransom-after-system-wide-cyberattack/",
+      "published": "Sat, 08 Aug 2026 12:40:22 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear",
       "url": "https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/",
@@ -53,17 +59,17 @@
       "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
       "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
       "published": "Thu, 06 Aug 2026 12:11:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch retailer Bol follows De Bijenkorf in warning of data breach as leaked data appears on dark web",
-      "url": "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/",
-      "published": "Thu, 06 Aug 2026 12:11:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "City of Coweta refuses to pay ransom after system-wide cyberattack",
+      "url": "https://databreaches.net/2026/08/08/city-of-coweta-refuses-to-pay-ransom-after-system-wide-cyberattack/",
+      "published": "Sat, 08 Aug 2026 12:40:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear",
       "url": "https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/",
       "published": "Fri, 07 Aug 2026 23:08:16 +0000",
@@ -115,12 +121,6 @@
       "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
       "url": "https://databreaches.net/2026/08/06/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
       "published": "Thu, 06 Aug 2026 12:11:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Dutch retailer Bol follows De Bijenkorf in warning of data breach as leaked data appears on dark web",
-      "url": "https://databreaches.net/2026/08/06/dutch-retailer-bol-follows-de-bijenkorf-in-warning-of-data-breach-as-leaked-data-appears-on-dark-web/",
-      "published": "Thu, 06 Aug 2026 12:11:15 +0000",
       "source": "DataBreaches.Net"
     }
   ],
