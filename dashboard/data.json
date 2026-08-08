@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:44:44.126918Z",
+  "generated_at": "2026-08-08T14:31:17.178180Z",
   "segment1": [
     {
       "title": "City of Coweta refuses to pay ransom after system-wide cyberattack",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "published": "Fri, 07 Aug 2026 16:14:46 -0400",
@@ -267,12 +273,6 @@
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
       "published": "Wed, 05 Aug 2026 17:53:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "published": "Fri, 07 Aug 2026 16:14:46 -0400",
@@ -599,12 +605,6 @@
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
       "published": "Wed, 05 Aug 2026 17:53:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
       "source": "BleepingComputer"
     },
     {
