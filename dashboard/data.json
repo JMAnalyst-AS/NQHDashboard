@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:55:01.523856Z",
+  "generated_at": "2026-08-10T14:57:31.523813Z",
   "segment1": [
     {
       "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "published": "Mon, 10 Aug 2026 10:34:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Member of The Com sent to prison for blackmail, sextortion",
       "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
       "published": "Mon, 10 Aug 2026 08:56:28 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "published": "Mon, 10 Aug 2026 18:49:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
@@ -387,12 +393,6 @@
       "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
       "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
       "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "published": "Fri, 07 Aug 2026 14:22:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "published": "Mon, 10 Aug 2026 10:34:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Member of The Com sent to prison for blackmail, sextortion",
       "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
       "published": "Mon, 10 Aug 2026 08:56:28 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
-      "source": "BleepingComputer"
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "published": "Mon, 10 Aug 2026 18:49:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
@@ -719,12 +725,6 @@
       "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
       "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
       "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "published": "Fri, 07 Aug 2026 14:22:11 +0530",
       "source": "The Hacker News"
     },
     {
