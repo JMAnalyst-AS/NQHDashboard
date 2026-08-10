@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-10T18:12:55.241383Z",
+  "generated_at": "2026-08-10T19:30:03.504175Z",
   "segment1": [
+    {
+      "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
+      "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
+      "published": "Mon, 10 Aug 2026 19:02:46 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
       "url": "https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/",
@@ -53,17 +59,17 @@
       "title": "AU: Hackers leak sensitive Victorian court data to dark web",
       "url": "https://databreaches.net/2026/08/07/au-hackers-leak-sensitive-victorian-court-data-to-dark-web/",
       "published": "Fri, 07 Aug 2026 13:39:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "What Canvas learned from a massive cyberattack",
-      "url": "https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/",
-      "published": "Fri, 07 Aug 2026 13:39:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
+      "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
+      "published": "Mon, 10 Aug 2026 19:02:46 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
       "url": "https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/",
       "published": "Sun, 09 Aug 2026 12:58:02 +0000",
@@ -115,12 +121,6 @@
       "title": "AU: Hackers leak sensitive Victorian court data to dark web",
       "url": "https://databreaches.net/2026/08/07/au-hackers-leak-sensitive-victorian-court-data-to-dark-web/",
       "published": "Fri, 07 Aug 2026 13:39:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "What Canvas learned from a massive cyberattack",
-      "url": "https://databreaches.net/2026/08/07/what-canvas-learned-from-a-massive-cyberattack/",
-      "published": "Fri, 07 Aug 2026 13:39:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
       "published": "Wed, 10 Jun 2026 14:03:44 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
@@ -267,12 +273,6 @@
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
       "published": "Thu, 06 Aug 2026 18:48:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "published": "Mon, 10 Aug 2026 13:42:00 -0400",
@@ -599,12 +605,6 @@
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
       "published": "Thu, 06 Aug 2026 18:48:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
       "source": "BleepingComputer"
     },
     {
