@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:07:51.987431Z",
+  "generated_at": "2026-08-10T13:55:01.523856Z",
   "segment1": [
     {
       "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "published": "Mon, 10 Aug 2026 08:56:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "published": "Mon, 10 Aug 2026 08:11:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Valve notifies Steam hardware customers of a data breach",
       "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
       "published": "Mon, 10 Aug 2026 07:47:55 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
-      "source": "BleepingComputer"
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "published": "Mon, 10 Aug 2026 17:55:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "published": "Mon, 10 Aug 2026 17:03:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
@@ -375,24 +393,6 @@
       "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
       "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
       "published": "Fri, 07 Aug 2026 14:22:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "published": "Fri, 07 Aug 2026 13:48:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "published": "Mon, 10 Aug 2026 08:56:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "published": "Mon, 10 Aug 2026 08:11:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Valve notifies Steam hardware customers of a data breach",
       "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
       "published": "Mon, 10 Aug 2026 07:47:55 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
-      "source": "BleepingComputer"
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "published": "Mon, 10 Aug 2026 17:55:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "published": "Mon, 10 Aug 2026 17:03:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
@@ -707,24 +725,6 @@
       "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
       "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
       "published": "Fri, 07 Aug 2026 14:22:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "published": "Fri, 07 Aug 2026 13:48:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
       "source": "The Hacker News"
     },
     {
