@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:24:38.497152Z",
+  "generated_at": "2026-08-10T18:12:55.241383Z",
   "segment1": [
     {
       "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "published": "Mon, 10 Aug 2026 13:42:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
       "published": "Mon, 10 Aug 2026 10:34:32 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "published": "Mon, 10 Aug 2026 22:59:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "published": "Mon, 10 Aug 2026 22:08:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
@@ -291,12 +303,6 @@
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
       "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -387,12 +393,6 @@
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
       "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
       "published": "Fri, 07 Aug 2026 16:28:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "published": "Fri, 07 Aug 2026 16:08:27 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "published": "Mon, 10 Aug 2026 13:42:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
       "published": "Mon, 10 Aug 2026 10:34:32 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "published": "Mon, 10 Aug 2026 22:59:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "published": "Mon, 10 Aug 2026 22:08:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
@@ -623,12 +635,6 @@
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
       "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -719,12 +725,6 @@
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
       "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
       "published": "Fri, 07 Aug 2026 16:28:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "published": "Fri, 07 Aug 2026 16:08:27 +0530",
       "source": "The Hacker News"
     },
     {
