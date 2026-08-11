@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:41:58.257039Z",
+  "generated_at": "2026-08-11T21:46:06.326171Z",
   "segment1": [
     {
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "source": "Krebs on Security"
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "published": "Tue, 11 Aug 2026 17:07:24 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
@@ -375,24 +393,6 @@
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
       "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "published": "Mon, 10 Aug 2026 17:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "published": "Mon, 10 Aug 2026 11:20:03 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "source": "Krebs on Security"
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "published": "Tue, 11 Aug 2026 17:07:24 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
@@ -707,24 +725,6 @@
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
       "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "published": "Mon, 10 Aug 2026 17:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "published": "Mon, 10 Aug 2026 11:20:03 +0530",
       "source": "The Hacker News"
     },
     {
