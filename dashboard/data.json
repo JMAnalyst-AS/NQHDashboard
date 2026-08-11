@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-11T18:24:27.803328Z",
+  "generated_at": "2026-08-11T19:34:25.116215Z",
   "segment1": [
+    {
+      "title": "Stolen Change Healthcare data gets new handling rules in court order",
+      "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
+      "published": "Tue, 11 Aug 2026 18:35:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
       "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
@@ -53,17 +59,17 @@
       "title": "Boston Children’s Hospital named in North Korean hacking operation",
       "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
       "published": "Fri, 07 Aug 2026 17:37:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Hackers leak sensitive Victorian court data to dark web",
-      "url": "https://databreaches.net/2026/08/07/au-hackers-leak-sensitive-victorian-court-data-to-dark-web/",
-      "published": "Fri, 07 Aug 2026 13:39:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Stolen Change Healthcare data gets new handling rules in court order",
+      "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
+      "published": "Tue, 11 Aug 2026 18:35:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
       "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
       "published": "Mon, 10 Aug 2026 19:02:46 +0000",
@@ -115,12 +121,6 @@
       "title": "Boston Children’s Hospital named in North Korean hacking operation",
       "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
       "published": "Fri, 07 Aug 2026 17:37:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Hackers leak sensitive Victorian court data to dark web",
-      "url": "https://databreaches.net/2026/08/07/au-hackers-leak-sensitive-victorian-court-data-to-dark-web/",
-      "published": "Fri, 07 Aug 2026 13:39:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
       "published": "Wed, 10 Jun 2026 14:03:44 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "published": "Tue, 11 Aug 2026 14:26:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "published": "Mon, 10 Aug 2026 10:34:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
@@ -387,12 +393,6 @@
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
       "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
       "published": "Mon, 10 Aug 2026 11:20:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "published": "Sat, 08 Aug 2026 14:24:50 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "published": "Tue, 11 Aug 2026 14:26:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "published": "Tue, 11 Aug 2026 14:08:50 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "published": "Mon, 10 Aug 2026 10:34:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
@@ -719,12 +725,6 @@
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
       "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
       "published": "Mon, 10 Aug 2026 11:20:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "published": "Sat, 08 Aug 2026 14:24:50 +0530",
       "source": "The Hacker News"
     },
     {
