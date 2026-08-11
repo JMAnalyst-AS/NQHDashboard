@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:50:09.452402Z",
+  "generated_at": "2026-08-11T11:42:24.696456Z",
   "segment1": [
     {
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "published": "Tue, 11 Aug 2026 07:03:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
       "published": "Tue, 11 Aug 2026 05:47:06 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "published": "Tue, 11 Aug 2026 16:18:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "published": "Tue, 11 Aug 2026 15:54:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "published": "Tue, 11 Aug 2026 14:46:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
@@ -375,24 +393,6 @@
       "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
       "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
       "published": "Fri, 07 Aug 2026 23:59:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "published": "Fri, 07 Aug 2026 23:46:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "published": "Fri, 07 Aug 2026 18:26:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Growing Up The Hard Way",
-      "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-      "published": "Fri, 07 Aug 2026 17:25:26 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "published": "Tue, 11 Aug 2026 07:03:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
       "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
       "published": "Tue, 11 Aug 2026 05:47:06 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "published": "Tue, 11 Aug 2026 16:18:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "published": "Tue, 11 Aug 2026 15:54:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "published": "Tue, 11 Aug 2026 14:46:24 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
@@ -707,24 +725,6 @@
       "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
       "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
       "published": "Fri, 07 Aug 2026 23:59:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "published": "Fri, 07 Aug 2026 23:46:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "published": "Fri, 07 Aug 2026 18:26:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Growing Up The Hard Way",
-      "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-      "published": "Fri, 07 Aug 2026 17:25:26 +0530",
       "source": "The Hacker News"
     },
     {
