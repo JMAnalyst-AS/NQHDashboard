@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:04:05.487752Z",
+  "generated_at": "2026-08-11T14:35:00.999135Z",
   "segment1": [
     {
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+      "published": "Tue, 11 Aug 2026 09:20:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "published": "Tue, 11 Aug 2026 09:15:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "published": "Tue, 11 Aug 2026 09:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
       "published": "Tue, 11 Aug 2026 08:12:16 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "published": "Mon, 10 Aug 2026 05:49:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "published": "Tue, 11 Aug 2026 18:41:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
@@ -387,12 +393,6 @@
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
       "published": "Sat, 08 Aug 2026 12:28:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "published": "Sat, 08 Aug 2026 12:27:43 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+      "published": "Tue, 11 Aug 2026 09:20:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "published": "Tue, 11 Aug 2026 09:15:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "published": "Tue, 11 Aug 2026 09:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
       "published": "Tue, 11 Aug 2026 08:12:16 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "published": "Mon, 10 Aug 2026 05:49:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "published": "Tue, 11 Aug 2026 18:41:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
@@ -719,12 +725,6 @@
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
       "published": "Sat, 08 Aug 2026 12:28:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "published": "Sat, 08 Aug 2026 12:27:43 +0530",
       "source": "The Hacker News"
     },
     {
