@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:23:42.219632Z",
+  "generated_at": "2026-08-12T08:47:02.938046Z",
   "segment1": [
     {
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
@@ -276,6 +276,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "published": "Wed, 12 Aug 2026 13:01:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "published": "Wed, 12 Aug 2026 11:45:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "published": "Wed, 12 Aug 2026 01:40:55 +0530",
@@ -369,30 +393,6 @@
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
       "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
       "published": "Mon, 10 Aug 2026 22:59:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "published": "Mon, 10 Aug 2026 22:08:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "published": "Mon, 10 Aug 2026 20:30:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "published": "Mon, 10 Aug 2026 18:49:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "published": "Mon, 10 Aug 2026 17:55:04 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,30 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "published": "Wed, 12 Aug 2026 13:01:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "published": "Wed, 12 Aug 2026 11:45:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "published": "Wed, 12 Aug 2026 01:40:55 +0530",
@@ -701,30 +725,6 @@
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
       "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
       "published": "Mon, 10 Aug 2026 22:59:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "published": "Mon, 10 Aug 2026 22:08:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "published": "Mon, 10 Aug 2026 20:30:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "published": "Mon, 10 Aug 2026 18:49:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "published": "Mon, 10 Aug 2026 17:55:04 +0530",
       "source": "The Hacker News"
     },
     {
