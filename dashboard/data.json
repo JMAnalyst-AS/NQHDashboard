@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-12T11:21:42.179164Z",
+  "generated_at": "2026-08-12T12:09:40.205280Z",
   "segment1": [
+    {
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
+      "published": "Wed, 12 Aug 2026 11:50:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
+      "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
+      "published": "Wed, 12 Aug 2026 11:46:46 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
       "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
@@ -47,23 +59,23 @@
       "title": "New York State Department of Financial Services Secures Cybersecurity Settlement with Order Express, Inc.",
       "url": "https://databreaches.net/2026/08/07/new-york-state-department-of-financial-services-secures-cybersecurity-settlement-with-order-express-inc/",
       "published": "Fri, 07 Aug 2026 21:50:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "City of Coweta hit with system-wide ransomware attack, has backup",
-      "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
-      "published": "Fri, 07 Aug 2026 20:26:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Boston Children’s Hospital named in North Korean hacking operation",
-      "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
-      "published": "Fri, 07 Aug 2026 17:37:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
+      "published": "Wed, 12 Aug 2026 11:50:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
+      "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
+      "published": "Wed, 12 Aug 2026 11:46:46 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
       "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
       "published": "Tue, 11 Aug 2026 18:35:23 +0000",
@@ -109,18 +121,6 @@
       "title": "New York State Department of Financial Services Secures Cybersecurity Settlement with Order Express, Inc.",
       "url": "https://databreaches.net/2026/08/07/new-york-state-department-of-financial-services-secures-cybersecurity-settlement-with-order-express-inc/",
       "published": "Fri, 07 Aug 2026 21:50:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "City of Coweta hit with system-wide ransomware attack, has backup",
-      "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
-      "published": "Fri, 07 Aug 2026 20:26:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Boston Children’s Hospital named in North Korean hacking operation",
-      "url": "https://databreaches.net/2026/08/07/boston-childrens-hospital-named-in-north-korean-hacking-operation/",
-      "published": "Fri, 07 Aug 2026 17:37:17 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "published": "Thu, 18 Jun 2026 17:37:58 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "published": "Wed, 12 Aug 2026 07:21:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "published": "Tue, 11 Aug 2026 07:03:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
@@ -387,12 +393,6 @@
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
       "published": "Tue, 11 Aug 2026 12:25:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "published": "Tue, 11 Aug 2026 11:18:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "published": "Wed, 12 Aug 2026 07:21:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "published": "Wed, 12 Aug 2026 06:15:22 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "published": "Tue, 11 Aug 2026 07:03:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
@@ -719,12 +725,6 @@
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
       "published": "Tue, 11 Aug 2026 12:25:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "published": "Tue, 11 Aug 2026 11:18:44 +0530",
       "source": "The Hacker News"
     },
     {
