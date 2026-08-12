@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:09:40.205280Z",
+  "generated_at": "2026-08-12T13:56:49.723164Z",
   "segment1": [
     {
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "published": "Wed, 12 Aug 2026 08:25:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
       "published": "Wed, 12 Aug 2026 07:21:42 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Tue, 11 Aug 2026 08:12:16 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
@@ -381,18 +393,6 @@
       "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
       "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
       "published": "Tue, 11 Aug 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "published": "Tue, 11 Aug 2026 14:46:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "published": "Tue, 11 Aug 2026 12:25:45 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "published": "Wed, 12 Aug 2026 08:25:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
       "published": "Wed, 12 Aug 2026 07:21:42 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Tue, 11 Aug 2026 08:12:16 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
@@ -713,18 +725,6 @@
       "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
       "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
       "published": "Tue, 11 Aug 2026 15:54:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "published": "Tue, 11 Aug 2026 14:46:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "published": "Tue, 11 Aug 2026 12:25:45 +0530",
       "source": "The Hacker News"
     },
     {
