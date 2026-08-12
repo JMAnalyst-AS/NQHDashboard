@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-12T13:56:49.723164Z",
+  "generated_at": "2026-08-12T14:59:26.743156Z",
   "segment1": [
+    {
+      "title": "RESOURCE: Introducing the Cyber Incident Registry",
+      "url": "https://databreaches.net/2026/08/12/resource-introducing-the-cyber-incident-registry/",
+      "published": "Wed, 12 Aug 2026 14:52:25 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
       "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
@@ -53,17 +59,17 @@
       "title": "US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear",
       "url": "https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/",
       "published": "Fri, 07 Aug 2026 23:08:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "New York State Department of Financial Services Secures Cybersecurity Settlement with Order Express, Inc.",
-      "url": "https://databreaches.net/2026/08/07/new-york-state-department-of-financial-services-secures-cybersecurity-settlement-with-order-express-inc/",
-      "published": "Fri, 07 Aug 2026 21:50:11 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "RESOURCE: Introducing the Cyber Incident Registry",
+      "url": "https://databreaches.net/2026/08/12/resource-introducing-the-cyber-incident-registry/",
+      "published": "Wed, 12 Aug 2026 14:52:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
       "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
       "published": "Wed, 12 Aug 2026 11:50:52 +0000",
@@ -115,12 +121,6 @@
       "title": "US cloud ‘kill switch’ is as dangerous as ransomware, European businesses fear",
       "url": "https://databreaches.net/2026/08/07/us-cloud-kill-switch-is-as-dangerous-as-ransomware-european-businesses-fear/",
       "published": "Fri, 07 Aug 2026 23:08:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "New York State Department of Financial Services Secures Cybersecurity Settlement with Order Express, Inc.",
-      "url": "https://databreaches.net/2026/08/07/new-york-state-department-of-financial-services-secures-cybersecurity-settlement-with-order-express-inc/",
-      "published": "Fri, 07 Aug 2026 21:50:11 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "published": "Thu, 18 Jun 2026 17:37:58 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "published": "Tue, 11 Aug 2026 09:15:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "published": "Tue, 11 Aug 2026 09:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
@@ -387,12 +393,6 @@
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
       "published": "Tue, 11 Aug 2026 16:18:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "published": "Tue, 11 Aug 2026 15:54:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "published": "Wed, 12 Aug 2026 08:25:37 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "published": "Tue, 11 Aug 2026 09:15:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "published": "Tue, 11 Aug 2026 09:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
@@ -719,12 +725,6 @@
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
       "published": "Tue, 11 Aug 2026 16:18:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "published": "Tue, 11 Aug 2026 15:54:00 +0530",
       "source": "The Hacker News"
     },
     {
