@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:40:00.851723Z",
+  "generated_at": "2026-08-12T23:40:22.177934Z",
   "segment1": [
     {
       "title": "CA: Snoopers Beware; NL’s Privacy Commissioner Recommends Naming Individuals in Snooping-Related Breaches",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
       "published": "Wed, 12 Aug 2026 18:22:57 -0400",
@@ -267,12 +273,6 @@
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
       "published": "Tue, 11 Aug 2026 15:45:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
       "published": "Wed, 12 Aug 2026 18:22:57 -0400",
@@ -599,12 +605,6 @@
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
       "published": "Tue, 11 Aug 2026 15:45:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
       "source": "BleepingComputer"
     },
     {
