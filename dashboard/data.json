@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:27:59.318213Z",
+  "generated_at": "2026-08-12T19:39:26.850948Z",
   "segment1": [
     {
       "title": "CA: Snoopers Beware; NL’s Privacy Commissioner Recommends Naming Individuals in Snooping-Related Breaches",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "published": "Wed, 12 Aug 2026 14:54:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
       "published": "Wed, 12 Aug 2026 12:05:12 -0400",
@@ -267,12 +273,6 @@
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "published": "Tue, 11 Aug 2026 14:08:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "published": "Tue, 11 Aug 2026 13:38:42 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "published": "Wed, 12 Aug 2026 14:54:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
       "published": "Wed, 12 Aug 2026 12:05:12 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "published": "Tue, 11 Aug 2026 14:08:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "published": "Tue, 11 Aug 2026 13:38:42 -0400",
       "source": "BleepingComputer"
     },
     {
