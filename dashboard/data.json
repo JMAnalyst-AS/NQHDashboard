@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:58:11.309937Z",
+  "generated_at": "2026-08-13T17:02:57.333414Z",
   "segment1": [
     {
       "title": "In a first, US will allow some private firms to carry out cyberattacks",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "published": "Thu, 13 Aug 2026 12:40:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
       "published": "Thu, 13 Aug 2026 11:13:19 -0400",
@@ -267,12 +273,6 @@
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
       "published": "Wed, 12 Aug 2026 07:21:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "published": "Wed, 12 Aug 2026 06:15:22 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "published": "Thu, 13 Aug 2026 12:40:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
       "published": "Thu, 13 Aug 2026 11:13:19 -0400",
@@ -599,12 +605,6 @@
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
       "published": "Wed, 12 Aug 2026 07:21:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "published": "Wed, 12 Aug 2026 06:15:22 -0400",
       "source": "BleepingComputer"
     },
     {
