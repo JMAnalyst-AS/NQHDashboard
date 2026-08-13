@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T14:36:21.023666Z",
+  "generated_at": "2026-08-13T15:58:11.309937Z",
   "segment1": [
+    {
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "url": "https://databreaches.net/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "published": "Thu, 13 Aug 2026 15:05:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Quincy Valley Medical Center notifies patients of Aesto breach",
+      "url": "https://databreaches.net/2026/08/13/quincy-valley-medical-center-notifies-patients-of-aesto-breach/",
+      "published": "Thu, 13 Aug 2026 15:02:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "More Novo Nordisk data dumped by FulcrumSec",
       "url": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
@@ -47,23 +59,23 @@
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
       "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
       "published": "Mon, 10 Aug 2026 19:02:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
-      "url": "https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/",
-      "published": "Sun, 09 Aug 2026 12:58:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://databreaches.net/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/",
-      "published": "Sun, 09 Aug 2026 12:24:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "url": "https://databreaches.net/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "published": "Thu, 13 Aug 2026 15:05:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Quincy Valley Medical Center notifies patients of Aesto breach",
+      "url": "https://databreaches.net/2026/08/13/quincy-valley-medical-center-notifies-patients-of-aesto-breach/",
+      "published": "Thu, 13 Aug 2026 15:02:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "More Novo Nordisk data dumped by FulcrumSec",
       "url": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
       "published": "Thu, 13 Aug 2026 00:48:04 +0000",
@@ -109,18 +121,6 @@
       "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
       "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
       "published": "Mon, 10 Aug 2026 19:02:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: 3Pro TV Data Breach Exposes 460,000 Records, Including 2,979 Bank Accounts",
-      "url": "https://databreaches.net/2026/08/09/kr-3pro-tv-data-breach-exposes-460000-records-including-2979-bank-accounts/",
-      "published": "Sun, 09 Aug 2026 12:58:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://databreaches.net/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/",
-      "published": "Sun, 09 Aug 2026 12:24:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "published": "Thu, 18 Jun 2026 17:37:58 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+      "published": "Thu, 13 Aug 2026 11:13:19 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
@@ -267,12 +273,6 @@
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "published": "Wed, 12 Aug 2026 06:15:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-      "url": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-      "published": "Tue, 11 Aug 2026 21:15:55 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+      "published": "Thu, 13 Aug 2026 11:13:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
       "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
       "published": "Thu, 13 Aug 2026 10:00:10 -0400",
@@ -599,12 +605,6 @@
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "published": "Wed, 12 Aug 2026 06:15:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-      "url": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-      "published": "Tue, 11 Aug 2026 21:15:55 -0400",
       "source": "BleepingComputer"
     },
     {
