@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:50:57.432899Z",
+  "generated_at": "2026-08-14T15:51:17.170600Z",
   "segment1": [
+    {
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "url": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
+      "published": "Fri, 14 Aug 2026 15:14:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NHS admits data breach by sending patient data via pagers",
       "url": "https://databreaches.net/2026/08/14/nhs-admits-data-breach-by-sending-patient-data-via-pagers/",
@@ -53,17 +59,17 @@
       "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
       "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
       "published": "Wed, 12 Aug 2026 11:46:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Stolen Change Healthcare data gets new handling rules in court order",
-      "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
-      "published": "Tue, 11 Aug 2026 18:35:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "url": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
+      "published": "Fri, 14 Aug 2026 15:14:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NHS admits data breach by sending patient data via pagers",
       "url": "https://databreaches.net/2026/08/14/nhs-admits-data-breach-by-sending-patient-data-via-pagers/",
       "published": "Fri, 14 Aug 2026 12:33:21 +0000",
@@ -115,12 +121,6 @@
       "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
       "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
       "published": "Wed, 12 Aug 2026 11:46:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Stolen Change Healthcare data gets new handling rules in court order",
-      "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
-      "published": "Tue, 11 Aug 2026 18:35:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "published": "Fri, 14 Aug 2026 10:59:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
@@ -267,12 +273,6 @@
       "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
       "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
       "published": "Thu, 13 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "White House taps security firms for offensive hack-back operations",
-      "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "published": "Thu, 13 Aug 2026 09:30:53 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "published": "Fri, 14 Aug 2026 10:59:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
       "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
       "published": "Fri, 14 Aug 2026 10:00:10 -0400",
@@ -599,12 +605,6 @@
       "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
       "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
       "published": "Thu, 13 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "White House taps security firms for offensive hack-back operations",
-      "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "published": "Thu, 13 Aug 2026 09:30:53 -0400",
       "source": "BleepingComputer"
     },
     {
