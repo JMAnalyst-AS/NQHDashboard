@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:07:42.845341Z",
+  "generated_at": "2026-08-14T13:52:47.674817Z",
   "segment1": [
+    {
+      "title": "NHS admits data breach by sending patient data via pagers",
+      "url": "https://databreaches.net/2026/08/14/nhs-admits-data-breach-by-sending-patient-data-via-pagers/",
+      "published": "Fri, 14 Aug 2026 12:33:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "In a first, US will allow some private firms to carry out cyberattacks",
       "url": "https://databreaches.net/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
@@ -53,17 +59,17 @@
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
       "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
       "published": "Tue, 11 Aug 2026 18:35:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
-      "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
-      "published": "Mon, 10 Aug 2026 19:02:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NHS admits data breach by sending patient data via pagers",
+      "url": "https://databreaches.net/2026/08/14/nhs-admits-data-breach-by-sending-patient-data-via-pagers/",
+      "published": "Fri, 14 Aug 2026 12:33:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "In a first, US will allow some private firms to carry out cyberattacks",
       "url": "https://databreaches.net/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
       "published": "Thu, 13 Aug 2026 15:05:06 +0000",
@@ -115,12 +121,6 @@
       "title": "Stolen Change Healthcare data gets new handling rules in court order",
       "url": "https://databreaches.net/2026/08/11/stolen-change-healthcare-data-gets-new-handling-rules-in-court-order/",
       "published": "Tue, 11 Aug 2026 18:35:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Advisory: #StopRansomware: Gunra Ransomware",
-      "url": "https://databreaches.net/2026/08/10/cisa-advisory-stopransomware-gunra-ransomware/",
-      "published": "Mon, 10 Aug 2026 19:02:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "published": "Fri, 14 Aug 2026 09:45:18 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
@@ -267,12 +273,6 @@
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
       "published": "Thu, 13 Aug 2026 07:50:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "published": "Fri, 14 Aug 2026 09:45:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
       "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
       "published": "Fri, 14 Aug 2026 07:55:45 -0400",
@@ -599,12 +605,6 @@
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
       "published": "Thu, 13 Aug 2026 07:50:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
       "source": "BleepingComputer"
     },
     {
