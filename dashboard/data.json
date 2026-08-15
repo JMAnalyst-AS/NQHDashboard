@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-15T11:19:28.436616Z",
+  "generated_at": "2026-08-15T11:44:46.420979Z",
   "segment1": [
+    {
+      "title": "CISA Unveils New Cybersecurity Resources for K-12 Schools and Districts",
+      "url": "https://databreaches.net/2026/08/15/cisa-unveils-new-cybersecurity-resources-for-k-12-schools-and-districts/",
+      "published": "Sat, 15 Aug 2026 11:20:49 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "France investigates tax authority breach after hacker claims 600,000 victims",
       "url": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
@@ -53,17 +59,17 @@
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
       "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
       "published": "Wed, 12 Aug 2026 11:50:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
-      "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
-      "published": "Wed, 12 Aug 2026 11:46:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CISA Unveils New Cybersecurity Resources for K-12 Schools and Districts",
+      "url": "https://databreaches.net/2026/08/15/cisa-unveils-new-cybersecurity-resources-for-k-12-schools-and-districts/",
+      "published": "Sat, 15 Aug 2026 11:20:49 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "France investigates tax authority breach after hacker claims 600,000 victims",
       "url": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
       "published": "Fri, 14 Aug 2026 15:14:33 +0000",
@@ -115,12 +121,6 @@
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
       "url": "https://databreaches.net/2026/08/12/cloudflare-ddos-threat-report-h1-2026-1-tbps-attacks-soar-as-dns-floods-and-geopolitical-tensions-drive-a-new-wave/",
       "published": "Wed, 12 Aug 2026 11:50:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
-      "url": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
-      "published": "Wed, 12 Aug 2026 11:46:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
