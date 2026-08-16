@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-15T23:44:40.359151Z",
+  "generated_at": "2026-08-16T01:16:49.933151Z",
   "segment1": [
+    {
+      "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
+      "url": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
+      "published": "Sun, 16 Aug 2026 00:19:32 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Time ran out for victims; CRPx0 puts data up for sale",
       "url": "https://databreaches.net/2026/08/15/time-ran-out-for-victims-crpx0-puts-data-up-for-sale/",
@@ -53,17 +59,17 @@
       "title": "More Novo Nordisk data dumped by FulcrumSec",
       "url": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
       "published": "Thu, 13 Aug 2026 00:48:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware Attack Disables Canadian Hospital’s Doors, HVAC",
-      "url": "https://databreaches.net/2026/08/12/ransomware-attack-disables-canadian-hospitals-doors-hvac/",
-      "published": "Thu, 13 Aug 2026 00:32:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
+      "url": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
+      "published": "Sun, 16 Aug 2026 00:19:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Time ran out for victims; CRPx0 puts data up for sale",
       "url": "https://databreaches.net/2026/08/15/time-ran-out-for-victims-crpx0-puts-data-up-for-sale/",
       "published": "Sat, 15 Aug 2026 17:35:41 +0000",
@@ -115,12 +121,6 @@
       "title": "More Novo Nordisk data dumped by FulcrumSec",
       "url": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
       "published": "Thu, 13 Aug 2026 00:48:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware Attack Disables Canadian Hospital’s Doors, HVAC",
-      "url": "https://databreaches.net/2026/08/12/ransomware-attack-disables-canadian-hospitals-doors-hvac/",
-      "published": "Thu, 13 Aug 2026 00:32:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
