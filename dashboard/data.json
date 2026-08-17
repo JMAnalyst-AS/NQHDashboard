@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:31:23.349602Z",
+  "generated_at": "2026-08-17T11:24:33.144878Z",
   "segment1": [
     {
       "title": "New Jersey Federal Judge Dismisses Data Breach Class Action Against Background Check Company",
@@ -276,6 +276,114 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "published": "Sat, 15 Aug 2026 00:18:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "IAM Compliance Requirements and Best Practices",
+      "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "published": "Fri, 14 Aug 2026 22:49:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+      "url": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+      "published": "Fri, 14 Aug 2026 18:38:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+      "url": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+      "published": "Fri, 14 Aug 2026 16:37:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
+      "url": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
+      "published": "Fri, 14 Aug 2026 16:27:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+      "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
+      "published": "Fri, 14 Aug 2026 16:14:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+      "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
+      "published": "Fri, 14 Aug 2026 15:08:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
+      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
+      "published": "Fri, 14 Aug 2026 13:24:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+      "published": "Fri, 14 Aug 2026 00:15:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
+      "published": "Thu, 13 Aug 2026 23:47:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
+      "url": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
+      "published": "Thu, 13 Aug 2026 20:30:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
+      "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
+      "published": "Thu, 13 Aug 2026 19:13:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
+      "url": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
+      "published": "Thu, 13 Aug 2026 17:23:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
+      "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
+      "published": "Thu, 13 Aug 2026 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
       "published": "Thu, 13 Aug 2026 11:39:48 +0530",
@@ -285,114 +393,6 @@
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
       "published": "Wed, 12 Aug 2026 23:09:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "published": "Wed, 12 Aug 2026 13:01:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "published": "Wed, 12 Aug 2026 11:45:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "published": "Tue, 11 Aug 2026 22:17:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "published": "Tue, 11 Aug 2026 22:05:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "published": "Tue, 11 Aug 2026 18:41:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "published": "Tue, 11 Aug 2026 17:35:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "url": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "published": "Tue, 11 Aug 2026 17:34:51 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,114 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "published": "Sat, 15 Aug 2026 00:18:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "IAM Compliance Requirements and Best Practices",
+      "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "published": "Fri, 14 Aug 2026 22:49:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+      "url": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+      "published": "Fri, 14 Aug 2026 18:38:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+      "url": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+      "published": "Fri, 14 Aug 2026 16:37:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
+      "url": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
+      "published": "Fri, 14 Aug 2026 16:27:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+      "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
+      "published": "Fri, 14 Aug 2026 16:14:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+      "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
+      "published": "Fri, 14 Aug 2026 15:08:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
+      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
+      "published": "Fri, 14 Aug 2026 13:24:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+      "published": "Fri, 14 Aug 2026 00:15:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
+      "published": "Thu, 13 Aug 2026 23:47:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
+      "url": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
+      "published": "Thu, 13 Aug 2026 20:30:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
+      "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
+      "published": "Thu, 13 Aug 2026 19:13:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
+      "url": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
+      "published": "Thu, 13 Aug 2026 17:23:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
+      "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
+      "published": "Thu, 13 Aug 2026 17:15:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
       "published": "Thu, 13 Aug 2026 11:39:48 +0530",
@@ -617,114 +725,6 @@
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
       "published": "Wed, 12 Aug 2026 23:09:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "published": "Wed, 12 Aug 2026 13:01:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "published": "Wed, 12 Aug 2026 11:45:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "published": "Tue, 11 Aug 2026 22:17:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "published": "Tue, 11 Aug 2026 22:05:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "published": "Tue, 11 Aug 2026 18:41:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "published": "Tue, 11 Aug 2026 17:35:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "url": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "published": "Tue, 11 Aug 2026 17:34:51 +0530",
       "source": "The Hacker News"
     },
     {
