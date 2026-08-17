@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:54:18.700374Z",
+  "generated_at": "2026-08-17T21:25:18.628661Z",
   "segment1": [
     {
       "title": "235 GB of PHI and internal documents dumped; Chaos claims it comes from Healthcare Highways",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
       "published": "Tue, 18 Aug 2026 00:14:17 +0530",
@@ -387,12 +393,6 @@
       "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
       "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
       "published": "Fri, 14 Aug 2026 00:15:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-      "published": "Thu, 13 Aug 2026 23:47:10 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
       "published": "Tue, 18 Aug 2026 00:14:17 +0530",
@@ -719,12 +725,6 @@
       "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
       "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
       "published": "Fri, 14 Aug 2026 00:15:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-      "published": "Thu, 13 Aug 2026 23:47:10 +0530",
       "source": "The Hacker News"
     },
     {
