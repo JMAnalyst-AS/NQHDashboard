@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:50:17.828575Z",
+  "generated_at": "2026-08-17T12:42:07.267766Z",
   "segment1": [
     {
       "title": "New Jersey Federal Judge Dismisses Data Breach Class Action Against Background Check Company",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "published": "Mon, 17 Aug 2026 07:25:02 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-      "source": "BleepingComputer"
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
@@ -381,18 +393,6 @@
       "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
       "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
       "published": "Thu, 13 Aug 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "published": "Thu, 13 Aug 2026 11:39:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "published": "Wed, 12 Aug 2026 23:09:27 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "published": "Mon, 17 Aug 2026 07:25:02 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-      "source": "BleepingComputer"
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
@@ -713,18 +725,6 @@
       "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
       "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
       "published": "Thu, 13 Aug 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "published": "Thu, 13 Aug 2026 11:39:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "published": "Wed, 12 Aug 2026 23:09:27 +0530",
       "source": "The Hacker News"
     },
     {
