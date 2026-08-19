@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-19T12:44:54.927866Z",
+  "generated_at": "2026-08-19T13:42:43.331869Z",
   "segment1": [
+    {
+      "title": "DOJ secures indictment of 17 Iranians accused of ‘massive’ cyber theft campaign",
+      "url": "https://databreaches.net/2026/08/19/doj-secures-indictment-of-17-iranians-accused-of-massive-cyber-theft-campaign/",
+      "published": "Wed, 19 Aug 2026 13:22:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Beware the Ransomware Rescuer: Ransom Busters",
+      "url": "https://databreaches.net/2026/08/19/beware-the-ransomware-rescuer-ransom-busters/",
+      "published": "Wed, 19 Aug 2026 12:48:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
+      "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
+      "published": "Wed, 19 Aug 2026 12:45:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Clop Claims Data Theft From More Than 40 Companies",
       "url": "https://databreaches.net/2026/08/18/clop-claims-data-theft-from-more-than-40-companies/",
@@ -41,29 +59,29 @@
       "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
       "url": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
       "published": "Sun, 16 Aug 2026 13:49:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rep. Thompson brings bipartisan rural hospital cybersecurity act to House",
-      "url": "https://databreaches.net/2026/08/16/rep-thompson-brings-bipartisan-rural-hospital-cybersecurity-act-to-house/",
-      "published": "Sun, 16 Aug 2026 13:31:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
-      "url": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
-      "published": "Sun, 16 Aug 2026 00:19:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Time ran out for victims; CRPx0 puts data up for sale",
-      "url": "https://databreaches.net/2026/08/15/time-ran-out-for-victims-crpx0-puts-data-up-for-sale/",
-      "published": "Sat, 15 Aug 2026 17:35:41 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "DOJ secures indictment of 17 Iranians accused of ‘massive’ cyber theft campaign",
+      "url": "https://databreaches.net/2026/08/19/doj-secures-indictment-of-17-iranians-accused-of-massive-cyber-theft-campaign/",
+      "published": "Wed, 19 Aug 2026 13:22:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Beware the Ransomware Rescuer: Ransom Busters",
+      "url": "https://databreaches.net/2026/08/19/beware-the-ransomware-rescuer-ransom-busters/",
+      "published": "Wed, 19 Aug 2026 12:48:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
+      "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
+      "published": "Wed, 19 Aug 2026 12:45:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Clop Claims Data Theft From More Than 40 Companies",
       "url": "https://databreaches.net/2026/08/18/clop-claims-data-theft-from-more-than-40-companies/",
       "published": "Tue, 18 Aug 2026 20:21:07 +0000",
@@ -103,24 +121,6 @@
       "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
       "url": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
       "published": "Sun, 16 Aug 2026 13:49:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rep. Thompson brings bipartisan rural hospital cybersecurity act to House",
-      "url": "https://databreaches.net/2026/08/16/rep-thompson-brings-bipartisan-rural-hospital-cybersecurity-act-to-house/",
-      "published": "Sun, 16 Aug 2026 13:31:20 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
-      "url": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
-      "published": "Sun, 16 Aug 2026 00:19:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Time ran out for victims; CRPx0 puts data up for sale",
-      "url": "https://databreaches.net/2026/08/15/time-ran-out-for-victims-crpx0-puts-data-up-for-sale/",
-      "published": "Sat, 15 Aug 2026 17:35:41 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "published": "Wed, 19 Aug 2026 16:55:28 +0530",
@@ -375,24 +393,6 @@
       "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
       "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
       "published": "Mon, 17 Aug 2026 23:11:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "Mon, 17 Aug 2026 18:53:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "published": "Wed, 19 Aug 2026 16:55:28 +0530",
@@ -707,24 +725,6 @@
       "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
       "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
       "published": "Mon, 17 Aug 2026 23:11:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "Mon, 17 Aug 2026 18:53:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
       "source": "The Hacker News"
     },
     {
