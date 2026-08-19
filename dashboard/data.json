@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-19T13:42:43.331869Z",
+  "generated_at": "2026-08-19T14:32:41.513924Z",
   "segment1": [
+    {
+      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
+      "url": "https://databreaches.net/2026/08/19/prison-for-data-analyst-who-tried-to-extort-2-5-million-from-his-employer/",
+      "published": "Wed, 19 Aug 2026 14:04:38 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "DOJ secures indictment of 17 Iranians accused of ‘massive’ cyber theft campaign",
       "url": "https://databreaches.net/2026/08/19/doj-secures-indictment-of-17-iranians-accused-of-massive-cyber-theft-campaign/",
@@ -53,17 +59,17 @@
       "title": "New Jersey Federal Judge Dismisses Data Breach Class Action Against Background Check Company",
       "url": "https://databreaches.net/2026/08/16/new-jersey-federal-judge-dismisses-data-breach-class-action-against-background-check-company/",
       "published": "Sun, 16 Aug 2026 13:53:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
-      "url": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
-      "published": "Sun, 16 Aug 2026 13:49:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
+      "url": "https://databreaches.net/2026/08/19/prison-for-data-analyst-who-tried-to-extort-2-5-million-from-his-employer/",
+      "published": "Wed, 19 Aug 2026 14:04:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "DOJ secures indictment of 17 Iranians accused of ‘massive’ cyber theft campaign",
       "url": "https://databreaches.net/2026/08/19/doj-secures-indictment-of-17-iranians-accused-of-massive-cyber-theft-campaign/",
       "published": "Wed, 19 Aug 2026 13:22:21 +0000",
@@ -115,12 +121,6 @@
       "title": "New Jersey Federal Judge Dismisses Data Breach Class Action Against Background Check Company",
       "url": "https://databreaches.net/2026/08/16/new-jersey-federal-judge-dismisses-data-breach-class-action-against-background-check-company/",
       "published": "Sun, 16 Aug 2026 13:53:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
-      "url": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
-      "published": "Sun, 16 Aug 2026 13:49:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft fixes known issue causing Windows Defender crashes",
@@ -267,12 +273,6 @@
       "title": "Microsoft confirms GitHub is down worldwide",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
       "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "published": "Mon, 17 Aug 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes known issue causing Windows Defender crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
       "published": "Wed, 19 Aug 2026 07:14:28 -0400",
@@ -599,12 +605,6 @@
       "title": "Microsoft confirms GitHub is down worldwide",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
       "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "published": "Mon, 17 Aug 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
