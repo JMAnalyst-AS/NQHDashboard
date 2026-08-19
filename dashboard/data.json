@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:33:06.038793Z",
+  "generated_at": "2026-08-19T10:27:39.470332Z",
   "segment1": [
     {
       "title": "Clop Claims Data Theft From More Than 40 Companies",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
       "published": "Wed, 19 Aug 2026 05:10:20 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "published": "Mon, 17 Aug 2026 07:25:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "published": "Wed, 19 Aug 2026 11:31:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "published": "Wed, 19 Aug 2026 11:09:25 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
@@ -381,18 +393,6 @@
       "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
       "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
       "published": "Mon, 17 Aug 2026 13:06:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
       "published": "Wed, 19 Aug 2026 05:10:20 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "published": "Mon, 17 Aug 2026 07:25:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "published": "Wed, 19 Aug 2026 11:31:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "published": "Wed, 19 Aug 2026 11:09:25 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
@@ -713,18 +725,6 @@
       "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
       "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
       "published": "Mon, 17 Aug 2026 13:06:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
       "source": "The Hacker News"
     },
     {
