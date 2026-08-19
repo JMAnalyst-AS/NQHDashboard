@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:56:00.430362Z",
+  "generated_at": "2026-08-19T11:25:55.137938Z",
   "segment1": [
     {
       "title": "Clop Claims Data Theft From More Than 40 Companies",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-      "source": "BleepingComputer"
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
@@ -381,18 +393,6 @@
       "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
       "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
       "published": "Mon, 17 Aug 2026 16:22:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-      "source": "BleepingComputer"
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
@@ -713,18 +725,6 @@
       "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
       "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
       "published": "Mon, 17 Aug 2026 16:22:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
       "source": "The Hacker News"
     },
     {
