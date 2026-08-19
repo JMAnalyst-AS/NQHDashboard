@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:49:18.226059Z",
+  "generated_at": "2026-08-19T20:26:39.216880Z",
   "segment1": [
     {
       "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "published": "Wed, 19 Aug 2026 14:09:13 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "published": "Tue, 18 Aug 2026 04:12:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -381,18 +393,6 @@
       "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
       "published": "Tue, 18 Aug 2026 00:14:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "published": "Mon, 17 Aug 2026 23:52:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "published": "Mon, 17 Aug 2026 23:11:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "published": "Wed, 19 Aug 2026 14:09:13 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "published": "Tue, 18 Aug 2026 04:12:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -713,18 +725,6 @@
       "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
       "published": "Tue, 18 Aug 2026 00:14:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "published": "Mon, 17 Aug 2026 23:52:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "published": "Mon, 17 Aug 2026 23:11:06 +0530",
       "source": "The Hacker News"
     },
     {
