@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:34:32.287367Z",
+  "generated_at": "2026-08-20T12:48:40.102693Z",
   "segment1": [
     {
       "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "published": "Thu, 20 Aug 2026 07:06:14 -0400",
@@ -267,12 +273,6 @@
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "published": "Thu, 20 Aug 2026 07:06:14 -0400",
@@ -599,12 +605,6 @@
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
       "source": "BleepingComputer"
     },
     {
