@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:58:51.910356Z",
+  "generated_at": "2026-08-20T06:58:21.063345Z",
   "segment1": [
     {
       "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "published": "Wed, 19 Aug 2026 20:20:55 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
@@ -387,12 +393,6 @@
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "published": "Tue, 18 Aug 2026 02:33:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "published": "Wed, 19 Aug 2026 20:20:55 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
@@ -719,12 +725,6 @@
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "published": "Tue, 18 Aug 2026 02:33:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
       "source": "The Hacker News"
     },
     {
