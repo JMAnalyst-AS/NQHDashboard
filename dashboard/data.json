@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:45:50.236027Z",
+  "generated_at": "2026-08-20T14:35:03.461684Z",
   "segment1": [
     {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
       "published": "Thu, 20 Aug 2026 08:14:38 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
@@ -375,24 +393,6 @@
       "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
       "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
       "published": "Wed, 19 Aug 2026 11:09:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
       "published": "Thu, 20 Aug 2026 08:14:38 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
@@ -707,24 +725,6 @@
       "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
       "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
       "published": "Wed, 19 Aug 2026 11:09:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
       "source": "The Hacker News"
     },
     {
