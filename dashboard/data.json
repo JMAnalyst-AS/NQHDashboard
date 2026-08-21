@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:59:11.188530Z",
+  "generated_at": "2026-08-21T11:33:06.094159Z",
   "segment1": [
     {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SickKids data breach exposes employee and job applicant info",
       "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
       "published": "Fri, 21 Aug 2026 06:10:42 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -387,12 +393,6 @@
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
       "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "SickKids data breach exposes employee and job applicant info",
       "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
       "published": "Fri, 21 Aug 2026 06:10:42 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -719,12 +725,6 @@
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
       "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
       "source": "The Hacker News"
     },
     {
