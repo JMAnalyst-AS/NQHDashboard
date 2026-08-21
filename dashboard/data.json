@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:57:33.978194Z",
+  "generated_at": "2026-08-21T18:45:11.326988Z",
   "segment1": [
     {
       "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
       "published": "Fri, 21 Aug 2026 11:55:15 -0400",
@@ -270,12 +276,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "published": "Thu, 20 Aug 2026 05:46:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "published": "Fri, 21 Aug 2026 21:22:10 +0530",
@@ -306,7 +306,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "source": "The Hacker News"
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
       "published": "Fri, 21 Aug 2026 11:55:15 -0400",
@@ -602,12 +608,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "published": "Thu, 20 Aug 2026 05:46:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "published": "Fri, 21 Aug 2026 21:22:10 +0530",
@@ -638,7 +638,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "source": "The Hacker News"
