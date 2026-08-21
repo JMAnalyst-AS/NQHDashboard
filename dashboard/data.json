@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:32:12.281674Z",
+  "generated_at": "2026-08-21T16:33:28.480469Z",
   "segment1": [
+    {
+      "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
+      "url": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
+      "published": "Fri, 21 Aug 2026 16:28:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Scammers Pose as NYPD Officers in “Well-Done” Video-Call Impersonation Scam",
       "url": "https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/",
@@ -53,17 +59,17 @@
       "title": "Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics",
       "url": "https://databreaches.net/2026/08/18/medusa-ransomware-tallies-hundreds-of-new-victims-says-updated-advisory-on-groups-tactics/",
       "published": "Tue, 18 Aug 2026 20:20:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "235 GB of PHI and internal documents dumped; Chaos claims it comes from Healthcare Highways",
-      "url": "https://databreaches.net/2026/08/17/235-gb-of-phi-and-internal-documents-dumped-chaos-claims-it-comes-from-healthcare-highways/",
-      "published": "Mon, 17 Aug 2026 17:45:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
+      "url": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
+      "published": "Fri, 21 Aug 2026 16:28:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Scammers Pose as NYPD Officers in “Well-Done” Video-Call Impersonation Scam",
       "url": "https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/",
       "published": "Fri, 21 Aug 2026 12:41:48 +0000",
@@ -115,12 +121,6 @@
       "title": "Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics",
       "url": "https://databreaches.net/2026/08/18/medusa-ransomware-tallies-hundreds-of-new-victims-says-updated-advisory-on-groups-tactics/",
       "published": "Tue, 18 Aug 2026 20:20:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "235 GB of PHI and internal documents dumped; Chaos claims it comes from Healthcare Highways",
-      "url": "https://databreaches.net/2026/08/17/235-gb-of-phi-and-internal-documents-dumped-chaos-claims-it-comes-from-healthcare-highways/",
-      "published": "Mon, 17 Aug 2026 17:45:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -381,18 +393,6 @@
       "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
       "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
       "published": "Thu, 20 Aug 2026 16:08:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "published": "Thu, 20 Aug 2026 14:12:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
       "published": "Fri, 21 Aug 2026 10:54:49 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -713,18 +725,6 @@
       "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
       "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
       "published": "Thu, 20 Aug 2026 16:08:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "published": "Thu, 20 Aug 2026 14:12:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "source": "The Hacker News"
     },
     {
