@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:31:31.603700Z",
+  "generated_at": "2026-08-21T06:44:44.888301Z",
   "segment1": [
     {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
       "published": "Fri, 21 Aug 2026 01:52:35 +0530",
@@ -288,7 +294,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "published": "Thu, 20 Aug 2026 22:53:48 +0530",
       "source": "The Hacker News"
@@ -387,12 +393,6 @@
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
       "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
       "published": "Fri, 21 Aug 2026 01:52:35 +0530",
@@ -620,7 +626,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "published": "Thu, 20 Aug 2026 22:53:48 +0530",
       "source": "The Hacker News"
@@ -719,12 +725,6 @@
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
       "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
       "source": "The Hacker News"
     },
     {
