@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:43:53.101893Z",
+  "generated_at": "2026-08-21T03:49:41.338395Z",
   "segment1": [
     {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
@@ -125,6 +125,66 @@
     }
   ],
   "segment3": [
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -397,6 +457,66 @@
     }
   ],
   "rss": [
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
