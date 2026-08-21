@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-21T11:33:06.094159Z",
+  "generated_at": "2026-08-21T12:45:50.076042Z",
   "segment1": [
+    {
+      "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
+      "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
+      "published": "Fri, 21 Aug 2026 12:21:54 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
       "url": "https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/",
@@ -53,17 +59,17 @@
       "title": "More than 2 million user records from TaxAct allegedly acquired; 450k already leaked (with correction)",
       "url": "https://databreaches.net/2026/08/17/more-than-2-million-user-records-from-taxact-allegedly-acquired-450k-already-leaked/",
       "published": "Mon, 17 Aug 2026 13:23:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "url": "https://databreaches.net/2026/08/17/israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-customers/",
-      "published": "Mon, 17 Aug 2026 13:19:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
+      "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
+      "published": "Fri, 21 Aug 2026 12:21:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
       "url": "https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/",
       "published": "Thu, 20 Aug 2026 13:17:23 +0000",
@@ -115,12 +121,6 @@
       "title": "More than 2 million user records from TaxAct allegedly acquired; 450k already leaked (with correction)",
       "url": "https://databreaches.net/2026/08/17/more-than-2-million-user-records-from-taxact-allegedly-acquired-450k-already-leaked/",
       "published": "Mon, 17 Aug 2026 13:23:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "url": "https://databreaches.net/2026/08/17/israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-customers/",
-      "published": "Mon, 17 Aug 2026 13:19:23 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "published": "Fri, 21 Aug 2026 08:25:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
@@ -387,12 +393,6 @@
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "published": "Fri, 21 Aug 2026 08:25:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "published": "Fri, 21 Aug 2026 07:04:10 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
@@ -719,12 +725,6 @@
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
       "source": "The Hacker News"
     },
     {
