@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:20:24.198184Z",
+  "generated_at": "2026-08-22T14:47:44.815368Z",
   "segment1": [
     {
       "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
       "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
       "published": "Sat, 22 Aug 2026 09:00:09 -0400",
@@ -267,12 +273,6 @@
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
       "published": "Thu, 20 Aug 2026 08:14:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "published": "Thu, 20 Aug 2026 07:06:14 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
       "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
       "published": "Sat, 22 Aug 2026 09:00:09 -0400",
@@ -599,12 +605,6 @@
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
       "published": "Thu, 20 Aug 2026 08:14:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "published": "Thu, 20 Aug 2026 07:06:14 -0400",
       "source": "BleepingComputer"
     },
     {
