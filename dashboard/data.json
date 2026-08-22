@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:37:31.680917Z",
+  "generated_at": "2026-08-22T13:30:56.609417Z",
   "segment1": [
     {
       "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "published": "Sat, 22 Aug 2026 09:00:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
       "published": "Fri, 21 Aug 2026 14:01:30 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "published": "Thu, 20 Aug 2026 07:06:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "published": "Thu, 20 Aug 2026 06:02:02 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "published": "Sat, 22 Aug 2026 09:00:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
       "published": "Fri, 21 Aug 2026 14:01:30 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "published": "Thu, 20 Aug 2026 07:06:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "published": "Thu, 20 Aug 2026 06:02:02 -0400",
       "source": "BleepingComputer"
     },
     {
