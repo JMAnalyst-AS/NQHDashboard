@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-23T14:49:36.765661Z",
+  "generated_at": "2026-08-23T15:21:31.221261Z",
   "segment1": [
+    {
+      "title": "ShinyHunters claims hack of ReliaQuest but provides no proof",
+      "url": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
+      "published": "Sun, 23 Aug 2026 15:07:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year",
       "url": "https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/",
@@ -53,17 +59,17 @@
       "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
       "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
       "published": "Wed, 19 Aug 2026 12:45:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Clop Claims Data Theft From More Than 40 Companies",
-      "url": "https://databreaches.net/2026/08/18/clop-claims-data-theft-from-more-than-40-companies/",
-      "published": "Tue, 18 Aug 2026 20:21:07 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ShinyHunters claims hack of ReliaQuest but provides no proof",
+      "url": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
+      "published": "Sun, 23 Aug 2026 15:07:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year",
       "url": "https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/",
       "published": "Sat, 22 Aug 2026 14:40:10 +0000",
@@ -115,12 +121,6 @@
       "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
       "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
       "published": "Wed, 19 Aug 2026 12:45:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Clop Claims Data Theft From More Than 40 Companies",
-      "url": "https://databreaches.net/2026/08/18/clop-claims-data-theft-from-more-than-40-companies/",
-      "published": "Tue, 18 Aug 2026 20:21:07 +0000",
       "source": "DataBreaches.Net"
     }
   ],
