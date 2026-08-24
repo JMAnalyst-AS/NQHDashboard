@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-08-24T11:55:31.881045Z",
+  "generated_at": "2026-08-24T12:50:45.680436Z",
   "segment1": [
     {
-      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest (2)",
-      "url": "https://databreaches.net/2026/08/23/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest-2/",
-      "published": "Sun, 23 Aug 2026 15:07:23 +0000",
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
+      "published": "Mon, 24 Aug 2026 12:22:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest",
+      "url": "https://databreaches.net/2026/08/24/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest/",
+      "published": "Mon, 24 Aug 2026 11:36:42 +0000",
       "source": "DataBreaches.Net"
     },
     {
@@ -53,20 +59,20 @@
       "title": "Beware the Ransomware Rescuer: Ransom Busters",
       "url": "https://databreaches.net/2026/08/19/beware-the-ransomware-rescuer-ransom-busters/",
       "published": "Wed, 19 Aug 2026 12:48:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
-      "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
-      "published": "Wed, 19 Aug 2026 12:45:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
-      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest (2)",
-      "url": "https://databreaches.net/2026/08/23/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest-2/",
-      "published": "Sun, 23 Aug 2026 15:07:23 +0000",
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
+      "published": "Mon, 24 Aug 2026 12:22:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest",
+      "url": "https://databreaches.net/2026/08/24/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest/",
+      "published": "Mon, 24 Aug 2026 11:36:42 +0000",
       "source": "DataBreaches.Net"
     },
     {
@@ -115,12 +121,6 @@
       "title": "Beware the Ransomware Rescuer: Ransom Busters",
       "url": "https://databreaches.net/2026/08/19/beware-the-ransomware-rescuer-ransom-busters/",
       "published": "Wed, 19 Aug 2026 12:48:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Server Mistake Exposes StopAndProtect’s Hacked WordPress Network",
-      "url": "https://databreaches.net/2026/08/19/server-mistake-exposes-stopandprotects-hacked-wordpress-network/",
-      "published": "Wed, 19 Aug 2026 12:45:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "published": "Mon, 24 Aug 2026 08:40:21 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "published": "Mon, 24 Aug 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "published": "Mon, 24 Aug 2026 17:26:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "published": "Mon, 24 Aug 2026 17:21:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "published": "Mon, 24 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
@@ -369,30 +393,6 @@
       "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
       "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
       "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "published": "Thu, 20 Aug 2026 17:31:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "published": "Thu, 20 Aug 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "published": "Thu, 20 Aug 2026 17:09:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "published": "Mon, 24 Aug 2026 08:40:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "published": "Mon, 24 Aug 2026 06:45:12 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "published": "Mon, 24 Aug 2026 17:28:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "published": "Mon, 24 Aug 2026 17:26:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "published": "Mon, 24 Aug 2026 17:21:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "published": "Mon, 24 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
@@ -701,30 +725,6 @@
       "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
       "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
       "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "published": "Thu, 20 Aug 2026 17:31:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "published": "Thu, 20 Aug 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "published": "Thu, 20 Aug 2026 17:09:35 +0530",
       "source": "The Hacker News"
     },
     {
