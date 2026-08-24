@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:51:10.324194Z",
+  "generated_at": "2026-08-24T14:40:44.651769Z",
   "segment1": [
     {
       "title": "Personal Information Exposed in Apollo Global Data Breach",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "published": "Mon, 24 Aug 2026 10:00:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "South Korean startup platform breach exposes key management failures",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "published": "Mon, 24 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "published": "Mon, 24 Aug 2026 08:40:21 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
-      "source": "BleepingComputer"
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "published": "Mon, 24 Aug 2026 18:05:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -387,12 +393,6 @@
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
       "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "published": "Mon, 24 Aug 2026 10:00:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "South Korean startup platform breach exposes key management failures",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "published": "Mon, 24 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "published": "Mon, 24 Aug 2026 08:40:21 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
-      "source": "BleepingComputer"
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "published": "Mon, 24 Aug 2026 18:05:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -719,12 +725,6 @@
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
       "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
       "source": "The Hacker News"
     },
     {
