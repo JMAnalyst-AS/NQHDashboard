@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:40:44.651769Z",
+  "generated_at": "2026-08-24T15:38:06.052779Z",
   "segment1": [
     {
       "title": "Personal Information Exposed in Apollo Global Data Breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "published": "Mon, 24 Aug 2026 10:00:19 -0400",
@@ -267,12 +273,6 @@
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "published": "Fri, 21 Aug 2026 08:25:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "published": "Mon, 24 Aug 2026 10:00:19 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "published": "Fri, 21 Aug 2026 08:25:33 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
       "source": "BleepingComputer"
     },
     {
