@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T10:36:20.398225Z",
+  "generated_at": "2026-08-24T11:27:34.551455Z",
   "segment1": [
     {
-      "title": "ShinyHunters claims hack of ReliaQuest; no confirmation by ReliaQuest (1)",
-      "url": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
+      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest (2)",
+      "url": "https://databreaches.net/2026/08/23/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest-2/",
       "published": "Sun, 23 Aug 2026 15:07:23 +0000",
       "source": "DataBreaches.Net"
     },
@@ -64,8 +64,8 @@
   ],
   "hacks": [
     {
-      "title": "ShinyHunters claims hack of ReliaQuest; no confirmation by ReliaQuest (1)",
-      "url": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
+      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest (2)",
+      "url": "https://databreaches.net/2026/08/23/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest-2/",
       "published": "Sun, 23 Aug 2026 15:07:23 +0000",
       "source": "DataBreaches.Net"
     },
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "published": "Mon, 24 Aug 2026 06:45:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
       "published": "Mon, 24 Aug 2026 05:42:05 -0400",
@@ -267,12 +273,6 @@
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
       "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "published": "Mon, 24 Aug 2026 06:45:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
       "published": "Mon, 24 Aug 2026 05:42:05 -0400",
@@ -599,12 +605,6 @@
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
       "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
       "source": "BleepingComputer"
     },
     {
