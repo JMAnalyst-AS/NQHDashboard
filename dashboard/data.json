@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:55:09.578522Z",
+  "generated_at": "2026-08-25T12:45:48.722256Z",
   "segment1": [
     {
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police arrests dozens of suspects in global cybercrime crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
       "published": "Tue, 25 Aug 2026 06:53:20 -0400",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "published": "Tue, 25 Aug 2026 17:26:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
@@ -369,30 +393,6 @@
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "published": "Fri, 21 Aug 2026 15:33:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "published": "Fri, 21 Aug 2026 12:34:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Police arrests dozens of suspects in global cybercrime crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
       "published": "Tue, 25 Aug 2026 06:53:20 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "published": "Tue, 25 Aug 2026 17:26:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
@@ -701,30 +725,6 @@
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "published": "Fri, 21 Aug 2026 15:33:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "published": "Fri, 21 Aug 2026 12:34:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
       "source": "The Hacker News"
     },
     {
