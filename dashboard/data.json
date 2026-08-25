@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-25T14:43:50.973664Z",
+  "generated_at": "2026-08-25T15:40:44.673014Z",
   "segment1": [
+    {
+      "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
+      "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
+      "published": "Tue, 25 Aug 2026 15:14:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
+      "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
+      "published": "Tue, 25 Aug 2026 14:55:36 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
       "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
@@ -47,23 +59,23 @@
       "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
       "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
       "published": "Fri, 21 Aug 2026 12:21:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
-      "url": "https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/",
-      "published": "Thu, 20 Aug 2026 13:17:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "url": "https://databreaches.net/2026/08/19/prison-for-data-analyst-who-tried-to-extort-2-5-million-from-his-employer/",
-      "published": "Wed, 19 Aug 2026 14:04:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
+      "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
+      "published": "Tue, 25 Aug 2026 15:14:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
+      "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
+      "published": "Tue, 25 Aug 2026 14:55:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
       "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
       "published": "Mon, 24 Aug 2026 19:23:33 +0000",
@@ -109,18 +121,6 @@
       "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
       "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
       "published": "Fri, 21 Aug 2026 12:21:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Largest Applebee’s franchisee says hackers stole sensitive data",
-      "url": "https://databreaches.net/2026/08/20/largest-applebees-franchisee-says-hackers-stole-sensitive-data/",
-      "published": "Thu, 20 Aug 2026 13:17:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "url": "https://databreaches.net/2026/08/19/prison-for-data-analyst-who-tried-to-extort-2-5-million-from-his-employer/",
-      "published": "Wed, 19 Aug 2026 14:04:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "published": "Tue, 25 Aug 2026 10:44:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "published": "Sun, 23 Aug 2026 10:23:46 -0400",
-      "source": "BleepingComputer"
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
@@ -387,12 +393,6 @@
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "published": "Fri, 21 Aug 2026 21:22:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "published": "Tue, 25 Aug 2026 10:44:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
       "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
       "published": "Tue, 25 Aug 2026 10:01:11 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "published": "Sun, 23 Aug 2026 10:23:46 -0400",
-      "source": "BleepingComputer"
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
@@ -719,12 +725,6 @@
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "published": "Fri, 21 Aug 2026 21:22:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
       "source": "The Hacker News"
     },
     {
