@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:40:44.673014Z",
+  "generated_at": "2026-08-25T16:36:30.675407Z",
   "segment1": [
+    {
+      "title": "Inside a Syrian Interrogation Room: The Detainee Files an Infostealer Stole From a Military Police Unit",
+      "url": "https://databreaches.net/2026/08/25/inside-a-syrian-interrogation-room-the-detainee-files-an-infostealer-stole-from-a-military-police-unit/",
+      "published": "Tue, 25 Aug 2026 15:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
       "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
@@ -53,17 +59,17 @@
       "title": "Scammers Pose as NYPD Officers in “Well-Done” Video-Call Impersonation Scam",
       "url": "https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/",
       "published": "Fri, 21 Aug 2026 12:41:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
-      "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
-      "published": "Fri, 21 Aug 2026 12:21:54 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Inside a Syrian Interrogation Room: The Detainee Files an Infostealer Stole From a Military Police Unit",
+      "url": "https://databreaches.net/2026/08/25/inside-a-syrian-interrogation-room-the-detainee-files-an-infostealer-stole-from-a-military-police-unit/",
+      "published": "Tue, 25 Aug 2026 15:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
       "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
       "published": "Tue, 25 Aug 2026 15:14:03 +0000",
@@ -115,12 +121,6 @@
       "title": "Scammers Pose as NYPD Officers in “Well-Done” Video-Call Impersonation Scam",
       "url": "https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/",
       "published": "Fri, 21 Aug 2026 12:41:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AI, Data Breaches, and an Old Lesson from the Law of Bailment",
-      "url": "https://databreaches.net/2026/08/21/ai-data-breaches-and-an-old-lesson-from-the-law-of-bailment/",
-      "published": "Fri, 21 Aug 2026 12:21:54 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "published": "Tue, 25 Aug 2026 11:52:36 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
@@ -267,12 +273,6 @@
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "published": "Mon, 24 Aug 2026 06:45:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "published": "Mon, 24 Aug 2026 05:42:05 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "published": "Tue, 25 Aug 2026 11:52:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
       "published": "Tue, 25 Aug 2026 10:44:16 -0400",
@@ -599,12 +605,6 @@
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "published": "Mon, 24 Aug 2026 06:45:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "published": "Mon, 24 Aug 2026 05:42:05 -0400",
       "source": "BleepingComputer"
     },
     {
