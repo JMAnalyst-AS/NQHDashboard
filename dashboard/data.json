@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-25T20:27:48.167462Z",
+  "generated_at": "2026-08-25T20:56:29.561856Z",
   "segment1": [
+    {
+      "title": "‘Close Enough’ Data Breach Notifications Create Exposure",
+      "url": "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/",
+      "published": "Tue, 25 Aug 2026 20:25:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "New Utah law protects student privacy after BYU research found K-12 apps were collecting and sharing data",
       "url": "https://databreaches.net/2026/08/25/new-utah-law-protects-student-privacy-after-byu-research-found-k-12-apps-were-collecting-and-sharing-data/",
@@ -53,17 +59,17 @@
       "title": "Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year",
       "url": "https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/",
       "published": "Sat, 22 Aug 2026 14:40:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
-      "url": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
-      "published": "Fri, 21 Aug 2026 16:28:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "‘Close Enough’ Data Breach Notifications Create Exposure",
+      "url": "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/",
+      "published": "Tue, 25 Aug 2026 20:25:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "New Utah law protects student privacy after BYU research found K-12 apps were collecting and sharing data",
       "url": "https://databreaches.net/2026/08/25/new-utah-law-protects-student-privacy-after-byu-research-found-k-12-apps-were-collecting-and-sharing-data/",
       "published": "Tue, 25 Aug 2026 16:40:06 +0000",
@@ -115,12 +121,6 @@
       "title": "Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year",
       "url": "https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/",
       "published": "Sat, 22 Aug 2026 14:40:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
-      "url": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
-      "published": "Fri, 21 Aug 2026 16:28:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
