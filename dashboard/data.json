@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:45:48.722256Z",
+  "generated_at": "2026-08-25T13:49:34.979107Z",
   "segment1": [
     {
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "published": "Tue, 25 Aug 2026 09:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
       "published": "Tue, 25 Aug 2026 08:04:02 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "published": "Tue, 25 Aug 2026 18:49:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "published": "Tue, 25 Aug 2026 18:13:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
@@ -381,18 +393,6 @@
       "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "published": "Fri, 21 Aug 2026 21:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "published": "Tue, 25 Aug 2026 09:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
       "published": "Tue, 25 Aug 2026 08:04:02 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
-      "source": "BleepingComputer"
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "published": "Tue, 25 Aug 2026 18:49:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "published": "Tue, 25 Aug 2026 18:13:51 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
@@ -713,18 +725,6 @@
       "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "published": "Fri, 21 Aug 2026 21:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
       "source": "The Hacker News"
     },
     {
