@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:10:49.006851Z",
+  "generated_at": "2026-08-26T15:59:55.412894Z",
   "segment1": [
     {
       "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "published": "Wed, 26 Aug 2026 11:19:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "published": "Wed, 26 Aug 2026 10:47:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "published": "Wed, 26 Aug 2026 10:17:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Snowflake ends service-account passwords. Now comes the hard part",
       "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
       "published": "Wed, 26 Aug 2026 10:01:11 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
-      "source": "BleepingComputer"
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "published": "Wed, 26 Aug 2026 19:14:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "published": "Tue, 25 Aug 2026 06:53:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "published": "Wed, 26 Aug 2026 18:37:02 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
@@ -381,18 +393,6 @@
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
       "published": "Tue, 25 Aug 2026 11:42:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "published": "Mon, 24 Aug 2026 23:11:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "published": "Mon, 24 Aug 2026 23:11:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "published": "Wed, 26 Aug 2026 11:19:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "published": "Wed, 26 Aug 2026 10:47:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "published": "Wed, 26 Aug 2026 10:17:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Snowflake ends service-account passwords. Now comes the hard part",
       "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
       "published": "Wed, 26 Aug 2026 10:01:11 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
-      "source": "BleepingComputer"
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "published": "Wed, 26 Aug 2026 19:14:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "published": "Tue, 25 Aug 2026 06:53:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "published": "Wed, 26 Aug 2026 18:37:02 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
@@ -713,18 +725,6 @@
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
       "published": "Tue, 25 Aug 2026 11:42:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "published": "Mon, 24 Aug 2026 23:11:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "published": "Mon, 24 Aug 2026 23:11:11 +0530",
       "source": "The Hacker News"
     },
     {
