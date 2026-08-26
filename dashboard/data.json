@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-26T19:00:45.829064Z",
+  "generated_at": "2026-08-26T22:23:41.365580Z",
   "segment1": [
+    {
+      "title": "NSA to host a hacker reunion in bid to rebuild secretive unit",
+      "url": "https://databreaches.net/2026/08/26/nsa-to-host-a-hacker-reunion-in-bid-to-rebuild-secretive-unit/",
+      "published": "Wed, 26 Aug 2026 21:39:11 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
       "url": "https://databreaches.net/2026/08/26/us-takes-down-alleged-chinese-hacking-tools-used-against-federal-reserve-doj-and-senate/",
@@ -53,17 +59,17 @@
       "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
       "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
       "published": "Tue, 25 Aug 2026 14:55:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
-      "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
-      "published": "Mon, 24 Aug 2026 19:23:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NSA to host a hacker reunion in bid to rebuild secretive unit",
+      "url": "https://databreaches.net/2026/08/26/nsa-to-host-a-hacker-reunion-in-bid-to-rebuild-secretive-unit/",
+      "published": "Wed, 26 Aug 2026 21:39:11 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
       "url": "https://databreaches.net/2026/08/26/us-takes-down-alleged-chinese-hacking-tools-used-against-federal-reserve-doj-and-senate/",
       "published": "Wed, 26 Aug 2026 17:21:31 +0000",
@@ -115,12 +121,6 @@
       "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
       "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
       "published": "Tue, 25 Aug 2026 14:55:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
-      "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
-      "published": "Mon, 24 Aug 2026 19:23:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
@@ -267,12 +273,6 @@
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
       "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "published": "Tue, 25 Aug 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "published": "Wed, 26 Aug 2026 14:48:24 -0400",
@@ -599,12 +605,6 @@
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
       "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "published": "Tue, 25 Aug 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
