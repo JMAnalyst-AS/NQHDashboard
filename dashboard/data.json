@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-26T11:58:13.158002Z",
+  "generated_at": "2026-08-26T13:06:36.631790Z",
   "segment1": [
+    {
+      "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
+      "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
+      "published": "Wed, 26 Aug 2026 12:47:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "2 weeks after JPS Health Network outage, patients still dealing with fallout",
       "url": "https://databreaches.net/2026/08/25/2-weeks-after-jps-health-network-outage-patients-still-dealing-with-fallout/",
@@ -53,17 +59,17 @@
       "title": "Personal Information Exposed in Apollo Global Data Breach",
       "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
       "published": "Mon, 24 Aug 2026 12:22:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest",
-      "url": "https://databreaches.net/2026/08/24/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest/",
-      "published": "Mon, 24 Aug 2026 11:36:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
+      "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
+      "published": "Wed, 26 Aug 2026 12:47:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "2 weeks after JPS Health Network outage, patients still dealing with fallout",
       "url": "https://databreaches.net/2026/08/25/2-weeks-after-jps-health-network-outage-patients-still-dealing-with-fallout/",
       "published": "Tue, 25 Aug 2026 20:50:29 +0000",
@@ -115,12 +121,6 @@
       "title": "Personal Information Exposed in Apollo Global Data Breach",
       "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
       "published": "Mon, 24 Aug 2026 12:22:22 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest",
-      "url": "https://databreaches.net/2026/08/24/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest/",
-      "published": "Mon, 24 Aug 2026 11:36:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "published": "Wed, 26 Aug 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
@@ -300,7 +306,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
       "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
       "published": "Wed, 26 Aug 2026 12:42:55 +0530",
       "source": "The Hacker News"
@@ -387,12 +393,6 @@
       "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
       "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
       "published": "Mon, 24 Aug 2026 23:11:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "published": "Mon, 24 Aug 2026 20:02:10 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
       "published": "Wed, 26 Aug 2026 07:07:48 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "published": "Wed, 26 Aug 2026 17:25:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
@@ -632,7 +638,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
       "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
       "published": "Wed, 26 Aug 2026 12:42:55 +0530",
       "source": "The Hacker News"
@@ -719,12 +725,6 @@
       "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
       "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
       "published": "Mon, 24 Aug 2026 23:11:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "published": "Mon, 24 Aug 2026 20:02:10 +0530",
       "source": "The Hacker News"
     },
     {
