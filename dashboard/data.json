@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-26T16:52:54.564800Z",
+  "generated_at": "2026-08-26T19:00:45.829064Z",
   "segment1": [
+    {
+      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+      "url": "https://databreaches.net/2026/08/26/us-takes-down-alleged-chinese-hacking-tools-used-against-federal-reserve-doj-and-senate/",
+      "published": "Wed, 26 Aug 2026 17:21:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
       "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
@@ -53,17 +59,17 @@
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
       "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
       "published": "Mon, 24 Aug 2026 19:23:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "“Cognizable damage” required for data breach claims, MA appeals court says in a first",
-      "url": "https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/",
-      "published": "Mon, 24 Aug 2026 18:11:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+      "url": "https://databreaches.net/2026/08/26/us-takes-down-alleged-chinese-hacking-tools-used-against-federal-reserve-doj-and-senate/",
+      "published": "Wed, 26 Aug 2026 17:21:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
       "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
       "published": "Wed, 26 Aug 2026 13:29:23 +0000",
@@ -115,12 +121,6 @@
       "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
       "url": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
       "published": "Mon, 24 Aug 2026 19:23:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "“Cognizable damage” required for data breach claims, MA appeals court says in a first",
-      "url": "https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/",
-      "published": "Mon, 24 Aug 2026 18:11:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "published": "Wed, 26 Aug 2026 14:48:24 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Meta agrees to $18 billion settlement over teen social media harms",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "published": "Tue, 25 Aug 2026 09:51:58 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "published": "Wed, 26 Aug 2026 22:12:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "published": "Wed, 26 Aug 2026 21:05:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
@@ -381,18 +393,6 @@
       "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
       "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
       "published": "Tue, 25 Aug 2026 16:44:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "published": "Tue, 25 Aug 2026 14:04:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "published": "Tue, 25 Aug 2026 11:42:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "published": "Wed, 26 Aug 2026 14:48:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Meta agrees to $18 billion settlement over teen social media harms",
       "url": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
       "published": "Wed, 26 Aug 2026 12:41:05 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "published": "Tue, 25 Aug 2026 09:51:58 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "published": "Wed, 26 Aug 2026 22:12:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "published": "Wed, 26 Aug 2026 21:05:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
@@ -713,18 +725,6 @@
       "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
       "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
       "published": "Tue, 25 Aug 2026 16:44:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "published": "Tue, 25 Aug 2026 14:04:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "published": "Tue, 25 Aug 2026 11:42:35 +0530",
       "source": "The Hacker News"
     },
     {
