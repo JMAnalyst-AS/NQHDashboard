@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-26T13:06:36.631790Z",
+  "generated_at": "2026-08-26T14:10:49.006851Z",
   "segment1": [
+    {
+      "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
+      "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
+      "published": "Wed, 26 Aug 2026 13:29:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
       "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
@@ -53,17 +59,17 @@
       "title": "“Cognizable damage” required for data breach claims, MA appeals court says in a first",
       "url": "https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/",
       "published": "Mon, 24 Aug 2026 18:11:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal Information Exposed in Apollo Global Data Breach",
-      "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
-      "published": "Mon, 24 Aug 2026 12:22:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
+      "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
+      "published": "Wed, 26 Aug 2026 13:29:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
       "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
       "published": "Wed, 26 Aug 2026 12:47:37 +0000",
@@ -115,12 +121,6 @@
       "title": "“Cognizable damage” required for data breach claims, MA appeals court says in a first",
       "url": "https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/",
       "published": "Mon, 24 Aug 2026 18:11:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal Information Exposed in Apollo Global Data Breach",
-      "url": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
-      "published": "Mon, 24 Aug 2026 12:22:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "published": "Tue, 23 Jun 2026 16:12:49 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "published": "Wed, 26 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "published": "Wed, 26 Aug 2026 09:17:54 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
@@ -261,18 +273,6 @@
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "published": "Mon, 24 Aug 2026 15:26:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "published": "Mon, 24 Aug 2026 13:56:24 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "published": "Wed, 26 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "published": "Wed, 26 Aug 2026 09:17:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
       "published": "Wed, 26 Aug 2026 08:06:28 -0400",
@@ -593,18 +605,6 @@
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "published": "Mon, 24 Aug 2026 15:26:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "published": "Mon, 24 Aug 2026 13:56:24 -0400",
       "source": "BleepingComputer"
     },
     {
