@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-27T03:27:14.149672Z",
+  "generated_at": "2026-08-27T14:31:17.247848Z",
   "segment1": [
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://databreaches.net/2026/08/27/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 12:17:05 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NSA to host a hacker reunion in bid to rebuild secretive unit",
       "url": "https://databreaches.net/2026/08/26/nsa-to-host-a-hacker-reunion-in-bid-to-rebuild-secretive-unit/",
@@ -53,17 +59,17 @@
       "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
       "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
       "published": "Tue, 25 Aug 2026 15:14:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
-      "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
-      "published": "Tue, 25 Aug 2026 14:55:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://databreaches.net/2026/08/27/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 12:17:05 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NSA to host a hacker reunion in bid to rebuild secretive unit",
       "url": "https://databreaches.net/2026/08/26/nsa-to-host-a-hacker-reunion-in-bid-to-rebuild-secretive-unit/",
       "published": "Wed, 26 Aug 2026 21:39:11 +0000",
@@ -116,15 +122,15 @@
       "url": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
       "published": "Tue, 25 Aug 2026 15:14:03 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
-      "url": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
-      "published": "Tue, 25 Aug 2026 14:55:36 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -180,10 +186,52 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "source": "Krebs on Security"
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "published": "Thu, 27 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android 17 adds ECH support to make web browsing harder to track",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
+      "published": "Thu, 27 Aug 2026 10:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "published": "Thu, 27 Aug 2026 09:31:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+      "published": "Thu, 27 Aug 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "published": "Thu, 27 Aug 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "published": "Thu, 27 Aug 2026 07:10:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "published": "Thu, 27 Aug 2026 05:16:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "published": "Thu, 27 Aug 2026 04:13:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
@@ -228,52 +276,46 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "published": "Wed, 26 Aug 2026 09:17:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "published": "Thu, 27 Aug 2026 17:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "published": "Thu, 27 Aug 2026 17:26:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "published": "Wed, 26 Aug 2026 07:07:48 -0400",
-      "source": "BleepingComputer"
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "published": "Thu, 27 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "published": "Tue, 25 Aug 2026 17:58:14 -0400",
-      "source": "BleepingComputer"
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "published": "Thu, 27 Aug 2026 16:30:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "published": "Tue, 25 Aug 2026 17:39:01 -0400",
-      "source": "BleepingComputer"
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "published": "Thu, 27 Aug 2026 15:03:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "published": "Tue, 25 Aug 2026 16:25:26 -0400",
-      "source": "BleepingComputer"
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "published": "Thu, 27 Aug 2026 13:43:11 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "published": "Tue, 25 Aug 2026 11:52:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "published": "Thu, 27 Aug 2026 12:35:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
@@ -351,48 +393,6 @@
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
       "published": "Tue, 25 Aug 2026 23:47:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "published": "Tue, 25 Aug 2026 18:49:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "published": "Tue, 25 Aug 2026 18:13:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "published": "Tue, 25 Aug 2026 17:26:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "published": "Fri, 14 Aug 2026 11:24:35 +0000",
@@ -512,10 +518,52 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "source": "Krebs on Security"
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "published": "Thu, 27 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android 17 adds ECH support to make web browsing harder to track",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
+      "published": "Thu, 27 Aug 2026 10:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "published": "Thu, 27 Aug 2026 09:31:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+      "published": "Thu, 27 Aug 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "published": "Thu, 27 Aug 2026 08:16:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "published": "Thu, 27 Aug 2026 07:10:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "published": "Thu, 27 Aug 2026 05:16:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "published": "Thu, 27 Aug 2026 04:13:50 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
@@ -560,52 +608,46 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "published": "Wed, 26 Aug 2026 09:17:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "published": "Thu, 27 Aug 2026 17:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "published": "Thu, 27 Aug 2026 17:26:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "published": "Wed, 26 Aug 2026 07:07:48 -0400",
-      "source": "BleepingComputer"
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "published": "Thu, 27 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "published": "Tue, 25 Aug 2026 17:58:14 -0400",
-      "source": "BleepingComputer"
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "published": "Thu, 27 Aug 2026 16:30:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "published": "Tue, 25 Aug 2026 17:39:01 -0400",
-      "source": "BleepingComputer"
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "published": "Thu, 27 Aug 2026 15:03:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "published": "Tue, 25 Aug 2026 16:25:26 -0400",
-      "source": "BleepingComputer"
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "published": "Thu, 27 Aug 2026 13:43:11 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "published": "Tue, 25 Aug 2026 11:52:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "published": "Thu, 27 Aug 2026 12:35:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
@@ -683,48 +725,6 @@
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
       "published": "Tue, 25 Aug 2026 23:47:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "published": "Tue, 25 Aug 2026 18:49:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "published": "Tue, 25 Aug 2026 18:13:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "published": "Tue, 25 Aug 2026 17:26:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
       "source": "The Hacker News"
     },
     {
