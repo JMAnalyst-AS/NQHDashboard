@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:15:12.450917Z",
+  "generated_at": "2026-08-28T11:38:59.365705Z",
   "segment1": [
     {
       "title": "Qilin claimed they attacked the ATF. Here’s what the ATF says.",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ServiceNow warns of three max severity security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "published": "Fri, 28 Aug 2026 06:29:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+      "published": "Fri, 28 Aug 2026 05:10:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
       "published": "Thu, 27 Aug 2026 17:38:53 -0400",
@@ -264,16 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Meta agrees to $18 billion settlement over teen social media harms",
-      "url": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-      "published": "Wed, 26 Aug 2026 12:41:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "published": "Fri, 28 Aug 2026 16:50:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "published": "Wed, 26 Aug 2026 11:19:21 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+      "published": "Fri, 28 Aug 2026 16:28:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "published": "Fri, 28 Aug 2026 15:15:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "published": "Fri, 28 Aug 2026 13:55:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "published": "Fri, 28 Aug 2026 13:50:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
@@ -363,36 +393,6 @@
       "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
       "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
       "published": "Wed, 26 Aug 2026 18:37:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "published": "Wed, 26 Aug 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "published": "Wed, 26 Aug 2026 17:06:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "published": "Wed, 26 Aug 2026 15:57:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "published": "Wed, 26 Aug 2026 15:08:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "published": "Wed, 26 Aug 2026 13:24:12 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ServiceNow warns of three max severity security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "published": "Fri, 28 Aug 2026 06:29:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+      "published": "Fri, 28 Aug 2026 05:10:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
       "published": "Thu, 27 Aug 2026 17:38:53 -0400",
@@ -596,16 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Meta agrees to $18 billion settlement over teen social media harms",
-      "url": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-      "published": "Wed, 26 Aug 2026 12:41:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "published": "Fri, 28 Aug 2026 16:50:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "published": "Wed, 26 Aug 2026 11:19:21 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+      "published": "Fri, 28 Aug 2026 16:28:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "published": "Fri, 28 Aug 2026 15:15:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "published": "Fri, 28 Aug 2026 13:55:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "published": "Fri, 28 Aug 2026 13:50:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
@@ -695,36 +725,6 @@
       "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
       "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
       "published": "Wed, 26 Aug 2026 18:37:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "published": "Wed, 26 Aug 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "published": "Wed, 26 Aug 2026 17:06:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "published": "Wed, 26 Aug 2026 15:57:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "published": "Wed, 26 Aug 2026 15:08:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "published": "Wed, 26 Aug 2026 13:24:12 +0530",
       "source": "The Hacker News"
     },
     {
