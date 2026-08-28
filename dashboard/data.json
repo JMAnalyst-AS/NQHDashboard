@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-28T11:38:59.365705Z",
+  "generated_at": "2026-08-28T21:45:39.247793Z",
   "segment1": [
+    {
+      "title": "Winona County paid more than $128K following January ransomware attack",
+      "url": "https://databreaches.net/2026/08/28/winona-county-paid-more-than-128k-following-january-ransomware-attack/",
+      "published": "Fri, 28 Aug 2026 13:59:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: HIV charity has ‘sensitive’ health data stolen",
+      "url": "https://databreaches.net/2026/08/28/uk-hiv-charity-has-sensitive-health-data-stolen/",
+      "published": "Fri, 28 Aug 2026 13:53:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Qilin claimed they attacked the ATF. Here’s what the ATF says.",
       "url": "https://databreaches.net/2026/08/27/qilin-claimed-they-attacked-the-atf-heres-what-the-atf-says/",
@@ -47,23 +59,23 @@
       "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
       "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
       "published": "Wed, 26 Aug 2026 12:47:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2 weeks after JPS Health Network outage, patients still dealing with fallout",
-      "url": "https://databreaches.net/2026/08/25/2-weeks-after-jps-health-network-outage-patients-still-dealing-with-fallout/",
-      "published": "Tue, 25 Aug 2026 20:50:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘Close Enough’ Data Breach Notifications Create Exposure",
-      "url": "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/",
-      "published": "Tue, 25 Aug 2026 20:25:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Winona County paid more than $128K following January ransomware attack",
+      "url": "https://databreaches.net/2026/08/28/winona-county-paid-more-than-128k-following-january-ransomware-attack/",
+      "published": "Fri, 28 Aug 2026 13:59:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: HIV charity has ‘sensitive’ health data stolen",
+      "url": "https://databreaches.net/2026/08/28/uk-hiv-charity-has-sensitive-health-data-stolen/",
+      "published": "Fri, 28 Aug 2026 13:53:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Qilin claimed they attacked the ATF. Here’s what the ATF says.",
       "url": "https://databreaches.net/2026/08/27/qilin-claimed-they-attacked-the-atf-heres-what-the-atf-says/",
       "published": "Thu, 27 Aug 2026 16:47:59 +0000",
@@ -109,18 +121,6 @@
       "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
       "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
       "published": "Wed, 26 Aug 2026 12:47:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2 weeks after JPS Health Network outage, patients still dealing with fallout",
-      "url": "https://databreaches.net/2026/08/25/2-weeks-after-jps-health-network-outage-patients-still-dealing-with-fallout/",
-      "published": "Tue, 25 Aug 2026 20:50:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "‘Close Enough’ Data Breach Notifications Create Exposure",
-      "url": "https://databreaches.net/2026/08/25/close-enough-data-breach-notifications-create-exposure/",
-      "published": "Tue, 25 Aug 2026 20:25:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "published": "Fri, 28 Aug 2026 15:08:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
+      "published": "Fri, 28 Aug 2026 12:36:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+      "published": "Fri, 28 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+      "published": "Fri, 28 Aug 2026 08:58:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "published": "Fri, 28 Aug 2026 07:46:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ServiceNow warns of three max severity security vulnerabilities",
       "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
       "published": "Fri, 28 Aug 2026 06:29:42 -0400",
@@ -240,40 +276,46 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "published": "Thu, 27 Aug 2026 08:16:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "published": "Sat, 29 Aug 2026 02:08:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "published": "Thu, 27 Aug 2026 07:10:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "published": "Fri, 28 Aug 2026 22:42:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "published": "Thu, 27 Aug 2026 05:16:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "published": "Fri, 28 Aug 2026 21:50:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "published": "Thu, 27 Aug 2026 04:13:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "published": "Fri, 28 Aug 2026 21:26:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
-      "source": "BleepingComputer"
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "published": "Fri, 28 Aug 2026 20:57:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "published": "Wed, 26 Aug 2026 14:48:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "published": "Fri, 28 Aug 2026 17:37:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Key Reasons Why Identity Fabric Matters in 2026",
+      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+      "published": "Fri, 28 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
@@ -351,48 +393,6 @@
       "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
       "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
       "published": "Thu, 27 Aug 2026 16:30:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "published": "Thu, 27 Aug 2026 15:03:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "published": "Thu, 27 Aug 2026 13:43:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "published": "Thu, 27 Aug 2026 12:35:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "published": "Wed, 26 Aug 2026 22:12:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "published": "Wed, 26 Aug 2026 21:05:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "published": "Wed, 26 Aug 2026 19:14:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "published": "Wed, 26 Aug 2026 18:37:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "published": "Fri, 28 Aug 2026 15:08:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
+      "published": "Fri, 28 Aug 2026 12:36:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+      "published": "Fri, 28 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+      "published": "Fri, 28 Aug 2026 08:58:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "published": "Fri, 28 Aug 2026 07:46:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ServiceNow warns of three max severity security vulnerabilities",
       "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
       "published": "Fri, 28 Aug 2026 06:29:42 -0400",
@@ -572,40 +608,46 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "published": "Thu, 27 Aug 2026 08:16:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "published": "Sat, 29 Aug 2026 02:08:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "published": "Thu, 27 Aug 2026 07:10:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "published": "Fri, 28 Aug 2026 22:42:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "published": "Thu, 27 Aug 2026 05:16:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "published": "Fri, 28 Aug 2026 21:50:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "published": "Thu, 27 Aug 2026 04:13:50 -0400",
-      "source": "BleepingComputer"
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "published": "Fri, 28 Aug 2026 21:26:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
-      "source": "BleepingComputer"
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "published": "Fri, 28 Aug 2026 20:57:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "published": "Wed, 26 Aug 2026 14:48:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "published": "Fri, 28 Aug 2026 17:37:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Key Reasons Why Identity Fabric Matters in 2026",
+      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+      "published": "Fri, 28 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
@@ -683,48 +725,6 @@
       "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
       "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
       "published": "Thu, 27 Aug 2026 16:30:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "published": "Thu, 27 Aug 2026 15:03:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "published": "Thu, 27 Aug 2026 13:43:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "published": "Thu, 27 Aug 2026 12:35:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "published": "Wed, 26 Aug 2026 22:12:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "published": "Wed, 26 Aug 2026 21:05:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "published": "Wed, 26 Aug 2026 19:14:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "published": "Wed, 26 Aug 2026 18:37:02 +0530",
       "source": "The Hacker News"
     },
     {
