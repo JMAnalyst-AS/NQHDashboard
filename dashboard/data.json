@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-28T21:45:39.247793Z",
+  "generated_at": "2026-08-29T03:31:53.787303Z",
   "segment1": [
+    {
+      "title": "McKesson is investigating a cybersecurity incident after ShinyHunters claims patient data theft",
+      "url": "https://databreaches.net/2026/08/28/mckesson-is-investigating-a-cybersecurity-incident-after-shinyhunters-claims-patient-data-theft/",
+      "published": "Sat, 29 Aug 2026 01:02:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Winona County paid more than $128K following January ransomware attack",
       "url": "https://databreaches.net/2026/08/28/winona-county-paid-more-than-128k-following-january-ransomware-attack/",
@@ -53,17 +59,17 @@
       "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
       "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
       "published": "Wed, 26 Aug 2026 13:29:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
-      "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
-      "published": "Wed, 26 Aug 2026 12:47:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "McKesson is investigating a cybersecurity incident after ShinyHunters claims patient data theft",
+      "url": "https://databreaches.net/2026/08/28/mckesson-is-investigating-a-cybersecurity-incident-after-shinyhunters-claims-patient-data-theft/",
+      "published": "Sat, 29 Aug 2026 01:02:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Winona County paid more than $128K following January ransomware attack",
       "url": "https://databreaches.net/2026/08/28/winona-county-paid-more-than-128k-following-january-ransomware-attack/",
       "published": "Fri, 28 Aug 2026 13:59:22 +0000",
@@ -115,12 +121,6 @@
       "title": "National Kidney Registry allegedly hacked by DireWolf ransomware group",
       "url": "https://databreaches.net/2026/08/26/national-kidney-registry-allegedly-hacked-by-direwolf-ransomware-group/",
       "published": "Wed, 26 Aug 2026 13:29:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A recommendation from the Saskatchewan Information and Privacy Commissioner caught our eye",
-      "url": "https://databreaches.net/2026/08/26/a-recommendation-from-the-saskatchewan-information-and-privacy-commissioner-caught-our-eye/",
-      "published": "Wed, 26 Aug 2026 12:47:37 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
       "published": "Thu, 02 Jul 2026 19:27:33 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "published": "Fri, 28 Aug 2026 18:40:17 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "PaperCut releases second emergency patch for exploited flaws",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "published": "Thu, 27 Aug 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "published": "Sat, 29 Aug 2026 03:00:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
@@ -387,12 +393,6 @@
       "title": "What the Data Says About AI in Security Operations in 2026",
       "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
       "published": "Thu, 27 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "published": "Thu, 27 Aug 2026 16:30:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "published": "Fri, 28 Aug 2026 18:40:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PaperCut releases second emergency patch for exploited flaws",
       "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
       "published": "Fri, 28 Aug 2026 15:08:26 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "published": "Thu, 27 Aug 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "published": "Sat, 29 Aug 2026 03:00:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
@@ -719,12 +725,6 @@
       "title": "What the Data Says About AI in Security Operations in 2026",
       "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
       "published": "Thu, 27 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "published": "Thu, 27 Aug 2026 16:30:57 +0530",
       "source": "The Hacker News"
     },
     {
