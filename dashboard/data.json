@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:01:13.351161Z",
+  "generated_at": "2026-08-31T11:02:13.525994Z",
   "segment1": [
     {
       "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "published": "Mon, 31 Aug 2026 06:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "url": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "published": "Mon, 31 Aug 2026 05:22:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
       "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
       "published": "Sun, 30 Aug 2026 11:00:21 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "published": "Fri, 28 Aug 2026 06:29:42 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "published": "Mon, 31 Aug 2026 14:34:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "published": "Fri, 28 Aug 2026 05:10:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "published": "Thu, 27 Aug 2026 17:38:53 -0400",
-      "source": "BleepingComputer"
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
@@ -381,18 +393,6 @@
       "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
       "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
       "published": "Thu, 27 Aug 2026 20:42:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "published": "Thu, 27 Aug 2026 19:09:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "published": "Thu, 27 Aug 2026 17:26:30 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "published": "Mon, 31 Aug 2026 06:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "url": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "published": "Mon, 31 Aug 2026 05:22:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
       "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
       "published": "Sun, 30 Aug 2026 11:00:21 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "published": "Fri, 28 Aug 2026 06:29:42 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "published": "Mon, 31 Aug 2026 14:34:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "published": "Fri, 28 Aug 2026 05:10:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "published": "Thu, 27 Aug 2026 17:38:53 -0400",
-      "source": "BleepingComputer"
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
@@ -713,18 +725,6 @@
       "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
       "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
       "published": "Thu, 27 Aug 2026 20:42:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "published": "Thu, 27 Aug 2026 19:09:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "published": "Thu, 27 Aug 2026 17:26:30 +0530",
       "source": "The Hacker News"
     },
     {
