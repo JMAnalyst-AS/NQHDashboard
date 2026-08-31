@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-31T11:02:13.525994Z",
+  "generated_at": "2026-08-31T18:04:02.194721Z",
   "segment1": [
+    {
+      "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
+      "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
+      "published": "Mon, 31 Aug 2026 15:21:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
+      "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+      "published": "Mon, 31 Aug 2026 14:00:08 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
       "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
@@ -47,23 +59,23 @@
       "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
       "url": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
       "published": "Sat, 29 Aug 2026 14:03:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two different groups have recently attacked Interim HealthCare entities. Should other franchises be concerned?",
-      "url": "https://databreaches.net/2026/08/29/two-different-groups-have-recently-attacked-interim-healthcare-entities-should-other-franchises-be-concerned/",
-      "published": "Sat, 29 Aug 2026 13:45:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Star Health’s public record: A data breach, a ₹3.39-crore fine, 13,000 ombudsman complaints — and still no accounting for the policyholder",
-      "url": "https://databreaches.net/2026/08/29/star-healths-public-record-a-data-breach-a-%e2%82%b93-39-crore-fine-13000-ombudsman-complaints-and-still-no-accounting-for-the-policyholder/",
-      "published": "Sat, 29 Aug 2026 11:47:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
+      "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
+      "published": "Mon, 31 Aug 2026 15:21:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
+      "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+      "published": "Mon, 31 Aug 2026 14:00:08 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
       "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
       "published": "Sun, 30 Aug 2026 15:26:50 +0000",
@@ -109,18 +121,6 @@
       "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
       "url": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
       "published": "Sat, 29 Aug 2026 14:03:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two different groups have recently attacked Interim HealthCare entities. Should other franchises be concerned?",
-      "url": "https://databreaches.net/2026/08/29/two-different-groups-have-recently-attacked-interim-healthcare-entities-should-other-franchises-be-concerned/",
-      "published": "Sat, 29 Aug 2026 13:45:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Star Health’s public record: A data breach, a ₹3.39-crore fine, 13,000 ombudsman complaints — and still no accounting for the policyholder",
-      "url": "https://databreaches.net/2026/08/29/star-healths-public-record-a-data-breach-a-%e2%82%b93-39-crore-fine-13000-ombudsman-complaints-and-still-no-accounting-for-the-policyholder/",
-      "published": "Sat, 29 Aug 2026 11:47:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "published": "Mon, 31 Aug 2026 12:56:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "published": "Mon, 31 Aug 2026 12:50:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "File servers are here to stay. Here’s how to manage them securely",
+      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "published": "Mon, 31 Aug 2026 09:30:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
       "published": "Mon, 31 Aug 2026 06:23:46 -0400",
@@ -246,34 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "published": "Mon, 31 Aug 2026 22:54:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "published": "Fri, 28 Aug 2026 12:36:47 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "published": "Mon, 31 Aug 2026 19:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "published": "Fri, 28 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "published": "Mon, 31 Aug 2026 17:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "published": "Fri, 28 Aug 2026 08:58:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "published": "Fri, 28 Aug 2026 07:46:57 -0400",
-      "source": "BleepingComputer"
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
@@ -366,34 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "published": "Fri, 28 Aug 2026 13:55:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "published": "Fri, 28 Aug 2026 13:50:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "published": "Fri, 28 Aug 2026 00:06:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "published": "Thu, 27 Aug 2026 20:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "published": "Thu, 27 Aug 2026 20:42:16 +0530",
-      "source": "The Hacker News"
+      "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/",
+      "published": "Mon, 31 Aug 2026 12:58:31 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
@@ -447,12 +453,6 @@
       "title": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
       "url": "https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/",
       "published": "Mon, 29 Jun 2026 22:34:11 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai",
-      "url": "https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/",
-      "published": "Sat, 27 Jun 2026 18:02:34 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "published": "Mon, 31 Aug 2026 12:56:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "published": "Mon, 31 Aug 2026 12:50:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "File servers are here to stay. Here’s how to manage them securely",
+      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "published": "Mon, 31 Aug 2026 09:30:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
       "published": "Mon, 31 Aug 2026 06:23:46 -0400",
@@ -578,34 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
-      "source": "BleepingComputer"
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "published": "Mon, 31 Aug 2026 22:54:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "published": "Fri, 28 Aug 2026 12:36:47 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "published": "Mon, 31 Aug 2026 19:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "published": "Fri, 28 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "published": "Mon, 31 Aug 2026 17:44:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "published": "Fri, 28 Aug 2026 08:58:43 -0400",
-      "source": "BleepingComputer"
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "published": "Fri, 28 Aug 2026 07:46:57 -0400",
-      "source": "BleepingComputer"
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
@@ -698,34 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "published": "Fri, 28 Aug 2026 13:55:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "published": "Fri, 28 Aug 2026 13:50:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "published": "Fri, 28 Aug 2026 00:06:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "published": "Thu, 27 Aug 2026 20:43:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "published": "Thu, 27 Aug 2026 20:42:16 +0530",
-      "source": "The Hacker News"
+      "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/",
+      "published": "Mon, 31 Aug 2026 12:58:31 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
@@ -779,12 +785,6 @@
       "title": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
       "url": "https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/",
       "published": "Mon, 29 Jun 2026 22:34:11 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai",
-      "url": "https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/",
-      "published": "Sat, 27 Jun 2026 18:02:34 +0000",
       "source": "bellingcat"
     }
   ]
