@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-01T07:21:09.092282Z",
+  "generated_at": "2026-09-01T12:40:16.943344Z",
   "segment1": [
+    {
+      "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
+      "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
+      "published": "Tue, 01 Sep 2026 12:08:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Santa Fe Schools Move Forward With New Cybersecurity Policy",
+      "url": "https://databreaches.net/2026/09/01/santa-fe-schools-move-forward-with-new-cybersecurity-policy/",
+      "published": "Tue, 01 Sep 2026 12:08:30 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
       "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
@@ -47,23 +59,23 @@
       "title": "US officials backpedal on claims that government agencies were hacked by Chinese",
       "url": "https://databreaches.net/2026/08/29/us-officials-backpedal-on-claims-that-government-agencies-were-hacked-by-chinese/",
       "published": "Sat, 29 Aug 2026 15:02:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
-      "url": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
-      "published": "Sat, 29 Aug 2026 14:15:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
-      "url": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
-      "published": "Sat, 29 Aug 2026 14:03:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
+      "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
+      "published": "Tue, 01 Sep 2026 12:08:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Santa Fe Schools Move Forward With New Cybersecurity Policy",
+      "url": "https://databreaches.net/2026/09/01/santa-fe-schools-move-forward-with-new-cybersecurity-policy/",
+      "published": "Tue, 01 Sep 2026 12:08:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
       "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
       "published": "Mon, 31 Aug 2026 15:21:38 +0000",
@@ -109,18 +121,6 @@
       "title": "US officials backpedal on claims that government agencies were hacked by Chinese",
       "url": "https://databreaches.net/2026/08/29/us-officials-backpedal-on-claims-that-government-agencies-were-hacked-by-chinese/",
       "published": "Sat, 29 Aug 2026 15:02:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
-      "url": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
-      "published": "Sat, 29 Aug 2026 14:15:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
-      "url": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
-      "published": "Sat, 29 Aug 2026 14:03:43 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "published": "Tue, 01 Sep 2026 08:38:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "published": "Tue, 01 Sep 2026 05:15:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "published": "Tue, 01 Sep 2026 03:48:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
       "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
       "published": "Mon, 31 Aug 2026 16:47:54 -0400",
@@ -198,7 +216,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "published": "Mon, 31 Aug 2026 12:56:57 -0400",
       "source": "BleepingComputer"
@@ -258,22 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "published": "Sun, 30 Aug 2026 10:17:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "published": "Sat, 29 Aug 2026 19:11:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "published": "Tue, 01 Sep 2026 14:35:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Brave browser adds email aliases to help users evade tracking",
-      "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-      "published": "Sat, 29 Aug 2026 10:19:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "published": "Tue, 01 Sep 2026 13:56:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "published": "Tue, 01 Sep 2026 12:52:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
@@ -369,30 +393,6 @@
       "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
       "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
       "published": "Fri, 28 Aug 2026 17:37:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "published": "Fri, 28 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "published": "Fri, 28 Aug 2026 16:50:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "published": "Fri, 28 Aug 2026 16:28:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "published": "Fri, 28 Aug 2026 15:15:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "published": "Tue, 01 Sep 2026 08:38:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "published": "Tue, 01 Sep 2026 05:15:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "published": "Tue, 01 Sep 2026 03:48:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
       "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
       "published": "Mon, 31 Aug 2026 16:47:54 -0400",
@@ -530,7 +548,7 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "published": "Mon, 31 Aug 2026 12:56:57 -0400",
       "source": "BleepingComputer"
@@ -590,22 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "published": "Sun, 30 Aug 2026 10:17:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "published": "Sat, 29 Aug 2026 19:11:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "published": "Tue, 01 Sep 2026 14:35:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Brave browser adds email aliases to help users evade tracking",
-      "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-      "published": "Sat, 29 Aug 2026 10:19:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "published": "Tue, 01 Sep 2026 13:56:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "published": "Tue, 01 Sep 2026 12:52:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
@@ -701,30 +725,6 @@
       "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
       "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
       "published": "Fri, 28 Aug 2026 17:37:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "published": "Fri, 28 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "published": "Fri, 28 Aug 2026 16:50:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "published": "Fri, 28 Aug 2026 16:28:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "published": "Fri, 28 Aug 2026 15:15:15 +0530",
       "source": "The Hacker News"
     },
     {
