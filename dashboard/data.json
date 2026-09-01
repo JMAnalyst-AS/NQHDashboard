@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:40:16.943344Z",
+  "generated_at": "2026-09-01T17:10:25.874018Z",
   "segment1": [
     {
       "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "published": "Tue, 01 Sep 2026 10:45:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Novocure data breach affects more than 1,400 cancer patients",
+      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "published": "Tue, 01 Sep 2026 10:28:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "published": "Tue, 01 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
       "published": "Tue, 01 Sep 2026 08:38:35 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
-      "source": "BleepingComputer"
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "published": "Tue, 01 Sep 2026 19:37:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "published": "Sun, 30 Aug 2026 11:00:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "published": "Sun, 30 Aug 2026 10:30:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "published": "Tue, 01 Sep 2026 18:38:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
@@ -381,18 +393,6 @@
       "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
       "published": "Fri, 28 Aug 2026 21:26:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "published": "Fri, 28 Aug 2026 20:57:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "published": "Fri, 28 Aug 2026 17:37:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "published": "Tue, 01 Sep 2026 10:45:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Novocure data breach affects more than 1,400 cancer patients",
+      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "published": "Tue, 01 Sep 2026 10:28:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "published": "Tue, 01 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
       "published": "Tue, 01 Sep 2026 08:38:35 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
-      "source": "BleepingComputer"
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "published": "Tue, 01 Sep 2026 19:37:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "published": "Sun, 30 Aug 2026 11:00:21 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "published": "Sun, 30 Aug 2026 10:30:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "published": "Tue, 01 Sep 2026 18:38:58 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
@@ -713,18 +725,6 @@
       "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
       "published": "Fri, 28 Aug 2026 21:26:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "published": "Fri, 28 Aug 2026 20:57:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "published": "Fri, 28 Aug 2026 17:37:24 +0530",
       "source": "The Hacker News"
     },
     {
