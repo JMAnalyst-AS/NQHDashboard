@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:50:58.982356Z",
+  "generated_at": "2026-09-02T14:07:05.136399Z",
   "segment1": [
     {
       "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "published": "Wed, 02 Sep 2026 08:30:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US charges Russian for infecting 80,000 freelancers with malware",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
       "published": "Wed, 02 Sep 2026 05:06:48 -0400",
@@ -264,16 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "published": "Mon, 31 Aug 2026 14:51:04 -0400",
-      "source": "BleepingComputer"
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "published": "Mon, 31 Aug 2026 12:56:57 -0400",
-      "source": "BleepingComputer"
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
@@ -369,30 +393,6 @@
       "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
       "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
       "published": "Mon, 31 Aug 2026 17:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "published": "Mon, 31 Aug 2026 14:34:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "published": "Wed, 02 Sep 2026 08:30:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US charges Russian for infecting 80,000 freelancers with malware",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
       "published": "Wed, 02 Sep 2026 05:06:48 -0400",
@@ -596,16 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "published": "Mon, 31 Aug 2026 14:51:04 -0400",
-      "source": "BleepingComputer"
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "published": "Mon, 31 Aug 2026 12:56:57 -0400",
-      "source": "BleepingComputer"
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
@@ -701,30 +725,6 @@
       "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
       "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
       "published": "Mon, 31 Aug 2026 17:44:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "published": "Mon, 31 Aug 2026 14:34:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
       "source": "The Hacker News"
     },
     {
