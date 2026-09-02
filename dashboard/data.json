@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:28:36.528539Z",
+  "generated_at": "2026-09-02T09:50:58.982356Z",
   "segment1": [
     {
       "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
       "published": "Tue, 01 Sep 2026 16:53:23 -0400",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "published": "Mon, 31 Aug 2026 12:50:50 -0400",
-      "source": "BleepingComputer"
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "published": "Wed, 02 Sep 2026 14:40:23 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "published": "Wed, 02 Sep 2026 13:17:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "published": "Wed, 02 Sep 2026 12:38:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -363,36 +393,6 @@
       "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
       "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
       "published": "Mon, 31 Aug 2026 13:26:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "published": "Sun, 30 Aug 2026 13:06:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "published": "Sat, 29 Aug 2026 21:55:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "published": "Sat, 29 Aug 2026 03:00:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "published": "Sat, 29 Aug 2026 02:08:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "published": "Fri, 28 Aug 2026 22:42:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
       "published": "Tue, 01 Sep 2026 16:53:23 -0400",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "published": "Mon, 31 Aug 2026 12:50:50 -0400",
-      "source": "BleepingComputer"
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "published": "Wed, 02 Sep 2026 14:40:23 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "published": "Wed, 02 Sep 2026 13:17:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "published": "Wed, 02 Sep 2026 12:38:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -695,36 +725,6 @@
       "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
       "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
       "published": "Mon, 31 Aug 2026 13:26:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "published": "Sun, 30 Aug 2026 13:06:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "published": "Sat, 29 Aug 2026 21:55:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "published": "Sat, 29 Aug 2026 03:00:52 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "published": "Sat, 29 Aug 2026 02:08:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "published": "Fri, 28 Aug 2026 22:42:15 +0530",
       "source": "The Hacker News"
     },
     {
