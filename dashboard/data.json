@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-03T19:07:59.604698Z",
+  "generated_at": "2026-09-03T21:48:56.918070Z",
   "segment1": [
+    {
+      "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
+      "url": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
+      "published": "Thu, 03 Sep 2026 20:27:57 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
       "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
@@ -53,17 +59,17 @@
       "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
       "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
       "published": "Mon, 31 Aug 2026 15:21:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
-      "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
-      "published": "Mon, 31 Aug 2026 14:00:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
+      "url": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
+      "published": "Thu, 03 Sep 2026 20:27:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
       "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
       "published": "Thu, 03 Sep 2026 16:51:35 +0000",
@@ -115,12 +121,6 @@
       "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
       "url": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
       "published": "Mon, 31 Aug 2026 15:21:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
-      "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
-      "published": "Mon, 31 Aug 2026 14:00:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "published": "Wed, 08 Jul 2026 12:31:39 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
@@ -267,12 +273,6 @@
       "title": "Dropbox accounts breached through Lenovo email verification flaw",
       "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
       "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
       "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
       "published": "Thu, 03 Sep 2026 14:28:12 -0400",
@@ -599,12 +605,6 @@
       "title": "Dropbox accounts breached through Lenovo email verification flaw",
       "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
       "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
       "source": "BleepingComputer"
     },
     {
