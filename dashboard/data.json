@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-03T11:31:42.404082Z",
+  "generated_at": "2026-09-03T15:53:09.098035Z",
   "segment1": [
+    {
+      "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
+      "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
+      "published": "Thu, 03 Sep 2026 11:49:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
+      "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
+      "published": "Thu, 03 Sep 2026 11:48:52 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
       "url": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
@@ -47,23 +59,23 @@
       "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
       "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
       "published": "Sun, 30 Aug 2026 15:26:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2’s elusive beta build and a potential weapon from Half-Life 2: Episode 3",
-      "url": "https://databreaches.net/2026/08/30/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
-      "published": "Sun, 30 Aug 2026 15:26:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cybercriminals build fake school websites as education attacks hit record high",
-      "url": "https://databreaches.net/2026/08/30/cybercriminals-build-fake-school-websites-as-education-attacks-hit-record-high/",
-      "published": "Sun, 30 Aug 2026 15:26:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
+      "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
+      "published": "Thu, 03 Sep 2026 11:49:04 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
+      "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
+      "published": "Thu, 03 Sep 2026 11:48:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
       "url": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
       "published": "Wed, 02 Sep 2026 20:25:53 +0000",
@@ -109,18 +121,6 @@
       "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
       "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
       "published": "Sun, 30 Aug 2026 15:26:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2’s elusive beta build and a potential weapon from Half-Life 2: Episode 3",
-      "url": "https://databreaches.net/2026/08/30/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
-      "published": "Sun, 30 Aug 2026 15:26:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cybercriminals build fake school websites as education attacks hit record high",
-      "url": "https://databreaches.net/2026/08/30/cybercriminals-build-fake-school-websites-as-education-attacks-hit-record-high/",
-      "published": "Sun, 30 Aug 2026 15:26:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "published": "Thu, 03 Sep 2026 11:13:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "Thu, 03 Sep 2026 10:52:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "published": "Thu, 03 Sep 2026 09:50:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "published": "Thu, 03 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Plex warns users to patch security vulnerabilities immediately",
       "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
       "published": "Thu, 03 Sep 2026 07:02:22 -0400",
@@ -240,40 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "published": "Tue, 01 Sep 2026 16:53:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "published": "Tue, 01 Sep 2026 15:28:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "published": "Tue, 01 Sep 2026 13:54:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "published": "Tue, 01 Sep 2026 10:45:06 -0400",
-      "source": "BleepingComputer"
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
@@ -387,12 +393,6 @@
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
       "published": "Tue, 01 Sep 2026 23:23:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "published": "Tue, 01 Sep 2026 22:49:24 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "published": "Thu, 03 Sep 2026 11:13:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "Thu, 03 Sep 2026 10:52:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "published": "Thu, 03 Sep 2026 09:50:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "published": "Thu, 03 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Plex warns users to patch security vulnerabilities immediately",
       "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
       "published": "Thu, 03 Sep 2026 07:02:22 -0400",
@@ -572,40 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "published": "Tue, 01 Sep 2026 16:53:23 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "published": "Tue, 01 Sep 2026 15:28:17 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "published": "Tue, 01 Sep 2026 13:54:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "published": "Tue, 01 Sep 2026 10:45:06 -0400",
-      "source": "BleepingComputer"
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
@@ -719,12 +725,6 @@
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
       "published": "Tue, 01 Sep 2026 23:23:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "published": "Tue, 01 Sep 2026 22:49:24 +0530",
       "source": "The Hacker News"
     },
     {
