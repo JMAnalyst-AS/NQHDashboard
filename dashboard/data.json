@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-03T15:53:09.098035Z",
+  "generated_at": "2026-09-03T19:07:59.604698Z",
   "segment1": [
+    {
+      "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+      "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
+      "published": "Thu, 03 Sep 2026 16:51:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
       "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
@@ -53,17 +59,17 @@
       "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
       "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
       "published": "Mon, 31 Aug 2026 14:00:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
-      "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
-      "published": "Sun, 30 Aug 2026 15:26:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+      "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
+      "published": "Thu, 03 Sep 2026 16:51:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
       "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
       "published": "Thu, 03 Sep 2026 11:49:04 +0000",
@@ -115,12 +121,6 @@
       "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
       "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
       "published": "Mon, 31 Aug 2026 14:00:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
-      "url": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
-      "published": "Sun, 30 Aug 2026 15:26:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "published": "Wed, 08 Jul 2026 12:31:39 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "published": "Thu, 03 Sep 2026 23:32:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "published": "Thu, 03 Sep 2026 21:22:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "published": "Thu, 03 Sep 2026 20:56:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "published": "Thu, 03 Sep 2026 20:09:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
@@ -369,30 +393,6 @@
       "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
       "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
       "published": "Wed, 02 Sep 2026 14:40:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "published": "Wed, 02 Sep 2026 13:17:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "published": "Wed, 02 Sep 2026 12:38:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "published": "Tue, 01 Sep 2026 23:23:11 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
       "published": "Thu, 03 Sep 2026 11:22:33 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "published": "Thu, 03 Sep 2026 23:32:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "published": "Thu, 03 Sep 2026 21:22:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "published": "Thu, 03 Sep 2026 20:56:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "published": "Thu, 03 Sep 2026 20:09:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
@@ -701,30 +725,6 @@
       "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
       "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
       "published": "Wed, 02 Sep 2026 14:40:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "published": "Wed, 02 Sep 2026 13:17:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "published": "Wed, 02 Sep 2026 12:38:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "published": "Tue, 01 Sep 2026 23:23:11 +0530",
       "source": "The Hacker News"
     },
     {
