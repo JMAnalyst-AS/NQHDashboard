@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-04T12:50:49.788713Z",
+  "generated_at": "2026-09-04T16:44:49.787794Z",
   "segment1": [
+    {
+      "title": "Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract",
+      "url": "https://databreaches.net/2026/09/04/honeywell-aerospace-inc-agrees-to-pay-over-2m-to-settle-false-claims-act-allegations-of-failing-to-comply-with-cybersecurity-requirements-in-a-u-s-department-of-defense-contract/",
+      "published": "Fri, 04 Sep 2026 12:39:28 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "DaVita settles ransomware attack lawsuit for $15M",
       "url": "https://databreaches.net/2026/09/04/davita-settles-ransomware-attack-lawsuit-for-15m/",
@@ -53,17 +59,17 @@
       "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
       "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
       "published": "Thu, 03 Sep 2026 11:49:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
-      "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
-      "published": "Thu, 03 Sep 2026 11:48:52 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract",
+      "url": "https://databreaches.net/2026/09/04/honeywell-aerospace-inc-agrees-to-pay-over-2m-to-settle-false-claims-act-allegations-of-failing-to-comply-with-cybersecurity-requirements-in-a-u-s-department-of-defense-contract/",
+      "published": "Fri, 04 Sep 2026 12:39:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "DaVita settles ransomware attack lawsuit for $15M",
       "url": "https://databreaches.net/2026/09/04/davita-settles-ransomware-attack-lawsuit-for-15m/",
       "published": "Fri, 04 Sep 2026 12:20:42 +0000",
@@ -115,12 +121,6 @@
       "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
       "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
       "published": "Thu, 03 Sep 2026 11:49:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
-      "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
-      "published": "Thu, 03 Sep 2026 11:48:52 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,30 @@
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "published": "Wed, 08 Jul 2026 12:31:39 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "published": "Fri, 04 Sep 2026 11:25:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Exchange Online outage causes email delays, 'Server busy' errors",
@@ -252,28 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "published": "Thu, 03 Sep 2026 07:02:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "published": "Thu, 03 Sep 2026 04:55:25 -0400",
-      "source": "BleepingComputer"
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "published": "Wed, 02 Sep 2026 17:00:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "published": "Wed, 02 Sep 2026 15:28:46 -0400",
-      "source": "BleepingComputer"
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -375,24 +393,6 @@
       "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
       "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "published": "Wed, 02 Sep 2026 19:36:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "published": "Wed, 02 Sep 2026 19:14:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "published": "Fri, 04 Sep 2026 11:25:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exchange Online outage causes email delays, 'Server busy' errors",
       "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
       "published": "Fri, 04 Sep 2026 08:22:30 -0400",
@@ -584,28 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "published": "Thu, 03 Sep 2026 07:02:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "published": "Thu, 03 Sep 2026 04:55:25 -0400",
-      "source": "BleepingComputer"
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "published": "Wed, 02 Sep 2026 17:00:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "published": "Wed, 02 Sep 2026 15:28:46 -0400",
-      "source": "BleepingComputer"
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -707,24 +725,6 @@
       "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
       "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "published": "Wed, 02 Sep 2026 19:36:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "published": "Wed, 02 Sep 2026 19:14:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
       "source": "The Hacker News"
     },
     {
