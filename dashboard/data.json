@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-04T08:08:51.722070Z",
+  "generated_at": "2026-09-04T12:50:49.788713Z",
   "segment1": [
+    {
+      "title": "DaVita settles ransomware attack lawsuit for $15M",
+      "url": "https://databreaches.net/2026/09/04/davita-settles-ransomware-attack-lawsuit-for-15m/",
+      "published": "Fri, 04 Sep 2026 12:20:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ledger faces $500 million class action over data breaches",
+      "url": "https://databreaches.net/2026/09/04/ledger-faces-500-million-class-action-over-data-breaches/",
+      "published": "Fri, 04 Sep 2026 11:17:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "FBI probes suspected breach at IDScan.net after dark web service Nexus offered 153M+ US and Canadian driver’s license scans",
+      "url": "https://databreaches.net/2026/09/04/fbi-probes-suspected-breach-at-idscan-net-after-dark-web-service-nexus-offered-153m-us-and-canadian-drivers-license-scans/",
+      "published": "Fri, 04 Sep 2026 11:17:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "TR: Fine for famous kebab chain that allowed theft of 500 thousand customers’ data",
+      "url": "https://databreaches.net/2026/09/04/tr-fine-for-famous-kebab-chain-that-allowed-theft-of-500-thousand-customers-data/",
+      "published": "Fri, 04 Sep 2026 11:17:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
       "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
@@ -35,35 +59,35 @@
       "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
       "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
       "published": "Thu, 03 Sep 2026 11:48:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
-      "url": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
-      "published": "Wed, 02 Sep 2026 20:25:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-      "url": "https://databreaches.net/2026/09/02/hackers-expose-donor-data-from-russian-fundraisers-for-ukrainians-political-prisoners/",
-      "published": "Wed, 02 Sep 2026 20:23:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Luminis Health facilities dealing with a cyberattack",
-      "url": "https://databreaches.net/2026/09/02/luminis-health-facilities-dealing-with-a-cyberattack/",
-      "published": "Wed, 02 Sep 2026 20:19:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
-      "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
-      "published": "Tue, 01 Sep 2026 12:08:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "DaVita settles ransomware attack lawsuit for $15M",
+      "url": "https://databreaches.net/2026/09/04/davita-settles-ransomware-attack-lawsuit-for-15m/",
+      "published": "Fri, 04 Sep 2026 12:20:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ledger faces $500 million class action over data breaches",
+      "url": "https://databreaches.net/2026/09/04/ledger-faces-500-million-class-action-over-data-breaches/",
+      "published": "Fri, 04 Sep 2026 11:17:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "FBI probes suspected breach at IDScan.net after dark web service Nexus offered 153M+ US and Canadian driver’s license scans",
+      "url": "https://databreaches.net/2026/09/04/fbi-probes-suspected-breach-at-idscan-net-after-dark-web-service-nexus-offered-153m-us-and-canadian-drivers-license-scans/",
+      "published": "Fri, 04 Sep 2026 11:17:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "TR: Fine for famous kebab chain that allowed theft of 500 thousand customers’ data",
+      "url": "https://databreaches.net/2026/09/04/tr-fine-for-famous-kebab-chain-that-allowed-theft-of-500-thousand-customers-data/",
+      "published": "Fri, 04 Sep 2026 11:17:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
       "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
       "published": "Thu, 03 Sep 2026 23:45:37 +0000",
@@ -97,30 +121,6 @@
       "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
       "url": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
       "published": "Thu, 03 Sep 2026 11:48:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
-      "url": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
-      "published": "Wed, 02 Sep 2026 20:25:53 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-      "url": "https://databreaches.net/2026/09/02/hackers-expose-donor-data-from-russian-fundraisers-for-ukrainians-political-prisoners/",
-      "published": "Wed, 02 Sep 2026 20:23:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Luminis Health facilities dealing with a cyberattack",
-      "url": "https://databreaches.net/2026/09/02/luminis-health-facilities-dealing-with-a-cyberattack/",
-      "published": "Wed, 02 Sep 2026 20:19:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
-      "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
-      "published": "Tue, 01 Sep 2026 12:08:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "published": "Wed, 08 Jul 2026 12:31:39 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "published": "Fri, 04 Sep 2026 08:22:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "published": "Fri, 04 Sep 2026 07:48:17 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "French hospital fined €500,000 after breach exposes data of 727,000",
@@ -264,16 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "published": "Wed, 02 Sep 2026 11:47:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "published": "Fri, 04 Sep 2026 14:18:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "published": "Wed, 02 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "published": "Fri, 04 Sep 2026 13:05:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "published": "Fri, 04 Sep 2026 12:48:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "published": "Fri, 04 Sep 2026 12:17:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
@@ -369,30 +393,6 @@
       "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
       "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
       "published": "Wed, 02 Sep 2026 17:52:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "published": "Wed, 02 Sep 2026 14:40:23 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "published": "Fri, 04 Sep 2026 08:22:30 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "published": "Fri, 04 Sep 2026 07:48:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "French hospital fined €500,000 after breach exposes data of 727,000",
       "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
       "published": "Thu, 03 Sep 2026 18:01:37 -0400",
@@ -596,16 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "published": "Wed, 02 Sep 2026 11:47:08 -0400",
-      "source": "BleepingComputer"
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "published": "Fri, 04 Sep 2026 14:18:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "published": "Wed, 02 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "published": "Fri, 04 Sep 2026 13:05:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "published": "Fri, 04 Sep 2026 12:48:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "published": "Fri, 04 Sep 2026 12:17:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
@@ -701,30 +725,6 @@
       "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
       "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
       "published": "Wed, 02 Sep 2026 17:52:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "published": "Wed, 02 Sep 2026 14:40:23 +0530",
       "source": "The Hacker News"
     },
     {
