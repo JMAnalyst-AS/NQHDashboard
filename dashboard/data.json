@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-03T23:48:05.222060Z",
+  "generated_at": "2026-09-04T03:11:31.949789Z",
   "segment1": [
+    {
+      "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
+      "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
+      "published": "Thu, 03 Sep 2026 23:45:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
       "url": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
@@ -53,17 +59,17 @@
       "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
       "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
       "published": "Tue, 01 Sep 2026 12:08:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Santa Fe Schools Move Forward With New Cybersecurity Policy",
-      "url": "https://databreaches.net/2026/09/01/santa-fe-schools-move-forward-with-new-cybersecurity-policy/",
-      "published": "Tue, 01 Sep 2026 12:08:30 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
+      "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
+      "published": "Thu, 03 Sep 2026 23:45:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
       "url": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
       "published": "Thu, 03 Sep 2026 21:44:51 +0000",
@@ -115,12 +121,6 @@
       "title": "IE: HSE fined €645,000 over data breach affecting Westmeath hospital",
       "url": "https://databreaches.net/2026/09/01/ie-hse-fined-e645000-over-data-breach-affecting-westmeath-hospital/",
       "published": "Tue, 01 Sep 2026 12:08:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Santa Fe Schools Move Forward With New Cybersecurity Policy",
-      "url": "https://databreaches.net/2026/09/01/santa-fe-schools-move-forward-with-new-cybersecurity-policy/",
-      "published": "Tue, 01 Sep 2026 12:08:30 +0000",
       "source": "DataBreaches.Net"
     }
   ],
