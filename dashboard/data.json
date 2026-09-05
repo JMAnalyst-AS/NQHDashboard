@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-05T14:41:34.603754Z",
+  "generated_at": "2026-09-05T17:10:30.188495Z",
   "segment1": [
+    {
+      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+      "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
+      "published": "Sat, 05 Sep 2026 15:41:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract",
       "url": "https://databreaches.net/2026/09/04/honeywell-aerospace-inc-agrees-to-pay-over-2m-to-settle-false-claims-act-allegations-of-failing-to-comply-with-cybersecurity-requirements-in-a-u-s-department-of-defense-contract/",
@@ -53,17 +59,17 @@
       "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
       "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
       "published": "Thu, 03 Sep 2026 16:51:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
-      "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
-      "published": "Thu, 03 Sep 2026 11:49:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+      "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
+      "published": "Sat, 05 Sep 2026 15:41:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract",
       "url": "https://databreaches.net/2026/09/04/honeywell-aerospace-inc-agrees-to-pay-over-2m-to-settle-false-claims-act-allegations-of-failing-to-comply-with-cybersecurity-requirements-in-a-u-s-department-of-defense-contract/",
       "published": "Fri, 04 Sep 2026 12:39:28 +0000",
@@ -115,12 +121,6 @@
       "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
       "url": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
       "published": "Thu, 03 Sep 2026 16:51:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
-      "url": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
-      "published": "Thu, 03 Sep 2026 11:49:04 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "published": "Sat, 05 Sep 2026 22:22:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "published": "Sat, 05 Sep 2026 21:35:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "published": "Sat, 05 Sep 2026 19:47:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
       "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
       "published": "Sat, 05 Sep 2026 13:25:10 +0530",
@@ -375,24 +393,6 @@
       "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
       "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
       "published": "Thu, 03 Sep 2026 14:13:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "published": "Thu, 03 Sep 2026 10:49:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "published": "Wed, 02 Sep 2026 23:57:49 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "published": "Sat, 05 Sep 2026 22:22:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "published": "Sat, 05 Sep 2026 21:35:08 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "published": "Sat, 05 Sep 2026 19:47:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
       "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
       "published": "Sat, 05 Sep 2026 13:25:10 +0530",
@@ -707,24 +725,6 @@
       "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
       "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
       "published": "Thu, 03 Sep 2026 14:13:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "published": "Thu, 03 Sep 2026 10:49:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "published": "Wed, 02 Sep 2026 23:57:49 +0530",
       "source": "The Hacker News"
     },
     {
