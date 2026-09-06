@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-06T08:02:56.068226Z",
+  "generated_at": "2026-09-06T12:14:45.219706Z",
   "segment1": [
+    {
+      "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
+      "url": "https://databreaches.net/2026/09/06/nys-comptroller-dinapoli-releases-more-municipal-cybersecurity-audits/",
+      "published": "Sun, 06 Sep 2026 11:54:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Natural Resources Wales confirms data breach due to human error",
+      "url": "https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/",
+      "published": "Sun, 06 Sep 2026 11:13:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "url": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
+      "published": "Sun, 06 Sep 2026 11:11:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
       "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
@@ -41,29 +59,29 @@
       "title": "TR: Fine for famous kebab chain that allowed theft of 500 thousand customers’ data",
       "url": "https://databreaches.net/2026/09/04/tr-fine-for-famous-kebab-chain-that-allowed-theft-of-500-thousand-customers-data/",
       "published": "Fri, 04 Sep 2026 11:17:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
-      "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
-      "published": "Thu, 03 Sep 2026 23:45:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
-      "url": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
-      "published": "Thu, 03 Sep 2026 21:44:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
-      "url": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
-      "published": "Thu, 03 Sep 2026 20:27:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
+      "url": "https://databreaches.net/2026/09/06/nys-comptroller-dinapoli-releases-more-municipal-cybersecurity-audits/",
+      "published": "Sun, 06 Sep 2026 11:54:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Natural Resources Wales confirms data breach due to human error",
+      "url": "https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/",
+      "published": "Sun, 06 Sep 2026 11:13:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "url": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
+      "published": "Sun, 06 Sep 2026 11:11:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
       "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
       "published": "Sat, 05 Sep 2026 18:10:06 +0000",
@@ -103,24 +121,6 @@
       "title": "TR: Fine for famous kebab chain that allowed theft of 500 thousand customers’ data",
       "url": "https://databreaches.net/2026/09/04/tr-fine-for-famous-kebab-chain-that-allowed-theft-of-500-thousand-customers-data/",
       "published": "Fri, 04 Sep 2026 11:17:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
-      "url": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
-      "published": "Thu, 03 Sep 2026 23:45:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
-      "url": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
-      "published": "Thu, 03 Sep 2026 21:44:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
-      "url": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
-      "published": "Thu, 03 Sep 2026 20:27:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "published": "Sun, 06 Sep 2026 15:02:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "published": "Sun, 06 Sep 2026 14:04:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
       "published": "Sun, 06 Sep 2026 01:44:47 +0530",
@@ -381,18 +393,6 @@
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "published": "Thu, 03 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "published": "Thu, 03 Sep 2026 16:13:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "published": "Thu, 03 Sep 2026 16:06:39 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "published": "Sun, 06 Sep 2026 15:02:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "published": "Sun, 06 Sep 2026 14:04:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
       "published": "Sun, 06 Sep 2026 01:44:47 +0530",
@@ -713,18 +725,6 @@
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "published": "Thu, 03 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "published": "Thu, 03 Sep 2026 16:13:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "published": "Thu, 03 Sep 2026 16:06:39 +0530",
       "source": "The Hacker News"
     },
     {
