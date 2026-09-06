@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:14:45.219706Z",
+  "generated_at": "2026-09-06T15:38:06.153682Z",
   "segment1": [
     {
       "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
@@ -26,7 +26,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor (1)",
       "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
       "published": "Sat, 05 Sep 2026 15:41:50 +0000",
       "source": "DataBreaches.Net"
@@ -88,7 +88,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor (1)",
       "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
       "published": "Sat, 05 Sep 2026 15:41:50 +0000",
       "source": "DataBreaches.Net"
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "published": "Sun, 06 Sep 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "published": "Sat, 05 Sep 2026 10:29:13 -0400",
@@ -267,12 +273,6 @@
       "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "published": "Sun, 06 Sep 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "published": "Sat, 05 Sep 2026 10:29:13 -0400",
@@ -599,12 +605,6 @@
       "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
       "source": "BleepingComputer"
     },
     {
