@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T05:43:27.584794Z",
+  "generated_at": "2026-09-07T11:43:28.088539Z",
   "segment1": [
     {
       "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "published": "Mon, 07 Sep 2026 06:36:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "published": "Mon, 07 Sep 2026 02:17:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
       "published": "Sun, 06 Sep 2026 21:15:43 -0400",
@@ -252,28 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
-      "source": "BleepingComputer"
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
-      "source": "BleepingComputer"
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -381,18 +393,6 @@
       "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
       "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
       "published": "Thu, 03 Sep 2026 20:56:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "published": "Thu, 03 Sep 2026 20:09:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "published": "Mon, 07 Sep 2026 06:36:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "published": "Mon, 07 Sep 2026 02:17:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
       "published": "Sun, 06 Sep 2026 21:15:43 -0400",
@@ -584,28 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
-      "source": "BleepingComputer"
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
-      "source": "BleepingComputer"
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -713,18 +725,6 @@
       "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
       "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
       "published": "Thu, 03 Sep 2026 20:56:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "published": "Thu, 03 Sep 2026 20:09:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
