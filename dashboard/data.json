@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-07T20:42:29.260030Z",
+  "generated_at": "2026-09-07T23:17:51.265805Z",
   "segment1": [
+    {
+      "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
+      "url": "https://databreaches.net/2026/09/07/ma-springfield-public-schools-will-be-closed-tuesday-after-a-cyber-incident/",
+      "published": "Mon, 07 Sep 2026 21:17:02 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
       "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
@@ -53,17 +59,17 @@
       "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
       "url": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
       "published": "Sun, 06 Sep 2026 11:11:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
-      "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
-      "published": "Sat, 05 Sep 2026 18:10:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
+      "url": "https://databreaches.net/2026/09/07/ma-springfield-public-schools-will-be-closed-tuesday-after-a-cyber-incident/",
+      "published": "Mon, 07 Sep 2026 21:17:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
       "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
       "published": "Mon, 07 Sep 2026 17:24:23 +0000",
@@ -115,12 +121,6 @@
       "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
       "url": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
       "published": "Sun, 06 Sep 2026 11:11:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
-      "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
-      "published": "Sat, 05 Sep 2026 18:10:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
