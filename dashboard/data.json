@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-07T17:21:28.313667Z",
+  "generated_at": "2026-09-07T20:42:29.260030Z",
   "segment1": [
+    {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "published": "Mon, 07 Sep 2026 17:24:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they’re the good guys",
       "url": "https://databreaches.net/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/",
@@ -53,17 +59,17 @@
       "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
       "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
       "published": "Sat, 05 Sep 2026 18:10:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor (1)",
-      "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
-      "published": "Sat, 05 Sep 2026 15:41:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "published": "Mon, 07 Sep 2026 17:24:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they’re the good guys",
       "url": "https://databreaches.net/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/",
       "published": "Mon, 07 Sep 2026 16:37:38 +0000",
@@ -115,12 +121,6 @@
       "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
       "url": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
       "published": "Sat, 05 Sep 2026 18:10:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor (1)",
-      "url": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
-      "published": "Sat, 05 Sep 2026 15:41:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "published": "Mon, 07 Sep 2026 23:42:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "published": "Mon, 07 Sep 2026 21:21:56 +0530",
@@ -387,12 +393,6 @@
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
       "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
       "published": "Fri, 04 Sep 2026 14:18:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "published": "Fri, 04 Sep 2026 13:05:14 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "published": "Mon, 07 Sep 2026 23:42:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "published": "Mon, 07 Sep 2026 21:21:56 +0530",
@@ -719,12 +725,6 @@
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
       "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
       "published": "Fri, 04 Sep 2026 14:18:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "published": "Fri, 04 Sep 2026 13:05:14 +0530",
       "source": "The Hacker News"
     },
     {
