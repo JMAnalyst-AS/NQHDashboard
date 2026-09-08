@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:29:58.295362Z",
+  "generated_at": "2026-09-08T21:59:01.619279Z",
   "segment1": [
     {
       "title": "Singaporean Ringleader of $245 Million Cryptocurrency Racketeering Enterprise Pleads Guilty in Washington D.C.",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "Tue, 08 Sep 2026 21:44:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
       "published": "Tue, 01 Sep 2026 22:40:28 +0000",
@@ -180,10 +186,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security"
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
@@ -255,24 +273,6 @@
       "title": "Microsoft: Windows Server 2025 changes causing app crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
       "published": "Tue, 08 Sep 2026 07:57:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-      "published": "Tue, 08 Sep 2026 03:35:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "published": "Mon, 07 Sep 2026 12:50:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "published": "Mon, 07 Sep 2026 11:39:51 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "Tue, 08 Sep 2026 21:44:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
       "published": "Tue, 01 Sep 2026 22:40:28 +0000",
@@ -512,10 +518,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security"
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
@@ -587,24 +605,6 @@
       "title": "Microsoft: Windows Server 2025 changes causing app crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
       "published": "Tue, 08 Sep 2026 07:57:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-      "published": "Tue, 08 Sep 2026 03:35:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "published": "Mon, 07 Sep 2026 12:50:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "published": "Mon, 07 Sep 2026 11:39:51 -0400",
       "source": "BleepingComputer"
     },
     {
