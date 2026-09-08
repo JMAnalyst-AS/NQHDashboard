@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:17:24.480665Z",
+  "generated_at": "2026-09-08T11:34:47.199874Z",
   "segment1": [
     {
       "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "published": "Tue, 08 Sep 2026 03:35:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
       "published": "Mon, 07 Sep 2026 12:50:29 -0400",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-      "source": "BleepingComputer"
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+      "published": "Tue, 08 Sep 2026 16:52:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "published": "Tue, 08 Sep 2026 14:43:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "published": "Tue, 08 Sep 2026 14:13:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "published": "Tue, 08 Sep 2026 12:30:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -369,30 +393,6 @@
       "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
       "published": "Sat, 05 Sep 2026 13:01:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "published": "Fri, 04 Sep 2026 14:18:45 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "published": "Tue, 08 Sep 2026 03:35:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
       "published": "Mon, 07 Sep 2026 12:50:29 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-      "source": "BleepingComputer"
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+      "published": "Tue, 08 Sep 2026 16:52:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "published": "Tue, 08 Sep 2026 14:43:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "published": "Tue, 08 Sep 2026 14:13:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "published": "Tue, 08 Sep 2026 12:30:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -701,30 +725,6 @@
       "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
       "published": "Sat, 05 Sep 2026 13:01:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "published": "Fri, 04 Sep 2026 14:18:45 +0530",
       "source": "The Hacker News"
     },
     {
