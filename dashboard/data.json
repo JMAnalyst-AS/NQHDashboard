@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:31:25.879612Z",
+  "generated_at": "2026-09-09T22:57:59.856930Z",
   "segment1": [
     {
       "title": "“Network outage” disrupts Westfield Public Schools in New Jersey as ransomware group posts samples",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
       "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
       "published": "Wed, 09 Sep 2026 12:48:33 -0400",
@@ -255,24 +273,6 @@
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
       "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "published": "Tue, 08 Sep 2026 13:57:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "published": "Tue, 08 Sep 2026 12:35:47 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
       "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
       "published": "Wed, 09 Sep 2026 12:48:33 -0400",
@@ -587,24 +605,6 @@
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
       "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "published": "Tue, 08 Sep 2026 13:57:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "published": "Tue, 08 Sep 2026 12:35:47 -0400",
       "source": "BleepingComputer"
     },
     {
