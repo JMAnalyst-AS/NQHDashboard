@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:00:05.935565Z",
+  "generated_at": "2026-09-09T09:35:34.130749Z",
   "segment1": [
     {
       "title": "Singaporean Ringleader of $245 Million Cryptocurrency Racketeering Enterprise Pleads Guilty in Washington D.C.",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "published": "Wed, 09 Sep 2026 03:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": "Wed, 09 Sep 2026 02:25:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
       "published": "Tue, 08 Sep 2026 21:16:27 -0400",
@@ -258,22 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
-      "published": "Tue, 08 Sep 2026 09:34:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "published": "Wed, 09 Sep 2026 14:41:03 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-      "published": "Tue, 08 Sep 2026 08:40:48 -0400",
-      "source": "BleepingComputer"
+      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "published": "Wed, 09 Sep 2026 13:49:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers build AI frameworks for widescale credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-      "published": "Tue, 08 Sep 2026 08:03:03 -0400",
-      "source": "BleepingComputer"
+      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "published": "Wed, 09 Sep 2026 13:06:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+      "published": "Wed, 09 Sep 2026 12:17:27 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+      "published": "Wed, 09 Sep 2026 11:55:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "published": "Wed, 09 Sep 2026 10:11:29 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
@@ -357,42 +393,6 @@
       "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
       "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
       "published": "Mon, 07 Sep 2026 20:06:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "published": "Mon, 07 Sep 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "published": "Mon, 07 Sep 2026 17:06:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "published": "Mon, 07 Sep 2026 16:50:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "published": "Sun, 06 Sep 2026 15:02:38 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "published": "Wed, 09 Sep 2026 03:30:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": "Wed, 09 Sep 2026 02:25:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
       "published": "Tue, 08 Sep 2026 21:16:27 -0400",
@@ -590,22 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
-      "published": "Tue, 08 Sep 2026 09:34:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "published": "Wed, 09 Sep 2026 14:41:03 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-      "published": "Tue, 08 Sep 2026 08:40:48 -0400",
-      "source": "BleepingComputer"
+      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "published": "Wed, 09 Sep 2026 13:49:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers build AI frameworks for widescale credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-      "published": "Tue, 08 Sep 2026 08:03:03 -0400",
-      "source": "BleepingComputer"
+      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "published": "Wed, 09 Sep 2026 13:06:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+      "published": "Wed, 09 Sep 2026 12:17:27 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+      "published": "Wed, 09 Sep 2026 11:55:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "published": "Wed, 09 Sep 2026 10:11:29 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
@@ -689,42 +725,6 @@
       "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
       "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
       "published": "Mon, 07 Sep 2026 20:06:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "published": "Mon, 07 Sep 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "published": "Mon, 07 Sep 2026 17:06:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "published": "Mon, 07 Sep 2026 16:50:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "published": "Sun, 06 Sep 2026 15:02:38 +0530",
       "source": "The Hacker News"
     },
     {
