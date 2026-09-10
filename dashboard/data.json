@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:52:08.930299Z",
+  "generated_at": "2026-09-10T18:08:32.788167Z",
   "segment1": [
     {
       "title": "FTC Withdraws Obsolete Policy Statement",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "published": "Thu, 10 Sep 2026 11:55:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "published": "Thu, 10 Sep 2026 10:55:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
       "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
       "published": "Thu, 10 Sep 2026 10:11:34 -0400",
@@ -255,24 +273,6 @@
       "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
       "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
       "published": "Wed, 09 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "published": "Wed, 09 Sep 2026 06:11:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "published": "Wed, 09 Sep 2026 03:30:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "published": "Thu, 10 Sep 2026 11:55:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "published": "Thu, 10 Sep 2026 10:55:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
       "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
       "published": "Thu, 10 Sep 2026 10:11:34 -0400",
@@ -587,24 +605,6 @@
       "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
       "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
       "published": "Wed, 09 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "published": "Wed, 09 Sep 2026 06:11:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "published": "Wed, 09 Sep 2026 03:30:15 -0400",
       "source": "BleepingComputer"
     },
     {
