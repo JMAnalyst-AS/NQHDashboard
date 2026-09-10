@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:44:28.224847Z",
+  "generated_at": "2026-09-10T10:45:03.491537Z",
   "segment1": [
     {
       "title": "CO: Cyberattack damages files at Salida School District in Colorado",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
       "published": "Wed, 09 Sep 2026 17:40:44 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "published": "Thu, 10 Sep 2026 12:34:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -381,18 +393,6 @@
       "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
       "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
       "published": "Tue, 08 Sep 2026 19:18:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "published": "Tue, 08 Sep 2026 17:24:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "published": "Tue, 08 Sep 2026 17:19:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
       "published": "Wed, 09 Sep 2026 17:40:44 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "published": "Thu, 10 Sep 2026 12:34:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -713,18 +725,6 @@
       "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
       "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
       "published": "Tue, 08 Sep 2026 19:18:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "published": "Tue, 08 Sep 2026 17:24:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "published": "Tue, 08 Sep 2026 17:19:02 +0530",
       "source": "The Hacker News"
     },
     {
