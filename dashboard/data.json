@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-10T10:45:03.491537Z",
+  "generated_at": "2026-09-10T14:52:08.930299Z",
   "segment1": [
+    {
+      "title": "FTC Withdraws Obsolete Policy Statement",
+      "url": "https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/",
+      "published": "Thu, 10 Sep 2026 13:40:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://databreaches.net/2026/09/10/korea-raises-data-breach-fines-to-10-of-revenue/",
+      "published": "Thu, 10 Sep 2026 13:36:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
+      "url": "https://databreaches.net/2026/09/10/shinyhunters-expose-6-4m-in-attack-on-medical-supplier-mckesson/",
+      "published": "Thu, 10 Sep 2026 13:31:30 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "CO: Cyberattack damages files at Salida School District in Colorado",
       "url": "https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/",
@@ -41,29 +59,29 @@
       "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
       "url": "https://databreaches.net/2026/09/07/ma-springfield-public-schools-will-be-closed-tuesday-after-a-cyber-incident/",
       "published": "Mon, 07 Sep 2026 21:17:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "published": "Mon, 07 Sep 2026 17:24:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they’re the good guys",
-      "url": "https://databreaches.net/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/",
-      "published": "Mon, 07 Sep 2026 16:37:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japan’s Health Ministry to Strengthen Cybersecurity Measures at Hospitals",
-      "url": "https://databreaches.net/2026/09/07/japans-health-ministry-to-strengthen-cybersecurity-measures-at-hospitals/",
-      "published": "Mon, 07 Sep 2026 12:41:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FTC Withdraws Obsolete Policy Statement",
+      "url": "https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/",
+      "published": "Thu, 10 Sep 2026 13:40:00 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://databreaches.net/2026/09/10/korea-raises-data-breach-fines-to-10-of-revenue/",
+      "published": "Thu, 10 Sep 2026 13:36:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
+      "url": "https://databreaches.net/2026/09/10/shinyhunters-expose-6-4m-in-attack-on-medical-supplier-mckesson/",
+      "published": "Thu, 10 Sep 2026 13:31:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "CO: Cyberattack damages files at Salida School District in Colorado",
       "url": "https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/",
       "published": "Wed, 09 Sep 2026 23:55:56 +0000",
@@ -103,24 +121,6 @@
       "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
       "url": "https://databreaches.net/2026/09/07/ma-springfield-public-schools-will-be-closed-tuesday-after-a-cyber-incident/",
       "published": "Mon, 07 Sep 2026 21:17:02 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://databreaches.net/2026/09/07/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "published": "Mon, 07 Sep 2026 17:24:23 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they’re the good guys",
-      "url": "https://databreaches.net/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/",
-      "published": "Mon, 07 Sep 2026 16:37:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japan’s Health Ministry to Strengthen Cybersecurity Measures at Hospitals",
-      "url": "https://databreaches.net/2026/09/07/japans-health-ministry-to-strengthen-cybersecurity-measures-at-hospitals/",
-      "published": "Mon, 07 Sep 2026 12:41:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
       "published": "Mon, 13 Jul 2026 15:03:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "published": "Thu, 10 Sep 2026 10:11:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "published": "Thu, 10 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "published": "Thu, 10 Sep 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "published": "Wed, 09 Sep 2026 02:25:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "published": "Thu, 10 Sep 2026 20:06:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "published": "Tue, 08 Sep 2026 21:16:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "published": "Thu, 10 Sep 2026 17:15:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-      "source": "BleepingComputer"
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "published": "Thu, 10 Sep 2026 17:11:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "published": "Thu, 10 Sep 2026 17:03:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
@@ -363,36 +393,6 @@
       "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
       "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
       "published": "Wed, 09 Sep 2026 10:11:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "published": "Wed, 09 Sep 2026 09:57:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-      "published": "Tue, 08 Sep 2026 21:50:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-      "published": "Tue, 08 Sep 2026 20:24:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "published": "Tue, 08 Sep 2026 19:49:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-      "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-      "published": "Tue, 08 Sep 2026 19:18:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "published": "Thu, 10 Sep 2026 10:11:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "published": "Thu, 10 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "published": "Thu, 10 Sep 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
       "published": "Thu, 10 Sep 2026 05:10:20 -0400",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "published": "Wed, 09 Sep 2026 02:25:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "published": "Thu, 10 Sep 2026 20:06:47 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "published": "Tue, 08 Sep 2026 21:16:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "published": "Thu, 10 Sep 2026 17:15:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-      "source": "BleepingComputer"
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "published": "Thu, 10 Sep 2026 17:11:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "published": "Thu, 10 Sep 2026 17:03:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
@@ -695,36 +725,6 @@
       "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
       "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
       "published": "Wed, 09 Sep 2026 10:11:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "published": "Wed, 09 Sep 2026 09:57:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-      "published": "Tue, 08 Sep 2026 21:50:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-      "published": "Tue, 08 Sep 2026 20:24:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "published": "Tue, 08 Sep 2026 19:49:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-      "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-      "published": "Tue, 08 Sep 2026 19:18:16 +0530",
       "source": "The Hacker News"
     },
     {
