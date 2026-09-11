@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:25:55.163380Z",
+  "generated_at": "2026-09-11T11:41:35.405380Z",
   "segment1": [
     {
       "title": "FTC Withdraws Obsolete Policy Statement",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "published": "Fri, 11 Sep 2026 07:15:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "published": "Fri, 11 Sep 2026 05:39:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "published": "Fri, 11 Sep 2026 03:55:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "published": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "published": "Thu, 10 Sep 2026 17:40:43 -0400",
@@ -252,28 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "published": "Fri, 11 Sep 2026 13:01:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "published": "Fri, 11 Sep 2026 12:44:09 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
-      "source": "BleepingComputer"
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "published": "Fri, 11 Sep 2026 12:16:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "published": "Fri, 11 Sep 2026 11:49:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
@@ -369,30 +393,6 @@
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
       "published": "Wed, 09 Sep 2026 14:41:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "published": "Wed, 09 Sep 2026 13:49:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "published": "Wed, 09 Sep 2026 13:06:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "published": "Wed, 09 Sep 2026 12:17:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "published": "Wed, 09 Sep 2026 11:55:45 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "published": "Fri, 11 Sep 2026 07:15:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "published": "Fri, 11 Sep 2026 05:39:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "published": "Fri, 11 Sep 2026 03:55:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "published": "Fri, 11 Sep 2026 02:48:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "published": "Thu, 10 Sep 2026 17:40:43 -0400",
@@ -584,28 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "published": "Fri, 11 Sep 2026 13:01:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "published": "Fri, 11 Sep 2026 12:44:09 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
-      "source": "BleepingComputer"
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "published": "Fri, 11 Sep 2026 12:16:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "published": "Fri, 11 Sep 2026 11:49:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
@@ -701,30 +725,6 @@
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
       "published": "Wed, 09 Sep 2026 14:41:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "published": "Wed, 09 Sep 2026 13:49:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "published": "Wed, 09 Sep 2026 13:06:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "published": "Wed, 09 Sep 2026 12:17:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "published": "Wed, 09 Sep 2026 11:55:45 +0530",
       "source": "The Hacker News"
     },
     {
