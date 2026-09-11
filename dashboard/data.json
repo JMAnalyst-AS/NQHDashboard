@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:41:35.405380Z",
+  "generated_at": "2026-09-11T15:57:42.582888Z",
   "segment1": [
     {
       "title": "FTC Withdraws Obsolete Policy Statement",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "published": "Fri, 11 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitLab urges users to patch max severity path traversal flaw",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
       "published": "Fri, 11 Sep 2026 07:15:22 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "published": "Fri, 11 Sep 2026 19:59:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "published": "Fri, 11 Sep 2026 19:40:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "published": "Fri, 11 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
@@ -375,24 +393,6 @@
       "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
       "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
       "published": "Wed, 09 Sep 2026 16:47:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "published": "Wed, 09 Sep 2026 16:13:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "published": "Wed, 09 Sep 2026 15:02:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "published": "Wed, 09 Sep 2026 14:41:03 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "published": "Fri, 11 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitLab urges users to patch max severity path traversal flaw",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
       "published": "Fri, 11 Sep 2026 07:15:22 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "published": "Fri, 11 Sep 2026 19:59:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "published": "Fri, 11 Sep 2026 19:40:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "published": "Fri, 11 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
@@ -707,24 +725,6 @@
       "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
       "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
       "published": "Wed, 09 Sep 2026 16:47:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "published": "Wed, 09 Sep 2026 16:13:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "published": "Wed, 09 Sep 2026 15:02:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "published": "Wed, 09 Sep 2026 14:41:03 +0530",
       "source": "The Hacker News"
     },
     {
