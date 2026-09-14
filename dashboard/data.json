@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-14T13:40:56.508656Z",
+  "generated_at": "2026-09-14T19:03:02.885743Z",
   "segment1": [
+    {
+      "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
+      "url": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
+      "published": "Mon, 14 Sep 2026 17:44:59 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
       "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
@@ -53,17 +59,17 @@
       "title": "Ukrainian National Sentenced to Four Years in Prison for Wire Fraud Conspiracy in Connection with Conti Ransomware",
       "url": "https://databreaches.net/2026/09/11/ukrainian-national-sentenced-to-four-years-in-prison-for-wire-fraud-conspiracy-in-connection-with-conti-ransomware/",
       "published": "Fri, 11 Sep 2026 16:07:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
-      "url": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
-      "published": "Fri, 11 Sep 2026 16:06:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
+      "url": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
+      "published": "Mon, 14 Sep 2026 17:44:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
       "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
       "published": "Mon, 14 Sep 2026 13:03:21 +0000",
@@ -115,12 +121,6 @@
       "title": "Ukrainian National Sentenced to Four Years in Prison for Wire Fraud Conspiracy in Connection with Conti Ransomware",
       "url": "https://databreaches.net/2026/09/11/ukrainian-national-sentenced-to-four-years-in-prison-for-wire-fraud-conspiracy-in-connection-with-conti-ransomware/",
       "published": "Fri, 11 Sep 2026 16:07:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
-      "url": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
-      "published": "Fri, 11 Sep 2026 16:06:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
       "published": "Mon, 13 Jul 2026 15:03:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "published": "Mon, 14 Sep 2026 14:34:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "published": "Mon, 14 Sep 2026 12:15:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
@@ -258,22 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "published": "Fri, 11 Sep 2026 07:15:22 -0400",
-      "source": "BleepingComputer"
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "published": "Fri, 11 Sep 2026 05:39:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "published": "Mon, 14 Sep 2026 22:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "published": "Fri, 11 Sep 2026 03:55:15 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "published": "Mon, 14 Sep 2026 21:30:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
@@ -369,30 +393,6 @@
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
       "published": "Thu, 10 Sep 2026 23:17:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-      "published": "Thu, 10 Sep 2026 20:06:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "published": "Thu, 10 Sep 2026 17:15:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "published": "Thu, 10 Sep 2026 17:11:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "published": "Thu, 10 Sep 2026 17:03:43 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "published": "Mon, 14 Sep 2026 14:34:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "published": "Mon, 14 Sep 2026 12:15:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
       "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
       "published": "Mon, 14 Sep 2026 08:15:23 -0400",
@@ -590,22 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "published": "Fri, 11 Sep 2026 07:15:22 -0400",
-      "source": "BleepingComputer"
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "published": "Fri, 11 Sep 2026 05:39:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "published": "Mon, 14 Sep 2026 22:26:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "published": "Fri, 11 Sep 2026 03:55:15 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "published": "Mon, 14 Sep 2026 21:30:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
@@ -701,30 +725,6 @@
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
       "published": "Thu, 10 Sep 2026 23:17:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-      "published": "Thu, 10 Sep 2026 20:06:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "published": "Thu, 10 Sep 2026 17:15:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "published": "Thu, 10 Sep 2026 17:11:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "published": "Thu, 10 Sep 2026 17:03:43 +0530",
       "source": "The Hacker News"
     },
     {
