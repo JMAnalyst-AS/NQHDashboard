@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-14T06:45:59.587941Z",
+  "generated_at": "2026-09-14T13:40:56.508656Z",
   "segment1": [
+    {
+      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
+      "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
+      "published": "Mon, 14 Sep 2026 13:03:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Six in 10 Cyberattacks in Colombia Target Hospitals",
       "url": "https://databreaches.net/2026/09/13/six-in-10-cyberattacks-in-colombia-target-hospitals/",
@@ -53,17 +59,17 @@
       "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
       "url": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
       "published": "Fri, 11 Sep 2026 16:06:58 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FTC Withdraws Obsolete Policy Statement",
-      "url": "https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/",
-      "published": "Thu, 10 Sep 2026 13:40:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
+      "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
+      "published": "Mon, 14 Sep 2026 13:03:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Six in 10 Cyberattacks in Colombia Target Hospitals",
       "url": "https://databreaches.net/2026/09/13/six-in-10-cyberattacks-in-colombia-target-hospitals/",
       "published": "Sun, 13 Sep 2026 22:33:31 +0000",
@@ -115,12 +121,6 @@
       "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
       "url": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
       "published": "Fri, 11 Sep 2026 16:06:58 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FTC Withdraws Obsolete Policy Statement",
-      "url": "https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/",
-      "published": "Thu, 10 Sep 2026 13:40:00 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "published": "Mon, 14 Sep 2026 04:48:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "published": "Mon, 14 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "published": "Mon, 14 Sep 2026 03:06:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
       "published": "Sun, 13 Sep 2026 10:26:32 -0400",
@@ -246,34 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "published": "Fri, 11 Sep 2026 02:48:37 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "published": "Mon, 14 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "published": "Thu, 10 Sep 2026 17:40:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "published": "Thu, 10 Sep 2026 16:34:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "published": "Thu, 10 Sep 2026 15:15:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "published": "Thu, 10 Sep 2026 15:07:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "published": "Mon, 14 Sep 2026 12:54:39 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -384,16 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
-      "source": "The Hacker News"
+      "title": "Bellingcat Official Merch Design Contest",
+      "url": "https://www.bellingcat.com/uncategorized/2026/09/14/bellingcat-official-merch-design-contest/",
+      "published": "Mon, 14 Sep 2026 13:36:05 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
@@ -447,12 +453,6 @@
       "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
       "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
       "published": "Tue, 30 Jun 2026 08:25:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
-      "url": "https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/",
-      "published": "Mon, 29 Jun 2026 22:34:11 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "published": "Mon, 14 Sep 2026 04:48:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "published": "Mon, 14 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "published": "Mon, 14 Sep 2026 03:06:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
       "published": "Sun, 13 Sep 2026 10:26:32 -0400",
@@ -578,34 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "published": "Fri, 11 Sep 2026 02:48:37 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "published": "Mon, 14 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "published": "Thu, 10 Sep 2026 17:40:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "published": "Thu, 10 Sep 2026 16:34:37 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "published": "Thu, 10 Sep 2026 15:15:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "published": "Thu, 10 Sep 2026 15:07:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "published": "Mon, 14 Sep 2026 12:54:39 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -716,16 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
-      "source": "The Hacker News"
+      "title": "Bellingcat Official Merch Design Contest",
+      "url": "https://www.bellingcat.com/uncategorized/2026/09/14/bellingcat-official-merch-design-contest/",
+      "published": "Mon, 14 Sep 2026 13:36:05 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
@@ -779,12 +785,6 @@
       "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
       "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
       "published": "Tue, 30 Jun 2026 08:25:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
-      "url": "https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/",
-      "published": "Mon, 29 Jun 2026 22:34:11 +0000",
       "source": "bellingcat"
     }
   ]
