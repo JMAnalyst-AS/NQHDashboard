@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:03:02.885743Z",
+  "generated_at": "2026-09-14T22:38:24.152959Z",
   "segment1": [
     {
       "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "published": "Mon, 14 Sep 2026 16:52:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "published": "Mon, 14 Sep 2026 16:36:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "published": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "published": "Mon, 14 Sep 2026 15:03:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
       "published": "Mon, 14 Sep 2026 14:34:16 -0400",
@@ -252,33 +276,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "published": "Fri, 11 Sep 2026 15:00:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "published": "Fri, 11 Sep 2026 13:26:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "published": "Fri, 11 Sep 2026 12:29:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "published": "Fri, 11 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+      "published": "Mon, 14 Sep 2026 23:32:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "published": "Mon, 14 Sep 2026 23:31:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "published": "Mon, 14 Sep 2026 23:28:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -381,18 +393,6 @@
       "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
       "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
       "published": "Fri, 11 Sep 2026 12:16:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "published": "Fri, 11 Sep 2026 11:49:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "published": "Thu, 10 Sep 2026 23:17:38 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "published": "Mon, 14 Sep 2026 16:52:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "published": "Mon, 14 Sep 2026 16:36:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "published": "Mon, 14 Sep 2026 15:51:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "published": "Mon, 14 Sep 2026 15:03:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
       "published": "Mon, 14 Sep 2026 14:34:16 -0400",
@@ -584,33 +608,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "published": "Fri, 11 Sep 2026 15:00:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "published": "Fri, 11 Sep 2026 13:26:50 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "published": "Fri, 11 Sep 2026 12:29:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "published": "Fri, 11 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+      "published": "Mon, 14 Sep 2026 23:32:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "published": "Mon, 14 Sep 2026 23:31:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "published": "Mon, 14 Sep 2026 23:28:16 +0530",
       "source": "The Hacker News"
     },
     {
@@ -713,18 +725,6 @@
       "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
       "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
       "published": "Fri, 11 Sep 2026 12:16:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "published": "Fri, 11 Sep 2026 11:49:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "published": "Thu, 10 Sep 2026 23:17:38 +0530",
       "source": "The Hacker News"
     },
     {
