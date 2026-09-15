@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-15T20:22:04.001307Z",
+  "generated_at": "2026-09-15T23:03:07.169432Z",
   "segment1": [
+    {
+      "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
+      "url": "https://databreaches.net/2026/09/15/payroll-system-of-mosques-madrasahs-hit-by-ransomware-staff-details-potentially-compromised/",
+      "published": "Tue, 15 Sep 2026 22:08:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Revolut’s paperwork breach shows why insurers are rethinking what counts as a ‘cyber attack’",
       "url": "https://databreaches.net/2026/09/15/revoluts-paperwork-breach-shows-why-insurers-are-rethinking-what-counts-as-a-cyber-attack/",
@@ -38,7 +44,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
+      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected? (1)",
       "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
       "published": "Mon, 14 Sep 2026 13:03:21 +0000",
       "source": "DataBreaches.Net"
@@ -53,17 +59,17 @@
       "title": "Delaware Consumer Privacy and Data-Breach Law Updates",
       "url": "https://databreaches.net/2026/09/13/delaware-consumer-privacy-and-data-breach-law-updates/",
       "published": "Sun, 13 Sep 2026 14:50:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
-      "url": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
-      "published": "Sun, 13 Sep 2026 14:50:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
+      "url": "https://databreaches.net/2026/09/15/payroll-system-of-mosques-madrasahs-hit-by-ransomware-staff-details-potentially-compromised/",
+      "published": "Tue, 15 Sep 2026 22:08:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Revolut’s paperwork breach shows why insurers are rethinking what counts as a ‘cyber attack’",
       "url": "https://databreaches.net/2026/09/15/revoluts-paperwork-breach-shows-why-insurers-are-rethinking-what-counts-as-a-cyber-attack/",
       "published": "Tue, 15 Sep 2026 11:49:42 +0000",
@@ -100,7 +106,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
+      "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected? (1)",
       "url": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
       "published": "Mon, 14 Sep 2026 13:03:21 +0000",
       "source": "DataBreaches.Net"
@@ -115,12 +121,6 @@
       "title": "Delaware Consumer Privacy and Data-Breach Law Updates",
       "url": "https://databreaches.net/2026/09/13/delaware-consumer-privacy-and-data-breach-law-updates/",
       "published": "Sun, 13 Sep 2026 14:50:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
-      "url": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
-      "published": "Sun, 13 Sep 2026 14:50:08 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
       "published": "Mon, 13 Jul 2026 15:03:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "published": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
@@ -261,18 +273,6 @@
       "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
       "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "published": "Mon, 14 Sep 2026 12:15:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "published": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
       "published": "Tue, 15 Sep 2026 12:40:14 -0400",
@@ -593,18 +605,6 @@
       "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
       "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "published": "Mon, 14 Sep 2026 12:15:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer"
     },
     {
