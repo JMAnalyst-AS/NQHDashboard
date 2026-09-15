@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-15T12:00:51.958409Z",
+  "generated_at": "2026-09-15T17:11:28.615846Z",
   "segment1": [
+    {
+      "title": "Revolut’s paperwork breach shows why insurers are rethinking what counts as a ‘cyber attack’",
+      "url": "https://databreaches.net/2026/09/15/revoluts-paperwork-breach-shows-why-insurers-are-rethinking-what-counts-as-a-cyber-attack/",
+      "published": "Tue, 15 Sep 2026 11:49:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
+      "url": "https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/",
+      "published": "Tue, 15 Sep 2026 11:49:38 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hackers demand 10,000 Bitcoin from Revolut following data breach",
       "url": "https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/",
@@ -47,23 +59,23 @@
       "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
       "url": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
       "published": "Sun, 13 Sep 2026 14:50:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS Releases Updated Security Risk Assessment Tool",
-      "url": "https://databreaches.net/2026/09/13/hhs-releases-updated-security-risk-assessment-tool-2/",
-      "published": "Sun, 13 Sep 2026 14:49:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
-      "url": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
-      "published": "Sat, 12 Sep 2026 22:29:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Revolut’s paperwork breach shows why insurers are rethinking what counts as a ‘cyber attack’",
+      "url": "https://databreaches.net/2026/09/15/revoluts-paperwork-breach-shows-why-insurers-are-rethinking-what-counts-as-a-cyber-attack/",
+      "published": "Tue, 15 Sep 2026 11:49:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
+      "url": "https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/",
+      "published": "Tue, 15 Sep 2026 11:49:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hackers demand 10,000 Bitcoin from Revolut following data breach",
       "url": "https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/",
       "published": "Tue, 15 Sep 2026 11:49:24 +0000",
@@ -109,18 +121,6 @@
       "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
       "url": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
       "published": "Sun, 13 Sep 2026 14:50:08 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS Releases Updated Security Risk Assessment Tool",
-      "url": "https://databreaches.net/2026/09/13/hhs-releases-updated-security-risk-assessment-tool-2/",
-      "published": "Sun, 13 Sep 2026 14:49:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
-      "url": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
-      "published": "Sat, 12 Sep 2026 22:29:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "published": "Tue, 15 Sep 2026 12:40:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "published": "Tue, 15 Sep 2026 11:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "published": "Tue, 15 Sep 2026 10:45:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "published": "Tue, 15 Sep 2026 09:45:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "Tue, 15 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
       "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
       "published": "Tue, 15 Sep 2026 05:50:25 -0400",
@@ -246,34 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
-      "source": "BleepingComputer"
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "published": "Tue, 15 Sep 2026 20:53:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "published": "Mon, 14 Sep 2026 04:48:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "published": "Mon, 14 Sep 2026 04:08:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "published": "Mon, 14 Sep 2026 03:06:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "published": "Tue, 15 Sep 2026 16:42:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
@@ -369,30 +393,6 @@
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "published": "Fri, 11 Sep 2026 22:00:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "published": "Fri, 11 Sep 2026 21:45:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "published": "Fri, 11 Sep 2026 19:59:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "published": "Fri, 11 Sep 2026 19:40:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "published": "Fri, 11 Sep 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "published": "Tue, 15 Sep 2026 12:40:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "published": "Tue, 15 Sep 2026 11:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "published": "Tue, 15 Sep 2026 10:45:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "published": "Tue, 15 Sep 2026 09:45:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "Tue, 15 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
       "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
       "published": "Tue, 15 Sep 2026 05:50:25 -0400",
@@ -578,34 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
-      "source": "BleepingComputer"
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "published": "Tue, 15 Sep 2026 20:53:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "published": "Mon, 14 Sep 2026 04:48:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "published": "Mon, 14 Sep 2026 04:08:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "published": "Mon, 14 Sep 2026 03:06:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "published": "Tue, 15 Sep 2026 16:42:32 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
@@ -701,30 +725,6 @@
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "published": "Fri, 11 Sep 2026 22:00:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "published": "Fri, 11 Sep 2026 21:45:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "published": "Fri, 11 Sep 2026 19:59:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "published": "Fri, 11 Sep 2026 19:40:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "published": "Fri, 11 Sep 2026 17:00:00 +0530",
       "source": "The Hacker News"
     },
     {
