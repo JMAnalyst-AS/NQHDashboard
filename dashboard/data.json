@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:43:11.127864Z",
+  "generated_at": "2026-09-16T17:29:21.059024Z",
   "segment1": [
     {
       "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Spain reports first alleged AI-powered data theft attack",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+      "published": "Wed, 16 Sep 2026 13:26:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "published": "Wed, 16 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Copilot buttons still missing in classic Outlook",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
       "published": "Wed, 16 Sep 2026 08:16:32 -0400",
@@ -264,16 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "published": "Tue, 15 Sep 2026 04:40:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "published": "Tue, 15 Sep 2026 03:31:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
@@ -366,34 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "published": "Mon, 14 Sep 2026 23:32:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "published": "Mon, 14 Sep 2026 23:31:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "published": "Mon, 14 Sep 2026 23:28:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "published": "Mon, 14 Sep 2026 22:26:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "published": "Mon, 14 Sep 2026 21:30:04 +0530",
-      "source": "The Hacker News"
+      "title": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
+      "url": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/",
+      "published": "Wed, 16 Sep 2026 16:04:19 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Bellingcat Official Merch Design Contest",
@@ -447,12 +453,6 @@
       "title": "Between Graves and Uncertainty: The Management of the Dead After Venezuela’s Earthquake",
       "url": "https://www.bellingcat.com/news/2026/07/06/between-graves-and-uncertainty-the-management-of-the-dead-after-venezuelas-earthquake/",
       "published": "Mon, 06 Jul 2026 22:19:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
-      "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
-      "published": "Tue, 30 Jun 2026 08:25:31 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Spain reports first alleged AI-powered data theft attack",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+      "published": "Wed, 16 Sep 2026 13:26:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "published": "Wed, 16 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft says Copilot buttons still missing in classic Outlook",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
       "published": "Wed, 16 Sep 2026 08:16:32 -0400",
@@ -596,16 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "published": "Tue, 15 Sep 2026 04:40:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "published": "Tue, 15 Sep 2026 03:31:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
@@ -698,34 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "published": "Mon, 14 Sep 2026 23:32:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "published": "Mon, 14 Sep 2026 23:31:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "published": "Mon, 14 Sep 2026 23:28:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "published": "Mon, 14 Sep 2026 22:26:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "published": "Mon, 14 Sep 2026 21:30:04 +0530",
-      "source": "The Hacker News"
+      "title": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
+      "url": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/",
+      "published": "Wed, 16 Sep 2026 16:04:19 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Bellingcat Official Merch Design Contest",
@@ -779,12 +785,6 @@
       "title": "Between Graves and Uncertainty: The Management of the Dead After Venezuela’s Earthquake",
       "url": "https://www.bellingcat.com/news/2026/07/06/between-graves-and-uncertainty-the-management-of-the-dead-after-venezuelas-earthquake/",
       "published": "Mon, 06 Jul 2026 22:19:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
-      "url": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
-      "published": "Tue, 30 Jun 2026 08:25:31 +0000",
       "source": "bellingcat"
     }
   ]
