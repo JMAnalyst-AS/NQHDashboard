@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:18:17.090558Z",
+  "generated_at": "2026-09-16T12:43:11.127864Z",
   "segment1": [
     {
       "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "published": "Wed, 16 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "published": "Wed, 16 Sep 2026 08:11:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "published": "Wed, 16 Sep 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes actively exploited Android zero-day on Pixel devices",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
       "published": "Wed, 16 Sep 2026 03:00:19 -0400",
@@ -252,28 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "published": "Mon, 14 Sep 2026 16:52:18 -0400",
-      "source": "BleepingComputer"
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "published": "Wed, 16 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "published": "Mon, 14 Sep 2026 16:36:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "published": "Wed, 16 Sep 2026 16:45:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "published": "Mon, 14 Sep 2026 15:51:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "published": "Wed, 16 Sep 2026 16:45:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "published": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "published": "Wed, 16 Sep 2026 16:38:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
@@ -369,30 +393,6 @@
       "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
       "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
       "published": "Mon, 14 Sep 2026 21:30:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "published": "Mon, 14 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "published": "Mon, 14 Sep 2026 12:54:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "published": "Sun, 13 Sep 2026 15:41:48 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "published": "Wed, 16 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "published": "Wed, 16 Sep 2026 08:11:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "published": "Wed, 16 Sep 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google fixes actively exploited Android zero-day on Pixel devices",
       "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
       "published": "Wed, 16 Sep 2026 03:00:19 -0400",
@@ -584,28 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "published": "Mon, 14 Sep 2026 16:52:18 -0400",
-      "source": "BleepingComputer"
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "published": "Wed, 16 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "published": "Mon, 14 Sep 2026 16:36:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "published": "Wed, 16 Sep 2026 16:45:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "published": "Mon, 14 Sep 2026 15:51:04 -0400",
-      "source": "BleepingComputer"
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "published": "Wed, 16 Sep 2026 16:45:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "published": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "published": "Wed, 16 Sep 2026 16:38:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
@@ -701,30 +725,6 @@
       "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
       "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
       "published": "Mon, 14 Sep 2026 21:30:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "published": "Mon, 14 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "published": "Mon, 14 Sep 2026 12:54:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "published": "Sun, 13 Sep 2026 15:41:48 +0530",
       "source": "The Hacker News"
     },
     {
