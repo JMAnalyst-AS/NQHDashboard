@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:29:21.059024Z",
+  "generated_at": "2026-09-16T20:22:52.504221Z",
   "segment1": [
     {
       "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
@@ -180,14 +186,14 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security"
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Spain reports first alleged AI-powered data theft attack",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
       "published": "Wed, 16 Sep 2026 13:26:41 -0400",
       "source": "BleepingComputer"
     },
@@ -267,12 +273,6 @@
       "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
       "published": "Tue, 15 Sep 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "published": "Tue, 15 Sep 2026 05:50:25 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
@@ -512,14 +518,14 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security"
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
+      "source": "BleepingComputer"
     },
     {
-      "title": "Spain reports first alleged AI-powered data theft attack",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
       "published": "Wed, 16 Sep 2026 13:26:41 -0400",
       "source": "BleepingComputer"
     },
@@ -599,12 +605,6 @@
       "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
       "published": "Tue, 15 Sep 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "published": "Tue, 15 Sep 2026 05:50:25 -0400",
       "source": "BleepingComputer"
     },
     {
