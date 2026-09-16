@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:32:18.384441Z",
+  "generated_at": "2026-09-16T07:18:17.090558Z",
   "segment1": [
     {
       "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
       "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
       "published": "Tue, 15 Sep 2026 17:37:35 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -381,18 +393,6 @@
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
       "published": "Sun, 13 Sep 2026 15:41:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "published": "Sat, 12 Sep 2026 21:24:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "published": "Sat, 12 Sep 2026 15:54:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
       "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
       "published": "Tue, 15 Sep 2026 17:37:35 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -713,18 +725,6 @@
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
       "published": "Sun, 13 Sep 2026 15:41:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "published": "Sat, 12 Sep 2026 21:24:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "published": "Sat, 12 Sep 2026 15:54:44 +0530",
       "source": "The Hacker News"
     },
     {
