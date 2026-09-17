@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-17T12:42:15.756751Z",
+  "generated_at": "2026-09-17T17:29:33.853675Z",
   "segment1": [
+    {
+      "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
+      "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
+      "published": "Thu, 17 Sep 2026 15:48:11 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "EU chief wants joint response to cyberattacks, sabotage",
+      "url": "https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage/",
+      "published": "Thu, 17 Sep 2026 15:48:06 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
       "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
@@ -47,23 +59,23 @@
       "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
       "url": "https://databreaches.net/2026/09/15/members-of-black-axe-cybercriminal-group-extradited-from-south-africa/",
       "published": "Tue, 15 Sep 2026 11:49:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Student photos, bank details stolen by hackers after St James Anglican School in Perth hit by cyber attack",
-      "url": "https://databreaches.net/2026/09/15/student-photos-bank-details-stolen-by-hackers-after-st-james-anglican-school-in-perth-hit-by-cyber-attack/",
-      "published": "Tue, 15 Sep 2026 11:48:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
-      "url": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
-      "published": "Mon, 14 Sep 2026 17:44:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
+      "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
+      "published": "Thu, 17 Sep 2026 15:48:11 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "EU chief wants joint response to cyberattacks, sabotage",
+      "url": "https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage/",
+      "published": "Thu, 17 Sep 2026 15:48:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
       "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
       "published": "Thu, 17 Sep 2026 12:07:35 +0000",
@@ -109,18 +121,6 @@
       "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
       "url": "https://databreaches.net/2026/09/15/members-of-black-axe-cybercriminal-group-extradited-from-south-africa/",
       "published": "Tue, 15 Sep 2026 11:49:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Student photos, bank details stolen by hackers after St James Anglican School in Perth hit by cyber attack",
-      "url": "https://databreaches.net/2026/09/15/student-photos-bank-details-stolen-by-hackers-after-st-james-anglican-school-in-perth-hit-by-cyber-attack/",
-      "published": "Tue, 15 Sep 2026 11:48:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
-      "url": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
-      "published": "Mon, 14 Sep 2026 17:44:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US takes down NightmareStresser DDoS-for-hire platform",
@@ -258,22 +276,58 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "published": "Wed, 16 Sep 2026 07:14:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
-      "source": "BleepingComputer"
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "published": "Thu, 17 Sep 2026 13:30:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "published": "Thu, 17 Sep 2026 13:00:01 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "published": "Thu, 17 Sep 2026 12:09:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
+      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+      "published": "Thu, 17 Sep 2026 10:43:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
@@ -339,60 +393,6 @@
       "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
       "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
       "published": "Wed, 16 Sep 2026 10:48:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "published": "Wed, 16 Sep 2026 00:24:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "published": "Tue, 15 Sep 2026 21:59:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "published": "Tue, 15 Sep 2026 20:53:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "published": "Tue, 15 Sep 2026 16:42:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "published": "Tue, 15 Sep 2026 12:22:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "published": "Tue, 15 Sep 2026 11:41:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "published": "Tue, 15 Sep 2026 11:01:05 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US takes down NightmareStresser DDoS-for-hire platform",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
       "published": "Thu, 17 Sep 2026 07:33:35 -0400",
@@ -590,22 +608,58 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "published": "Wed, 16 Sep 2026 07:14:28 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
-      "source": "BleepingComputer"
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "published": "Thu, 17 Sep 2026 13:30:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "published": "Thu, 17 Sep 2026 13:00:01 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "published": "Thu, 17 Sep 2026 12:09:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
+      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+      "published": "Thu, 17 Sep 2026 10:43:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
@@ -671,60 +725,6 @@
       "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
       "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
       "published": "Wed, 16 Sep 2026 10:48:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "published": "Wed, 16 Sep 2026 00:24:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "published": "Tue, 15 Sep 2026 21:59:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "published": "Tue, 15 Sep 2026 20:53:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "published": "Tue, 15 Sep 2026 16:42:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "published": "Tue, 15 Sep 2026 12:22:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "published": "Tue, 15 Sep 2026 11:41:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "published": "Tue, 15 Sep 2026 11:01:05 +0530",
       "source": "The Hacker News"
     },
     {
