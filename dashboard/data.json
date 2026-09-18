@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-18T11:38:05.738727Z",
+  "generated_at": "2026-09-18T15:56:01.332691Z",
   "segment1": [
+    {
+      "title": "Raon data leak: Insider leak of 1,894 cases went undetected for 4 years",
+      "url": "https://databreaches.net/2026/09/18/raon-data-leak-insider-leak-of-1894-cases-went-undetected-for-4-years/",
+      "published": "Fri, 18 Sep 2026 12:45:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+      "url": "https://databreaches.net/2026/09/18/international-meteor-organization-says-cyberattack-dealt-critical-blow-to-website/",
+      "published": "Fri, 18 Sep 2026 12:45:31 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
       "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
@@ -47,23 +59,23 @@
       "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
       "url": "https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/",
       "published": "Tue, 15 Sep 2026 11:49:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers demand 10,000 Bitcoin from Revolut following data breach",
-      "url": "https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/",
-      "published": "Tue, 15 Sep 2026 11:49:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
-      "url": "https://databreaches.net/2026/09/15/members-of-black-axe-cybercriminal-group-extradited-from-south-africa/",
-      "published": "Tue, 15 Sep 2026 11:49:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Raon data leak: Insider leak of 1,894 cases went undetected for 4 years",
+      "url": "https://databreaches.net/2026/09/18/raon-data-leak-insider-leak-of-1894-cases-went-undetected-for-4-years/",
+      "published": "Fri, 18 Sep 2026 12:45:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+      "url": "https://databreaches.net/2026/09/18/international-meteor-organization-says-cyberattack-dealt-critical-blow-to-website/",
+      "published": "Fri, 18 Sep 2026 12:45:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
       "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
       "published": "Thu, 17 Sep 2026 15:48:11 +0000",
@@ -109,18 +121,6 @@
       "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
       "url": "https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/",
       "published": "Tue, 15 Sep 2026 11:49:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers demand 10,000 Bitcoin from Revolut following data breach",
-      "url": "https://databreaches.net/2026/09/15/hackers-demand-10000-bitcoin-from-revolut-following-data-breach/",
-      "published": "Tue, 15 Sep 2026 11:49:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
-      "url": "https://databreaches.net/2026/09/15/members-of-black-axe-cybercriminal-group-extradited-from-south-africa/",
-      "published": "Tue, 15 Sep 2026 11:49:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "published": "Fri, 18 Sep 2026 11:19:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "published": "Fri, 18 Sep 2026 09:58:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Check Point flaw lets hackers execute code with root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
       "published": "Fri, 18 Sep 2026 05:34:33 -0400",
@@ -246,34 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "published": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published": "Fri, 18 Sep 2026 20:54:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "published": "Fri, 18 Sep 2026 18:17:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
-      "source": "BleepingComputer"
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "published": "Fri, 18 Sep 2026 16:31:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "published": "Wed, 16 Sep 2026 16:24:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
@@ -369,30 +393,6 @@
       "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
       "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
       "published": "Thu, 17 Sep 2026 10:43:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "published": "Fri, 18 Sep 2026 11:19:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "published": "Fri, 18 Sep 2026 09:58:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Check Point flaw lets hackers execute code with root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
       "published": "Fri, 18 Sep 2026 05:34:33 -0400",
@@ -578,34 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "published": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published": "Fri, 18 Sep 2026 20:54:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "published": "Fri, 18 Sep 2026 18:17:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
-      "source": "BleepingComputer"
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "published": "Fri, 18 Sep 2026 16:31:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "published": "Wed, 16 Sep 2026 16:24:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
@@ -701,30 +725,6 @@
       "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
       "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
       "published": "Thu, 17 Sep 2026 10:43:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
       "source": "The Hacker News"
     },
     {
