@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:23:06.154571Z",
+  "generated_at": "2026-09-18T06:21:07.109917Z",
   "segment1": [
     {
       "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
@@ -276,6 +276,36 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "published": "Fri, 18 Sep 2026 11:47:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "published": "Thu, 17 Sep 2026 23:38:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "published": "Thu, 17 Sep 2026 23:02:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "published": "Thu, 17 Sep 2026 21:07:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "published": "Thu, 17 Sep 2026 19:33:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "published": "Thu, 17 Sep 2026 18:00:00 +0530",
@@ -363,36 +393,6 @@
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
       "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
       "published": "Wed, 16 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "published": "Wed, 16 Sep 2026 16:45:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "published": "Wed, 16 Sep 2026 16:45:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "published": "Wed, 16 Sep 2026 16:38:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,36 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "published": "Fri, 18 Sep 2026 11:47:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "published": "Thu, 17 Sep 2026 23:38:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "published": "Thu, 17 Sep 2026 23:02:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "published": "Thu, 17 Sep 2026 21:07:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "published": "Thu, 17 Sep 2026 19:33:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "published": "Thu, 17 Sep 2026 18:00:00 +0530",
@@ -695,36 +725,6 @@
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
       "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
       "published": "Wed, 16 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "published": "Wed, 16 Sep 2026 16:45:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "published": "Wed, 16 Sep 2026 16:45:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "published": "Wed, 16 Sep 2026 16:38:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
       "source": "The Hacker News"
     },
     {
