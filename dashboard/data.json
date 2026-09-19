@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-19T06:31:00.024476Z",
+  "generated_at": "2026-09-19T11:48:15.804707Z",
   "segment1": [
+    {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
+      "published": "Sat, 19 Sep 2026 11:13:37 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
       "url": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
@@ -53,17 +59,17 @@
       "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
       "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
       "published": "Thu, 17 Sep 2026 12:07:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "url": "https://databreaches.net/2026/09/17/gyazo-breach-exposes-23-62-million-user-records-and-490-million-image-metadata-records/",
-      "published": "Thu, 17 Sep 2026 11:40:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
+      "published": "Sat, 19 Sep 2026 11:13:37 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
       "url": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
       "published": "Sat, 19 Sep 2026 00:47:51 +0000",
@@ -115,12 +121,6 @@
       "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
       "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
       "published": "Thu, 17 Sep 2026 12:07:35 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "url": "https://databreaches.net/2026/09/17/gyazo-breach-exposes-23-62-million-user-records-and-490-million-image-metadata-records/",
-      "published": "Thu, 17 Sep 2026 11:40:14 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "published": "Sat, 19 Sep 2026 07:38:20 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
@@ -270,10 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "published": "Sat, 19 Sep 2026 15:01:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "published": "Sat, 19 Sep 2026 13:48:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "published": "Sat, 19 Sep 2026 13:21:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "published": "Sat, 19 Sep 2026 12:44:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "published": "Sat, 19 Sep 2026 11:54:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
@@ -357,42 +393,6 @@
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "published": "Thu, 17 Sep 2026 18:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "published": "Thu, 17 Sep 2026 13:30:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "published": "Thu, 17 Sep 2026 13:00:01 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "published": "Sat, 19 Sep 2026 07:38:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
       "published": "Fri, 18 Sep 2026 12:00:38 -0400",
@@ -602,10 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "published": "Sat, 19 Sep 2026 15:01:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "published": "Sat, 19 Sep 2026 13:48:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "published": "Sat, 19 Sep 2026 13:21:34 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "published": "Sat, 19 Sep 2026 12:44:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "published": "Sat, 19 Sep 2026 11:54:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
@@ -689,42 +725,6 @@
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "published": "Thu, 17 Sep 2026 18:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "published": "Thu, 17 Sep 2026 13:30:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "published": "Thu, 17 Sep 2026 13:00:01 +0530",
       "source": "The Hacker News"
     },
     {
