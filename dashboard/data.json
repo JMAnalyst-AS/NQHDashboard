@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-19T11:48:15.804707Z",
+  "generated_at": "2026-09-19T15:28:06.910696Z",
   "segment1": [
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "Sat, 19 Sep 2026 14:04:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
+      "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
+      "published": "Sat, 19 Sep 2026 12:45:25 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
@@ -47,23 +59,23 @@
       "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
       "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
       "published": "Thu, 17 Sep 2026 15:48:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "EU chief wants joint response to cyberattacks, sabotage",
-      "url": "https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage/",
-      "published": "Thu, 17 Sep 2026 15:48:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
-      "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
-      "published": "Thu, 17 Sep 2026 12:07:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "Sat, 19 Sep 2026 14:04:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
+      "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
+      "published": "Sat, 19 Sep 2026 12:45:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
       "published": "Sat, 19 Sep 2026 11:13:37 +0000",
@@ -109,18 +121,6 @@
       "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
       "url": "https://databreaches.net/2026/09/17/port-of-la-fended-off-120-million-cyberattacks-in-august/",
       "published": "Thu, 17 Sep 2026 15:48:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "EU chief wants joint response to cyberattacks, sabotage",
-      "url": "https://databreaches.net/2026/09/17/eu-chief-wants-joint-response-to-cyberattacks-sabotage/",
-      "published": "Thu, 17 Sep 2026 15:48:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
-      "url": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
-      "published": "Thu, 17 Sep 2026 12:07:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "published": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
@@ -258,27 +276,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "published": "Sat, 19 Sep 2026 18:58:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -381,18 +393,6 @@
       "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
       "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
       "published": "Thu, 17 Sep 2026 21:07:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "published": "Thu, 17 Sep 2026 19:33:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "published": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
       "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
       "published": "Sat, 19 Sep 2026 07:38:20 -0400",
@@ -590,27 +608,21 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "published": "Sat, 19 Sep 2026 18:58:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -713,18 +725,6 @@
       "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
       "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
       "published": "Thu, 17 Sep 2026 21:07:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "published": "Thu, 17 Sep 2026 19:33:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
