@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:44:50.371200Z",
+  "generated_at": "2026-09-20T14:32:01.096990Z",
   "segment1": [
     {
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "published": "Sun, 20 Sep 2026 08:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "published": "Sat, 19 Sep 2026 10:56:31 -0400",
@@ -261,18 +273,6 @@
       "title": "New RatHat Android malware uses AI to automate device control",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
       "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "published": "Thu, 17 Sep 2026 14:55:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "published": "Sun, 20 Sep 2026 08:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "published": "Sat, 19 Sep 2026 10:56:31 -0400",
@@ -593,18 +605,6 @@
       "title": "New RatHat Android malware uses AI to automate device control",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
       "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "published": "Thu, 17 Sep 2026 14:55:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
       "source": "BleepingComputer"
     },
     {
