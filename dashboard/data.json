@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:40:03.943320Z",
+  "generated_at": "2026-09-21T19:05:29.044449Z",
   "segment1": [
     {
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "published": "Mon, 21 Sep 2026 13:54:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google fined €403 million over location data privacy violations",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "published": "Mon, 21 Sep 2026 10:42:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
       "published": "Mon, 21 Sep 2026 09:16:20 -0400",
@@ -246,34 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "published": "Fri, 18 Sep 2026 09:58:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "published": "Fri, 18 Sep 2026 05:34:33 -0400",
-      "source": "BleepingComputer"
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
@@ -363,36 +393,6 @@
       "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
       "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
       "published": "Fri, 18 Sep 2026 16:31:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "published": "Fri, 18 Sep 2026 16:10:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "published": "Fri, 18 Sep 2026 14:48:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "published": "Fri, 18 Sep 2026 11:47:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "published": "Thu, 17 Sep 2026 23:38:28 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "published": "Mon, 21 Sep 2026 13:54:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google fined €403 million over location data privacy violations",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "published": "Mon, 21 Sep 2026 10:42:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
       "published": "Mon, 21 Sep 2026 09:16:20 -0400",
@@ -578,34 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "published": "Fri, 18 Sep 2026 09:58:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "published": "Fri, 18 Sep 2026 05:34:33 -0400",
-      "source": "BleepingComputer"
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
@@ -695,36 +725,6 @@
       "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
       "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
       "published": "Fri, 18 Sep 2026 16:31:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "published": "Fri, 18 Sep 2026 16:10:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "published": "Fri, 18 Sep 2026 14:48:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "published": "Fri, 18 Sep 2026 11:47:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "published": "Thu, 17 Sep 2026 23:38:28 +0530",
       "source": "The Hacker News"
     },
     {
