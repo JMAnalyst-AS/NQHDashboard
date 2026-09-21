@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:48:11.500199Z",
+  "generated_at": "2026-09-21T13:40:03.943320Z",
   "segment1": [
     {
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates break File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
       "published": "Sun, 20 Sep 2026 10:11:21 -0400",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "published": "Fri, 18 Sep 2026 03:35:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "source": "BleepingComputer"
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
@@ -387,12 +393,6 @@
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
       "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
       "published": "Thu, 17 Sep 2026 23:38:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "published": "Thu, 17 Sep 2026 23:02:22 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: September updates break File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
       "published": "Sun, 20 Sep 2026 10:11:21 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "published": "Fri, 18 Sep 2026 03:35:31 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "source": "BleepingComputer"
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
@@ -719,12 +725,6 @@
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
       "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
       "published": "Thu, 17 Sep 2026 23:38:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "published": "Thu, 17 Sep 2026 23:02:22 +0530",
       "source": "The Hacker News"
     },
     {
