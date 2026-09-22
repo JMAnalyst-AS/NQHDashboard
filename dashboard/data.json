@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-22T17:09:03.505363Z",
+  "generated_at": "2026-09-22T20:22:30.143220Z",
   "segment1": [
+    {
+      "title": "ShinyHunters escalates dispute with FBI; claims to have seized job applicants’ site and acquired data",
+      "url": "https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/",
+      "published": "Tue, 22 Sep 2026 18:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Israeli cyber manager accused of remotely accessing cameras, stealing passwords and infiltrating 26 companies",
       "url": "https://databreaches.net/2026/09/22/israeli-cyber-manager-accused-of-remotely-accessing-cameras-stealing-passwords-and-infiltrating-26-companies/",
@@ -53,17 +59,17 @@
       "title": "Foreign actors breach Colorado water systems",
       "url": "https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems/",
       "published": "Fri, 18 Sep 2026 20:11:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The U.S. military leaked more than 93,000 tips via insecure P3 Global Intel. Has anyone been notified?",
-      "url": "https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified/",
-      "published": "Fri, 18 Sep 2026 19:56:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "ShinyHunters escalates dispute with FBI; claims to have seized job applicants’ site and acquired data",
+      "url": "https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/",
+      "published": "Tue, 22 Sep 2026 18:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Israeli cyber manager accused of remotely accessing cameras, stealing passwords and infiltrating 26 companies",
       "url": "https://databreaches.net/2026/09/22/israeli-cyber-manager-accused-of-remotely-accessing-cameras-stealing-passwords-and-infiltrating-26-companies/",
       "published": "Tue, 22 Sep 2026 15:21:47 +0000",
@@ -115,12 +121,6 @@
       "title": "Foreign actors breach Colorado water systems",
       "url": "https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems/",
       "published": "Fri, 18 Sep 2026 20:11:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The U.S. military leaked more than 93,000 tips via insecure P3 Global Intel. Has anyone been notified?",
-      "url": "https://databreaches.net/2026/09/18/the-u-s-military-leaked-more-than-93000-tips-via-insecure-p3-global-intel-has-anyone-been-notified/",
-      "published": "Fri, 18 Sep 2026 19:56:05 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "published": "Tue, 22 Sep 2026 14:04:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "published": "Tue, 22 Sep 2026 13:17:41 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Check Point warns of Management Server zero-day exploited in attacks",
@@ -258,22 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "published": "Tue, 22 Sep 2026 23:59:39 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "published": "Tue, 22 Sep 2026 23:33:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates break File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "published": "Tue, 22 Sep 2026 23:28:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "published": "Tue, 22 Sep 2026 22:33:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
@@ -357,42 +393,6 @@
       "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
       "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
       "published": "Mon, 21 Sep 2026 19:54:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "published": "Mon, 21 Sep 2026 11:36:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sun, 20 Sep 2026 00:06:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "published": "Tue, 22 Sep 2026 14:04:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "published": "Tue, 22 Sep 2026 13:17:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Check Point warns of Management Server zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
       "published": "Tue, 22 Sep 2026 12:32:47 -0400",
@@ -590,22 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "published": "Tue, 22 Sep 2026 23:59:39 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "published": "Tue, 22 Sep 2026 23:33:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: September updates break File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "published": "Tue, 22 Sep 2026 23:28:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "published": "Tue, 22 Sep 2026 22:33:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
@@ -689,42 +725,6 @@
       "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
       "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
       "published": "Mon, 21 Sep 2026 19:54:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "published": "Mon, 21 Sep 2026 11:36:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sun, 20 Sep 2026 00:06:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
       "source": "The Hacker News"
     },
     {
