@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:39:06.975027Z",
+  "generated_at": "2026-09-23T07:25:11.178259Z",
   "segment1": [
     {
       "title": "Elsevier Evolve, ClinicalPharmacology, and GSDD APIs Hijacked: LAPSUS$ Redirect Campaign",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "published": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Rogue external MFA providers can steal passwords during logins",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "published": "Tue, 22 Sep 2026 17:45:45 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "published": "Wed, 23 Sep 2026 11:00:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -387,12 +393,6 @@
       "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
       "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
       "published": "Mon, 21 Sep 2026 22:27:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "published": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Rogue external MFA providers can steal passwords during logins",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "published": "Tue, 22 Sep 2026 17:45:45 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "source": "BleepingComputer"
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "published": "Wed, 23 Sep 2026 11:00:09 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -719,12 +725,6 @@
       "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
       "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
       "published": "Mon, 21 Sep 2026 22:27:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
       "source": "The Hacker News"
     },
     {
