@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-23T17:43:48.707619Z",
+  "generated_at": "2026-09-23T21:09:33.560591Z",
   "segment1": [
+    {
+      "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
+      "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
+      "published": "Wed, 23 Sep 2026 20:59:47 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
       "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
@@ -53,17 +59,17 @@
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
       "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
       "published": "Sat, 19 Sep 2026 14:04:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
-      "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
-      "published": "Sat, 19 Sep 2026 12:45:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
+      "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
+      "published": "Wed, 23 Sep 2026 20:59:47 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
       "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
       "published": "Wed, 23 Sep 2026 16:00:14 +0000",
@@ -115,12 +121,6 @@
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
       "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
       "published": "Sat, 19 Sep 2026 14:04:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
-      "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
-      "published": "Sat, 19 Sep 2026 12:45:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "published": "Tue, 22 Sep 2026 12:32:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "published": "Tue, 22 Sep 2026 11:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "published": "Wed, 23 Sep 2026 22:23:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
@@ -381,18 +393,6 @@
       "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
       "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
       "published": "Tue, 22 Sep 2026 18:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "published": "Tue, 22 Sep 2026 17:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "published": "Tue, 22 Sep 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "published": "Wed, 23 Sep 2026 12:20:54 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "published": "Tue, 22 Sep 2026 12:32:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "published": "Tue, 22 Sep 2026 11:00:00 -0400",
-      "source": "BleepingComputer"
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "published": "Wed, 23 Sep 2026 22:23:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
@@ -713,18 +725,6 @@
       "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
       "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
       "published": "Tue, 22 Sep 2026 18:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "published": "Tue, 22 Sep 2026 17:59:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "published": "Tue, 22 Sep 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
