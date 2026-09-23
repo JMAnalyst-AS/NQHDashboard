@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-23T12:55:14.240480Z",
+  "generated_at": "2026-09-23T17:43:48.707619Z",
   "segment1": [
+    {
+      "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
+      "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
+      "published": "Wed, 23 Sep 2026 16:00:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
+      "published": "Wed, 23 Sep 2026 15:51:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
+      "url": "https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked/",
+      "published": "Wed, 23 Sep 2026 14:10:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Elsevier Evolve, ClinicalPharmacology, and GSDD APIs Hijacked: LAPSUS$ Redirect Campaign",
       "url": "https://databreaches.net/2026/09/22/elsevier-evolve-clinicalpharmacology-and-gsdd-apis-hijacked-lapsus-redirect-campaign/",
@@ -41,29 +59,29 @@
       "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
       "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
       "published": "Sat, 19 Sep 2026 12:45:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
-      "published": "Sat, 19 Sep 2026 11:13:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
-      "url": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
-      "published": "Sat, 19 Sep 2026 00:47:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware attack on Kansas county will affect some services",
-      "url": "https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/",
-      "published": "Fri, 18 Sep 2026 20:43:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
+      "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
+      "published": "Wed, 23 Sep 2026 16:00:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
+      "published": "Wed, 23 Sep 2026 15:51:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
+      "url": "https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked/",
+      "published": "Wed, 23 Sep 2026 14:10:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Elsevier Evolve, ClinicalPharmacology, and GSDD APIs Hijacked: LAPSUS$ Redirect Campaign",
       "url": "https://databreaches.net/2026/09/22/elsevier-evolve-clinicalpharmacology-and-gsdd-apis-hijacked-lapsus-redirect-campaign/",
       "published": "Tue, 22 Sep 2026 21:30:01 +0000",
@@ -103,24 +121,6 @@
       "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
       "url": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
       "published": "Sat, 19 Sep 2026 12:45:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "url": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
-      "published": "Sat, 19 Sep 2026 11:13:37 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
-      "url": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
-      "published": "Sat, 19 Sep 2026 00:47:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware attack on Kansas county will affect some services",
-      "url": "https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/",
-      "published": "Fri, 18 Sep 2026 20:43:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "published": "Tue, 22 Sep 2026 08:57:07 -0400",
-      "source": "BleepingComputer"
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "published": "Tue, 22 Sep 2026 08:48:06 -0400",
-      "source": "BleepingComputer"
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "published": "Tue, 22 Sep 2026 05:55:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
@@ -375,24 +393,6 @@
       "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
       "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
       "published": "Tue, 22 Sep 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "published": "Tue, 22 Sep 2026 17:08:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "published": "Tue, 22 Sep 2026 16:47:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "published": "Tue, 22 Sep 2026 15:08:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
       "published": "Wed, 23 Sep 2026 08:29:53 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "published": "Tue, 22 Sep 2026 08:57:07 -0400",
-      "source": "BleepingComputer"
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "published": "Tue, 22 Sep 2026 08:48:06 -0400",
-      "source": "BleepingComputer"
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "published": "Tue, 22 Sep 2026 05:55:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
@@ -707,24 +725,6 @@
       "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
       "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
       "published": "Tue, 22 Sep 2026 17:15:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "published": "Tue, 22 Sep 2026 17:08:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "published": "Tue, 22 Sep 2026 16:47:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "published": "Tue, 22 Sep 2026 15:08:18 +0530",
       "source": "The Hacker News"
     },
     {
