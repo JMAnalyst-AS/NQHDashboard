@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:26:31.443053Z",
+  "generated_at": "2026-09-24T08:41:09.844727Z",
   "segment1": [
     {
       "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "published": "Wed, 23 Sep 2026 18:46:01 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -375,24 +393,6 @@
       "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
       "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
       "published": "Tue, 22 Sep 2026 22:33:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "published": "Tue, 22 Sep 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "published": "Wed, 23 Sep 2026 18:46:01 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -707,24 +725,6 @@
       "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
       "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
       "published": "Tue, 22 Sep 2026 22:33:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "published": "Tue, 22 Sep 2026 18:00:00 +0530",
       "source": "The Hacker News"
     },
     {
