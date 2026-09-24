@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-24T18:33:35.935695Z",
+  "generated_at": "2026-09-24T22:00:34.426440Z",
   "segment1": [
+    {
+      "title": "OpenAI agent breached Australian government health website, Albanese says",
+      "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
+      "published": "Thu, 24 Sep 2026 21:07:38 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Stevens Point servers go offline, city officials not sure if caused by a cyberattack",
       "url": "https://databreaches.net/2026/09/24/stevens-point-servers-go-offline-city-officials-not-sure-if-caused-by-a-cyberattack/",
@@ -53,17 +59,17 @@
       "title": "Latvia arrests suspected hacker for electronics repair company breach",
       "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
       "published": "Wed, 23 Sep 2026 15:51:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
-      "url": "https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked/",
-      "published": "Wed, 23 Sep 2026 14:10:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "OpenAI agent breached Australian government health website, Albanese says",
+      "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
+      "published": "Thu, 24 Sep 2026 21:07:38 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Stevens Point servers go offline, city officials not sure if caused by a cyberattack",
       "url": "https://databreaches.net/2026/09/24/stevens-point-servers-go-offline-city-officials-not-sure-if-caused-by-a-cyberattack/",
       "published": "Thu, 24 Sep 2026 17:30:15 +0000",
@@ -115,12 +121,6 @@
       "title": "Latvia arrests suspected hacker for electronics repair company breach",
       "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
       "published": "Wed, 23 Sep 2026 15:51:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
-      "url": "https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked/",
-      "published": "Wed, 23 Sep 2026 14:10:39 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Exposed GitLab project email addresses let attackers push code",
@@ -264,16 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "published": "Wed, 23 Sep 2026 08:29:53 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
@@ -381,18 +393,6 @@
       "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
       "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
       "published": "Wed, 23 Sep 2026 13:59:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "published": "Wed, 23 Sep 2026 13:59:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "published": "Wed, 23 Sep 2026 12:34:40 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Exposed GitLab project email addresses let attackers push code",
       "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
       "published": "Thu, 24 Sep 2026 13:47:44 -0400",
@@ -596,16 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "published": "Wed, 23 Sep 2026 08:29:53 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
@@ -713,18 +725,6 @@
       "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
       "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
       "published": "Wed, 23 Sep 2026 13:59:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "published": "Wed, 23 Sep 2026 13:59:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "published": "Wed, 23 Sep 2026 12:34:40 +0530",
       "source": "The Hacker News"
     },
     {
