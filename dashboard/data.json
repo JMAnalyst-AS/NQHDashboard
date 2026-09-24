@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-23T23:52:33.974192Z",
+  "generated_at": "2026-09-24T03:26:31.443053Z",
   "segment1": [
+    {
+      "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
+      "url": "https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/",
+      "published": "Wed, 23 Sep 2026 23:52:58 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
       "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
@@ -53,17 +59,17 @@
       "title": "Early Scattered Spider member pleads guilty to cybercrime spree",
       "url": "https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/",
       "published": "Tue, 22 Sep 2026 13:05:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
-      "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "published": "Sat, 19 Sep 2026 14:04:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
+      "url": "https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/",
+      "published": "Wed, 23 Sep 2026 23:52:58 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
       "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
       "published": "Wed, 23 Sep 2026 20:59:47 +0000",
@@ -115,12 +121,6 @@
       "title": "Early Scattered Spider member pleads guilty to cybercrime spree",
       "url": "https://databreaches.net/2026/09/22/early-scattered-spider-member-pleads-guilty-to-cybercrime-spree/",
       "published": "Tue, 22 Sep 2026 13:05:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang (1)",
-      "url": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "published": "Sat, 19 Sep 2026 14:04:50 +0000",
       "source": "DataBreaches.Net"
     }
   ],
