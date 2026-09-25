@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-25T05:53:16.873166Z",
+  "generated_at": "2026-09-25T11:17:40.811357Z",
   "segment1": [
+    {
+      "title": "AI breach puts cyber insurance notification rules under scrutiny",
+      "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
+      "published": "Fri, 25 Sep 2026 10:53:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "DIVD Dutch Institute for Vulnerability Disclosure investigating agentic AI-powered attack",
+      "url": "https://databreaches.net/2026/09/25/divd-dutch-institute-for-vulnerability-disclosure-investigating-agentic-ai-powered-attack/",
+      "published": "Fri, 25 Sep 2026 10:29:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "OpenAI agent breached Australian government health website, Albanese says",
       "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
@@ -47,23 +59,23 @@
       "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
       "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
       "published": "Wed, 23 Sep 2026 20:59:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
-      "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
-      "published": "Wed, 23 Sep 2026 16:00:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Latvia arrests suspected hacker for electronics repair company breach",
-      "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
-      "published": "Wed, 23 Sep 2026 15:51:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AI breach puts cyber insurance notification rules under scrutiny",
+      "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
+      "published": "Fri, 25 Sep 2026 10:53:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "DIVD Dutch Institute for Vulnerability Disclosure investigating agentic AI-powered attack",
+      "url": "https://databreaches.net/2026/09/25/divd-dutch-institute-for-vulnerability-disclosure-investigating-agentic-ai-powered-attack/",
+      "published": "Fri, 25 Sep 2026 10:29:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "OpenAI agent breached Australian government health website, Albanese says",
       "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
       "published": "Thu, 24 Sep 2026 21:07:38 +0000",
@@ -109,18 +121,6 @@
       "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
       "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
       "published": "Wed, 23 Sep 2026 20:59:47 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
-      "url": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
-      "published": "Wed, 23 Sep 2026 16:00:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Latvia arrests suspected hacker for electronics repair company breach",
-      "url": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
-      "published": "Wed, 23 Sep 2026 15:51:59 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "published": "Tue, 14 Jul 2026 19:22:42 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
@@ -264,16 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "InfraTrust report warns network management systems under attack",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -369,30 +393,6 @@
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
       "published": "Wed, 23 Sep 2026 17:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "published": "Wed, 23 Sep 2026 17:17:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "published": "Wed, 23 Sep 2026 17:17:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "published": "Wed, 23 Sep 2026 16:42:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "published": "Wed, 23 Sep 2026 13:59:48 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "published": "Thu, 24 Sep 2026 16:53:35 -0400",
@@ -596,16 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-      "source": "BleepingComputer"
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "InfraTrust report warns network management systems under attack",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -701,30 +725,6 @@
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
       "published": "Wed, 23 Sep 2026 17:46:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "published": "Wed, 23 Sep 2026 17:17:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "published": "Wed, 23 Sep 2026 17:17:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "published": "Wed, 23 Sep 2026 16:42:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "published": "Wed, 23 Sep 2026 13:59:48 +0530",
       "source": "The Hacker News"
     },
     {
