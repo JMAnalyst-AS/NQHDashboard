@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:51:13.761994Z",
+  "generated_at": "2026-09-25T23:06:57.685915Z",
   "segment1": [
     {
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "published": "Wed, 16 Sep 2026 18:14:22 +0000",
@@ -180,10 +186,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "source": "Krebs on Security"
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
@@ -261,18 +273,6 @@
       "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "published": "Thu, 24 Sep 2026 09:27:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "published": "Thu, 24 Sep 2026 08:16:32 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "published": "Wed, 16 Sep 2026 18:14:22 +0000",
@@ -512,10 +518,16 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "source": "Krebs on Security"
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
@@ -593,18 +605,6 @@
       "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "published": "Thu, 24 Sep 2026 09:27:57 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "published": "Thu, 24 Sep 2026 08:16:32 -0400",
       "source": "BleepingComputer"
     },
     {
