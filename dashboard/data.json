@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:52:37.369790Z",
+  "generated_at": "2026-09-25T19:51:13.761994Z",
   "segment1": [
     {
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "published": "Fri, 25 Sep 2026 12:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
       "published": "Fri, 25 Sep 2026 10:54:33 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "published": "Thu, 24 Sep 2026 06:42:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "published": "Fri, 25 Sep 2026 20:14:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
-      "source": "BleepingComputer"
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "published": "Fri, 25 Sep 2026 18:48:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -381,18 +393,6 @@
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
       "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
       "published": "Wed, 23 Sep 2026 21:36:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "published": "Fri, 25 Sep 2026 12:00:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
       "published": "Fri, 25 Sep 2026 10:54:33 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "published": "Thu, 24 Sep 2026 06:42:37 -0400",
-      "source": "BleepingComputer"
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "published": "Fri, 25 Sep 2026 20:14:41 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
-      "source": "BleepingComputer"
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "published": "Fri, 25 Sep 2026 18:48:06 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -713,18 +725,6 @@
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
       "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
       "published": "Wed, 23 Sep 2026 21:36:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
       "source": "The Hacker News"
     },
     {
