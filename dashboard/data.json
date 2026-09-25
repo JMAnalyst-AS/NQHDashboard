@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:17:40.811357Z",
+  "generated_at": "2026-09-25T15:52:37.369790Z",
   "segment1": [
     {
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+      "published": "Fri, 25 Sep 2026 10:54:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "published": "Fri, 25 Sep 2026 10:51:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Recent Windows updates cause desktop loading issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
       "published": "Fri, 25 Sep 2026 06:30:38 -0400",
@@ -252,28 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "published": "Wed, 23 Sep 2026 18:46:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "published": "Wed, 23 Sep 2026 17:25:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "source": "BleepingComputer"
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "published": "Fri, 25 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
@@ -387,12 +393,6 @@
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
       "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "published": "Wed, 23 Sep 2026 17:46:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+      "published": "Fri, 25 Sep 2026 10:54:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "published": "Fri, 25 Sep 2026 10:51:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Recent Windows updates cause desktop loading issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
       "published": "Fri, 25 Sep 2026 06:30:38 -0400",
@@ -584,28 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "published": "Wed, 23 Sep 2026 18:46:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "published": "Wed, 23 Sep 2026 17:25:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "source": "BleepingComputer"
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "published": "Fri, 25 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
@@ -719,12 +725,6 @@
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
       "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "published": "Wed, 23 Sep 2026 17:46:00 +0530",
       "source": "The Hacker News"
     },
     {
