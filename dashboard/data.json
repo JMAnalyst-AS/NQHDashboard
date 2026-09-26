@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-26T07:06:59.777306Z",
+  "generated_at": "2026-09-26T12:19:46.692921Z",
   "segment1": [
+    {
+      "title": "Pentagon data breach of military personnel raises national security concerns",
+      "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
+      "published": "Sat, 26 Sep 2026 11:47:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published": "Sat, 26 Sep 2026 10:49:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+      "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
+      "published": "Sat, 26 Sep 2026 10:49:26 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
       "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
@@ -41,29 +59,29 @@
       "title": "Wyoming courts investigate extent of personal data exposed in cybersecurity breach",
       "url": "https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/",
       "published": "Thu, 24 Sep 2026 16:35:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Error on North Carolina jury duty website exposed people’s social security numbers, medical records, more",
-      "url": "https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/",
-      "published": "Thu, 24 Sep 2026 16:33:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
-      "url": "https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/",
-      "published": "Wed, 23 Sep 2026 23:52:58 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
-      "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
-      "published": "Wed, 23 Sep 2026 20:59:47 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Pentagon data breach of military personnel raises national security concerns",
+      "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
+      "published": "Sat, 26 Sep 2026 11:47:03 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "url": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published": "Sat, 26 Sep 2026 10:49:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+      "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
+      "published": "Sat, 26 Sep 2026 10:49:26 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
       "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
       "published": "Fri, 25 Sep 2026 10:53:48 +0000",
@@ -103,24 +121,6 @@
       "title": "Wyoming courts investigate extent of personal data exposed in cybersecurity breach",
       "url": "https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/",
       "published": "Thu, 24 Sep 2026 16:35:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Error on North Carolina jury duty website exposed people’s social security numbers, medical records, more",
-      "url": "https://databreaches.net/2026/09/24/error-on-north-carolina-jury-duty-website-exposed-peoples-social-security-numbers-medical-records-more/",
-      "published": "Thu, 24 Sep 2026 16:33:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
-      "url": "https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/",
-      "published": "Wed, 23 Sep 2026 23:52:58 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
-      "url": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
-      "published": "Wed, 23 Sep 2026 20:59:47 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
       "published": "Fri, 25 Sep 2026 20:14:41 +0530",
@@ -375,24 +393,6 @@
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
       "published": "Thu, 24 Sep 2026 11:06:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "published": "Wed, 23 Sep 2026 22:23:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
       "published": "Fri, 25 Sep 2026 20:14:41 +0530",
@@ -707,24 +725,6 @@
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
       "published": "Thu, 24 Sep 2026 11:06:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "published": "Wed, 23 Sep 2026 22:23:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
       "source": "The Hacker News"
     },
     {
