@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-26T12:19:46.692921Z",
+  "generated_at": "2026-09-26T16:34:47.767765Z",
   "segment1": [
+    {
+      "title": "Poland reports a second medical data cyberattack in recent weeks",
+      "url": "https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks/",
+      "published": "Sat, 26 Sep 2026 12:34:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Pentagon data breach of military personnel raises national security concerns",
       "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
@@ -53,17 +59,17 @@
       "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
       "url": "https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/",
       "published": "Thu, 24 Sep 2026 16:35:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Wyoming courts investigate extent of personal data exposed in cybersecurity breach",
-      "url": "https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/",
-      "published": "Thu, 24 Sep 2026 16:35:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Poland reports a second medical data cyberattack in recent weeks",
+      "url": "https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks/",
+      "published": "Sat, 26 Sep 2026 12:34:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Pentagon data breach of military personnel raises national security concerns",
       "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
       "published": "Sat, 26 Sep 2026 11:47:03 +0000",
@@ -115,12 +121,6 @@
       "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
       "url": "https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/",
       "published": "Thu, 24 Sep 2026 16:35:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Wyoming courts investigate extent of personal data exposed in cybersecurity breach",
-      "url": "https://databreaches.net/2026/09/24/wyoming-courts-investigate-extent-of-personal-data-exposed-in-cybersecurity-breach/",
-      "published": "Thu, 24 Sep 2026 16:35:42 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,30 @@
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "published": "Sat, 26 Sep 2026 12:26:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
@@ -252,28 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "published": "Sat, 26 Sep 2026 17:16:40 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "published": "Thu, 24 Sep 2026 13:47:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "published": "Sat, 26 Sep 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -381,18 +393,6 @@
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
       "published": "Thu, 24 Sep 2026 12:37:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "published": "Sat, 26 Sep 2026 12:26:58 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
       "published": "Fri, 25 Sep 2026 17:41:07 -0400",
@@ -584,28 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "published": "Sat, 26 Sep 2026 17:16:40 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "published": "Thu, 24 Sep 2026 13:47:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "published": "Sat, 26 Sep 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -713,18 +725,6 @@
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
       "published": "Thu, 24 Sep 2026 12:37:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
       "source": "The Hacker News"
     },
     {
