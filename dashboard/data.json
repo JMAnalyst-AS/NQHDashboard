@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:34:47.767765Z",
+  "generated_at": "2026-09-26T19:32:07.973853Z",
   "segment1": [
     {
       "title": "Poland reports a second medical data cyberattack in recent weeks",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
       "published": "Sat, 26 Sep 2026 12:26:58 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "published": "Sat, 26 Sep 2026 23:52:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
@@ -387,12 +393,6 @@
       "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
       "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "published": "Thu, 24 Sep 2026 14:44:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
       "published": "Sat, 26 Sep 2026 12:26:58 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "published": "Sat, 26 Sep 2026 23:52:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
@@ -719,12 +725,6 @@
       "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
       "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "published": "Thu, 24 Sep 2026 14:44:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
       "source": "The Hacker News"
     },
     {
