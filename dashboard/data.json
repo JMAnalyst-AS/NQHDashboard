@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-09-27T12:18:28.952420Z",
+  "generated_at": "2026-09-27T17:09:11.090313Z",
   "segment1": [
+    {
+      "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
+      "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
+      "published": "Sun, 27 Sep 2026 13:23:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: Ten NHS staff removed over Noah Woods data breach",
+      "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
+      "published": "Sun, 27 Sep 2026 13:22:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Personal information of over 23,500 Simba customers leaked in data breach",
+      "url": "https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/",
+      "published": "Sun, 27 Sep 2026 13:22:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Poland reports a second medical data cyberattack in recent weeks",
       "url": "https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks/",
@@ -41,29 +59,29 @@
       "title": "OpenAI agent breached Australian government health website, Albanese says",
       "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
       "published": "Thu, 24 Sep 2026 21:07:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Stevens Point servers go offline, city officials not sure if caused by a cyberattack",
-      "url": "https://databreaches.net/2026/09/24/stevens-point-servers-go-offline-city-officials-not-sure-if-caused-by-a-cyberattack/",
-      "published": "Thu, 24 Sep 2026 17:30:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kosovar National Pleads Guilty to Operating Cybercrime Marketplace Offering Tools and Products to Cybercriminals",
-      "url": "https://databreaches.net/2026/09/24/kosovar-national-pleads-guilty-to-operating-cybercrime-marketplace-offering-tools-and-products-to-cybercriminals/",
-      "published": "Thu, 24 Sep 2026 17:30:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
-      "url": "https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/",
-      "published": "Thu, 24 Sep 2026 16:35:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
+      "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
+      "published": "Sun, 27 Sep 2026 13:23:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "UK: Ten NHS staff removed over Noah Woods data breach",
+      "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
+      "published": "Sun, 27 Sep 2026 13:22:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Personal information of over 23,500 Simba customers leaked in data breach",
+      "url": "https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/",
+      "published": "Sun, 27 Sep 2026 13:22:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Poland reports a second medical data cyberattack in recent weeks",
       "url": "https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks/",
       "published": "Sat, 26 Sep 2026 12:34:33 +0000",
@@ -103,24 +121,6 @@
       "title": "OpenAI agent breached Australian government health website, Albanese says",
       "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
       "published": "Thu, 24 Sep 2026 21:07:38 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Stevens Point servers go offline, city officials not sure if caused by a cyberattack",
-      "url": "https://databreaches.net/2026/09/24/stevens-point-servers-go-offline-city-officials-not-sure-if-caused-by-a-cyberattack/",
-      "published": "Thu, 24 Sep 2026 17:30:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Kosovar National Pleads Guilty to Operating Cybercrime Marketplace Offering Tools and Products to Cybercriminals",
-      "url": "https://databreaches.net/2026/09/24/kosovar-national-pleads-guilty-to-operating-cybercrime-marketplace-offering-tools-and-products-to-cybercriminals/",
-      "published": "Thu, 24 Sep 2026 17:30:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
-      "url": "https://databreaches.net/2026/09/24/two-maryland-hospitals-still-dealing-with-system-issues-after-cyberattack/",
-      "published": "Thu, 24 Sep 2026 16:35:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "published": "Sun, 27 Sep 2026 12:02:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
@@ -255,24 +273,6 @@
       "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
       "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
       "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "published": "Sun, 27 Sep 2026 12:02:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "published": "Sat, 26 Sep 2026 15:03:34 -0400",
@@ -587,24 +605,6 @@
       "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
       "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
       "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
       "source": "BleepingComputer"
     },
     {
