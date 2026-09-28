@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-28T08:17:26.010482Z",
+  "generated_at": "2026-09-28T16:53:53.091193Z",
   "segment1": [
+    {
+      "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
+      "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
+      "published": "Mon, 28 Sep 2026 16:05:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
+      "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
+      "published": "Mon, 28 Sep 2026 15:23:57 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
       "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
@@ -47,23 +59,23 @@
       "title": "AI breach puts cyber insurance notification rules under scrutiny",
       "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
       "published": "Fri, 25 Sep 2026 10:53:48 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DIVD Dutch Institute for Vulnerability Disclosure investigating agentic AI-powered attack",
-      "url": "https://databreaches.net/2026/09/25/divd-dutch-institute-for-vulnerability-disclosure-investigating-agentic-ai-powered-attack/",
-      "published": "Fri, 25 Sep 2026 10:29:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
-      "published": "Thu, 24 Sep 2026 21:07:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
+      "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
+      "published": "Mon, 28 Sep 2026 16:05:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
+      "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
+      "published": "Mon, 28 Sep 2026 15:23:57 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
       "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
       "published": "Sun, 27 Sep 2026 13:23:18 +0000",
@@ -110,21 +122,15 @@
       "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
       "published": "Fri, 25 Sep 2026 10:53:48 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "DIVD Dutch Institute for Vulnerability Disclosure investigating agentic AI-powered attack",
-      "url": "https://databreaches.net/2026/09/25/divd-dutch-institute-for-vulnerability-disclosure-investigating-agentic-ai-powered-attack/",
-      "published": "Fri, 25 Sep 2026 10:29:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "url": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
-      "published": "Thu, 24 Sep 2026 21:07:38 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -180,10 +186,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "source": "Krebs on Security"
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "published": "Mon, 28 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "published": "Mon, 28 Sep 2026 05:25:29 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "published": "Mon, 28 Sep 2026 19:30:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "published": "Mon, 28 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "published": "Mon, 28 Sep 2026 17:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
@@ -363,36 +393,6 @@
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
       "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
       "published": "Thu, 24 Sep 2026 23:40:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "url": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "published": "Thu, 24 Sep 2026 19:59:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "published": "Thu, 24 Sep 2026 17:35:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "published": "Thu, 24 Sep 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "published": "Fri, 25 Sep 2026 21:44:40 +0000",
@@ -512,10 +518,22 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "source": "Krebs on Security"
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "published": "Mon, 28 Sep 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "published": "Mon, 28 Sep 2026 05:25:29 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "published": "Mon, 28 Sep 2026 19:30:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "published": "Mon, 28 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "published": "Mon, 28 Sep 2026 17:16:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
@@ -695,36 +725,6 @@
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
       "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
       "published": "Thu, 24 Sep 2026 23:40:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "url": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "published": "Thu, 24 Sep 2026 19:59:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "published": "Thu, 24 Sep 2026 17:35:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "published": "Thu, 24 Sep 2026 16:30:00 +0530",
       "source": "The Hacker News"
     },
     {
