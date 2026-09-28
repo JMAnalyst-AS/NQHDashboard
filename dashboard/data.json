@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-28T16:53:53.091193Z",
+  "generated_at": "2026-09-28T22:24:58.518911Z",
   "segment1": [
+    {
+      "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
+      "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
+      "published": "Mon, 28 Sep 2026 17:07:16 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
       "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
@@ -53,17 +59,17 @@
       "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
       "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
       "published": "Sat, 26 Sep 2026 10:49:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AI breach puts cyber insurance notification rules under scrutiny",
-      "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
-      "published": "Fri, 25 Sep 2026 10:53:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
+      "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
+      "published": "Mon, 28 Sep 2026 17:07:16 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
       "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
       "published": "Mon, 28 Sep 2026 16:05:36 +0000",
@@ -115,12 +121,6 @@
       "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
       "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
       "published": "Sat, 26 Sep 2026 10:49:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AI breach puts cyber insurance notification rules under scrutiny",
-      "url": "https://databreaches.net/2026/09/25/ai-breach-puts-cyber-insurance-notification-rules-under-scrutiny/",
-      "published": "Fri, 25 Sep 2026 10:53:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,30 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "published": "Mon, 28 Sep 2026 14:50:59 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
@@ -252,28 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": "Tue, 29 Sep 2026 00:48:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
-      "source": "BleepingComputer"
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "published": "Mon, 28 Sep 2026 23:50:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "published": "Mon, 28 Sep 2026 23:12:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
@@ -363,36 +393,6 @@
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
       "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
       "published": "Fri, 25 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "published": "Mon, 28 Sep 2026 14:50:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
       "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
       "published": "Mon, 28 Sep 2026 11:49:27 -0400",
@@ -584,28 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": "Tue, 29 Sep 2026 00:48:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
-      "source": "BleepingComputer"
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "published": "Mon, 28 Sep 2026 23:50:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "published": "Mon, 28 Sep 2026 23:12:18 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
@@ -695,36 +725,6 @@
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
       "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
       "published": "Fri, 25 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
       "source": "The Hacker News"
     },
     {
