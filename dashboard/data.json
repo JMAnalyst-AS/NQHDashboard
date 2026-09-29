@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-29T08:52:40.031460Z",
+  "generated_at": "2026-09-29T15:23:51.623268Z",
   "segment1": [
+    {
+      "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+      "url": "https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+      "published": "Tue, 29 Sep 2026 12:48:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Russian pizza restaurant chain confirms cyberattack: Hackers claim 68 million users exposed",
+      "url": "https://databreaches.net/2026/09/29/russian-pizza-restaurant-chain-confirms-cyberattack-hackers-claim-68-million-users-exposed/",
+      "published": "Tue, 29 Sep 2026 12:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
       "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
@@ -47,23 +59,23 @@
       "title": "Pentagon data breach of military personnel raises national security concerns",
       "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
       "published": "Sat, 26 Sep 2026 11:47:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "published": "Sat, 26 Sep 2026 10:49:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-      "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
-      "published": "Sat, 26 Sep 2026 10:49:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+      "url": "https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+      "published": "Tue, 29 Sep 2026 12:48:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Russian pizza restaurant chain confirms cyberattack: Hackers claim 68 million users exposed",
+      "url": "https://databreaches.net/2026/09/29/russian-pizza-restaurant-chain-confirms-cyberattack-hackers-claim-68-million-users-exposed/",
+      "published": "Tue, 29 Sep 2026 12:43:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
       "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
       "published": "Mon, 28 Sep 2026 17:07:16 +0000",
@@ -109,18 +121,6 @@
       "title": "Pentagon data breach of military personnel raises national security concerns",
       "url": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
       "published": "Sat, 26 Sep 2026 11:47:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "published": "Sat, 26 Sep 2026 10:49:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-      "url": "https://databreaches.net/2026/09/26/labcorp-to-overhaul-data-security-practices-pay-2-3-million-fine-for-cybersecurity-failings/",
-      "published": "Sat, 26 Sep 2026 10:49:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
-      "source": "BleepingComputer"
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
@@ -375,24 +393,6 @@
       "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
       "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "published": "Sat, 26 Sep 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "published": "Tue, 29 Sep 2026 03:33:12 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
-      "source": "BleepingComputer"
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
@@ -707,24 +725,6 @@
       "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
       "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "published": "Sat, 26 Sep 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
       "source": "The Hacker News"
     },
     {
