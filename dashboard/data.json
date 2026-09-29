@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:07:46.509335Z",
+  "generated_at": "2026-09-29T23:53:00.174773Z",
   "segment1": [
     {
       "title": "Cyberattacks to be insured like accidents: Ministry of Finance discusses new rules for critical infrastructure",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "published": "Tue, 29 Sep 2026 16:09:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
       "published": "Tue, 29 Sep 2026 14:37:12 -0400",
@@ -255,24 +273,6 @@
       "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
       "published": "Mon, 28 Sep 2026 15:49:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "published": "Mon, 28 Sep 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "published": "Tue, 29 Sep 2026 16:09:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
       "published": "Tue, 29 Sep 2026 14:37:12 -0400",
@@ -587,24 +605,6 @@
       "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
       "published": "Mon, 28 Sep 2026 15:49:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "published": "Mon, 28 Sep 2026 10:00:10 -0400",
       "source": "BleepingComputer"
     },
     {
