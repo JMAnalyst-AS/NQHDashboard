@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:38:54.700724Z",
+  "generated_at": "2026-09-30T16:40:30.448112Z",
   "segment1": [
     {
       "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "published": "Wed, 30 Sep 2026 11:49:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "published": "Wed, 30 Sep 2026 10:46:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "published": "Wed, 30 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "published": "Wed, 30 Sep 2026 09:37:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "published": "Wed, 30 Sep 2026 08:25:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft is rolling out Linux container support to WSL",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
       "published": "Tue, 29 Sep 2026 20:40:57 -0400",
@@ -240,40 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
-      "source": "BleepingComputer"
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "published": "Wed, 30 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 29 Sep 2026 03:33:12 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "published": "Wed, 30 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-      "source": "BleepingComputer"
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "published": "Wed, 30 Sep 2026 16:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
@@ -363,36 +393,6 @@
       "title": "IAM for AI agents: A Practical Enterprise Framework",
       "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
       "published": "Mon, 28 Sep 2026 23:50:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "published": "Mon, 28 Sep 2026 23:12:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "published": "Mon, 28 Sep 2026 19:30:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "published": "Mon, 28 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "published": "Mon, 28 Sep 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "published": "Wed, 30 Sep 2026 11:49:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "published": "Wed, 30 Sep 2026 10:46:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "published": "Wed, 30 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "published": "Wed, 30 Sep 2026 09:37:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "published": "Wed, 30 Sep 2026 08:25:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft is rolling out Linux container support to WSL",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
       "published": "Tue, 29 Sep 2026 20:40:57 -0400",
@@ -572,40 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
-      "source": "BleepingComputer"
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "published": "Wed, 30 Sep 2026 17:28:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 29 Sep 2026 03:33:12 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "published": "Wed, 30 Sep 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-      "source": "BleepingComputer"
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "published": "Wed, 30 Sep 2026 16:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
@@ -695,36 +725,6 @@
       "title": "IAM for AI agents: A Practical Enterprise Framework",
       "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
       "published": "Mon, 28 Sep 2026 23:50:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "published": "Mon, 28 Sep 2026 23:12:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "published": "Mon, 28 Sep 2026 19:30:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "published": "Mon, 28 Sep 2026 17:28:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "published": "Mon, 28 Sep 2026 17:16:00 +0530",
       "source": "The Hacker News"
     },
     {
