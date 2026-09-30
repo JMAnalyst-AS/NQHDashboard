@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-29T23:53:00.174773Z",
+  "generated_at": "2026-09-30T04:16:50.474343Z",
   "segment1": [
+    {
+      "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
+      "url": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
+      "published": "Wed, 30 Sep 2026 01:00:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cyberattacks to be insured like accidents: Ministry of Finance discusses new rules for critical infrastructure",
       "url": "https://databreaches.net/2026/09/29/cyberattacks-to-be-insured-like-accidents-ministry-of-finance-discusses-new-rules-for-critical-infrastructure/",
@@ -53,17 +59,17 @@
       "title": "UK: Ten NHS staff removed over Noah Woods data breach",
       "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
       "published": "Sun, 27 Sep 2026 13:22:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal information of over 23,500 Simba customers leaked in data breach",
-      "url": "https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/",
-      "published": "Sun, 27 Sep 2026 13:22:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
+      "url": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
+      "published": "Wed, 30 Sep 2026 01:00:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cyberattacks to be insured like accidents: Ministry of Finance discusses new rules for critical infrastructure",
       "url": "https://databreaches.net/2026/09/29/cyberattacks-to-be-insured-like-accidents-ministry-of-finance-discusses-new-rules-for-critical-infrastructure/",
       "published": "Tue, 29 Sep 2026 19:23:10 +0000",
@@ -115,12 +121,6 @@
       "title": "UK: Ten NHS staff removed over Noah Woods data breach",
       "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
       "published": "Sun, 27 Sep 2026 13:22:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Personal information of over 23,500 Simba customers leaked in data breach",
-      "url": "https://databreaches.net/2026/09/27/personal-information-of-over-23500-simba-customers-leaked-in-data-breach/",
-      "published": "Sun, 27 Sep 2026 13:22:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
@@ -267,12 +273,6 @@
       "title": "Times Car confirms data breach affecting 6.6 million user accounts",
       "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
       "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
       "published": "Tue, 29 Sep 2026 17:30:08 -0400",
@@ -599,12 +605,6 @@
       "title": "Times Car confirms data breach affecting 6.6 million user accounts",
       "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
       "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
       "source": "BleepingComputer"
     },
     {
