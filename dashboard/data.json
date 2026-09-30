@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-30T16:40:30.448112Z",
+  "generated_at": "2026-09-30T21:13:48.934629Z",
   "segment1": [
+    {
+      "title": "Radford experiencing outage after potential data incident",
+      "url": "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/",
+      "published": "Wed, 30 Sep 2026 17:33:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
       "url": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
@@ -53,17 +59,17 @@
       "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
       "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
       "published": "Sun, 27 Sep 2026 13:23:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Ten NHS staff removed over Noah Woods data breach",
-      "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
-      "published": "Sun, 27 Sep 2026 13:22:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Radford experiencing outage after potential data incident",
+      "url": "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/",
+      "published": "Wed, 30 Sep 2026 17:33:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
       "url": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
       "published": "Wed, 30 Sep 2026 01:00:45 +0000",
@@ -115,12 +121,6 @@
       "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
       "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
       "published": "Sun, 27 Sep 2026 13:23:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Ten NHS staff removed over Noah Woods data breach",
-      "url": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
-      "published": "Sun, 27 Sep 2026 13:22:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "published": "Wed, 30 Sep 2026 14:08:34 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "published": "Tue, 29 Sep 2026 13:37:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "published": "Tue, 29 Sep 2026 13:10:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "published": "Tue, 29 Sep 2026 11:39:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
@@ -381,18 +393,6 @@
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
       "published": "Tue, 29 Sep 2026 00:48:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "published": "Mon, 28 Sep 2026 23:50:38 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "published": "Wed, 30 Sep 2026 14:08:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
       "published": "Wed, 30 Sep 2026 11:49:29 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "published": "Tue, 29 Sep 2026 13:37:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "published": "Tue, 29 Sep 2026 13:10:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "published": "Tue, 29 Sep 2026 11:39:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
@@ -713,18 +725,6 @@
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
       "published": "Tue, 29 Sep 2026 00:48:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "published": "Mon, 28 Sep 2026 23:50:38 +0530",
       "source": "The Hacker News"
     },
     {
