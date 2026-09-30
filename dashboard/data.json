@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:16:50.474343Z",
+  "generated_at": "2026-09-30T10:38:54.700724Z",
   "segment1": [
     {
       "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
@@ -276,6 +276,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "published": "Wed, 30 Sep 2026 13:54:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "published": "Wed, 30 Sep 2026 13:39:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
       "published": "Tue, 29 Sep 2026 23:17:01 +0530",
@@ -375,24 +393,6 @@
       "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
       "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
       "published": "Mon, 28 Sep 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "published": "Sun, 27 Sep 2026 13:17:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,24 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "published": "Wed, 30 Sep 2026 13:54:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "published": "Wed, 30 Sep 2026 13:39:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
       "published": "Tue, 29 Sep 2026 23:17:01 +0530",
@@ -707,24 +725,6 @@
       "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
       "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
       "published": "Mon, 28 Sep 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "published": "Sun, 27 Sep 2026 13:17:57 +0530",
       "source": "The Hacker News"
     },
     {
