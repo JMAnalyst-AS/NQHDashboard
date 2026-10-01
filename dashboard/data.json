@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-01T06:53:59.570831Z",
+  "generated_at": "2026-10-01T14:14:35.740876Z",
   "segment1": [
+    {
+      "title": "Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.",
+      "url": "https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/",
+      "published": "Thu, 01 Oct 2026 11:55:42 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Radford experiencing outage after potential data incident",
       "url": "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/",
@@ -53,17 +59,17 @@
       "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
       "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
       "published": "Mon, 28 Sep 2026 15:23:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
-      "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
-      "published": "Sun, 27 Sep 2026 13:23:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.",
+      "url": "https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/",
+      "published": "Thu, 01 Oct 2026 11:55:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Radford experiencing outage after potential data incident",
       "url": "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/",
       "published": "Wed, 30 Sep 2026 17:33:33 +0000",
@@ -115,12 +121,6 @@
       "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
       "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
       "published": "Mon, 28 Sep 2026 15:23:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
-      "url": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
-      "published": "Sun, 27 Sep 2026 13:23:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "published": "Thu, 01 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "published": "Thu, 01 Oct 2026 09:51:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "published": "Thu, 01 Oct 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "published": "Thu, 01 Oct 2026 05:44:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "published": "Thu, 01 Oct 2026 03:33:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
       "published": "Wed, 30 Sep 2026 16:34:01 -0400",
@@ -246,34 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "published": "Thu, 01 Oct 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "published": "Thu, 01 Oct 2026 16:12:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "published": "Thu, 01 Oct 2026 16:03:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "published": "Tue, 29 Sep 2026 14:37:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "published": "Thu, 01 Oct 2026 13:19:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "published": "Tue, 29 Sep 2026 14:09:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "published": "Thu, 01 Oct 2026 11:24:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
@@ -366,34 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "published": "Tue, 29 Sep 2026 22:50:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "published": "Tue, 29 Sep 2026 11:38:25 +0530",
-      "source": "The Hacker News"
+      "title": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
+      "url": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
+      "published": "Thu, 01 Oct 2026 13:46:03 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Christy Kinahan’s UAE Residence Visa Cancelled",
@@ -447,12 +453,6 @@
       "title": "Shahed-Type Drones Filmed During Mali Village Attacks",
       "url": "https://www.bellingcat.com/news/2026/07/24/shahed-type-drones-filmed-during-attack-on-mali-villages/",
       "published": "Fri, 24 Jul 2026 15:39:05 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Identifying the Crypto Entrepreneur Linked to Popular Forum Trading in ‘Leaked’ Nudes of Women",
-      "url": "https://www.bellingcat.com/news/2026/07/16/leakedbb-crypto-entrepreneur/",
-      "published": "Thu, 16 Jul 2026 16:00:01 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "published": "Thu, 01 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "published": "Thu, 01 Oct 2026 09:51:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "published": "Thu, 01 Oct 2026 07:14:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "published": "Thu, 01 Oct 2026 05:44:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "published": "Thu, 01 Oct 2026 03:33:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
       "published": "Wed, 30 Sep 2026 16:34:01 -0400",
@@ -578,34 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
-      "source": "BleepingComputer"
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "published": "Thu, 01 Oct 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
-      "source": "BleepingComputer"
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "published": "Thu, 01 Oct 2026 16:12:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-      "source": "BleepingComputer"
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "published": "Thu, 01 Oct 2026 16:03:16 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "published": "Tue, 29 Sep 2026 14:37:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "published": "Thu, 01 Oct 2026 13:19:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "published": "Tue, 29 Sep 2026 14:09:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "published": "Thu, 01 Oct 2026 11:24:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
@@ -698,34 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "published": "Tue, 29 Sep 2026 22:50:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "published": "Tue, 29 Sep 2026 11:38:25 +0530",
-      "source": "The Hacker News"
+      "title": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
+      "url": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
+      "published": "Thu, 01 Oct 2026 13:46:03 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Christy Kinahan’s UAE Residence Visa Cancelled",
@@ -779,12 +785,6 @@
       "title": "Shahed-Type Drones Filmed During Mali Village Attacks",
       "url": "https://www.bellingcat.com/news/2026/07/24/shahed-type-drones-filmed-during-attack-on-mali-villages/",
       "published": "Fri, 24 Jul 2026 15:39:05 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Identifying the Crypto Entrepreneur Linked to Popular Forum Trading in ‘Leaked’ Nudes of Women",
-      "url": "https://www.bellingcat.com/news/2026/07/16/leakedbb-crypto-entrepreneur/",
-      "published": "Thu, 16 Jul 2026 16:00:01 +0000",
       "source": "bellingcat"
     }
   ]
