@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-01T14:14:35.740876Z",
+  "generated_at": "2026-10-01T19:41:40.232616Z",
   "segment1": [
+    {
+      "title": "Teenagers suspected of leading KillSec ransom group arrested during international operation",
+      "url": "https://databreaches.net/2026/10/01/teenagers-suspected-of-leading-killsec-ransom-group-arrested-during-international-operation/",
+      "published": "Thu, 01 Oct 2026 19:29:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online",
+      "url": "https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/",
+      "published": "Thu, 01 Oct 2026 16:37:36 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.",
       "url": "https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/",
@@ -47,23 +59,23 @@
       "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
       "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
       "published": "Mon, 28 Sep 2026 17:07:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
-      "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
-      "published": "Mon, 28 Sep 2026 16:05:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
-      "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
-      "published": "Mon, 28 Sep 2026 15:23:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Teenagers suspected of leading KillSec ransom group arrested during international operation",
+      "url": "https://databreaches.net/2026/10/01/teenagers-suspected-of-leading-killsec-ransom-group-arrested-during-international-operation/",
+      "published": "Thu, 01 Oct 2026 19:29:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online",
+      "url": "https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/",
+      "published": "Thu, 01 Oct 2026 16:37:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.",
       "url": "https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/",
       "published": "Thu, 01 Oct 2026 11:55:42 +0000",
@@ -109,18 +121,6 @@
       "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
       "url": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
       "published": "Mon, 28 Sep 2026 17:07:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
-      "url": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
-      "published": "Mon, 28 Sep 2026 16:05:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Former U.S. Soldier Sentenced for Hacking and Extortion Scheme That Exposed Sensitive Data of U.S. Government Official",
-      "url": "https://databreaches.net/2026/09/28/former-u-s-soldier-sentenced-for-hacking-and-extortion-scheme-that-exposed-sensitive-data-of-u-s-government-official/",
-      "published": "Mon, 28 Sep 2026 15:23:57 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "published": "Thu, 01 Oct 2026 15:32:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "The Day-One Hole in Zero Trust Architecture",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
@@ -375,24 +393,6 @@
       "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
       "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
       "published": "Wed, 30 Sep 2026 13:39:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "published": "Tue, 29 Sep 2026 23:17:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "Tue, 29 Sep 2026 22:50:17 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "published": "Thu, 01 Oct 2026 15:32:47 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "The Day-One Hole in Zero Trust Architecture",
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "published": "Thu, 01 Oct 2026 10:01:11 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
@@ -707,24 +725,6 @@
       "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
       "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
       "published": "Wed, 30 Sep 2026 13:39:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "published": "Tue, 29 Sep 2026 23:17:01 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "Tue, 29 Sep 2026 22:50:17 +0530",
       "source": "The Hacker News"
     },
     {
