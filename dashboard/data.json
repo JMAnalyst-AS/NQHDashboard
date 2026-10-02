@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:30:26.005398Z",
+  "generated_at": "2026-10-02T21:10:17.107389Z",
   "segment1": [
     {
       "title": "City of Vicksburg, Mississippi, shuts down computers after cyberattack",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
       "published": "Fri, 02 Oct 2026 12:20:05 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "published": "Thu, 01 Oct 2026 03:33:57 -0400",
-      "source": "BleepingComputer"
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "published": "Fri, 02 Oct 2026 23:03:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "published": "Fri, 02 Oct 2026 22:32:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
@@ -375,24 +393,6 @@
       "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
       "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
       "published": "Wed, 30 Sep 2026 22:02:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "published": "Wed, 30 Sep 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
       "published": "Fri, 02 Oct 2026 12:20:05 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "published": "Thu, 01 Oct 2026 03:33:57 -0400",
-      "source": "BleepingComputer"
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "published": "Fri, 02 Oct 2026 23:03:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "published": "Fri, 02 Oct 2026 22:32:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
@@ -707,24 +725,6 @@
       "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
       "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
       "published": "Wed, 30 Sep 2026 22:02:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "published": "Wed, 30 Sep 2026 17:28:00 +0530",
       "source": "The Hacker News"
     },
     {
