@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:04:00.144762Z",
+  "generated_at": "2026-10-05T06:02:50.165322Z",
   "segment1": [
     {
       "title": "South Korea’s President Lee Jae Myung orders thorough probe into data breaches at local banks",
@@ -125,6 +125,66 @@
     }
   ],
   "segment3": [
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "Tue, 08 Sep 2026 21:44:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
@@ -397,6 +457,66 @@
     }
   ],
   "rss": [
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "Tue, 08 Sep 2026 21:44:22 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
