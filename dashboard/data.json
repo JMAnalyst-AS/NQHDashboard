@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T15:07:35.041651Z",
+  "generated_at": "2026-10-05T22:07:05.670643Z",
   "segment1": [
     {
-      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked",
+      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
       "published": "Mon, 05 Oct 2026 14:43:18 +0000",
       "source": "DataBreaches.Net"
@@ -64,7 +64,7 @@
   ],
   "hacks": [
     {
-      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked",
+      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
       "published": "Mon, 05 Oct 2026 14:43:18 +0000",
       "source": "DataBreaches.Net"
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "published": "Mon, 05 Oct 2026 16:20:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "published": "Mon, 05 Oct 2026 13:19:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "published": "Mon, 05 Oct 2026 11:21:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Dell System Update flaw lets hackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
       "published": "Mon, 05 Oct 2026 10:53:06 -0400",
@@ -258,22 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Frontline Education breach exposes school district employee data",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "published": "Fri, 02 Oct 2026 12:20:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "published": "Mon, 05 Oct 2026 21:51:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
@@ -387,12 +393,6 @@
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
       "published": "Thu, 01 Oct 2026 22:25:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "published": "Mon, 05 Oct 2026 16:20:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "published": "Mon, 05 Oct 2026 13:19:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "published": "Mon, 05 Oct 2026 11:21:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "New Dell System Update flaw lets hackers gain root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
       "published": "Mon, 05 Oct 2026 10:53:06 -0400",
@@ -590,22 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Frontline Education breach exposes school district employee data",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "published": "Fri, 02 Oct 2026 12:20:05 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "published": "Mon, 05 Oct 2026 21:51:52 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
@@ -719,12 +725,6 @@
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
       "published": "Thu, 01 Oct 2026 22:25:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
       "source": "The Hacker News"
     },
     {
