@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-05T22:07:05.670643Z",
+  "generated_at": "2026-10-06T02:23:51.410720Z",
   "segment1": [
+    {
+      "title": "CISA to keep cyber pay incentives, but less staff will qualify",
+      "url": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
+      "published": "Mon, 05 Oct 2026 22:55:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
@@ -53,17 +59,17 @@
       "title": "DHS readies major cyber contract",
       "url": "https://databreaches.net/2026/10/03/dhs-readies-major-cyber-contract/",
       "published": "Sat, 03 Oct 2026 14:22:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices",
-      "url": "https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/",
-      "published": "Sat, 03 Oct 2026 13:41:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CISA to keep cyber pay incentives, but less staff will qualify",
+      "url": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
+      "published": "Mon, 05 Oct 2026 22:55:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
       "published": "Mon, 05 Oct 2026 14:43:18 +0000",
@@ -115,12 +121,6 @@
       "title": "DHS readies major cyber contract",
       "url": "https://databreaches.net/2026/10/03/dhs-readies-major-cyber-contract/",
       "published": "Sat, 03 Oct 2026 14:22:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices",
-      "url": "https://databreaches.net/2026/10/03/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices/",
-      "published": "Sat, 03 Oct 2026 13:41:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "published": "Mon, 05 Oct 2026 18:46:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
@@ -267,12 +273,6 @@
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
       "published": "Sat, 03 Oct 2026 15:09:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "published": "Sat, 03 Oct 2026 10:35:20 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "published": "Mon, 05 Oct 2026 18:46:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
       "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
       "published": "Mon, 05 Oct 2026 16:20:05 -0400",
@@ -599,12 +605,6 @@
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
       "published": "Sat, 03 Oct 2026 15:09:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "published": "Sat, 03 Oct 2026 10:35:20 -0400",
       "source": "BleepingComputer"
     },
     {
