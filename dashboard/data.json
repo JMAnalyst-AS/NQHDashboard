@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-06T21:07:08.444312Z",
+  "generated_at": "2026-10-07T00:54:33.693731Z",
   "segment1": [
+    {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
+      "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
+      "published": "Tue, 06 Oct 2026 23:59:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
       "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
@@ -53,17 +59,17 @@
       "title": "Daiwa Securities says info on 110,000 clients may have been leaked in vendor incident",
       "url": "https://databreaches.net/2026/10/05/daiwa-securities-says-info-on-110000-clients-may-have-been-leaked-in-vendor-incident/",
       "published": "Mon, 05 Oct 2026 12:30:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware group threatens to leak customer data from top insurance companies in South Africa",
-      "url": "https://databreaches.net/2026/10/05/ransomware-group-threatens-to-leak-customer-data-from-top-insurance-companies-in-south-africa/",
-      "published": "Mon, 05 Oct 2026 12:29:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
+      "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
+      "published": "Tue, 06 Oct 2026 23:59:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
       "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
       "published": "Tue, 06 Oct 2026 15:23:11 +0000",
@@ -115,12 +121,6 @@
       "title": "Daiwa Securities says info on 110,000 clients may have been leaked in vendor incident",
       "url": "https://databreaches.net/2026/10/05/daiwa-securities-says-info-on-110000-clients-may-have-been-leaked-in-vendor-incident/",
       "published": "Mon, 05 Oct 2026 12:30:06 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware group threatens to leak customer data from top insurance companies in South Africa",
-      "url": "https://databreaches.net/2026/10/05/ransomware-group-threatens-to-leak-customer-data-from-top-insurance-companies-in-south-africa/",
-      "published": "Mon, 05 Oct 2026 12:29:58 +0000",
       "source": "DataBreaches.Net"
     }
   ],
