@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-07T06:52:40.687021Z",
+  "generated_at": "2026-10-07T14:14:05.844851Z",
   "segment1": [
+    {
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+      "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
+      "published": "Wed, 07 Oct 2026 12:13:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
+      "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
+      "published": "Wed, 07 Oct 2026 12:13:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
       "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
@@ -47,23 +59,23 @@
       "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
       "published": "Mon, 05 Oct 2026 14:43:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers Breached Propulsion System of U.S.-Bound Oil Tanker",
-      "url": "https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/",
-      "published": "Mon, 05 Oct 2026 12:30:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Daiwa Securities says info on 110,000 clients may have been leaked in vendor incident",
-      "url": "https://databreaches.net/2026/10/05/daiwa-securities-says-info-on-110000-clients-may-have-been-leaked-in-vendor-incident/",
-      "published": "Mon, 05 Oct 2026 12:30:06 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+      "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
+      "published": "Wed, 07 Oct 2026 12:13:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
+      "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
+      "published": "Wed, 07 Oct 2026 12:13:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
       "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
       "published": "Tue, 06 Oct 2026 23:59:13 +0000",
@@ -110,21 +122,15 @@
       "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
       "published": "Mon, 05 Oct 2026 14:43:18 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers Breached Propulsion System of U.S.-Bound Oil Tanker",
-      "url": "https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/",
-      "published": "Mon, 05 Oct 2026 12:30:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Daiwa Securities says info on 110,000 clients may have been leaked in vendor incident",
-      "url": "https://databreaches.net/2026/10/05/daiwa-securities-says-info-on-110000-clients-may-have-been-leaked-in-vendor-incident/",
-      "published": "Mon, 05 Oct 2026 12:30:06 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -180,10 +186,34 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
-      "source": "Krebs on Security"
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "published": "Wed, 07 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
@@ -246,34 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "published": "Mon, 05 Oct 2026 16:20:05 -0400",
-      "source": "BleepingComputer"
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "published": "Wed, 07 Oct 2026 17:27:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "published": "Wed, 07 Oct 2026 17:26:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "published": "Mon, 05 Oct 2026 11:21:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "published": "Wed, 07 Oct 2026 17:19:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "published": "Mon, 05 Oct 2026 10:53:06 -0400",
-      "source": "BleepingComputer"
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "published": "Wed, 07 Oct 2026 17:12:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "published": "Mon, 05 Oct 2026 10:22:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "published": "Wed, 07 Oct 2026 13:37:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
@@ -357,42 +393,6 @@
       "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
       "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
       "published": "Mon, 05 Oct 2026 17:16:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "published": "Mon, 05 Oct 2026 16:08:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "published": "Mon, 05 Oct 2026 13:39:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "published": "Mon, 05 Oct 2026 12:10:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "published": "Sun, 04 Oct 2026 12:52:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "published": "Sun, 04 Oct 2026 12:50:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "published": "Sat, 03 Oct 2026 20:08:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "published": "Mon, 28 Sep 2026 15:08:57 +0000",
@@ -512,10 +518,34 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
-      "source": "Krebs on Security"
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "published": "Wed, 07 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
@@ -578,34 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "published": "Mon, 05 Oct 2026 16:20:05 -0400",
-      "source": "BleepingComputer"
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "published": "Wed, 07 Oct 2026 17:27:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "published": "Wed, 07 Oct 2026 17:26:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "published": "Mon, 05 Oct 2026 11:21:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "published": "Wed, 07 Oct 2026 17:19:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "published": "Mon, 05 Oct 2026 10:53:06 -0400",
-      "source": "BleepingComputer"
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "published": "Wed, 07 Oct 2026 17:12:24 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "published": "Mon, 05 Oct 2026 10:22:12 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "published": "Wed, 07 Oct 2026 13:37:38 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
@@ -689,42 +725,6 @@
       "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
       "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
       "published": "Mon, 05 Oct 2026 17:16:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "published": "Mon, 05 Oct 2026 16:08:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "published": "Mon, 05 Oct 2026 13:39:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "published": "Mon, 05 Oct 2026 12:10:19 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "published": "Sun, 04 Oct 2026 12:52:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "published": "Sun, 04 Oct 2026 12:50:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "published": "Sat, 03 Oct 2026 20:08:46 +0530",
       "source": "The Hacker News"
     },
     {
