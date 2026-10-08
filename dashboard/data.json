@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:54:42.679975Z",
+  "generated_at": "2026-10-08T19:40:41.009672Z",
   "segment1": [
     {
       "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
@@ -20,7 +20,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
+      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
       "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
       "published": "Wed, 07 Oct 2026 21:57:33 +0000",
       "source": "DataBreaches.Net"
@@ -82,7 +82,7 @@
       "source": "DataBreaches.Net"
     },
     {
-      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
+      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
       "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
       "published": "Wed, 07 Oct 2026 21:57:33 +0000",
       "source": "DataBreaches.Net"
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Low-cost Android phones ship with residential proxy malware",
+      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
       "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "published": "Thu, 08 Oct 2026 09:18:36 -0400",
@@ -252,28 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
@@ -363,36 +393,6 @@
       "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
       "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
       "published": "Wed, 07 Oct 2026 13:37:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "published": "Wed, 07 Oct 2026 00:08:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "published": "Tue, 06 Oct 2026 23:54:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "published": "Tue, 06 Oct 2026 17:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "published": "Tue, 06 Oct 2026 16:56:25 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Low-cost Android phones ship with residential proxy malware",
+      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
       "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "published": "Thu, 08 Oct 2026 09:18:36 -0400",
@@ -584,28 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
-      "source": "BleepingComputer"
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
-      "source": "BleepingComputer"
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
@@ -695,36 +725,6 @@
       "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
       "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
       "published": "Wed, 07 Oct 2026 13:37:38 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "published": "Wed, 07 Oct 2026 00:08:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "published": "Tue, 06 Oct 2026 23:54:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "published": "Tue, 06 Oct 2026 17:27:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "published": "Tue, 06 Oct 2026 16:56:25 +0530",
       "source": "The Hacker News"
     },
     {
