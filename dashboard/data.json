@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-08T06:28:15.723639Z",
+  "generated_at": "2026-10-08T13:54:42.679975Z",
   "segment1": [
+    {
+      "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
+      "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
+      "published": "Thu, 08 Oct 2026 12:33:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
+      "url": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
+      "published": "Thu, 08 Oct 2026 12:25:51 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
       "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
@@ -47,23 +59,23 @@
       "title": "Japan hands over ‘Qilin’ hacker group member to Germany",
       "url": "https://databreaches.net/2026/10/06/japan-hands-over-qilin-hacker-group-member-to-germany/",
       "published": "Tue, 06 Oct 2026 12:00:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Denmark Central Person Register (CPR) Breach: Cyberattack Exposes Data of 8.8 Million",
-      "url": "https://databreaches.net/2026/10/06/denmark-central-person-register-cpr-breach-cyberattack-exposes-data-of-8-8-million/",
-      "published": "Tue, 06 Oct 2026 12:00:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ASOS customers receive ‘hack’ notification threatening leak",
-      "url": "https://databreaches.net/2026/10/06/asos-customers-receive-hack-notification-threatening-leak/",
-      "published": "Tue, 06 Oct 2026 12:00:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
+      "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
+      "published": "Thu, 08 Oct 2026 12:33:36 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
+      "url": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
+      "published": "Thu, 08 Oct 2026 12:25:51 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
       "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
       "published": "Thu, 08 Oct 2026 00:47:24 +0000",
@@ -109,18 +121,6 @@
       "title": "Japan hands over ‘Qilin’ hacker group member to Germany",
       "url": "https://databreaches.net/2026/10/06/japan-hands-over-qilin-hacker-group-member-to-germany/",
       "published": "Tue, 06 Oct 2026 12:00:42 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Denmark Central Person Register (CPR) Breach: Cyberattack Exposes Data of 8.8 Million",
-      "url": "https://databreaches.net/2026/10/06/denmark-central-person-register-cpr-breach-cyberattack-exposes-data-of-8-8-million/",
-      "published": "Tue, 06 Oct 2026 12:00:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ASOS customers receive ‘hack’ notification threatening leak",
-      "url": "https://databreaches.net/2026/10/06/asos-customers-receive-hack-notification-threatening-leak/",
-      "published": "Tue, 06 Oct 2026 12:00:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "published": "Thu, 08 Oct 2026 07:42:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "published": "Thu, 08 Oct 2026 06:29:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "published": "Thu, 08 Oct 2026 02:32:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ransomware recovery CEO charged over secret ransom payments",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "published": "Wed, 07 Oct 2026 19:04:37 -0400",
@@ -246,34 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "published": "Tue, 06 Oct 2026 17:00:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-      "source": "BleepingComputer"
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-      "source": "BleepingComputer"
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-      "source": "BleepingComputer"
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "published": "Tue, 06 Oct 2026 11:16:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
@@ -363,36 +393,6 @@
       "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
       "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
       "published": "Tue, 06 Oct 2026 16:56:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "published": "Tue, 06 Oct 2026 16:32:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "published": "Tue, 06 Oct 2026 14:51:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "published": "Tue, 06 Oct 2026 12:28:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "published": "Tue, 06 Oct 2026 12:26:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "published": "Tue, 06 Oct 2026 11:30:30 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "published": "Thu, 08 Oct 2026 07:42:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "published": "Thu, 08 Oct 2026 06:29:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "published": "Thu, 08 Oct 2026 02:32:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Ransomware recovery CEO charged over secret ransom payments",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "published": "Wed, 07 Oct 2026 19:04:37 -0400",
@@ -578,34 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "published": "Tue, 06 Oct 2026 17:00:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-      "source": "BleepingComputer"
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-      "source": "BleepingComputer"
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-      "source": "BleepingComputer"
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "published": "Tue, 06 Oct 2026 11:16:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
@@ -695,36 +725,6 @@
       "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
       "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
       "published": "Tue, 06 Oct 2026 16:56:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "published": "Tue, 06 Oct 2026 16:32:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "published": "Tue, 06 Oct 2026 14:51:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "published": "Tue, 06 Oct 2026 12:28:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "published": "Tue, 06 Oct 2026 12:26:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "published": "Tue, 06 Oct 2026 11:30:30 +0530",
       "source": "The Hacker News"
     },
     {
