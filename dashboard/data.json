@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-07T20:03:43.134538Z",
+  "generated_at": "2026-10-08T00:18:44.190226Z",
   "segment1": [
+    {
+      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
+      "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
+      "published": "Wed, 07 Oct 2026 21:57:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
       "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
@@ -53,17 +59,17 @@
       "title": "CISA to keep cyber pay incentives, but less staff will qualify",
       "url": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
       "published": "Mon, 05 Oct 2026 22:55:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
-      "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
-      "published": "Mon, 05 Oct 2026 14:43:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
+      "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
+      "published": "Wed, 07 Oct 2026 21:57:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
       "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
       "published": "Wed, 07 Oct 2026 12:13:25 +0000",
@@ -115,12 +121,6 @@
       "title": "CISA to keep cyber pay incentives, but less staff will qualify",
       "url": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
       "published": "Mon, 05 Oct 2026 22:55:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
-      "url": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
-      "published": "Mon, 05 Oct 2026 14:43:18 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "published": "Wed, 07 Oct 2026 19:04:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "published": "Wed, 07 Oct 2026 17:28:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "published": "Wed, 07 Oct 2026 16:50:13 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft Outlook to block MSIX attachments starting November",
@@ -255,24 +273,6 @@
       "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
       "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
       "published": "Tue, 06 Oct 2026 11:16:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "published": "Tue, 06 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "published": "Tue, 06 Oct 2026 07:31:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "published": "Tue, 06 Oct 2026 05:25:50 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "published": "Wed, 07 Oct 2026 19:04:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "published": "Wed, 07 Oct 2026 17:28:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "published": "Wed, 07 Oct 2026 16:50:13 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft Outlook to block MSIX attachments starting November",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
       "published": "Wed, 07 Oct 2026 11:44:22 -0400",
@@ -587,24 +605,6 @@
       "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
       "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
       "published": "Tue, 06 Oct 2026 11:16:44 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "published": "Tue, 06 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "published": "Tue, 06 Oct 2026 07:31:48 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "published": "Tue, 06 Oct 2026 05:25:50 -0400",
       "source": "BleepingComputer"
     },
     {
