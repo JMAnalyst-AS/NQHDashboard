@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:16:47.969487Z",
+  "generated_at": "2026-10-09T23:24:13.498886Z",
   "segment1": [
     {
       "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "published": "Fri, 09 Oct 2026 16:31:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
       "published": "Fri, 09 Oct 2026 13:17:23 -0400",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "published": "Sat, 10 Oct 2026 00:44:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
@@ -387,12 +393,6 @@
       "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
       "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
       "published": "Thu, 08 Oct 2026 15:16:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "published": "Fri, 09 Oct 2026 16:31:37 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
       "published": "Fri, 09 Oct 2026 13:17:23 -0400",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "published": "Sat, 10 Oct 2026 00:44:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
@@ -719,12 +725,6 @@
       "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
       "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
       "published": "Thu, 08 Oct 2026 15:16:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
       "source": "The Hacker News"
     },
     {
