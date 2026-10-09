@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-09T13:39:28.166735Z",
+  "generated_at": "2026-10-09T19:16:47.969487Z",
   "segment1": [
+    {
+      "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
+      "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
+      "published": "Fri, 09 Oct 2026 13:50:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Cyberattack at IDC Frontier disrupts services around nation",
       "url": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
@@ -53,17 +59,17 @@
       "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
       "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
       "published": "Tue, 06 Oct 2026 15:23:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Self-described “cybersecurity engineer” arrested after computer case reopened",
-      "url": "https://databreaches.net/2026/10/06/self-described-cybersecurity-engineer-arrested-after-computer-case-reopened/",
-      "published": "Tue, 06 Oct 2026 12:01:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
+      "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
+      "published": "Fri, 09 Oct 2026 13:50:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Cyberattack at IDC Frontier disrupts services around nation",
       "url": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
       "published": "Fri, 09 Oct 2026 11:23:16 +0000",
@@ -115,12 +121,6 @@
       "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
       "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
       "published": "Tue, 06 Oct 2026 15:23:11 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Self-described “cybersecurity engineer” arrested after computer case reopened",
-      "url": "https://databreaches.net/2026/10/06/self-described-cybersecurity-engineer-arrested-after-computer-case-reopened/",
-      "published": "Tue, 06 Oct 2026 12:01:01 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,30 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "published": "Fri, 09 Oct 2026 13:17:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
@@ -252,28 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "published": "Fri, 09 Oct 2026 23:15:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
-      "source": "BleepingComputer"
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "published": "Fri, 09 Oct 2026 21:59:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "published": "Thu, 08 Oct 2026 07:42:46 -0400",
-      "source": "BleepingComputer"
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Owner of Empire cybercrime market gets 40 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-      "published": "Thu, 08 Oct 2026 06:29:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "published": "Fri, 09 Oct 2026 18:29:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
@@ -357,42 +393,6 @@
       "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
       "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
       "published": "Thu, 08 Oct 2026 13:12:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "published": "Wed, 07 Oct 2026 23:13:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "published": "Wed, 07 Oct 2026 21:47:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "published": "Wed, 07 Oct 2026 21:04:53 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "published": "Fri, 09 Oct 2026 13:17:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
       "published": "Fri, 09 Oct 2026 08:32:16 -0400",
@@ -584,28 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "published": "Fri, 09 Oct 2026 23:15:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
-      "source": "BleepingComputer"
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "published": "Fri, 09 Oct 2026 21:59:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "published": "Thu, 08 Oct 2026 07:42:46 -0400",
-      "source": "BleepingComputer"
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Owner of Empire cybercrime market gets 40 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-      "published": "Thu, 08 Oct 2026 06:29:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "published": "Fri, 09 Oct 2026 18:29:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
@@ -689,42 +725,6 @@
       "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
       "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
       "published": "Thu, 08 Oct 2026 13:12:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "published": "Wed, 07 Oct 2026 23:13:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "published": "Wed, 07 Oct 2026 21:47:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "published": "Wed, 07 Oct 2026 21:04:53 +0530",
       "source": "The Hacker News"
     },
     {
