@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-10T19:49:14.591396Z",
+  "generated_at": "2026-10-10T23:17:00.885801Z",
   "segment1": [
+    {
+      "title": "`123456’ password used in massive Danish CPR data breach",
+      "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "published": "Sat, 10 Oct 2026 20:42:22 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
       "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
@@ -53,17 +59,17 @@
       "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
       "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
       "published": "Wed, 07 Oct 2026 12:13:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
-      "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
-      "published": "Wed, 07 Oct 2026 12:13:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "`123456’ password used in massive Danish CPR data breach",
+      "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "published": "Sat, 10 Oct 2026 20:42:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
       "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
       "published": "Sat, 10 Oct 2026 11:57:52 +0000",
@@ -115,12 +121,6 @@
       "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
       "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
       "published": "Wed, 07 Oct 2026 12:13:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
-      "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
-      "published": "Wed, 07 Oct 2026 12:13:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
