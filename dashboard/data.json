@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-10T09:29:12.267221Z",
+  "generated_at": "2026-10-10T15:32:27.684849Z",
   "segment1": [
+    {
+      "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
+      "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
+      "published": "Sat, 10 Oct 2026 11:57:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
+      "url": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
+      "published": "Sat, 10 Oct 2026 10:42:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
       "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
@@ -47,23 +59,23 @@
       "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
       "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
       "published": "Wed, 07 Oct 2026 12:13:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
-      "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
-      "published": "Tue, 06 Oct 2026 23:59:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-      "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-      "published": "Tue, 06 Oct 2026 15:23:11 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
+      "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
+      "published": "Sat, 10 Oct 2026 11:57:52 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
+      "url": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
+      "published": "Sat, 10 Oct 2026 10:42:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
       "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
       "published": "Fri, 09 Oct 2026 13:50:55 +0000",
@@ -110,23 +122,11 @@
       "url": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
       "published": "Wed, 07 Oct 2026 12:13:09 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
-      "url": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
-      "published": "Tue, 06 Oct 2026 23:59:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-      "url": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-      "published": "Tue, 06 Oct 2026 15:23:11 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
       "source": "Krebs on Security"
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "published": "Tue, 11 Aug 2026 21:28:35 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
-      "source": "BleepingComputer"
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "published": "Sat, 10 Oct 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published": "Sat, 10 Oct 2026 14:48:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
@@ -381,18 +393,6 @@
       "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
       "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
       "published": "Thu, 08 Oct 2026 19:42:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,7 +458,7 @@
   ],
   "rss": [
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
       "source": "Krebs on Security"
@@ -516,6 +516,24 @@
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "published": "Tue, 11 Aug 2026 21:28:35 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
-      "source": "BleepingComputer"
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "published": "Sat, 10 Oct 2026 16:30:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published": "Sat, 10 Oct 2026 14:48:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
@@ -713,18 +725,6 @@
       "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
       "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
       "published": "Thu, 08 Oct 2026 19:42:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
       "source": "The Hacker News"
     },
     {
