@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-10-11T09:10:04.722382Z",
+  "generated_at": "2026-10-11T15:52:30.079778Z",
   "segment1": [
     {
-      "title": "`123456’ password used in massive Danish CPR data breach",
+      "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
+      "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
+      "published": "Sun, 11 Oct 2026 13:51:15 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "“123456” password used in massive Danish CPR data breach",
       "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
       "published": "Sat, 10 Oct 2026 20:42:22 +0000",
       "source": "DataBreaches.Net"
@@ -53,18 +59,18 @@
       "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
       "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
       "published": "Wed, 07 Oct 2026 21:57:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-      "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
-      "published": "Wed, 07 Oct 2026 12:13:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
-      "title": "`123456’ password used in massive Danish CPR data breach",
+      "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
+      "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
+      "published": "Sun, 11 Oct 2026 13:51:15 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "“123456” password used in massive Danish CPR data breach",
       "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
       "published": "Sat, 10 Oct 2026 20:42:22 +0000",
       "source": "DataBreaches.Net"
@@ -115,12 +121,6 @@
       "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
       "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
       "published": "Wed, 07 Oct 2026 21:57:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-      "url": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
-      "published": "Wed, 07 Oct 2026 12:13:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "published": "Tue, 11 Aug 2026 21:28:35 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "published": "Sun, 11 Oct 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -267,12 +273,6 @@
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
       "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "published": "Thu, 08 Oct 2026 16:09:45 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "published": "Sun, 11 Oct 2026 10:23:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
       "published": "Sat, 10 Oct 2026 11:07:54 -0400",
@@ -599,12 +605,6 @@
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
       "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "published": "Thu, 08 Oct 2026 16:09:45 -0400",
       "source": "BleepingComputer"
     },
     {
