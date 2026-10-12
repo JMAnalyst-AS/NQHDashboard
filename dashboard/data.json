@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-12T04:37:50.714546Z",
+  "generated_at": "2026-10-12T12:46:59.506628Z",
   "segment1": [
+    {
+      "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
+      "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
+      "published": "Mon, 12 Oct 2026 12:07:30 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
       "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
@@ -53,17 +59,17 @@
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
       "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
       "published": "Thu, 08 Oct 2026 00:47:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
-      "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
-      "published": "Wed, 07 Oct 2026 21:57:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
+      "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
+      "published": "Mon, 12 Oct 2026 12:07:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
       "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
       "published": "Sun, 11 Oct 2026 13:51:15 +0000",
@@ -115,12 +121,6 @@
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
       "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
       "published": "Thu, 08 Oct 2026 00:47:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can. (1)",
-      "url": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
-      "published": "Wed, 07 Oct 2026 21:57:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "published": "Tue, 11 Aug 2026 21:28:35 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "published": "Mon, 12 Oct 2026 07:58:33 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
@@ -270,10 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "published": "Mon, 12 Oct 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "published": "Mon, 12 Oct 2026 16:51:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "published": "Mon, 12 Oct 2026 16:06:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "published": "Mon, 12 Oct 2026 14:32:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "published": "Mon, 12 Oct 2026 12:56:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -363,36 +393,6 @@
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
       "published": "Fri, 09 Oct 2026 12:09:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "published": "Mon, 12 Oct 2026 07:58:33 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
       "published": "Sun, 11 Oct 2026 10:23:46 -0400",
@@ -602,10 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-      "source": "BleepingComputer"
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "published": "Mon, 12 Oct 2026 17:25:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "published": "Mon, 12 Oct 2026 16:51:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "published": "Mon, 12 Oct 2026 16:06:56 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "published": "Mon, 12 Oct 2026 14:32:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "published": "Mon, 12 Oct 2026 12:56:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -695,36 +725,6 @@
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
       "published": "Fri, 09 Oct 2026 12:09:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
       "source": "The Hacker News"
     },
     {
