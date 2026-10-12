@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-12T12:46:59.506628Z",
+  "generated_at": "2026-10-12T21:34:28.177472Z",
   "segment1": [
+    {
+      "title": "Australian patient data compromised in Icon Cancer Centre hack",
+      "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
+      "published": "Mon, 12 Oct 2026 13:46:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
+      "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
+      "published": "Mon, 12 Oct 2026 13:19:29 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
       "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
@@ -47,23 +59,23 @@
       "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
       "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
       "published": "Thu, 08 Oct 2026 12:33:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
-      "url": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
-      "published": "Thu, 08 Oct 2026 12:25:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
-      "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
-      "published": "Thu, 08 Oct 2026 00:47:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Australian patient data compromised in Icon Cancer Centre hack",
+      "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
+      "published": "Mon, 12 Oct 2026 13:46:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
+      "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
+      "published": "Mon, 12 Oct 2026 13:19:29 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
       "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
       "published": "Mon, 12 Oct 2026 12:07:30 +0000",
@@ -109,18 +121,6 @@
       "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
       "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
       "published": "Thu, 08 Oct 2026 12:33:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
-      "url": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
-      "published": "Thu, 08 Oct 2026 12:25:51 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
-      "url": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
-      "published": "Thu, 08 Oct 2026 00:47:24 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,54 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "published": "Mon, 12 Oct 2026 16:13:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "published": "Mon, 12 Oct 2026 15:23:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "published": "Mon, 12 Oct 2026 14:51:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "Mon, 12 Oct 2026 12:27:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "published": "Mon, 12 Oct 2026 11:23:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "published": "Mon, 12 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "published": "Mon, 12 Oct 2026 09:51:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "published": "Mon, 12 Oct 2026 09:09:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
       "published": "Mon, 12 Oct 2026 07:58:33 -0400",
@@ -228,52 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "published": "Fri, 09 Oct 2026 08:32:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "published": "Fri, 09 Oct 2026 07:14:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "published": "Fri, 09 Oct 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "published": "Fri, 09 Oct 2026 04:27:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "published": "Fri, 09 Oct 2026 01:41:04 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "published": "Mon, 12 Oct 2026 20:46:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
@@ -387,12 +393,6 @@
       "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
       "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
       "published": "Fri, 09 Oct 2026 13:41:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "published": "Fri, 09 Oct 2026 12:09:29 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,54 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "published": "Mon, 12 Oct 2026 16:13:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "published": "Mon, 12 Oct 2026 15:23:01 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "published": "Mon, 12 Oct 2026 14:51:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "Mon, 12 Oct 2026 12:27:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "published": "Mon, 12 Oct 2026 11:23:34 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "published": "Mon, 12 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "published": "Mon, 12 Oct 2026 09:51:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "published": "Mon, 12 Oct 2026 09:09:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
       "published": "Mon, 12 Oct 2026 07:58:33 -0400",
@@ -560,52 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "published": "Fri, 09 Oct 2026 08:32:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "published": "Fri, 09 Oct 2026 07:14:28 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "published": "Fri, 09 Oct 2026 06:12:24 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "published": "Fri, 09 Oct 2026 04:27:42 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "published": "Fri, 09 Oct 2026 01:41:04 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "published": "Mon, 12 Oct 2026 20:46:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
@@ -719,12 +725,6 @@
       "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
       "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
       "published": "Fri, 09 Oct 2026 13:41:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "published": "Fri, 09 Oct 2026 12:09:29 +0530",
       "source": "The Hacker News"
     },
     {
