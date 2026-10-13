@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-13T10:09:16.663561Z",
+  "generated_at": "2026-10-13T17:42:52.339081Z",
   "segment1": [
+    {
+      "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
+      "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
+      "published": "Tue, 13 Oct 2026 13:00:46 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters: Six Years of Cybercrime — Expert Analysis and Ransomware Group Perspectives",
+      "url": "https://databreaches.net/2026/10/13/shinyhunters-six-years-of-cybercrime-expert-analysis-and-ransomware-group-perspectives/",
+      "published": "Tue, 13 Oct 2026 12:43:12 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Australian patient data compromised in Icon Cancer Centre hack",
       "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
@@ -47,23 +59,23 @@
       "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
       "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
       "published": "Fri, 09 Oct 2026 13:50:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack at IDC Frontier disrupts services around nation",
-      "url": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
-      "published": "Fri, 09 Oct 2026 11:23:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
-      "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
-      "published": "Thu, 08 Oct 2026 12:33:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
+      "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
+      "published": "Tue, 13 Oct 2026 13:00:46 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "ShinyHunters: Six Years of Cybercrime — Expert Analysis and Ransomware Group Perspectives",
+      "url": "https://databreaches.net/2026/10/13/shinyhunters-six-years-of-cybercrime-expert-analysis-and-ransomware-group-perspectives/",
+      "published": "Tue, 13 Oct 2026 12:43:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Australian patient data compromised in Icon Cancer Centre hack",
       "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
       "published": "Mon, 12 Oct 2026 13:46:34 +0000",
@@ -109,18 +121,6 @@
       "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
       "url": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
       "published": "Fri, 09 Oct 2026 13:50:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyberattack at IDC Frontier disrupts services around nation",
-      "url": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
-      "published": "Fri, 09 Oct 2026 11:23:16 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
-      "url": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
-      "published": "Thu, 08 Oct 2026 12:33:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "published": "Tue, 13 Oct 2026 12:44:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "published": "Tue, 13 Oct 2026 11:45:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "published": "Tue, 13 Oct 2026 11:20:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "published": "Tue, 13 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "published": "Tue, 13 Oct 2026 09:51:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
       "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
       "published": "Mon, 12 Oct 2026 16:13:52 -0400",
@@ -246,34 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "published": "Tue, 13 Oct 2026 21:48:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "published": "Tue, 13 Oct 2026 18:42:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "published": "Tue, 13 Oct 2026 17:27:06 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "published": "Fri, 09 Oct 2026 16:31:37 -0400",
-      "source": "BleepingComputer"
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "published": "Tue, 13 Oct 2026 16:39:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "published": "Fri, 09 Oct 2026 13:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "published": "Tue, 13 Oct 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
@@ -363,36 +393,6 @@
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
       "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
       "published": "Fri, 09 Oct 2026 23:15:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "published": "Fri, 09 Oct 2026 18:29:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "published": "Fri, 09 Oct 2026 17:51:51 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "published": "Tue, 13 Oct 2026 12:44:18 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "published": "Tue, 13 Oct 2026 11:45:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "published": "Tue, 13 Oct 2026 11:20:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "published": "Tue, 13 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "published": "Tue, 13 Oct 2026 09:51:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
       "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
       "published": "Mon, 12 Oct 2026 16:13:52 -0400",
@@ -578,34 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
-      "source": "BleepingComputer"
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "published": "Tue, 13 Oct 2026 21:48:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
-      "source": "BleepingComputer"
+      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "published": "Tue, 13 Oct 2026 18:42:32 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
-      "source": "BleepingComputer"
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "published": "Tue, 13 Oct 2026 17:27:06 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "published": "Fri, 09 Oct 2026 16:31:37 -0400",
-      "source": "BleepingComputer"
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "published": "Tue, 13 Oct 2026 16:39:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "published": "Fri, 09 Oct 2026 13:17:23 -0400",
-      "source": "BleepingComputer"
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "published": "Tue, 13 Oct 2026 16:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
@@ -695,36 +725,6 @@
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
       "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
       "published": "Fri, 09 Oct 2026 23:15:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "published": "Fri, 09 Oct 2026 18:29:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "published": "Fri, 09 Oct 2026 17:51:51 +0530",
       "source": "The Hacker News"
     },
     {
