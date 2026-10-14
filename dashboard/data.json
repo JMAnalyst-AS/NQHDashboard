@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:20:21.059329Z",
+  "generated_at": "2026-10-14T01:19:16.719478Z",
   "segment1": [
     {
       "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": "Tue, 13 Oct 2026 23:24:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
-      "source": "Krebs on Security"
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
@@ -267,12 +273,6 @@
       "title": "Yandex confirms service outage as users lose access to cloud files",
       "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
       "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "published": "Mon, 12 Oct 2026 14:51:59 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": "Tue, 13 Oct 2026 23:24:53 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
-      "source": "Krebs on Security"
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
@@ -599,12 +605,6 @@
       "title": "Yandex confirms service outage as users lose access to cloud files",
       "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
       "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "published": "Mon, 12 Oct 2026 14:51:59 -0400",
       "source": "BleepingComputer"
     },
     {
