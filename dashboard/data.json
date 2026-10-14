@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:27:44.208669Z",
+  "generated_at": "2026-10-14T20:54:02.310177Z",
   "segment1": [
     {
       "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes VPN issues caused by September Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
       "published": "Wed, 14 Oct 2026 10:27:01 -0400",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "published": "Tue, 13 Oct 2026 14:19:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "published": "Thu, 15 Oct 2026 00:08:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "published": "Tue, 13 Oct 2026 13:49:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "published": "Tue, 13 Oct 2026 12:44:18 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
@@ -375,24 +393,6 @@
       "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
       "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
       "published": "Tue, 13 Oct 2026 18:42:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "published": "Tue, 13 Oct 2026 17:27:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "published": "Tue, 13 Oct 2026 16:39:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "published": "Tue, 13 Oct 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft fixes VPN issues caused by September Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
       "published": "Wed, 14 Oct 2026 10:27:01 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "published": "Tue, 13 Oct 2026 14:19:44 -0400",
-      "source": "BleepingComputer"
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "published": "Thu, 15 Oct 2026 00:08:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "published": "Tue, 13 Oct 2026 13:49:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "published": "Tue, 13 Oct 2026 12:44:18 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
@@ -707,24 +725,6 @@
       "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
       "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
       "published": "Tue, 13 Oct 2026 18:42:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "published": "Tue, 13 Oct 2026 17:27:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "published": "Tue, 13 Oct 2026 16:39:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "published": "Tue, 13 Oct 2026 16:00:00 +0530",
       "source": "The Hacker News"
     },
     {
