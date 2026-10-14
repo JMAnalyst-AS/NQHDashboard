@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-14T06:30:14.862672Z",
+  "generated_at": "2026-10-14T12:17:02.144253Z",
   "segment1": [
+    {
+      "title": "Shipping firms and ports caught in mass cyber extortion claim",
+      "url": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
+      "published": "Wed, 14 Oct 2026 12:09:35 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach",
       "url": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
@@ -53,17 +59,17 @@
       "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
       "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
       "published": "Sat, 10 Oct 2026 11:57:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
-      "url": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
-      "published": "Sat, 10 Oct 2026 10:42:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Shipping firms and ports caught in mass cyber extortion claim",
+      "url": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
+      "published": "Wed, 14 Oct 2026 12:09:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach",
       "url": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
       "published": "Tue, 13 Oct 2026 20:49:32 +0000",
@@ -115,12 +121,6 @@
       "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
       "url": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
       "published": "Sat, 10 Oct 2026 11:57:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
-      "url": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
-      "published": "Sat, 10 Oct 2026 10:42:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "published": "Fri, 14 Aug 2026 11:24:35 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
@@ -264,16 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "published": "Mon, 12 Oct 2026 16:13:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "published": "Wed, 14 Oct 2026 16:49:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
@@ -369,30 +393,6 @@
       "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
       "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "published": "Tue, 13 Oct 2026 11:30:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": "Mon, 12 Oct 2026 20:46:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "published": "Mon, 12 Oct 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "published": "Mon, 12 Oct 2026 16:51:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "published": "Mon, 12 Oct 2026 16:06:56 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
       "published": "Tue, 13 Oct 2026 18:33:02 -0400",
@@ -596,16 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "published": "Mon, 12 Oct 2026 16:13:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "published": "Wed, 14 Oct 2026 16:49:02 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-      "source": "BleepingComputer"
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
@@ -701,30 +725,6 @@
       "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
       "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "published": "Tue, 13 Oct 2026 11:30:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": "Mon, 12 Oct 2026 20:46:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "published": "Mon, 12 Oct 2026 17:25:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "published": "Mon, 12 Oct 2026 16:51:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "published": "Mon, 12 Oct 2026 16:06:56 +0530",
       "source": "The Hacker News"
     },
     {
