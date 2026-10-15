@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-15T13:59:12.045619Z",
+  "generated_at": "2026-10-15T18:11:26.993760Z",
   "segment1": [
+    {
+      "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
+      "url": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
+      "published": "Thu, 15 Oct 2026 16:21:40 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
       "url": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
@@ -53,17 +59,17 @@
       "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
       "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
       "published": "Mon, 12 Oct 2026 13:19:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
-      "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
-      "published": "Mon, 12 Oct 2026 12:07:30 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
+      "url": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
+      "published": "Thu, 15 Oct 2026 16:21:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
       "url": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
       "published": "Thu, 15 Oct 2026 12:18:22 +0000",
@@ -115,12 +121,6 @@
       "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
       "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
       "published": "Mon, 12 Oct 2026 13:19:29 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
-      "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
-      "published": "Mon, 12 Oct 2026 12:07:30 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "published": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
@@ -264,19 +276,37 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "published": "Thu, 15 Oct 2026 21:31:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "published": "Thu, 15 Oct 2026 18:28:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "published": "Thu, 15 Oct 2026 17:58:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
       "published": "Thu, 15 Oct 2026 17:37:20 +0530",
       "source": "The Hacker News"
@@ -366,38 +396,8 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "published": "Wed, 14 Oct 2026 16:49:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "published": "Wed, 14 Oct 2026 11:22:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course, Despite ‘Furious’ Judge’s Order",
-      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course-despite-furious-judges-order/",
+      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
       "published": "Thu, 15 Oct 2026 10:33:36 +0000",
       "source": "bellingcat"
     },
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "published": "Thu, 15 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "published": "Thu, 15 Oct 2026 09:18:36 -0400",
@@ -596,19 +608,37 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "published": "Thu, 15 Oct 2026 21:31:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "published": "Thu, 15 Oct 2026 18:28:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "published": "Thu, 15 Oct 2026 17:58:13 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
       "published": "Thu, 15 Oct 2026 17:37:20 +0530",
       "source": "The Hacker News"
@@ -698,38 +728,8 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "published": "Wed, 14 Oct 2026 16:49:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "published": "Wed, 14 Oct 2026 11:22:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course, Despite ‘Furious’ Judge’s Order",
-      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course-despite-furious-judges-order/",
+      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
       "published": "Thu, 15 Oct 2026 10:33:36 +0000",
       "source": "bellingcat"
     },
