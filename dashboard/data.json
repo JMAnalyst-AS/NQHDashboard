@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:11:26.993760Z",
+  "generated_at": "2026-10-15T21:37:32.276145Z",
   "segment1": [
     {
       "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "published": "Thu, 15 Oct 2026 16:25:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "published": "Thu, 15 Oct 2026 15:48:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Arch Linux packages push malware with root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
       "published": "Thu, 15 Oct 2026 13:12:31 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "published": "Wed, 14 Oct 2026 09:12:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "published": "Fri, 16 Oct 2026 01:54:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "published": "Wed, 14 Oct 2026 08:58:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "published": "Fri, 16 Oct 2026 00:19:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
@@ -381,18 +393,6 @@
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
       "published": "Wed, 14 Oct 2026 18:00:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "published": "Wed, 14 Oct 2026 17:43:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "published": "Wed, 14 Oct 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "published": "Thu, 15 Oct 2026 16:25:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "published": "Thu, 15 Oct 2026 15:48:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake Arch Linux packages push malware with root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
       "published": "Thu, 15 Oct 2026 13:12:31 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "published": "Wed, 14 Oct 2026 09:12:52 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "published": "Fri, 16 Oct 2026 01:54:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "published": "Wed, 14 Oct 2026 08:58:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "published": "Fri, 16 Oct 2026 00:19:33 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
@@ -713,18 +725,6 @@
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
       "published": "Wed, 14 Oct 2026 18:00:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "published": "Wed, 14 Oct 2026 17:43:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "published": "Wed, 14 Oct 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
