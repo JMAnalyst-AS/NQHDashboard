@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-15T08:32:48.807921Z",
+  "generated_at": "2026-10-15T13:59:12.045619Z",
   "segment1": [
+    {
+      "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
+      "url": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
+      "published": "Thu, 15 Oct 2026 12:18:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
+      "url": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
+      "published": "Thu, 15 Oct 2026 12:18:13 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
       "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
@@ -47,23 +59,23 @@
       "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
       "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
       "published": "Mon, 12 Oct 2026 12:07:30 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
-      "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
-      "published": "Sun, 11 Oct 2026 13:51:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "“123456” password used in massive Danish CPR data breach",
-      "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "published": "Sat, 10 Oct 2026 20:42:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
+      "url": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
+      "published": "Thu, 15 Oct 2026 12:18:22 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
+      "url": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
+      "published": "Thu, 15 Oct 2026 12:18:13 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
       "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
       "published": "Wed, 14 Oct 2026 15:09:36 +0000",
@@ -109,18 +121,6 @@
       "title": "Co-Creator of Dark Web Marketplace Sentenced to 40 Years in Federal Prison",
       "url": "https://databreaches.net/2026/10/12/co-creator-of-dark-web-marketplace-sentenced-to-40-years-in-federal-prison/",
       "published": "Mon, 12 Oct 2026 12:07:30 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
-      "url": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
-      "published": "Sun, 11 Oct 2026 13:51:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "“123456” password used in massive Danish CPR data breach",
-      "url": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "published": "Sat, 10 Oct 2026 20:42:22 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "published": "Thu, 15 Oct 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "published": "Thu, 15 Oct 2026 07:55:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "published": "Thu, 15 Oct 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
       "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
       "published": "Thu, 15 Oct 2026 04:06:47 -0400",
@@ -258,27 +276,51 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "published": "Tue, 13 Oct 2026 17:33:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "published": "Thu, 15 Oct 2026 17:37:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "published": "Tue, 13 Oct 2026 17:16:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "published": "Tue, 13 Oct 2026 15:56:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "published": "Thu, 15 Oct 2026 17:16:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "Thu, 15 Oct 2026 11:47:58 +0530",
+      "published": "Thu, 15 Oct 2026 17:16:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "published": "Thu, 15 Oct 2026 16:34:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "published": "Thu, 15 Oct 2026 16:12:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": "Thu, 15 Oct 2026 12:37:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": "Thu, 15 Oct 2026 12:13:08 +0530",
       "source": "The Hacker News"
     },
     {
@@ -354,46 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "published": "Wed, 14 Oct 2026 10:04:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "published": "Wed, 14 Oct 2026 07:29:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "published": "Tue, 13 Oct 2026 23:50:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "published": "Tue, 13 Oct 2026 23:33:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "published": "Tue, 13 Oct 2026 23:03:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "published": "Tue, 13 Oct 2026 22:58:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "published": "Tue, 13 Oct 2026 21:48:18 +0530",
-      "source": "The Hacker News"
+      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course, Despite ‘Furious’ Judge’s Order",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course-despite-furious-judges-order/",
+      "published": "Thu, 15 Oct 2026 10:33:36 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
@@ -447,12 +453,6 @@
       "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
       "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
       "published": "Sat, 01 Aug 2026 11:03:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
-      "url": "https://www.bellingcat.com/news/2026/07/30/will-ronaldo-cry-world-cup-fans-bet-billions-through-prediction-markets/",
-      "published": "Thu, 30 Jul 2026 11:17:38 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "published": "Thu, 15 Oct 2026 09:18:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "published": "Thu, 15 Oct 2026 07:55:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "published": "Thu, 15 Oct 2026 05:10:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
       "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
       "published": "Thu, 15 Oct 2026 04:06:47 -0400",
@@ -590,27 +608,51 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "published": "Tue, 13 Oct 2026 17:33:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "published": "Thu, 15 Oct 2026 17:37:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "published": "Tue, 13 Oct 2026 17:16:34 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "published": "Tue, 13 Oct 2026 15:56:09 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "published": "Thu, 15 Oct 2026 17:16:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "Thu, 15 Oct 2026 11:47:58 +0530",
+      "published": "Thu, 15 Oct 2026 17:16:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "published": "Thu, 15 Oct 2026 16:34:35 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "published": "Thu, 15 Oct 2026 16:12:16 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": "Thu, 15 Oct 2026 12:37:05 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": "Thu, 15 Oct 2026 12:13:08 +0530",
       "source": "The Hacker News"
     },
     {
@@ -686,46 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "published": "Wed, 14 Oct 2026 10:04:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "published": "Wed, 14 Oct 2026 07:29:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "published": "Tue, 13 Oct 2026 23:50:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "published": "Tue, 13 Oct 2026 23:33:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "published": "Tue, 13 Oct 2026 23:03:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "published": "Tue, 13 Oct 2026 22:58:50 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "published": "Tue, 13 Oct 2026 21:48:18 +0530",
-      "source": "The Hacker News"
+      "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course, Despite ‘Furious’ Judge’s Order",
+      "url": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course-despite-furious-judges-order/",
+      "published": "Thu, 15 Oct 2026 10:33:36 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
@@ -779,12 +785,6 @@
       "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
       "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
       "published": "Sat, 01 Aug 2026 11:03:00 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
-      "url": "https://www.bellingcat.com/news/2026/07/30/will-ronaldo-cry-world-cup-fans-bet-billions-through-prediction-markets/",
-      "published": "Thu, 30 Jul 2026 11:17:38 +0000",
       "source": "bellingcat"
     }
   ]
