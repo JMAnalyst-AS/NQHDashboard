@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-16T14:34:00.248517Z",
+  "generated_at": "2026-10-16T18:38:05.751880Z",
   "segment1": [
+    {
+      "title": "Russian man linked to deadly NHS contractor hack arrested",
+      "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
+      "published": "Fri, 16 Oct 2026 17:45:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "url": "https://databreaches.net/2026/10/16/moscow-police-detain-suspected-datasuckers-hackers-linked-to-breaches-in-ukraine-and-russia/",
+      "published": "Fri, 16 Oct 2026 17:45:02 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "KR: NHIS Employee Sold Data, Victims Uninformed for Three Months",
       "url": "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/",
@@ -47,23 +59,23 @@
       "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
       "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
       "published": "Tue, 13 Oct 2026 13:00:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters: Six Years of Cybercrime — Expert Analysis and Ransomware Group Perspectives",
-      "url": "https://databreaches.net/2026/10/13/shinyhunters-six-years-of-cybercrime-expert-analysis-and-ransomware-group-perspectives/",
-      "published": "Tue, 13 Oct 2026 12:43:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Australian patient data compromised in Icon Cancer Centre hack",
-      "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
-      "published": "Mon, 12 Oct 2026 13:46:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Russian man linked to deadly NHS contractor hack arrested",
+      "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
+      "published": "Fri, 16 Oct 2026 17:45:12 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "url": "https://databreaches.net/2026/10/16/moscow-police-detain-suspected-datasuckers-hackers-linked-to-breaches-in-ukraine-and-russia/",
+      "published": "Fri, 16 Oct 2026 17:45:02 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "KR: NHIS Employee Sold Data, Victims Uninformed for Three Months",
       "url": "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/",
       "published": "Fri, 16 Oct 2026 13:02:43 +0000",
@@ -109,18 +121,6 @@
       "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
       "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
       "published": "Tue, 13 Oct 2026 13:00:46 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ShinyHunters: Six Years of Cybercrime — Expert Analysis and Ransomware Group Perspectives",
-      "url": "https://databreaches.net/2026/10/13/shinyhunters-six-years-of-cybercrime-expert-analysis-and-ransomware-group-perspectives/",
-      "published": "Tue, 13 Oct 2026 12:43:12 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Australian patient data compromised in Icon Cancer Centre hack",
-      "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
-      "published": "Mon, 12 Oct 2026 13:46:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "published": "Wed, 14 Oct 2026 18:56:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "published": "Fri, 16 Oct 2026 23:18:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "published": "Fri, 16 Oct 2026 22:13:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "published": "Fri, 16 Oct 2026 21:46:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "published": "Fri, 16 Oct 2026 19:33:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
@@ -369,30 +393,6 @@
       "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
       "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
       "published": "Thu, 15 Oct 2026 16:12:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "published": "Thu, 15 Oct 2026 12:37:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "published": "Thu, 15 Oct 2026 12:13:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "published": "Thu, 15 Oct 2026 00:08:56 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
       "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
       "published": "Fri, 16 Oct 2026 09:50:59 -0400",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "published": "Wed, 14 Oct 2026 18:56:47 -0400",
-      "source": "BleepingComputer"
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "published": "Fri, 16 Oct 2026 23:18:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "published": "Fri, 16 Oct 2026 22:13:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "published": "Fri, 16 Oct 2026 21:46:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "published": "Fri, 16 Oct 2026 19:33:04 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
@@ -701,30 +725,6 @@
       "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
       "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
       "published": "Thu, 15 Oct 2026 16:12:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "published": "Thu, 15 Oct 2026 12:37:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "published": "Thu, 15 Oct 2026 12:13:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "published": "Thu, 15 Oct 2026 00:08:56 +0530",
       "source": "The Hacker News"
     },
     {
