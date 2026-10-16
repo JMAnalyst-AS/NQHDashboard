@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:49:09.003174Z",
+  "generated_at": "2026-10-16T09:30:45.835067Z",
   "segment1": [
     {
       "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "published": "Fri, 16 Oct 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "published": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "published": "Fri, 16 Oct 2026 02:18:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "published": "Thu, 15 Oct 2026 16:25:04 -0400",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "published": "Wed, 14 Oct 2026 10:27:01 -0400",
-      "source": "BleepingComputer"
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "published": "Wed, 14 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
@@ -375,24 +393,6 @@
       "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
       "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
       "published": "Wed, 14 Oct 2026 23:08:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "published": "Wed, 14 Oct 2026 22:04:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": "Wed, 14 Oct 2026 18:00:42 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "published": "Fri, 16 Oct 2026 04:44:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "published": "Fri, 16 Oct 2026 03:37:35 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "published": "Fri, 16 Oct 2026 02:18:08 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "published": "Thu, 15 Oct 2026 16:25:04 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
-      "source": "BleepingComputer"
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "published": "Wed, 14 Oct 2026 10:27:01 -0400",
-      "source": "BleepingComputer"
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "published": "Wed, 14 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
@@ -707,24 +725,6 @@
       "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
       "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
       "published": "Wed, 14 Oct 2026 23:08:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "published": "Wed, 14 Oct 2026 22:04:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": "Wed, 14 Oct 2026 18:00:42 +0530",
       "source": "The Hacker News"
     },
     {
