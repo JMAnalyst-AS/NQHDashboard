@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-16T09:30:45.835067Z",
+  "generated_at": "2026-10-16T14:34:00.248517Z",
   "segment1": [
+    {
+      "title": "KR: NHIS Employee Sold Data, Victims Uninformed for Three Months",
+      "url": "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/",
+      "published": "Fri, 16 Oct 2026 13:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
       "url": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
@@ -53,17 +59,17 @@
       "title": "Australian patient data compromised in Icon Cancer Centre hack",
       "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
       "published": "Mon, 12 Oct 2026 13:46:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
-      "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
-      "published": "Mon, 12 Oct 2026 13:19:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "KR: NHIS Employee Sold Data, Victims Uninformed for Three Months",
+      "url": "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/",
+      "published": "Fri, 16 Oct 2026 13:02:43 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
       "url": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
       "published": "Thu, 15 Oct 2026 16:21:40 +0000",
@@ -115,12 +121,6 @@
       "title": "Australian patient data compromised in Icon Cancer Centre hack",
       "url": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
       "published": "Mon, 12 Oct 2026 13:46:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown (2)",
-      "url": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
-      "published": "Mon, 12 Oct 2026 13:19:29 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "published": "Fri, 16 Oct 2026 09:50:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "published": "Fri, 16 Oct 2026 08:01:29 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: October Windows update may break Smart App Control",
@@ -264,16 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -387,12 +393,6 @@
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "published": "Thu, 15 Oct 2026 00:08:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "published": "Fri, 16 Oct 2026 09:50:59 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "published": "Fri, 16 Oct 2026 08:01:29 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft: October Windows update may break Smart App Control",
       "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
       "published": "Fri, 16 Oct 2026 04:44:22 -0400",
@@ -596,16 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
-      "source": "BleepingComputer"
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -719,12 +725,6 @@
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "published": "Thu, 15 Oct 2026 00:08:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
       "source": "The Hacker News"
     },
     {
