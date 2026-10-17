@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-17T13:05:17.594769Z",
+  "generated_at": "2026-10-17T16:34:16.869707Z",
   "segment1": [
+    {
+      "title": "Hack exposes data on millions of California students",
+      "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
+      "published": "Sat, 17 Oct 2026 16:19:59 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Russian man linked to deadly NHS contractor hack arrested",
       "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
@@ -53,17 +59,17 @@
       "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach (Disputed)",
       "url": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
       "published": "Tue, 13 Oct 2026 20:49:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
-      "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
-      "published": "Tue, 13 Oct 2026 13:00:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hack exposes data on millions of California students",
+      "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
+      "published": "Sat, 17 Oct 2026 16:19:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Russian man linked to deadly NHS contractor hack arrested",
       "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
       "published": "Fri, 16 Oct 2026 17:45:12 +0000",
@@ -115,12 +121,6 @@
       "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach (Disputed)",
       "url": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
       "published": "Tue, 13 Oct 2026 20:49:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
-      "url": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
-      "published": "Tue, 13 Oct 2026 13:00:46 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "published": "Sat, 17 Oct 2026 11:18:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "published": "Sat, 17 Oct 2026 10:32:48 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
@@ -261,18 +273,6 @@
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "published": "Thu, 15 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "published": "Thu, 15 Oct 2026 07:55:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "published": "Thu, 15 Oct 2026 05:10:20 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "published": "Sat, 17 Oct 2026 11:18:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "published": "Sat, 17 Oct 2026 10:32:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "published": "Fri, 16 Oct 2026 16:00:59 -0400",
@@ -593,18 +605,6 @@
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "published": "Thu, 15 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "published": "Thu, 15 Oct 2026 07:55:38 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "published": "Thu, 15 Oct 2026 05:10:20 -0400",
       "source": "BleepingComputer"
     },
     {
