@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-18T08:15:03.187302Z",
+  "generated_at": "2026-10-18T12:43:30.871115Z",
   "segment1": [
+    {
+      "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
+      "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
+      "published": "Sun, 18 Oct 2026 11:07:21 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach",
       "url": "https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/",
@@ -53,17 +59,17 @@
       "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
       "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
       "published": "Wed, 14 Oct 2026 15:09:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Shipping firms and ports caught in mass cyber extortion claim",
-      "url": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
-      "published": "Wed, 14 Oct 2026 12:09:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
+      "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
+      "published": "Sun, 18 Oct 2026 11:07:21 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach",
       "url": "https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/",
       "published": "Sat, 17 Oct 2026 22:22:10 +0000",
@@ -115,12 +121,6 @@
       "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
       "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
       "published": "Wed, 14 Oct 2026 15:09:36 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Shipping firms and ports caught in mass cyber extortion claim",
-      "url": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
-      "published": "Wed, 14 Oct 2026 12:09:35 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -276,6 +276,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": "Sun, 18 Oct 2026 13:53:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
       "published": "Sat, 17 Oct 2026 16:41:56 +0530",
@@ -387,12 +393,6 @@
       "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
       "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
       "published": "Thu, 15 Oct 2026 17:16:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "Thu, 15 Oct 2026 17:16:49 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,12 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": "Sun, 18 Oct 2026 13:53:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
       "published": "Sat, 17 Oct 2026 16:41:56 +0530",
@@ -719,12 +725,6 @@
       "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
       "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
       "published": "Thu, 15 Oct 2026 17:16:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "Thu, 15 Oct 2026 17:16:49 +0530",
       "source": "The Hacker News"
     },
     {
