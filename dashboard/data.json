@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-18T12:43:30.871115Z",
+  "generated_at": "2026-10-18T16:22:35.921111Z",
   "segment1": [
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "url": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "published": "Sun, 18 Oct 2026 12:26:09 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
       "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
@@ -53,17 +59,17 @@
       "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
       "url": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
       "published": "Thu, 15 Oct 2026 12:18:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
-      "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
-      "published": "Wed, 14 Oct 2026 15:09:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "url": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "published": "Sun, 18 Oct 2026 12:26:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
       "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
       "published": "Sun, 18 Oct 2026 11:07:21 +0000",
@@ -115,12 +121,6 @@
       "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
       "url": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
       "published": "Thu, 15 Oct 2026 12:18:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
-      "url": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
-      "published": "Wed, 14 Oct 2026 15:09:36 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "published": "Sun, 18 Oct 2026 10:23:16 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
@@ -267,12 +273,6 @@
       "title": "Is AI pentesting as good as a human pentester?",
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "published": "Thu, 15 Oct 2026 09:18:36 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "published": "Sun, 18 Oct 2026 10:23:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "published": "Sat, 17 Oct 2026 11:18:51 -0400",
@@ -599,12 +605,6 @@
       "title": "Is AI pentesting as good as a human pentester?",
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "published": "Thu, 15 Oct 2026 09:18:36 -0400",
       "source": "BleepingComputer"
     },
     {
