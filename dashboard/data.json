@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:37:59.910914Z",
+  "generated_at": "2026-10-19T16:48:34.619354Z",
   "segment1": [
     {
       "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": "Mon, 19 Oct 2026 13:48:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "published": "Wed, 14 Oct 2026 14:22:49 +0000",
@@ -180,10 +186,28 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "published": "Mon, 19 Oct 2026 10:55:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the Underground Market for Know Your Client Services",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "published": "Mon, 19 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "published": "Mon, 19 Oct 2026 09:49:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "published": "Mon, 19 Oct 2026 08:44:44 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
@@ -252,28 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "published": "Thu, 15 Oct 2026 16:25:04 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "published": "Mon, 19 Oct 2026 19:44:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "published": "Thu, 15 Oct 2026 15:48:43 -0400",
-      "source": "BleepingComputer"
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "published": "Mon, 19 Oct 2026 18:35:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
-      "source": "BleepingComputer"
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "published": "Mon, 19 Oct 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "published": "Mon, 19 Oct 2026 15:36:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
@@ -369,30 +393,6 @@
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
       "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
       "published": "Thu, 15 Oct 2026 21:31:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "published": "Thu, 15 Oct 2026 18:28:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": "Thu, 15 Oct 2026 17:58:13 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": "Mon, 19 Oct 2026 13:48:56 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "published": "Wed, 14 Oct 2026 14:22:49 +0000",
@@ -512,10 +518,28 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
-      "source": "Krebs on Security"
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "published": "Mon, 19 Oct 2026 10:55:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Inside the Underground Market for Know Your Client Services",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "published": "Mon, 19 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "published": "Mon, 19 Oct 2026 09:49:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "published": "Mon, 19 Oct 2026 08:44:44 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
@@ -584,28 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "published": "Thu, 15 Oct 2026 16:25:04 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "published": "Mon, 19 Oct 2026 19:44:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "published": "Thu, 15 Oct 2026 15:48:43 -0400",
-      "source": "BleepingComputer"
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "published": "Mon, 19 Oct 2026 18:35:45 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
-      "source": "BleepingComputer"
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "published": "Mon, 19 Oct 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
-      "source": "BleepingComputer"
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "published": "Mon, 19 Oct 2026 15:36:40 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
@@ -701,30 +725,6 @@
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
       "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
       "published": "Thu, 15 Oct 2026 21:31:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "published": "Thu, 15 Oct 2026 18:28:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": "Thu, 15 Oct 2026 17:58:13 +0530",
       "source": "The Hacker News"
     },
     {
