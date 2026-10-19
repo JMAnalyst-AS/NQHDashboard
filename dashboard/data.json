@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:30:34.990917Z",
+  "generated_at": "2026-10-19T09:37:59.910914Z",
   "segment1": [
     {
       "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "published": "Mon, 19 Oct 2026 04:58:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "published": "Sun, 18 Oct 2026 10:23:16 -0400",
@@ -270,10 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -381,18 +393,6 @@
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
       "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
       "published": "Thu, 15 Oct 2026 17:58:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "published": "Thu, 15 Oct 2026 17:37:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "published": "Thu, 15 Oct 2026 17:16:59 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "published": "Mon, 19 Oct 2026 04:58:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "published": "Sun, 18 Oct 2026 10:23:16 -0400",
@@ -602,10 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -713,18 +725,6 @@
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
       "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
       "published": "Thu, 15 Oct 2026 17:58:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "published": "Thu, 15 Oct 2026 17:37:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "published": "Thu, 15 Oct 2026 17:16:59 +0530",
       "source": "The Hacker News"
     },
     {
