@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-20T15:36:40.052960Z",
+  "generated_at": "2026-10-20T19:50:30.679290Z",
   "segment1": [
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://databreaches.net/2026/10/20/qilin-and-inc-ransomware-groups-exploit-palo-alto-networks-flaw-to-bypass-mfa/",
+      "published": "Tue, 20 Oct 2026 16:08:24 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Welsh firms ‘Password1’ and ‘Test 2’ fails led to hackers stealing children’s data",
       "url": "https://databreaches.net/2026/10/20/welsh-firms-password1-and-test-2-fails-led-to-hackers-stealing-childrens-data/",
@@ -53,17 +59,17 @@
       "title": "Hack exposes data on millions of California students",
       "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
       "published": "Sat, 17 Oct 2026 16:19:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Russian man linked to deadly NHS contractor hack arrested",
-      "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
-      "published": "Fri, 16 Oct 2026 17:45:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://databreaches.net/2026/10/20/qilin-and-inc-ransomware-groups-exploit-palo-alto-networks-flaw-to-bypass-mfa/",
+      "published": "Tue, 20 Oct 2026 16:08:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Welsh firms ‘Password1’ and ‘Test 2’ fails led to hackers stealing children’s data",
       "url": "https://databreaches.net/2026/10/20/welsh-firms-password1-and-test-2-fails-led-to-hackers-stealing-childrens-data/",
       "published": "Tue, 20 Oct 2026 13:28:52 +0000",
@@ -115,12 +121,6 @@
       "title": "Hack exposes data on millions of California students",
       "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
       "published": "Sat, 17 Oct 2026 16:19:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Russian man linked to deadly NHS contractor hack arrested",
-      "url": "https://databreaches.net/2026/10/16/russian-man-linked-to-deadly-nhs-contractor-hack-arrested/",
-      "published": "Fri, 16 Oct 2026 17:45:12 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
       "published": "Tue, 01 Sep 2026 22:40:28 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "published": "Tue, 20 Oct 2026 14:11:03 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "DHS bans DeepSeek products across US federal civilian agencies",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "published": "Mon, 19 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "published": "Tue, 20 Oct 2026 22:39:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "Mon, 19 Oct 2026 09:49:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "published": "Tue, 20 Oct 2026 21:08:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "published": "Tue, 20 Oct 2026 21:02:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
@@ -375,24 +393,6 @@
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
       "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
       "published": "Mon, 19 Oct 2026 15:36:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": "Sun, 18 Oct 2026 13:53:02 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "published": "Tue, 20 Oct 2026 14:11:03 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "DHS bans DeepSeek products across US federal civilian agencies",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "published": "Tue, 20 Oct 2026 10:19:05 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "published": "Mon, 19 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "published": "Tue, 20 Oct 2026 22:39:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "Mon, 19 Oct 2026 09:49:24 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "published": "Tue, 20 Oct 2026 21:08:52 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "published": "Tue, 20 Oct 2026 21:02:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
@@ -707,24 +725,6 @@
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
       "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
       "published": "Mon, 19 Oct 2026 15:36:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": "Sun, 18 Oct 2026 13:53:02 +0530",
       "source": "The Hacker News"
     },
     {
