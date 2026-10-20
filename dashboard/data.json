@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:41:38.236457Z",
+  "generated_at": "2026-10-20T10:59:26.033840Z",
   "segment1": [
     {
       "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "published": "Tue, 20 Oct 2026 05:46:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
       "published": "Mon, 19 Oct 2026 17:49:48 -0400",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "published": "Tue, 20 Oct 2026 13:51:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
@@ -375,24 +393,6 @@
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
       "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
       "published": "Fri, 16 Oct 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "published": "Tue, 20 Oct 2026 05:46:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
       "published": "Mon, 19 Oct 2026 17:49:48 -0400",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "published": "Tue, 20 Oct 2026 13:51:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
@@ -707,24 +725,6 @@
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
       "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
       "published": "Fri, 16 Oct 2026 17:00:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
       "source": "The Hacker News"
     },
     {
