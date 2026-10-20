@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:50:30.679290Z",
+  "generated_at": "2026-10-20T22:56:23.222364Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zeabur shutting down after second security breach in two months",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "published": "Tue, 20 Oct 2026 15:33:02 -0400",
@@ -267,12 +273,6 @@
       "title": "OpenCode hack exposes API keys amid AI distillation attacks",
       "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "published": "Mon, 19 Oct 2026 13:27:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "published": "Mon, 19 Oct 2026 10:55:23 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zeabur shutting down after second security breach in two months",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "published": "Tue, 20 Oct 2026 15:33:02 -0400",
@@ -599,12 +605,6 @@
       "title": "OpenCode hack exposes API keys amid AI distillation attacks",
       "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "published": "Mon, 19 Oct 2026 13:27:15 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "published": "Mon, 19 Oct 2026 10:55:23 -0400",
       "source": "BleepingComputer"
     },
     {
