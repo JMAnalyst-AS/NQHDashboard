@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:20:34.747801Z",
+  "generated_at": "2026-10-21T12:10:37.482587Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "published": "Wed, 21 Oct 2026 06:14:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
       "published": "Tue, 20 Oct 2026 21:01:50 -0400",
@@ -264,21 +276,57 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "published": "Mon, 19 Oct 2026 17:24:51 -0400",
-      "source": "BleepingComputer"
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "published": "Wed, 21 Oct 2026 16:06:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "published": "Mon, 19 Oct 2026 15:40:58 -0400",
-      "source": "BleepingComputer"
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "published": "Wed, 21 Oct 2026 16:02:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "published": "Wed, 21 Oct 2026 16:00:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "published": "Wed, 21 Oct 2026 10:27:50 +0530",
+      "published": "Wed, 21 Oct 2026 14:35:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "published": "Wed, 21 Oct 2026 14:31:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "published": "Wed, 21 Oct 2026 13:34:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "published": "Wed, 21 Oct 2026 13:14:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "published": "Wed, 21 Oct 2026 12:56:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "published": "Wed, 21 Oct 2026 11:35:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -345,54 +393,6 @@
       "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
       "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
       "published": "Tue, 20 Oct 2026 13:51:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "published": "Tue, 20 Oct 2026 09:35:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "published": "Mon, 19 Oct 2026 23:02:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "published": "Mon, 19 Oct 2026 21:58:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "published": "Mon, 19 Oct 2026 19:44:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "published": "Mon, 19 Oct 2026 18:35:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "published": "Mon, 19 Oct 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "published": "Wed, 21 Oct 2026 06:14:53 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
       "published": "Tue, 20 Oct 2026 21:01:50 -0400",
@@ -596,21 +608,57 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "published": "Mon, 19 Oct 2026 17:24:51 -0400",
-      "source": "BleepingComputer"
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "published": "Wed, 21 Oct 2026 16:06:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "published": "Mon, 19 Oct 2026 15:40:58 -0400",
-      "source": "BleepingComputer"
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "published": "Wed, 21 Oct 2026 16:02:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "published": "Wed, 21 Oct 2026 16:00:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "published": "Wed, 21 Oct 2026 10:27:50 +0530",
+      "published": "Wed, 21 Oct 2026 14:35:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "published": "Wed, 21 Oct 2026 14:31:12 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "published": "Wed, 21 Oct 2026 13:34:17 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "published": "Wed, 21 Oct 2026 13:14:22 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "published": "Wed, 21 Oct 2026 12:56:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "published": "Wed, 21 Oct 2026 11:35:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -677,54 +725,6 @@
       "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
       "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
       "published": "Tue, 20 Oct 2026 13:51:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "published": "Tue, 20 Oct 2026 09:35:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "published": "Mon, 19 Oct 2026 23:02:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "published": "Mon, 19 Oct 2026 21:58:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "published": "Mon, 19 Oct 2026 19:44:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "published": "Mon, 19 Oct 2026 18:35:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "published": "Mon, 19 Oct 2026 17:20:00 +0530",
       "source": "The Hacker News"
     },
     {
