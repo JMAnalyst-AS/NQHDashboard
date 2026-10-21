@@ -1,129 +1,7 @@
 {
-  "generated_at": "2026-10-21T17:31:43.531982Z",
-  "segment1": [
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://databreaches.net/2026/10/20/qilin-and-inc-ransomware-groups-exploit-palo-alto-networks-flaw-to-bypass-mfa/",
-      "published": "Tue, 20 Oct 2026 16:08:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Welsh firms ‘Password1’ and ‘Test 2’ fails led to hackers stealing children’s data",
-      "url": "https://databreaches.net/2026/10/20/welsh-firms-password1-and-test-2-fails-led-to-hackers-stealing-childrens-data/",
-      "published": "Tue, 20 Oct 2026 13:28:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Pryx – Four Dead in Cairo, a Cybercrime Past and…",
-      "url": "https://databreaches.net/2026/10/20/pryx-four-dead-in-cairo-a-cybercrime-past-and/",
-      "published": "Tue, 20 Oct 2026 13:26:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach",
-      "url": "https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/",
-      "published": "Tue, 20 Oct 2026 13:17:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-      "url": "https://databreaches.net/2026/10/20/u-s-bans-deepseek-from-government-agency-systems-amid-ai-rift-with-china/",
-      "published": "Tue, 20 Oct 2026 13:17:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio",
-      "url": "https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/",
-      "published": "Tue, 20 Oct 2026 12:45:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-      "url": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-      "published": "Sun, 18 Oct 2026 12:26:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
-      "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
-      "published": "Sun, 18 Oct 2026 11:07:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach",
-      "url": "https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/",
-      "published": "Sat, 17 Oct 2026 22:22:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hack exposes data on millions of California students",
-      "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
-      "published": "Sat, 17 Oct 2026 16:19:59 +0000",
-      "source": "DataBreaches.Net"
-    }
-  ],
-  "hacks": [
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://databreaches.net/2026/10/20/qilin-and-inc-ransomware-groups-exploit-palo-alto-networks-flaw-to-bypass-mfa/",
-      "published": "Tue, 20 Oct 2026 16:08:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Welsh firms ‘Password1’ and ‘Test 2’ fails led to hackers stealing children’s data",
-      "url": "https://databreaches.net/2026/10/20/welsh-firms-password1-and-test-2-fails-led-to-hackers-stealing-childrens-data/",
-      "published": "Tue, 20 Oct 2026 13:28:52 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Pryx – Four Dead in Cairo, a Cybercrime Past and…",
-      "url": "https://databreaches.net/2026/10/20/pryx-four-dead-in-cairo-a-cybercrime-past-and/",
-      "published": "Tue, 20 Oct 2026 13:26:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Attorney General Tong Announces $625,000 Settlement with Frontier Over Data Breach",
-      "url": "https://databreaches.net/2026/10/20/attorney-general-tong-announces-625000-settlement-with-frontier-over-data-breach/",
-      "published": "Tue, 20 Oct 2026 13:17:31 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-      "url": "https://databreaches.net/2026/10/20/u-s-bans-deepseek-from-government-agency-systems-amid-ai-rift-with-china/",
-      "published": "Tue, 20 Oct 2026 13:17:19 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio",
-      "url": "https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/",
-      "published": "Tue, 20 Oct 2026 12:45:39 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-      "url": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-      "published": "Sun, 18 Oct 2026 12:26:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
-      "url": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
-      "published": "Sun, 18 Oct 2026 11:07:21 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach",
-      "url": "https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/",
-      "published": "Sat, 17 Oct 2026 22:22:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hack exposes data on millions of California students",
-      "url": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
-      "published": "Sat, 17 Oct 2026 16:19:59 +0000",
-      "source": "DataBreaches.Net"
-    }
-  ],
+  "generated_at": "2026-10-21T21:18:49.025658Z",
+  "segment1": [],
+  "hacks": [],
   "segment3": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -184,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI agents disabled safety monitoring, one lied about it",
@@ -264,16 +154,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "published": "Tue, 20 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "published": "Thu, 22 Oct 2026 00:27:34 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "published": "Tue, 20 Oct 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "published": "Wed, 21 Oct 2026 23:31:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
@@ -381,18 +271,6 @@
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "published": "Tue, 20 Oct 2026 19:37:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "published": "Tue, 20 Oct 2026 18:29:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "published": "Tue, 20 Oct 2026 17:11:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI agents disabled safety monitoring, one lied about it",
       "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
       "published": "Wed, 21 Oct 2026 12:26:53 -0400",
@@ -596,16 +486,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "published": "Tue, 20 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "published": "Thu, 22 Oct 2026 00:27:34 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "published": "Tue, 20 Oct 2026 08:16:32 -0400",
-      "source": "BleepingComputer"
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "published": "Wed, 21 Oct 2026 23:31:57 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
@@ -713,18 +603,6 @@
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "published": "Tue, 20 Oct 2026 19:37:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "published": "Tue, 20 Oct 2026 18:29:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "published": "Tue, 20 Oct 2026 17:11:06 +0530",
       "source": "The Hacker News"
     },
     {
