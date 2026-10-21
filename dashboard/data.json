@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:56:23.222364Z",
+  "generated_at": "2026-10-21T01:23:21.082316Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "published": "Tue, 20 Oct 2026 16:56:43 -0400",
@@ -261,18 +273,6 @@
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "published": "Mon, 19 Oct 2026 15:40:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "published": "Mon, 19 Oct 2026 14:51:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "published": "Mon, 19 Oct 2026 13:27:15 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "published": "Tue, 20 Oct 2026 16:56:43 -0400",
@@ -593,18 +605,6 @@
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "published": "Mon, 19 Oct 2026 15:40:58 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "published": "Mon, 19 Oct 2026 14:51:13 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "published": "Mon, 19 Oct 2026 13:27:15 -0400",
       "source": "BleepingComputer"
     },
     {
