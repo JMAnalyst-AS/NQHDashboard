@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:26:17.395617Z",
+  "generated_at": "2026-10-22T15:29:24.726203Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,24 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "published": "Thu, 22 Oct 2026 07:41:48 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
@@ -136,22 +154,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
-      "source": "BleepingComputer"
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
@@ -250,28 +274,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "published": "Wed, 21 Oct 2026 14:31:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "published": "Wed, 21 Oct 2026 13:34:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "published": "Wed, 21 Oct 2026 13:14:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "published": "Wed, 21 Oct 2026 12:56:49 +0530",
-      "source": "The Hacker News"
+      "title": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
+      "url": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+      "published": "Thu, 22 Oct 2026 11:06:57 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
@@ -325,12 +331,6 @@
       "title": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
       "url": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
       "published": "Thu, 20 Aug 2026 20:50:42 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
-      "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
-      "published": "Sat, 01 Aug 2026 11:03:00 +0000",
       "source": "bellingcat"
     }
   ],
@@ -396,6 +396,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "published": "Thu, 22 Oct 2026 07:41:48 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
       "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "published": "Thu, 22 Oct 2026 04:27:11 -0400",
@@ -468,22 +486,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
-      "source": "BleepingComputer"
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
-      "source": "BleepingComputer"
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
-      "source": "BleepingComputer"
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
@@ -582,28 +606,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "published": "Wed, 21 Oct 2026 14:31:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "published": "Wed, 21 Oct 2026 13:34:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "published": "Wed, 21 Oct 2026 13:14:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "published": "Wed, 21 Oct 2026 12:56:49 +0530",
-      "source": "The Hacker News"
+      "title": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
+      "url": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+      "published": "Thu, 22 Oct 2026 11:06:57 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
@@ -657,12 +663,6 @@
       "title": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
       "url": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
       "published": "Thu, 20 Aug 2026 20:50:42 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
-      "url": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
-      "published": "Sat, 01 Aug 2026 11:03:00 +0000",
       "source": "bellingcat"
     }
   ]
