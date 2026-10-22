@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:23:11.428873Z",
+  "generated_at": "2026-10-22T22:36:56.426158Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
@@ -142,16 +154,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "published": "Wed, 21 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "published": "Wed, 21 Oct 2026 08:20:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
@@ -181,12 +193,6 @@
       "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
       "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
       "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -265,12 +271,6 @@
       "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
       "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
       "published": "Wed, 21 Oct 2026 17:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "published": "Wed, 21 Oct 2026 17:23:34 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
       "published": "Thu, 22 Oct 2026 15:12:51 -0400",
@@ -474,16 +486,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "published": "Wed, 21 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "published": "Wed, 21 Oct 2026 08:20:34 -0400",
-      "source": "BleepingComputer"
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
@@ -513,12 +525,6 @@
       "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
       "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
       "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -597,12 +603,6 @@
       "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
       "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
       "published": "Wed, 21 Oct 2026 17:35:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "published": "Wed, 21 Oct 2026 17:23:34 +0530",
       "source": "The Hacker News"
     },
     {
