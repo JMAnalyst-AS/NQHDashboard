@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:29:24.726203Z",
+  "generated_at": "2026-10-22T19:23:11.428873Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,24 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Machine speed attacks require machine speed detection and response",
@@ -136,22 +154,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "published": "Wed, 21 Oct 2026 06:14:53 -0400",
-      "source": "BleepingComputer"
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "published": "Thu, 22 Oct 2026 23:42:43 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "published": "Thu, 22 Oct 2026 22:31:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "published": "Thu, 22 Oct 2026 21:42:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
@@ -247,30 +271,6 @@
       "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
       "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
       "published": "Wed, 21 Oct 2026 17:23:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "published": "Wed, 21 Oct 2026 16:06:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "published": "Wed, 21 Oct 2026 16:02:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "published": "Wed, 21 Oct 2026 16:00:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "published": "Wed, 21 Oct 2026 14:35:17 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +396,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Machine speed attacks require machine speed detection and response",
       "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "published": "Thu, 22 Oct 2026 10:02:12 -0400",
@@ -468,22 +486,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "published": "Wed, 21 Oct 2026 06:14:53 -0400",
-      "source": "BleepingComputer"
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "published": "Thu, 22 Oct 2026 23:42:43 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
-      "source": "BleepingComputer"
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "published": "Thu, 22 Oct 2026 22:31:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "published": "Thu, 22 Oct 2026 21:42:31 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
@@ -579,30 +603,6 @@
       "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
       "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
       "published": "Wed, 21 Oct 2026 17:23:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "published": "Wed, 21 Oct 2026 16:06:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "published": "Wed, 21 Oct 2026 16:02:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "published": "Wed, 21 Oct 2026 16:00:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "published": "Wed, 21 Oct 2026 14:35:17 +0530",
       "source": "The Hacker News"
     },
     {
