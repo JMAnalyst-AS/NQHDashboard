@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:18:49.025658Z",
+  "generated_at": "2026-10-22T00:06:19.445396Z",
   "segment1": [],
   "hacks": [],
   "segment3": [
@@ -62,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
@@ -139,18 +151,6 @@
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
       "published": "Tue, 20 Oct 2026 14:11:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "published": "Tue, 20 Oct 2026 10:19:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "published": "Tue, 20 Oct 2026 09:51:00 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "published": "Wed, 21 Oct 2026 16:31:48 -0400",
@@ -471,18 +483,6 @@
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
       "published": "Tue, 20 Oct 2026 14:11:03 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "published": "Tue, 20 Oct 2026 10:19:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "published": "Tue, 20 Oct 2026 09:51:00 -0400",
       "source": "BleepingComputer"
     },
     {
