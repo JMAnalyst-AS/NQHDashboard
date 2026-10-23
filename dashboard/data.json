@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:36:40.066524Z",
+  "generated_at": "2026-10-23T20:12:34.133251Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "published": "Fri, 23 Oct 2026 11:38:05 -0400",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
-      "source": "BleepingComputer"
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
@@ -288,7 +306,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "published": "Fri, 23 Oct 2026 16:41:23 +0530",
       "source": "The Hacker News"
@@ -375,24 +393,6 @@
       "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
       "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
       "published": "Thu, 22 Oct 2026 13:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "published": "Thu, 22 Oct 2026 13:17:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "published": "Thu, 22 Oct 2026 12:08:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "published": "Thu, 22 Oct 2026 12:04:10 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "published": "Fri, 23 Oct 2026 11:38:05 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
-      "source": "BleepingComputer"
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
-      "source": "BleepingComputer"
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
-      "source": "BleepingComputer"
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
@@ -620,7 +638,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "published": "Fri, 23 Oct 2026 16:41:23 +0530",
       "source": "The Hacker News"
@@ -707,24 +725,6 @@
       "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
       "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
       "published": "Thu, 22 Oct 2026 13:58:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "published": "Thu, 22 Oct 2026 13:17:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "published": "Thu, 22 Oct 2026 12:08:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "published": "Thu, 22 Oct 2026 12:04:10 +0530",
       "source": "The Hacker News"
     },
     {
