@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:55:35.428155Z",
+  "generated_at": "2026-10-23T16:36:40.066524Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Railway warns devs to rotate secrets after potential breach",
       "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "published": "Thu, 22 Oct 2026 17:25:31 -0400",
@@ -258,25 +276,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "published": "Wed, 21 Oct 2026 10:07:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "published": "Fri, 23 Oct 2026 16:55:43 +0530",
       "source": "The Hacker News"
@@ -387,12 +393,6 @@
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
       "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
       "published": "Thu, 22 Oct 2026 12:04:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "published": "Thu, 22 Oct 2026 09:51:26 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Railway warns devs to rotate secrets after potential breach",
       "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "published": "Thu, 22 Oct 2026 17:25:31 -0400",
@@ -590,25 +608,13 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "published": "Wed, 21 Oct 2026 10:07:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "published": "Fri, 23 Oct 2026 16:55:43 +0530",
       "source": "The Hacker News"
@@ -719,12 +725,6 @@
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
       "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
       "published": "Thu, 22 Oct 2026 12:04:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "published": "Thu, 22 Oct 2026 09:51:26 +0530",
       "source": "The Hacker News"
     },
     {
