@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:51:38.672747Z",
+  "generated_at": "2026-10-24T15:28:03.323156Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "published": "Fri, 23 Oct 2026 16:55:05 -0400",
@@ -267,12 +273,6 @@
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "published": "Thu, 22 Oct 2026 09:09:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "published": "Thu, 22 Oct 2026 07:41:48 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "published": "Fri, 23 Oct 2026 16:55:05 -0400",
@@ -599,12 +605,6 @@
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "published": "Thu, 22 Oct 2026 09:09:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "published": "Thu, 22 Oct 2026 07:41:48 -0400",
       "source": "BleepingComputer"
     },
     {
