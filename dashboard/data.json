@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:54:24.995409Z",
+  "generated_at": "2026-10-24T11:51:38.672747Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -276,6 +276,36 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "published": "Sat, 24 Oct 2026 00:20:13 +0530",
@@ -363,36 +393,6 @@
       "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
       "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
       "published": "Thu, 22 Oct 2026 22:31:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "published": "Thu, 22 Oct 2026 21:42:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "published": "Thu, 22 Oct 2026 13:58:48 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,36 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "published": "Sat, 24 Oct 2026 00:20:13 +0530",
@@ -695,36 +725,6 @@
       "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
       "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
       "published": "Thu, 22 Oct 2026 22:31:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "published": "Thu, 22 Oct 2026 21:42:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "published": "Thu, 22 Oct 2026 13:58:48 +0530",
       "source": "The Hacker News"
     },
     {
