@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:25:32.981018Z",
+  "generated_at": "2026-10-25T19:52:02.923111Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "published": "Sun, 25 Oct 2026 12:24:29 +0530",
@@ -381,18 +393,6 @@
       "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
       "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
       "published": "Fri, 23 Oct 2026 00:35:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "published": "Thu, 22 Oct 2026 23:42:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "published": "Sun, 25 Oct 2026 12:24:29 +0530",
@@ -713,18 +725,6 @@
       "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
       "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
       "published": "Fri, 23 Oct 2026 00:35:17 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "published": "Thu, 22 Oct 2026 23:42:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
       "source": "The Hacker News"
     },
     {
