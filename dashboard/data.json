@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:34:42.926453Z",
+  "generated_at": "2026-10-25T17:25:32.981018Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "published": "Sat, 24 Oct 2026 10:17:32 -0400",
@@ -267,12 +273,6 @@
       "title": "Machine speed attacks require machine speed detection and response",
       "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "published": "Sat, 24 Oct 2026 10:17:32 -0400",
@@ -599,12 +605,6 @@
       "title": "Machine speed attacks require machine speed detection and response",
       "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
       "source": "BleepingComputer"
     },
     {
