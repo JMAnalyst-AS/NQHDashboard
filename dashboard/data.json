@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:47:59.229016Z",
+  "generated_at": "2026-10-26T23:01:57.019045Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": "Mon, 26 Oct 2026 17:08:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "published": "Mon, 26 Oct 2026 16:46:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "published": "Mon, 26 Oct 2026 15:26:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "published": "Mon, 26 Oct 2026 12:27:57 -0400",
@@ -252,28 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "published": "Mon, 26 Oct 2026 23:42:22 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
@@ -387,12 +393,6 @@
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
       "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
       "published": "Fri, 23 Oct 2026 23:24:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": "Mon, 26 Oct 2026 17:08:28 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "published": "Mon, 26 Oct 2026 16:46:49 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "published": "Mon, 26 Oct 2026 15:26:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "published": "Mon, 26 Oct 2026 12:27:57 -0400",
@@ -584,28 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "published": "Mon, 26 Oct 2026 23:42:22 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
@@ -719,12 +725,6 @@
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
       "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
       "published": "Fri, 23 Oct 2026 23:24:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
       "source": "The Hacker News"
     },
     {
