@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:21:26.769371Z",
+  "generated_at": "2026-10-26T18:47:59.229016Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "published": "Mon, 26 Oct 2026 11:38:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "published": "Mon, 26 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "published": "Mon, 26 Oct 2026 09:56:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
       "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
       "published": "Mon, 26 Oct 2026 06:26:52 -0400",
@@ -252,28 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-      "source": "BleepingComputer"
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": "Mon, 26 Oct 2026 23:15:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": "Mon, 26 Oct 2026 21:22:40 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
@@ -369,30 +393,6 @@
       "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
       "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
       "published": "Fri, 23 Oct 2026 23:20:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "published": "Fri, 23 Oct 2026 16:55:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "published": "Fri, 23 Oct 2026 15:06:00 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "published": "Mon, 26 Oct 2026 11:38:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "published": "Mon, 26 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "published": "Mon, 26 Oct 2026 09:56:44 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
       "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
       "published": "Mon, 26 Oct 2026 06:26:52 -0400",
@@ -584,28 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-      "source": "BleepingComputer"
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": "Mon, 26 Oct 2026 23:15:57 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": "Mon, 26 Oct 2026 21:22:40 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-      "source": "BleepingComputer"
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
@@ -701,30 +725,6 @@
       "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
       "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
       "published": "Fri, 23 Oct 2026 23:20:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "published": "Fri, 23 Oct 2026 16:55:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "published": "Fri, 23 Oct 2026 15:06:00 +0530",
       "source": "The Hacker News"
     },
     {
