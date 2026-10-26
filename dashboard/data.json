@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:47:45.909101Z",
+  "generated_at": "2026-10-26T12:21:26.769371Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "published": "Mon, 26 Oct 2026 06:26:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
       "published": "Sun, 25 Oct 2026 11:49:38 -0400",
@@ -264,16 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -363,36 +393,6 @@
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
       "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
       "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "published": "Fri, 23 Oct 2026 14:10:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "published": "Mon, 26 Oct 2026 06:26:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
       "published": "Sun, 25 Oct 2026 11:49:38 -0400",
@@ -596,16 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-      "source": "BleepingComputer"
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -695,36 +725,6 @@
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
       "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
       "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "published": "Fri, 23 Oct 2026 14:10:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
       "source": "The Hacker News"
     },
     {
