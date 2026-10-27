@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:12:57.219617Z",
+  "generated_at": "2026-10-27T14:48:07.012964Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "published": "Tue, 27 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "published": "Tue, 27 Oct 2026 06:36:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "published": "Tue, 27 Oct 2026 05:25:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "published": "Tue, 27 Oct 2026 04:20:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
       "published": "Mon, 26 Oct 2026 18:20:36 -0400",
@@ -246,34 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "published": "Tue, 27 Oct 2026 17:39:50 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "published": "Tue, 27 Oct 2026 17:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "published": "Tue, 27 Oct 2026 17:02:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "published": "Tue, 27 Oct 2026 15:03:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "published": "Tue, 27 Oct 2026 13:52:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
@@ -357,42 +393,6 @@
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "published": "Tue, 27 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "published": "Tue, 27 Oct 2026 06:36:12 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "published": "Tue, 27 Oct 2026 05:25:50 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "published": "Tue, 27 Oct 2026 04:20:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
       "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
       "published": "Mon, 26 Oct 2026 18:20:36 -0400",
@@ -578,34 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-      "source": "BleepingComputer"
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "published": "Tue, 27 Oct 2026 17:39:50 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "source": "BleepingComputer"
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "published": "Tue, 27 Oct 2026 17:16:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
-      "source": "BleepingComputer"
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
-      "source": "BleepingComputer"
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "published": "Tue, 27 Oct 2026 17:02:31 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
-      "source": "BleepingComputer"
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "published": "Tue, 27 Oct 2026 15:03:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "published": "Tue, 27 Oct 2026 13:52:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
@@ -689,42 +725,6 @@
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
       "source": "The Hacker News"
     },
     {
