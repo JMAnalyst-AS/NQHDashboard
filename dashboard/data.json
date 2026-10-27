@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:18:05.963618Z",
+  "generated_at": "2026-10-27T08:12:57.219617Z",
   "segment1": [
     {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "published": "Tue, 27 Oct 2026 12:04:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "published": "Tue, 27 Oct 2026 10:07:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "published": "Mon, 26 Oct 2026 23:42:22 +0530",
@@ -381,18 +393,6 @@
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "published": "Sat, 24 Oct 2026 11:55:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "published": "Tue, 27 Oct 2026 12:04:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "published": "Tue, 27 Oct 2026 10:07:59 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "published": "Mon, 26 Oct 2026 23:42:22 +0530",
@@ -713,18 +725,6 @@
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "published": "Sat, 24 Oct 2026 11:55:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
       "source": "The Hacker News"
     },
     {
