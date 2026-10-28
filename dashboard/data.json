@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-27T23:31:36.133292Z",
+  "generated_at": "2026-10-28T04:19:01.898245Z",
   "segment1": [
+    {
+      "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
+      "url": "https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/",
+      "published": "Wed, 28 Oct 2026 00:47:17 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Navigate360’s lack of transparency is catching up with them; More organizations tell people NOT to use their tiplines.",
       "url": "https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/",
@@ -53,17 +59,17 @@
       "title": "Conduent to pay $80M to settle 3rd-largest healthcare data breach",
       "url": "https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/",
       "published": "Tue, 27 Oct 2026 18:21:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers Are Serving Malware To iPhones Via Hundreds Of Infected Websites",
-      "url": "https://databreaches.net/2026/10/27/hackers-are-serving-malware-to-iphones-via-hundreds-of-infected-websites/",
-      "published": "Tue, 27 Oct 2026 18:21:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
+      "url": "https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/",
+      "published": "Wed, 28 Oct 2026 00:47:17 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Navigate360’s lack of transparency is catching up with them; More organizations tell people NOT to use their tiplines.",
       "url": "https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/",
       "published": "Tue, 27 Oct 2026 20:36:24 +0000",
@@ -115,12 +121,6 @@
       "title": "Conduent to pay $80M to settle 3rd-largest healthcare data breach",
       "url": "https://databreaches.net/2026/10/27/conduent-to-pay-80m-to-settle-3rd-largest-healthcare-data-breach/",
       "published": "Tue, 27 Oct 2026 18:21:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers Are Serving Malware To iPhones Via Hundreds Of Infected Websites",
-      "url": "https://databreaches.net/2026/10/27/hackers-are-serving-malware-to-iphones-via-hundreds-of-infected-websites/",
-      "published": "Tue, 27 Oct 2026 18:21:10 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+      "source": "BleepingComputer"
     },
     {
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
@@ -267,12 +273,6 @@
       "title": "DreamHost forces password resets in ongoing \"incident\"",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
       "published": "Mon, 26 Oct 2026 15:26:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
       "published": "Tue, 27 Oct 2026 18:43:27 -0400",
@@ -599,12 +605,6 @@
       "title": "DreamHost forces password resets in ongoing \"incident\"",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
       "published": "Mon, 26 Oct 2026 15:26:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
       "source": "BleepingComputer"
     },
     {
