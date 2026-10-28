@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:00:06.708031Z",
+  "generated_at": "2026-10-28T21:36:20.514589Z",
   "segment1": [
     {
       "title": "JPN: Times Car reporting ¥5.5 billion loss has firms bracing for data breach fallout",
@@ -186,6 +186,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "published": "Wed, 28 Oct 2026 16:47:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Discord to let search engines index public server messages",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "published": "Wed, 28 Oct 2026 14:44:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
       "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
       "published": "Wed, 28 Oct 2026 12:45:47 -0400",
@@ -264,16 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "published": "Tue, 27 Oct 2026 12:15:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
@@ -375,24 +393,6 @@
       "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
       "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
       "published": "Tue, 27 Oct 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "published": "Tue, 27 Oct 2026 17:02:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "published": "Tue, 27 Oct 2026 15:03:06 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "published": "Wed, 28 Oct 2026 16:47:22 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Discord to let search engines index public server messages",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "published": "Wed, 28 Oct 2026 14:44:16 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
       "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
       "published": "Wed, 28 Oct 2026 12:45:47 -0400",
@@ -596,16 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "published": "Tue, 27 Oct 2026 12:15:39 -0400",
-      "source": "BleepingComputer"
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
@@ -707,24 +725,6 @@
       "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
       "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
       "published": "Tue, 27 Oct 2026 17:16:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "published": "Tue, 27 Oct 2026 17:02:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "published": "Tue, 27 Oct 2026 15:03:06 +0530",
       "source": "The Hacker News"
     },
     {
