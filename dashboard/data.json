@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:19:01.898245Z",
+  "generated_at": "2026-10-28T10:43:58.063614Z",
   "segment1": [
     {
       "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "published": "Wed, 28 Oct 2026 05:43:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
       "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
       "published": "Tue, 27 Oct 2026 19:35:51 -0400",
@@ -270,10 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "published": "Mon, 26 Oct 2026 15:26:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "published": "Wed, 28 Oct 2026 13:07:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "published": "Wed, 28 Oct 2026 12:43:21 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "published": "Wed, 28 Oct 2026 11:50:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "published": "Wed, 28 Oct 2026 11:34:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": "Wed, 28 Oct 2026 11:12:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -357,42 +393,6 @@
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "published": "Mon, 26 Oct 2026 21:22:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "published": "Wed, 28 Oct 2026 05:43:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
       "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
       "published": "Tue, 27 Oct 2026 19:35:51 -0400",
@@ -602,10 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "published": "Mon, 26 Oct 2026 15:26:20 -0400",
-      "source": "BleepingComputer"
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "published": "Wed, 28 Oct 2026 13:07:50 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "published": "Wed, 28 Oct 2026 12:43:21 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "published": "Wed, 28 Oct 2026 11:50:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "published": "Wed, 28 Oct 2026 11:34:58 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": "Wed, 28 Oct 2026 11:12:26 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -689,42 +725,6 @@
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "published": "Mon, 26 Oct 2026 21:22:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
       "source": "The Hacker News"
     },
     {
