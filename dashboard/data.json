@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:19:35.036398Z",
+  "generated_at": "2026-10-30T18:43:48.313018Z",
   "segment1": [
     {
       "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA says max severity GitLab flaw now exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "published": "Fri, 30 Oct 2026 09:00:32 -0400",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published": "Fri, 30 Oct 2026 22:28:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "published": "Thu, 29 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "published": "Fri, 30 Oct 2026 20:47:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "published": "Fri, 30 Oct 2026 19:38:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -375,24 +393,6 @@
       "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
       "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
       "published": "Thu, 29 Oct 2026 15:56:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "published": "Thu, 29 Oct 2026 14:35:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "published": "Thu, 29 Oct 2026 13:54:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "published": "Thu, 29 Oct 2026 11:52:33 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA says max severity GitLab flaw now exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "published": "Fri, 30 Oct 2026 09:00:32 -0400",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
-      "source": "BleepingComputer"
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published": "Fri, 30 Oct 2026 22:28:44 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "published": "Thu, 29 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "published": "Fri, 30 Oct 2026 20:47:28 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
-      "source": "BleepingComputer"
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "published": "Fri, 30 Oct 2026 19:38:14 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -707,24 +725,6 @@
       "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
       "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
       "published": "Thu, 29 Oct 2026 15:56:33 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "published": "Thu, 29 Oct 2026 14:35:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "published": "Thu, 29 Oct 2026 13:54:22 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "published": "Thu, 29 Oct 2026 11:52:33 +0530",
       "source": "The Hacker News"
     },
     {
