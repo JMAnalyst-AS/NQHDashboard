@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-29T20:26:35.995517Z",
+  "generated_at": "2026-10-30T00:07:48.721595Z",
   "segment1": [
+    {
+      "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
+      "url": "https://databreaches.net/2026/10/29/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief/",
+      "published": "Thu, 29 Oct 2026 22:06:26 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "UNM Health addresses cyberattack in New Mexico after ransomware group claims responsibility",
       "url": "https://databreaches.net/2026/10/29/unm-health-addresses-cyberattack-in-new-mexico-after-ransomware-group-claims-responsibility/",
@@ -53,17 +59,17 @@
       "title": "Japanese internet giant GMO tells customers to shut down and disconnect PCs from the internet following data breach and ransomware threat",
       "url": "https://databreaches.net/2026/10/28/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat/",
       "published": "Wed, 28 Oct 2026 12:31:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Northern Territory Health backtracks on claim only five patients impacted by RDH privacy breach",
-      "url": "https://databreaches.net/2026/10/28/au-northern-territory-health-backtracks-on-claim-only-five-patients-impacted-by-rdh-privacy-breach/",
-      "published": "Wed, 28 Oct 2026 12:25:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
+      "url": "https://databreaches.net/2026/10/29/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief/",
+      "published": "Thu, 29 Oct 2026 22:06:26 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "UNM Health addresses cyberattack in New Mexico after ransomware group claims responsibility",
       "url": "https://databreaches.net/2026/10/29/unm-health-addresses-cyberattack-in-new-mexico-after-ransomware-group-claims-responsibility/",
       "published": "Thu, 29 Oct 2026 20:10:54 +0000",
@@ -115,12 +121,6 @@
       "title": "Japanese internet giant GMO tells customers to shut down and disconnect PCs from the internet following data breach and ransomware threat",
       "url": "https://databreaches.net/2026/10/28/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat/",
       "published": "Wed, 28 Oct 2026 12:31:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "AU: Northern Territory Health backtracks on claim only five patients impacted by RDH privacy breach",
-      "url": "https://databreaches.net/2026/10/28/au-northern-territory-health-backtracks-on-claim-only-five-patients-impacted-by-rdh-privacy-breach/",
-      "published": "Wed, 28 Oct 2026 12:25:38 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "published": "Thu, 29 Oct 2026 19:35:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "published": "Thu, 29 Oct 2026 18:45:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "published": "Thu, 29 Oct 2026 18:09:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "published": "Thu, 29 Oct 2026 18:08:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
       "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
       "published": "Thu, 29 Oct 2026 15:23:41 -0400",
@@ -243,36 +273,6 @@
       "title": "Discord to let search engines index public server messages",
       "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
       "published": "Wed, 28 Oct 2026 14:44:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "published": "Wed, 28 Oct 2026 12:45:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "published": "Wed, 28 Oct 2026 12:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "published": "Wed, 28 Oct 2026 09:50:59 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -396,6 +396,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
+      "url": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
+      "published": "Thu, 29 Oct 2026 22:15:59 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
       "url": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
       "published": "Thu, 22 Oct 2026 11:06:57 +0000",
@@ -447,12 +453,6 @@
       "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
       "url": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
       "published": "Tue, 25 Aug 2026 08:52:50 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
-      "url": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
-      "published": "Thu, 20 Aug 2026 20:50:42 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "published": "Thu, 29 Oct 2026 19:35:52 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "published": "Thu, 29 Oct 2026 18:45:23 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "published": "Thu, 29 Oct 2026 18:09:24 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "published": "Thu, 29 Oct 2026 18:08:04 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
       "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
       "published": "Thu, 29 Oct 2026 15:23:41 -0400",
@@ -575,36 +605,6 @@
       "title": "Discord to let search engines index public server messages",
       "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
       "published": "Wed, 28 Oct 2026 14:44:16 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "published": "Wed, 28 Oct 2026 12:45:47 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "published": "Wed, 28 Oct 2026 12:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "published": "Wed, 28 Oct 2026 09:50:59 -0400",
       "source": "BleepingComputer"
     },
     {
@@ -728,6 +728,12 @@
       "source": "The Hacker News"
     },
     {
+      "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
+      "url": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
+      "published": "Thu, 29 Oct 2026 22:15:59 +0000",
+      "source": "bellingcat"
+    },
+    {
       "title": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
       "url": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
       "published": "Thu, 22 Oct 2026 11:06:57 +0000",
@@ -779,12 +785,6 @@
       "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
       "url": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
       "published": "Tue, 25 Aug 2026 08:52:50 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
-      "url": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
-      "published": "Thu, 20 Aug 2026 20:50:42 +0000",
       "source": "bellingcat"
     }
   ]
