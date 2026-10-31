@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:40:47.068216Z",
+  "generated_at": "2026-10-31T15:05:12.638706Z",
   "segment1": [
     {
       "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
       "published": "Fri, 30 Oct 2026 17:09:46 -0400",
@@ -258,22 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "published": "Sat, 31 Oct 2026 17:31:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "published": "Thu, 29 Oct 2026 15:23:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "published": "Thu, 29 Oct 2026 14:38:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "published": "Sat, 31 Oct 2026 13:57:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
@@ -381,18 +393,6 @@
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
       "published": "Thu, 29 Oct 2026 17:09:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "published": "Thu, 29 Oct 2026 17:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "published": "Thu, 29 Oct 2026 17:03:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
       "published": "Fri, 30 Oct 2026 17:09:46 -0400",
@@ -590,22 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
-      "source": "BleepingComputer"
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "published": "Sat, 31 Oct 2026 17:31:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "published": "Thu, 29 Oct 2026 15:23:41 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "published": "Thu, 29 Oct 2026 14:38:26 -0400",
-      "source": "BleepingComputer"
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "published": "Sat, 31 Oct 2026 13:57:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
@@ -713,18 +725,6 @@
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
       "published": "Thu, 29 Oct 2026 17:09:18 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "published": "Thu, 29 Oct 2026 17:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "published": "Thu, 29 Oct 2026 17:03:15 +0530",
       "source": "The Hacker News"
     },
     {
