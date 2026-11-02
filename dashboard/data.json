@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:08:29.328823Z",
+  "generated_at": "2026-11-02T22:24:44.440808Z",
   "segment1": [
     {
       "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
@@ -186,6 +186,48 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "published": "Mon, 02 Nov 2026 16:40:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "published": "Mon, 02 Nov 2026 14:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "published": "Mon, 02 Nov 2026 13:16:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "published": "Mon, 02 Nov 2026 10:03:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "published": "Mon, 02 Nov 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "published": "Mon, 02 Nov 2026 09:28:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "published": "Mon, 02 Nov 2026 08:57:29 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "published": "Mon, 02 Nov 2026 07:47:00 -0500",
@@ -234,46 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "published": "Mon, 02 Nov 2026 22:27:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "published": "Mon, 02 Nov 2026 21:20:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
-      "source": "BleepingComputer"
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "published": "Fri, 30 Oct 2026 17:09:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "published": "Mon, 02 Nov 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "published": "Mon, 02 Nov 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
@@ -366,34 +396,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "published": "Fri, 30 Oct 2026 17:28:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "published": "Fri, 30 Oct 2026 16:10:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "published": "Fri, 30 Oct 2026 14:25:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": "Fri, 30 Oct 2026 13:15:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "Fri, 30 Oct 2026 12:57:05 +0530",
-      "source": "The Hacker News"
+      "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
+      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "published": "Mon, 02 Nov 2026 16:11:28 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
@@ -447,12 +453,6 @@
       "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
       "url": "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/",
       "published": "Mon, 31 Aug 2026 12:58:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
-      "url": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
-      "published": "Tue, 25 Aug 2026 08:52:50 +0000",
       "source": "bellingcat"
     }
   ],
@@ -518,6 +518,48 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "published": "Mon, 02 Nov 2026 16:40:14 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "published": "Mon, 02 Nov 2026 14:00:45 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "published": "Mon, 02 Nov 2026 13:16:34 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "published": "Mon, 02 Nov 2026 10:03:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "published": "Mon, 02 Nov 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "published": "Mon, 02 Nov 2026 09:28:39 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "published": "Mon, 02 Nov 2026 08:57:29 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "published": "Mon, 02 Nov 2026 07:47:00 -0500",
@@ -566,46 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
-      "source": "BleepingComputer"
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "published": "Mon, 02 Nov 2026 22:27:56 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
-      "source": "BleepingComputer"
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "published": "Mon, 02 Nov 2026 21:20:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
-      "source": "BleepingComputer"
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "published": "Fri, 30 Oct 2026 17:09:46 -0400",
-      "source": "BleepingComputer"
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "published": "Mon, 02 Nov 2026 17:20:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer"
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "published": "Mon, 02 Nov 2026 17:00:00 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
@@ -698,34 +728,10 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "published": "Fri, 30 Oct 2026 17:28:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "published": "Fri, 30 Oct 2026 16:10:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "published": "Fri, 30 Oct 2026 14:25:47 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": "Fri, 30 Oct 2026 13:15:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "Fri, 30 Oct 2026 12:57:05 +0530",
-      "source": "The Hacker News"
+      "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
+      "url": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+      "published": "Mon, 02 Nov 2026 16:11:28 +0000",
+      "source": "bellingcat"
     },
     {
       "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
@@ -779,12 +785,6 @@
       "title": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
       "url": "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/",
       "published": "Mon, 31 Aug 2026 12:58:31 +0000",
-      "source": "bellingcat"
-    },
-    {
-      "title": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
-      "url": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
-      "published": "Tue, 25 Aug 2026 08:52:50 +0000",
       "source": "bellingcat"
     }
   ]
