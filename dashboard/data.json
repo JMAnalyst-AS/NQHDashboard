@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:39:15.250360Z",
+  "generated_at": "2026-11-03T19:07:59.636805Z",
   "segment1": [
     {
       "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "published": "Tue, 03 Nov 2026 13:51:04 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "published": "Tue, 03 Nov 2026 10:06:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "published": "Tue, 03 Nov 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "published": "Tue, 03 Nov 2026 08:33:49 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Harvard University data breach exposed info of 851,000 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
       "published": "Tue, 03 Nov 2026 05:53:25 -0500",
@@ -240,40 +276,58 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "published": "Mon, 02 Nov 2026 06:28:42 -0500",
-      "source": "BleepingComputer"
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "published": "Wed, 04 Nov 2026 00:16:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "published": "Mon, 02 Nov 2026 04:33:26 -0500",
-      "source": "BleepingComputer"
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "published": "Tue, 03 Nov 2026 23:46:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "published": "Sun, 01 Nov 2026 14:57:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "published": "Tue, 03 Nov 2026 22:25:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
-      "source": "BleepingComputer"
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "published": "Tue, 03 Nov 2026 21:29:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "published": "Sun, 01 Nov 2026 08:53:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "published": "Tue, 03 Nov 2026 21:11:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
-      "source": "BleepingComputer"
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "published": "Tue, 03 Nov 2026 20:46:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": "Tue, 03 Nov 2026 16:53:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "published": "Tue, 03 Nov 2026 16:48:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "published": "Tue, 03 Nov 2026 16:30:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
@@ -339,60 +393,6 @@
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
       "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
       "published": "Mon, 02 Nov 2026 16:38:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "published": "Sun, 01 Nov 2026 14:21:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "published": "Sun, 01 Nov 2026 12:55:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "published": "Sun, 01 Nov 2026 12:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "published": "Sun, 01 Nov 2026 12:32:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "published": "Sat, 31 Oct 2026 17:31:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "published": "Sat, 31 Oct 2026 13:57:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "published": "Sat, 31 Oct 2026 11:03:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "published": "Tue, 03 Nov 2026 13:51:04 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "published": "Tue, 03 Nov 2026 10:06:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "published": "Tue, 03 Nov 2026 09:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "published": "Tue, 03 Nov 2026 08:33:49 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Harvard University data breach exposed info of 851,000 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
       "published": "Tue, 03 Nov 2026 05:53:25 -0500",
@@ -572,40 +608,58 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "published": "Mon, 02 Nov 2026 06:28:42 -0500",
-      "source": "BleepingComputer"
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "published": "Wed, 04 Nov 2026 00:16:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "published": "Mon, 02 Nov 2026 04:33:26 -0500",
-      "source": "BleepingComputer"
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "published": "Tue, 03 Nov 2026 23:46:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "published": "Sun, 01 Nov 2026 14:57:53 -0500",
-      "source": "BleepingComputer"
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "published": "Tue, 03 Nov 2026 22:25:58 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
-      "source": "BleepingComputer"
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "published": "Tue, 03 Nov 2026 21:29:19 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "published": "Sun, 01 Nov 2026 08:53:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "published": "Tue, 03 Nov 2026 21:11:53 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
-      "source": "BleepingComputer"
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "published": "Tue, 03 Nov 2026 20:46:32 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": "Tue, 03 Nov 2026 16:53:53 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "published": "Tue, 03 Nov 2026 16:48:20 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "published": "Tue, 03 Nov 2026 16:30:45 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
@@ -671,60 +725,6 @@
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
       "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
       "published": "Mon, 02 Nov 2026 16:38:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "published": "Sun, 01 Nov 2026 14:21:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "published": "Sun, 01 Nov 2026 12:55:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "published": "Sun, 01 Nov 2026 12:33:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "published": "Sun, 01 Nov 2026 12:32:58 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "published": "Sat, 31 Oct 2026 17:31:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "published": "Sat, 31 Oct 2026 13:57:43 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "published": "Sat, 31 Oct 2026 11:03:41 +0530",
       "source": "The Hacker News"
     },
     {
