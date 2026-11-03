@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:36:35.909374Z",
+  "generated_at": "2026-11-03T11:39:15.250360Z",
   "segment1": [
     {
       "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "published": "Tue, 03 Nov 2026 05:53:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
       "published": "Mon, 02 Nov 2026 16:40:14 -0500",
@@ -270,10 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "published": "Sat, 31 Oct 2026 11:35:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "published": "Tue, 03 Nov 2026 14:01:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "published": "Tue, 03 Nov 2026 13:13:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "published": "Tue, 03 Nov 2026 12:57:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "published": "Tue, 03 Nov 2026 11:04:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "published": "Tue, 03 Nov 2026 11:04:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
@@ -363,36 +393,6 @@
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
       "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
       "published": "Sat, 31 Oct 2026 11:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "published": "Sat, 31 Oct 2026 10:26:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "published": "Fri, 30 Oct 2026 22:28:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "published": "Fri, 30 Oct 2026 20:47:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "published": "Fri, 30 Oct 2026 19:38:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "published": "Fri, 30 Oct 2026 17:51:56 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "published": "Tue, 03 Nov 2026 05:53:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
       "published": "Mon, 02 Nov 2026 16:40:14 -0500",
@@ -602,10 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "published": "Sat, 31 Oct 2026 11:35:11 -0400",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "published": "Tue, 03 Nov 2026 14:01:48 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "published": "Tue, 03 Nov 2026 13:13:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "published": "Tue, 03 Nov 2026 12:57:07 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "published": "Tue, 03 Nov 2026 11:04:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "published": "Tue, 03 Nov 2026 11:04:37 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
@@ -695,36 +725,6 @@
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
       "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
       "published": "Sat, 31 Oct 2026 11:03:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "published": "Sat, 31 Oct 2026 10:26:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "published": "Fri, 30 Oct 2026 22:28:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "published": "Fri, 30 Oct 2026 20:47:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "published": "Fri, 30 Oct 2026 19:38:14 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "published": "Fri, 30 Oct 2026 17:51:56 +0530",
       "source": "The Hacker News"
     },
     {
