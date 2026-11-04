@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-04T00:05:20.092382Z",
+  "generated_at": "2026-11-04T06:51:33.959995Z",
   "segment1": [
+    {
+      "title": "French blood storage units targeted in cyberattack",
+      "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/",
+      "published": "Wed, 04 Nov 2026 01:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "AU: Criminal investigation after NSW Health hit by cyber breach",
       "url": "https://databreaches.net/2026/11/03/au-criminal-investigation-after-nsw-health-hit-by-cyber-breach/",
@@ -53,17 +59,17 @@
       "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
       "url": "https://databreaches.net/2026/11/03/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/",
       "published": "Tue, 03 Nov 2026 19:55:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Second Liverpool hospital investigates staff over breach of Southport attack patient records",
-      "url": "https://databreaches.net/2026/11/03/uk-second-liverpool-hospital-investigates-staff-over-breach-of-southport-attack-patient-records/",
-      "published": "Tue, 03 Nov 2026 19:54:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "French blood storage units targeted in cyberattack",
+      "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/",
+      "published": "Wed, 04 Nov 2026 01:31:44 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "AU: Criminal investigation after NSW Health hit by cyber breach",
       "url": "https://databreaches.net/2026/11/03/au-criminal-investigation-after-nsw-health-hit-by-cyber-breach/",
       "published": "Tue, 03 Nov 2026 22:29:14 +0000",
@@ -115,12 +121,6 @@
       "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
       "url": "https://databreaches.net/2026/11/03/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/",
       "published": "Tue, 03 Nov 2026 19:55:03 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "UK: Second Liverpool hospital investigates staff over breach of Southport attack patient records",
-      "url": "https://databreaches.net/2026/11/03/uk-second-liverpool-hospital-investigates-staff-over-breach-of-southport-attack-patient-records/",
-      "published": "Tue, 03 Nov 2026 19:54:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
