@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-04T15:08:31.732476Z",
+  "generated_at": "2026-11-04T21:24:46.732020Z",
   "segment1": [
+    {
+      "title": "Hackers steal 320,000 UK school files and publish them on dark web",
+      "url": "https://databreaches.net/2026/11/04/hackers-steal-320000-uk-school-files-and-publish-them-on-dark-web/",
+      "published": "Wed, 04 Nov 2026 18:15:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "url": "https://databreaches.net/2026/11/04/cyberattack-wipes-cloud-data-at-major-russian-hosting-provider-beget/",
+      "published": "Wed, 04 Nov 2026 18:13:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "French blood storage units targeted in cyberattack",
       "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/",
@@ -47,23 +59,23 @@
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "url": "https://databreaches.net/2026/11/03/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "published": "Tue, 03 Nov 2026 19:55:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers hit UNM hospital, then apologize and offer patients $2,500. In a new statement, they reveal more about the incident.",
-      "url": "https://databreaches.net/2026/11/03/hackers-hit-unm-hospital-then-apologize-and-offer-patients-2500-in-a-new-statement-they-reveal-more-about-the-incident/",
-      "published": "Tue, 03 Nov 2026 19:55:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
-      "url": "https://databreaches.net/2026/11/03/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/",
-      "published": "Tue, 03 Nov 2026 19:55:03 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hackers steal 320,000 UK school files and publish them on dark web",
+      "url": "https://databreaches.net/2026/11/04/hackers-steal-320000-uk-school-files-and-publish-them-on-dark-web/",
+      "published": "Wed, 04 Nov 2026 18:15:35 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "url": "https://databreaches.net/2026/11/04/cyberattack-wipes-cloud-data-at-major-russian-hosting-provider-beget/",
+      "published": "Wed, 04 Nov 2026 18:13:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "French blood storage units targeted in cyberattack",
       "url": "https://databreaches.net/2026/11/03/french-blood-storage-units-targeted-in-cyberattack/",
       "published": "Wed, 04 Nov 2026 01:31:44 +0000",
@@ -109,18 +121,6 @@
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "url": "https://databreaches.net/2026/11/03/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "published": "Tue, 03 Nov 2026 19:55:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hackers hit UNM hospital, then apologize and offer patients $2,500. In a new statement, they reveal more about the incident.",
-      "url": "https://databreaches.net/2026/11/03/hackers-hit-unm-hospital-then-apologize-and-offer-patients-2500-in-a-new-statement-they-reveal-more-about-the-incident/",
-      "published": "Tue, 03 Nov 2026 19:55:17 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
-      "url": "https://databreaches.net/2026/11/03/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/",
-      "published": "Tue, 03 Nov 2026 19:55:03 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "published": "Wed, 04 Nov 2026 15:58:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "published": "Wed, 04 Nov 2026 11:58:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "published": "Wed, 04 Nov 2026 11:00:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
       "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
       "published": "Wed, 04 Nov 2026 10:00:10 -0500",
@@ -246,34 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "published": "Tue, 03 Nov 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "published": "Tue, 03 Nov 2026 08:33:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "published": "Tue, 03 Nov 2026 05:53:25 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
@@ -375,24 +393,6 @@
       "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
       "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
       "published": "Tue, 03 Nov 2026 16:30:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "published": "Tue, 03 Nov 2026 14:01:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "published": "Tue, 03 Nov 2026 13:13:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "published": "Tue, 03 Nov 2026 12:57:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "published": "Wed, 04 Nov 2026 15:58:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "published": "Wed, 04 Nov 2026 11:58:46 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "published": "Wed, 04 Nov 2026 11:00:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
       "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
       "published": "Wed, 04 Nov 2026 10:00:10 -0500",
@@ -578,34 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "published": "Tue, 03 Nov 2026 09:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "published": "Tue, 03 Nov 2026 08:33:49 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "published": "Tue, 03 Nov 2026 05:53:25 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
@@ -707,24 +725,6 @@
       "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
       "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
       "published": "Tue, 03 Nov 2026 16:30:45 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "published": "Tue, 03 Nov 2026 14:01:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "published": "Tue, 03 Nov 2026 13:13:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "published": "Tue, 03 Nov 2026 12:57:07 +0530",
       "source": "The Hacker News"
     },
     {
