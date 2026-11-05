@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:39:44.085330Z",
+  "generated_at": "2026-11-05T09:00:56.978506Z",
   "segment1": [
     {
       "title": "Lab 1 warns breach data now exposes thousands more firms",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "published": "Thu, 05 Nov 2026 04:36:17 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "published": "Tue, 03 Nov 2026 02:24:31 +0000",
@@ -177,12 +183,6 @@
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -274,6 +274,24 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "published": "Tue, 03 Nov 2026 13:51:04 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "published": "Thu, 05 Nov 2026 12:36:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "published": "Thu, 05 Nov 2026 10:01:16 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
@@ -375,24 +393,6 @@
       "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
       "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
       "published": "Tue, 03 Nov 2026 20:46:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "published": "Tue, 03 Nov 2026 16:53:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "published": "Tue, 03 Nov 2026 16:48:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "published": "Tue, 03 Nov 2026 16:30:45 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "published": "Thu, 05 Nov 2026 04:36:17 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "published": "Tue, 03 Nov 2026 02:24:31 +0000",
@@ -509,12 +515,6 @@
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
       "source": "Krebs on Security"
     },
     {
@@ -606,6 +606,24 @@
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "published": "Tue, 03 Nov 2026 13:51:04 -0500",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "published": "Thu, 05 Nov 2026 12:36:33 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "published": "Thu, 05 Nov 2026 10:01:16 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
@@ -707,24 +725,6 @@
       "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
       "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
       "published": "Tue, 03 Nov 2026 20:46:32 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "published": "Tue, 03 Nov 2026 16:53:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "published": "Tue, 03 Nov 2026 16:48:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "published": "Tue, 03 Nov 2026 16:30:45 +0530",
       "source": "The Hacker News"
     },
     {
