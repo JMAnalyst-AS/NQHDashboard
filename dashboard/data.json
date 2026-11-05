@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-04T21:24:46.732020Z",
+  "generated_at": "2026-11-05T01:39:44.085330Z",
   "segment1": [
+    {
+      "title": "Lab 1 warns breach data now exposes thousands more firms",
+      "url": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+      "published": "Wed, 04 Nov 2026 22:48:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Student Data Breach Affects Up to 16 Icelandic Schools",
+      "url": "https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/",
+      "published": "Wed, 04 Nov 2026 22:48:25 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hackers steal 320,000 UK school files and publish them on dark web",
       "url": "https://databreaches.net/2026/11/04/hackers-steal-320000-uk-school-files-and-publish-them-on-dark-web/",
@@ -47,23 +59,23 @@
       "title": "KR: Presidential office holds emergency meeting over leak of personal data of president, trip entourage",
       "url": "https://databreaches.net/2026/11/03/kr-presidential-office-holds-emergency-meeting-over-leak-of-personal-data-of-president-trip-entourage/",
       "published": "Tue, 03 Nov 2026 19:57:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
-      "url": "https://databreaches.net/2026/11/03/syrian-man-sentenced-for-wide-ranging-hacking-conspiracy-conducted-on-behalf-of-the-bashar-al-assad-regime/",
-      "published": "Tue, 03 Nov 2026 19:55:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "url": "https://databreaches.net/2026/11/03/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "published": "Tue, 03 Nov 2026 19:55:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Lab 1 warns breach data now exposes thousands more firms",
+      "url": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+      "published": "Wed, 04 Nov 2026 22:48:31 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Student Data Breach Affects Up to 16 Icelandic Schools",
+      "url": "https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/",
+      "published": "Wed, 04 Nov 2026 22:48:25 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hackers steal 320,000 UK school files and publish them on dark web",
       "url": "https://databreaches.net/2026/11/04/hackers-steal-320000-uk-school-files-and-publish-them-on-dark-web/",
       "published": "Wed, 04 Nov 2026 18:15:35 +0000",
@@ -109,18 +121,6 @@
       "title": "KR: Presidential office holds emergency meeting over leak of personal data of president, trip entourage",
       "url": "https://databreaches.net/2026/11/03/kr-presidential-office-holds-emergency-meeting-over-leak-of-personal-data-of-president-trip-entourage/",
       "published": "Tue, 03 Nov 2026 19:57:32 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
-      "url": "https://databreaches.net/2026/11/03/syrian-man-sentenced-for-wide-ranging-hacking-conspiracy-conducted-on-behalf-of-the-bashar-al-assad-regime/",
-      "published": "Tue, 03 Nov 2026 19:55:45 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "url": "https://databreaches.net/2026/11/03/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "published": "Tue, 03 Nov 2026 19:55:26 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "published": "Wed, 16 Sep 2026 18:14:22 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "published": "Wed, 04 Nov 2026 16:31:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
@@ -267,12 +273,6 @@
       "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "published": "Tue, 03 Nov 2026 13:51:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "published": "Tue, 03 Nov 2026 10:06:16 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "published": "Wed, 04 Nov 2026 16:31:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "published": "Wed, 04 Nov 2026 15:58:19 -0500",
@@ -599,12 +605,6 @@
       "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "published": "Tue, 03 Nov 2026 13:51:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "published": "Tue, 03 Nov 2026 10:06:16 -0500",
       "source": "BleepingComputer"
     },
     {
