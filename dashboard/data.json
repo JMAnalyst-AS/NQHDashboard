@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:31:26.472881Z",
+  "generated_at": "2026-11-06T11:50:52.974613Z",
   "segment1": [
     {
       "title": "Ninth Circuit: Breach Of Confidence Confers Standing In Health Data Security Case",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "published": "Fri, 06 Nov 2026 04:22:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
       "published": "Thu, 05 Nov 2026 19:56:44 -0500",
@@ -270,10 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": "Wed, 04 Nov 2026 11:00:18 -0500",
-      "source": "BleepingComputer"
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "published": "Fri, 06 Nov 2026 13:34:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "published": "Fri, 06 Nov 2026 11:28:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "published": "Fri, 06 Nov 2026 11:09:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
@@ -369,30 +393,6 @@
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
       "published": "Wed, 04 Nov 2026 17:16:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "published": "Wed, 04 Nov 2026 17:04:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "published": "Wed, 04 Nov 2026 16:54:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "published": "Wed, 04 Nov 2026 13:47:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "published": "Wed, 04 Nov 2026 13:16:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "published": "Fri, 06 Nov 2026 04:22:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
       "published": "Thu, 05 Nov 2026 19:56:44 -0500",
@@ -602,10 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": "Wed, 04 Nov 2026 11:00:18 -0500",
-      "source": "BleepingComputer"
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "published": "Fri, 06 Nov 2026 17:00:00 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "published": "Fri, 06 Nov 2026 13:34:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "published": "Fri, 06 Nov 2026 11:28:54 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "published": "Fri, 06 Nov 2026 11:09:10 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
@@ -701,30 +725,6 @@
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
       "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
       "published": "Wed, 04 Nov 2026 17:16:27 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "published": "Wed, 04 Nov 2026 17:04:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "published": "Wed, 04 Nov 2026 16:54:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "published": "Wed, 04 Nov 2026 13:47:11 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "published": "Wed, 04 Nov 2026 13:16:15 +0530",
       "source": "The Hacker News"
     },
     {
