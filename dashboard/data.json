@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-06T18:56:52.765963Z",
+  "generated_at": "2026-11-06T23:40:34.831232Z",
   "segment1": [
+    {
+      "title": "State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach",
+      "url": "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
+      "published": "Fri, 06 Nov 2026 20:28:33 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "The Next Target for Data Breach Lawsuits – Law Firms That Represent Breached Parties",
       "url": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
@@ -53,17 +59,17 @@
       "title": "Canadian man extradited to the U.S. for his role in computer hacking scheme targeting universities",
       "url": "https://databreaches.net/2026/11/05/canadian-man-extradited-to-the-u-s-for-his-role-in-computer-hacking-scheme-targeting-universities/",
       "published": "Thu, 05 Nov 2026 12:40:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lab 1 warns breach data now exposes thousands more firms",
-      "url": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
-      "published": "Wed, 04 Nov 2026 22:48:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach",
+      "url": "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
+      "published": "Fri, 06 Nov 2026 20:28:33 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "The Next Target for Data Breach Lawsuits – Law Firms That Represent Breached Parties",
       "url": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
       "published": "Fri, 06 Nov 2026 13:57:41 +0000",
@@ -115,12 +121,6 @@
       "title": "Canadian man extradited to the U.S. for his role in computer hacking scheme targeting universities",
       "url": "https://databreaches.net/2026/11/05/canadian-man-extradited-to-the-u-s-for-his-role-in-computer-hacking-scheme-targeting-universities/",
       "published": "Thu, 05 Nov 2026 12:40:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lab 1 warns breach data now exposes thousands more firms",
-      "url": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
-      "published": "Wed, 04 Nov 2026 22:48:31 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "published": "Fri, 25 Sep 2026 21:44:40 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "published": "Fri, 06 Nov 2026 17:27:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "published": "Fri, 06 Nov 2026 15:24:19 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Fake security tools on GitHub push backdoors and infostealers",
@@ -261,18 +273,6 @@
       "title": "Hackers backdoor Linux servers using trojanized CWP web server",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
       "published": "Thu, 05 Nov 2026 11:24:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "published": "Thu, 05 Nov 2026 11:12:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "published": "Thu, 05 Nov 2026 10:00:10 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "published": "Fri, 06 Nov 2026 17:27:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "published": "Fri, 06 Nov 2026 15:24:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Fake security tools on GitHub push backdoors and infostealers",
       "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
       "published": "Fri, 06 Nov 2026 13:46:52 -0500",
@@ -593,18 +605,6 @@
       "title": "Hackers backdoor Linux servers using trojanized CWP web server",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
       "published": "Thu, 05 Nov 2026 11:24:26 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "published": "Thu, 05 Nov 2026 11:12:46 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "published": "Thu, 05 Nov 2026 10:00:10 -0500",
       "source": "BleepingComputer"
     },
     {
