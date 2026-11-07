@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:40:34.831232Z",
+  "generated_at": "2026-11-07T04:53:07.966541Z",
   "segment1": [
     {
       "title": "State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "published": "Fri, 06 Nov 2026 19:00:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
       "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
       "published": "Fri, 06 Nov 2026 17:27:25 -0500",
@@ -267,12 +273,6 @@
       "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "published": "Thu, 05 Nov 2026 12:45:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "published": "Thu, 05 Nov 2026 11:24:26 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "published": "Fri, 06 Nov 2026 19:00:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
       "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
       "published": "Fri, 06 Nov 2026 17:27:25 -0500",
@@ -599,12 +605,6 @@
       "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "published": "Thu, 05 Nov 2026 12:45:29 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "published": "Thu, 05 Nov 2026 11:24:26 -0500",
       "source": "BleepingComputer"
     },
     {
