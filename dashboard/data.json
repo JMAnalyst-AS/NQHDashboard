@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-09T20:57:00.854237Z",
+  "generated_at": "2026-11-10T03:18:34.473272Z",
   "segment1": [
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/",
+      "published": "Mon, 09 Nov 2026 22:34:01 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Binance calls alleged “ShinyHunters” post a scam attempt",
       "url": "https://databreaches.net/2026/11/09/binance-calls-alleged-shinyhunters-post-a-scam-attempt/",
@@ -53,17 +59,17 @@
       "title": "The Next Target for Data Breach Lawsuits – Law Firms That Represent Breached Parties",
       "url": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
       "published": "Fri, 06 Nov 2026 13:57:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NI: Parents warned to be on alert after school data breach",
-      "url": "https://databreaches.net/2026/11/06/ni-parents-warned-to-be-on-alert-after-school-data-breach/",
-      "published": "Fri, 06 Nov 2026 13:56:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/",
+      "published": "Mon, 09 Nov 2026 22:34:01 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Binance calls alleged “ShinyHunters” post a scam attempt",
       "url": "https://databreaches.net/2026/11/09/binance-calls-alleged-shinyhunters-post-a-scam-attempt/",
       "published": "Mon, 09 Nov 2026 19:15:30 +0000",
@@ -115,12 +121,6 @@
       "title": "The Next Target for Data Breach Lawsuits – Law Firms That Represent Breached Parties",
       "url": "https://databreaches.net/2026/11/06/the-next-target-for-data-breach-lawsuits-law-firms-that-represent-breached-parties/",
       "published": "Fri, 06 Nov 2026 13:57:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "NI: Parents warned to be on alert after school data breach",
-      "url": "https://databreaches.net/2026/11/06/ni-parents-warned-to-be-on-alert-after-school-data-breach/",
-      "published": "Fri, 06 Nov 2026 13:56:51 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "published": "Mon, 09 Nov 2026 18:52:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "published": "Mon, 09 Nov 2026 13:32:42 -0500",
@@ -249,30 +273,6 @@
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
       "published": "Sat, 07 Nov 2026 09:10:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "published": "Fri, 06 Nov 2026 19:00:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "published": "Fri, 06 Nov 2026 17:27:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "published": "Fri, 06 Nov 2026 15:24:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "published": "Fri, 06 Nov 2026 13:46:52 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "published": "Mon, 09 Nov 2026 18:52:12 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "published": "Mon, 09 Nov 2026 13:32:42 -0500",
@@ -581,30 +605,6 @@
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
       "published": "Sat, 07 Nov 2026 09:10:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "published": "Fri, 06 Nov 2026 19:00:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "published": "Fri, 06 Nov 2026 17:27:25 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "published": "Fri, 06 Nov 2026 15:24:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "published": "Fri, 06 Nov 2026 13:46:52 -0500",
       "source": "BleepingComputer"
     },
     {
