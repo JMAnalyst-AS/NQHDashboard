@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-10T19:23:23.429448Z",
+  "generated_at": "2026-11-11T00:10:28.168961Z",
   "segment1": [
+    {
+      "title": "Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district’s error to destroy the data",
+      "url": "https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/",
+      "published": "Tue, 10 Nov 2026 22:33:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "url": "https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/",
+      "published": "Tue, 10 Nov 2026 20:39:48 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "UZ Brussel among hospitals experiencing severe network problems",
       "url": "https://databreaches.net/2026/11/10/uz-brussel-among-hospitals-experiencing-severe-network-problems/",
@@ -47,23 +59,23 @@
       "title": "Kr: Financial Security Institute reports data leak following hacking incident",
       "url": "https://databreaches.net/2026/11/10/kr-financial-security-institute-reports-data-leak-following-hacking-incident/",
       "published": "Tue, 10 Nov 2026 12:46:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "url": "https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/",
-      "published": "Mon, 09 Nov 2026 22:34:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Binance calls alleged “ShinyHunters” post a scam attempt",
-      "url": "https://databreaches.net/2026/11/09/binance-calls-alleged-shinyhunters-post-a-scam-attempt/",
-      "published": "Mon, 09 Nov 2026 19:15:30 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district’s error to destroy the data",
+      "url": "https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/",
+      "published": "Tue, 10 Nov 2026 22:33:14 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "url": "https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/",
+      "published": "Tue, 10 Nov 2026 20:39:48 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "UZ Brussel among hospitals experiencing severe network problems",
       "url": "https://databreaches.net/2026/11/10/uz-brussel-among-hospitals-experiencing-severe-network-problems/",
       "published": "Tue, 10 Nov 2026 15:24:26 +0000",
@@ -110,21 +122,15 @@
       "url": "https://databreaches.net/2026/11/10/kr-financial-security-institute-reports-data-leak-following-hacking-incident/",
       "published": "Tue, 10 Nov 2026 12:46:15 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "url": "https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/",
-      "published": "Mon, 09 Nov 2026 22:34:01 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Binance calls alleged “ShinyHunters” post a scam attempt",
-      "url": "https://databreaches.net/2026/11/09/binance-calls-alleged-shinyhunters-post-a-scam-attempt/",
-      "published": "Mon, 09 Nov 2026 19:15:30 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "published": "Tue, 10 Nov 2026 21:55:03 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Want to Rent an Internet Address at the White House?",
       "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -180,10 +186,28 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "source": "Krebs on Security"
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published": "Tue, 10 Nov 2026 17:20:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "published": "Tue, 10 Nov 2026 15:54:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "published": "Tue, 10 Nov 2026 15:04:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "published": "Tue, 10 Nov 2026 14:31:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
@@ -252,28 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
-      "source": "BleepingComputer"
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published": "Wed, 11 Nov 2026 00:53:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
-      "source": "BleepingComputer"
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published": "Wed, 11 Nov 2026 00:49:39 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "York University breach exposed personal information dating to 2007",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "published": "Tue, 10 Nov 2026 23:42:21 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "published": "Mon, 09 Nov 2026 13:32:42 -0500",
-      "source": "BleepingComputer"
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "published": "Tue, 10 Nov 2026 23:13:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
@@ -288,7 +312,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "published": "Tue, 10 Nov 2026 21:03:59 +0530",
       "source": "The Hacker News"
@@ -369,30 +393,6 @@
       "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
       "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
       "published": "Mon, 09 Nov 2026 20:01:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "published": "Mon, 09 Nov 2026 18:58:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "published": "Mon, 09 Nov 2026 16:57:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "published": "Mon, 09 Nov 2026 16:26:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "published": "Mon, 09 Nov 2026 15:31:21 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "published": "Tue, 10 Nov 2026 21:55:03 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Want to Rent an Internet Address at the White House?",
       "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
       "published": "Thu, 05 Nov 2026 04:36:17 +0000",
@@ -512,10 +518,28 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "source": "Krebs on Security"
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published": "Tue, 10 Nov 2026 17:20:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "published": "Tue, 10 Nov 2026 15:54:55 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "published": "Tue, 10 Nov 2026 15:04:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "published": "Tue, 10 Nov 2026 14:31:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
@@ -584,28 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
-      "source": "BleepingComputer"
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published": "Wed, 11 Nov 2026 00:53:10 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
-      "source": "BleepingComputer"
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published": "Wed, 11 Nov 2026 00:49:39 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "York University breach exposed personal information dating to 2007",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "published": "Tue, 10 Nov 2026 23:42:21 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "published": "Mon, 09 Nov 2026 13:32:42 -0500",
-      "source": "BleepingComputer"
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "published": "Tue, 10 Nov 2026 23:13:23 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
@@ -620,7 +644,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "published": "Tue, 10 Nov 2026 21:03:59 +0530",
       "source": "The Hacker News"
@@ -701,30 +725,6 @@
       "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
       "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
       "published": "Mon, 09 Nov 2026 20:01:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "published": "Mon, 09 Nov 2026 18:58:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "published": "Mon, 09 Nov 2026 16:57:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "published": "Mon, 09 Nov 2026 16:26:25 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "published": "Mon, 09 Nov 2026 15:31:21 +0530",
       "source": "The Hacker News"
     },
     {
