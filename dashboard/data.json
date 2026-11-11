@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-11T14:57:22.585800Z",
+  "generated_at": "2026-11-11T21:48:53.960586Z",
   "segment1": [
+    {
+      "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
+      "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
+      "published": "Wed, 11 Nov 2026 21:45:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+      "url": "https://databreaches.net/2026/11/11/the-26-million-cyber-heist-rocking-a-small-new-jersey-town/",
+      "published": "Wed, 11 Nov 2026 16:55:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ca: York University Breach Exposes 19 Years of Student Health and Financial Data",
+      "url": "https://databreaches.net/2026/11/11/ca-york-university-breach-exposes-19-years-of-student-health-and-financial-data/",
+      "published": "Wed, 11 Nov 2026 15:21:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published": "Wed, 11 Nov 2026 15:04:50 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Grok’s security blind spot exposed users and Musk’s company secrets",
       "url": "https://databreaches.net/2026/11/11/groks-security-blind-spot-exposed-users-and-musks-company-secrets/",
@@ -35,35 +59,35 @@
       "title": "Hundreds of Dutch sports clubs report cyberattack exposing members’ personal data",
       "url": "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/",
       "published": "Wed, 11 Nov 2026 14:11:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ESET Links Cereal to Turla in Romanian Server Breach Case — Defense News",
-      "url": "https://databreaches.net/2026/11/11/eset-links-cereal-to-turla-in-romanian-server-breach-case-defense-news/",
-      "published": "Wed, 11 Nov 2026 14:11:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rural Hospital Cyber Incident: 17 Days of Access Went Unseen",
-      "url": "https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/",
-      "published": "Wed, 11 Nov 2026 14:10:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district’s error to destroy the data",
-      "url": "https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/",
-      "published": "Tue, 10 Nov 2026 22:33:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "url": "https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/",
-      "published": "Tue, 10 Nov 2026 20:39:48 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
+      "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
+      "published": "Wed, 11 Nov 2026 21:45:18 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+      "url": "https://databreaches.net/2026/11/11/the-26-million-cyber-heist-rocking-a-small-new-jersey-town/",
+      "published": "Wed, 11 Nov 2026 16:55:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Ca: York University Breach Exposes 19 Years of Student Health and Financial Data",
+      "url": "https://databreaches.net/2026/11/11/ca-york-university-breach-exposes-19-years-of-student-health-and-financial-data/",
+      "published": "Wed, 11 Nov 2026 15:21:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published": "Wed, 11 Nov 2026 15:04:50 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Grok’s security blind spot exposed users and Musk’s company secrets",
       "url": "https://databreaches.net/2026/11/11/groks-security-blind-spot-exposed-users-and-musks-company-secrets/",
       "published": "Wed, 11 Nov 2026 14:12:26 +0000",
@@ -98,33 +122,15 @@
       "url": "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/",
       "published": "Wed, 11 Nov 2026 14:11:34 +0000",
       "source": "DataBreaches.Net"
-    },
-    {
-      "title": "ESET Links Cereal to Turla in Romanian Server Breach Case — Defense News",
-      "url": "https://databreaches.net/2026/11/11/eset-links-cereal-to-turla-in-romanian-server-breach-case-defense-news/",
-      "published": "Wed, 11 Nov 2026 14:11:25 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Rural Hospital Cyber Incident: 17 Days of Access Went Unseen",
-      "url": "https://databreaches.net/2026/11/11/rural-hospital-cyber-incident-17-days-of-access-went-unseen/",
-      "published": "Wed, 11 Nov 2026 14:10:44 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district’s error to destroy the data",
-      "url": "https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/",
-      "published": "Tue, 10 Nov 2026 22:33:14 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "url": "https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/",
-      "published": "Tue, 10 Nov 2026 20:39:48 +0000",
-      "source": "DataBreaches.Net"
     }
   ],
   "segment3": [
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "published": "Wed, 11 Nov 2026 18:06:01 +0000",
+      "source": "Krebs on Security"
+    },
     {
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
@@ -180,10 +186,34 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
-      "source": "Krebs on Security"
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "published": "Wed, 11 Nov 2026 16:27:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "published": "Wed, 11 Nov 2026 15:54:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "published": "Wed, 11 Nov 2026 11:24:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "published": "Wed, 11 Nov 2026 10:12:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "published": "Wed, 11 Nov 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "N-able releases security hotfixes for zero-day vulnerabilities",
@@ -246,34 +276,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "published": "Tue, 10 Nov 2026 11:17:16 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "published": "Wed, 11 Nov 2026 21:42:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "published": "Tue, 10 Nov 2026 10:59:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware recovery is now a client retention metric",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "published": "Tue, 10 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "published": "Tue, 10 Nov 2026 07:07:03 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "published": "Tue, 10 Nov 2026 05:10:20 -0500",
-      "source": "BleepingComputer"
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "published": "Wed, 11 Nov 2026 21:04:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
@@ -381,18 +393,6 @@
       "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
       "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
       "published": "Tue, 10 Nov 2026 15:46:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "published": "Tue, 10 Nov 2026 15:37:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "published": "Tue, 10 Nov 2026 15:32:40 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "published": "Wed, 11 Nov 2026 18:06:01 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
       "published": "Tue, 10 Nov 2026 21:55:03 +0000",
@@ -512,10 +518,34 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "published": "Mon, 28 Sep 2026 15:08:57 +0000",
-      "source": "Krebs on Security"
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "published": "Wed, 11 Nov 2026 16:27:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "published": "Wed, 11 Nov 2026 15:54:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "published": "Wed, 11 Nov 2026 11:24:18 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "published": "Wed, 11 Nov 2026 10:12:59 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "published": "Wed, 11 Nov 2026 10:01:11 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "N-able releases security hotfixes for zero-day vulnerabilities",
@@ -578,34 +608,16 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "published": "Tue, 10 Nov 2026 11:17:16 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "published": "Wed, 11 Nov 2026 21:42:46 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "published": "Tue, 10 Nov 2026 10:59:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Ransomware recovery is now a client retention metric",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "published": "Tue, 10 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "published": "Tue, 10 Nov 2026 07:07:03 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "published": "Tue, 10 Nov 2026 05:10:20 -0500",
-      "source": "BleepingComputer"
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "published": "Wed, 11 Nov 2026 21:04:27 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
@@ -713,18 +725,6 @@
       "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
       "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
       "published": "Tue, 10 Nov 2026 15:46:51 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "published": "Tue, 10 Nov 2026 15:37:29 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "published": "Tue, 10 Nov 2026 15:32:40 +0530",
       "source": "The Hacker News"
     },
     {
