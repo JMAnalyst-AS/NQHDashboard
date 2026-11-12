@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-11T21:48:53.960586Z",
+  "generated_at": "2026-11-12T02:42:44.920832Z",
   "segment1": [
+    {
+      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
       "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
@@ -53,17 +59,17 @@
       "title": "French bank Credit Mutuel Arkea says €100m missing after cyberattack",
       "url": "https://databreaches.net/2026/11/11/french-bank-credit-mutuel-arkea-says-e100m-missing-after-cyberattack/",
       "published": "Wed, 11 Nov 2026 14:11:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hundreds of Dutch sports clubs report cyberattack exposing members’ personal data",
-      "url": "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/",
-      "published": "Wed, 11 Nov 2026 14:11:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
       "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
       "published": "Wed, 11 Nov 2026 21:45:18 +0000",
@@ -115,12 +121,6 @@
       "title": "French bank Credit Mutuel Arkea says €100m missing after cyberattack",
       "url": "https://databreaches.net/2026/11/11/french-bank-credit-mutuel-arkea-says-e100m-missing-after-cyberattack/",
       "published": "Wed, 11 Nov 2026 14:11:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hundreds of Dutch sports clubs report cyberattack exposing members’ personal data",
-      "url": "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/",
-      "published": "Wed, 11 Nov 2026 14:11:34 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "published": "Wed, 11 Nov 2026 18:01:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "Wed, 11 Nov 2026 17:56:21 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "eMudhra revokes 8 more CA certificates after private key mishap",
@@ -261,18 +273,6 @@
       "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
       "published": "Tue, 10 Nov 2026 14:31:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "published": "Tue, 10 Nov 2026 14:07:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "published": "Tue, 10 Nov 2026 13:33:26 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "published": "Wed, 11 Nov 2026 18:01:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "Wed, 11 Nov 2026 17:56:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "eMudhra revokes 8 more CA certificates after private key mishap",
       "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
       "published": "Wed, 11 Nov 2026 16:27:40 -0500",
@@ -593,18 +605,6 @@
       "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
       "published": "Tue, 10 Nov 2026 14:31:11 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "published": "Tue, 10 Nov 2026 14:07:36 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "published": "Tue, 10 Nov 2026 13:33:26 -0500",
       "source": "BleepingComputer"
     },
     {
