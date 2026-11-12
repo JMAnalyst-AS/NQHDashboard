@@ -1,7 +1,129 @@
 {
-  "generated_at": "2026-11-12T10:41:35.147519Z",
-  "segment1": [],
-  "hacks": [],
+  "generated_at": "2026-11-12T18:42:27.387841Z",
+  "segment1": [
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "url": "https://databreaches.net/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "Thu, 12 Nov 2026 15:45:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Hong Kong Sogo data breach puts personal information of 820,000 members at risk",
+      "url": "https://databreaches.net/2026/11/12/hong-kong-sogo-data-breach-puts-personal-information-of-820000-members-at-risk/",
+      "published": "Thu, 12 Nov 2026 15:42:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Unocoin Goes Dark As 81,000 Wallets Show Zero Holdings",
+      "url": "https://databreaches.net/2026/11/12/unocoin-goes-dark-as-81000-wallets-show-zero-holdings/",
+      "published": "Thu, 12 Nov 2026 15:40:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Study Provides Insights into Impact of Cyberattacks on Hospital Care",
+      "url": "https://databreaches.net/2026/11/12/study-provides-insights-into-impact-of-cyberattacks-on-hospital-care/",
+      "published": "Thu, 12 Nov 2026 12:40:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://databreaches.net/2026/11/12/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "Thu, 12 Nov 2026 12:37:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "url": "https://databreaches.net/2026/11/12/inside-an-ai-attack-against-a-us-retailer/",
+      "published": "Thu, 12 Nov 2026 12:37:11 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://databreaches.net/2026/11/12/who-runs-the-ransomware-group-qilin/",
+      "published": "Thu, 12 Nov 2026 12:37:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "JPN: Muji operator apologizes for data breach",
+      "url": "https://databreaches.net/2026/11/12/jpn-muji-operator-apologizes-for-data-breach/",
+      "published": "Thu, 12 Nov 2026 12:36:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "SG: AIC hit by cybersecurity incident, personal data of over 4,000 healthcare and community care employees possibly affected",
+      "url": "https://databreaches.net/2026/11/12/sg-aic-hit-by-cybersecurity-incident-personal-data-of-over-4000-healthcare-and-community-care-employees-possibly-affected/",
+      "published": "Thu, 12 Nov 2026 12:36:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
+      "source": "DataBreaches.Net"
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "url": "https://databreaches.net/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "Thu, 12 Nov 2026 15:45:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Hong Kong Sogo data breach puts personal information of 820,000 members at risk",
+      "url": "https://databreaches.net/2026/11/12/hong-kong-sogo-data-breach-puts-personal-information-of-820000-members-at-risk/",
+      "published": "Thu, 12 Nov 2026 15:42:32 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Unocoin Goes Dark As 81,000 Wallets Show Zero Holdings",
+      "url": "https://databreaches.net/2026/11/12/unocoin-goes-dark-as-81000-wallets-show-zero-holdings/",
+      "published": "Thu, 12 Nov 2026 15:40:24 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Study Provides Insights into Impact of Cyberattacks on Hospital Care",
+      "url": "https://databreaches.net/2026/11/12/study-provides-insights-into-impact-of-cyberattacks-on-hospital-care/",
+      "published": "Thu, 12 Nov 2026 12:40:40 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://databreaches.net/2026/11/12/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "Thu, 12 Nov 2026 12:37:30 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "url": "https://databreaches.net/2026/11/12/inside-an-ai-attack-against-a-us-retailer/",
+      "published": "Thu, 12 Nov 2026 12:37:11 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://databreaches.net/2026/11/12/who-runs-the-ransomware-group-qilin/",
+      "published": "Thu, 12 Nov 2026 12:37:06 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "JPN: Muji operator apologizes for data breach",
+      "url": "https://databreaches.net/2026/11/12/jpn-muji-operator-apologizes-for-data-breach/",
+      "published": "Thu, 12 Nov 2026 12:36:54 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "SG: AIC hit by cybersecurity incident, personal data of over 4,000 healthcare and community care employees possibly affected",
+      "url": "https://databreaches.net/2026/11/12/sg-aic-hit-by-cybersecurity-incident-personal-data-of-over-4000-healthcare-and-community-care-employees-possibly-affected/",
+      "published": "Thu, 12 Nov 2026 12:36:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
+      "source": "DataBreaches.Net"
+    }
+  ],
   "segment3": [
     {
       "title": "Who Runs the Ransomware Group Qilin?",
@@ -64,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "published": "Thu, 12 Nov 2026 11:04:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "Thu, 12 Nov 2026 10:07:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "published": "Thu, 12 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "published": "Thu, 12 Nov 2026 09:36:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "published": "Thu, 12 Nov 2026 07:11:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft confirms Windows security updates installation issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
       "published": "Thu, 12 Nov 2026 05:24:07 -0500",
@@ -124,34 +276,70 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "published": "Wed, 11 Nov 2026 06:18:36 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "Thu, 12 Nov 2026 23:37:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "published": "Wed, 11 Nov 2026 05:12:08 -0500",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "published": "Thu, 12 Nov 2026 23:32:51 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "published": "Wed, 11 Nov 2026 04:07:27 -0500",
-      "source": "BleepingComputer"
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "published": "Thu, 12 Nov 2026 23:20:27 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "published": "Tue, 10 Nov 2026 17:20:19 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "published": "Thu, 12 Nov 2026 21:57:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-      "published": "Tue, 10 Nov 2026 15:54:55 -0500",
-      "source": "BleepingComputer"
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "published": "Thu, 12 Nov 2026 21:08:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "published": "Thu, 12 Nov 2026 20:45:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "published": "Thu, 12 Nov 2026 18:38:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "published": "Thu, 12 Nov 2026 17:39:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "published": "Thu, 12 Nov 2026 17:21:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "published": "Thu, 12 Nov 2026 17:21:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "published": "Thu, 12 Nov 2026 17:03:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
@@ -205,72 +393,6 @@
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
       "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
       "published": "Wed, 11 Nov 2026 17:49:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "published": "Wed, 11 Nov 2026 17:31:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "published": "Wed, 11 Nov 2026 17:30:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "published": "Wed, 11 Nov 2026 13:47:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "published": "Wed, 11 Nov 2026 13:19:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "published": "Wed, 11 Nov 2026 12:51:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "published": "Wed, 11 Nov 2026 11:34:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "published": "Wed, 11 Nov 2026 00:53:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "published": "Wed, 11 Nov 2026 00:49:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "published": "Tue, 10 Nov 2026 23:42:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "published": "Tue, 10 Nov 2026 23:13:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "Tue, 10 Nov 2026 21:30:55 +0530",
       "source": "The Hacker News"
     },
     {
@@ -396,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "published": "Thu, 12 Nov 2026 11:04:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "Thu, 12 Nov 2026 10:07:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "published": "Thu, 12 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "published": "Thu, 12 Nov 2026 09:36:47 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "published": "Thu, 12 Nov 2026 07:11:11 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Microsoft confirms Windows security updates installation issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
       "published": "Thu, 12 Nov 2026 05:24:07 -0500",
@@ -456,34 +608,70 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "published": "Wed, 11 Nov 2026 06:18:36 -0500",
-      "source": "BleepingComputer"
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "Thu, 12 Nov 2026 23:37:15 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "published": "Wed, 11 Nov 2026 05:12:08 -0500",
-      "source": "BleepingComputer"
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "published": "Thu, 12 Nov 2026 23:32:51 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "published": "Wed, 11 Nov 2026 04:07:27 -0500",
-      "source": "BleepingComputer"
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "published": "Thu, 12 Nov 2026 23:20:27 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "published": "Tue, 10 Nov 2026 17:20:19 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "published": "Thu, 12 Nov 2026 21:57:01 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-      "published": "Tue, 10 Nov 2026 15:54:55 -0500",
-      "source": "BleepingComputer"
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "published": "Thu, 12 Nov 2026 21:08:49 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "published": "Thu, 12 Nov 2026 20:45:40 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "published": "Thu, 12 Nov 2026 18:38:28 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "published": "Thu, 12 Nov 2026 17:39:14 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "published": "Thu, 12 Nov 2026 17:21:43 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "published": "Thu, 12 Nov 2026 17:21:31 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "published": "Thu, 12 Nov 2026 17:03:15 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
@@ -537,72 +725,6 @@
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
       "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
       "published": "Wed, 11 Nov 2026 17:49:40 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "published": "Wed, 11 Nov 2026 17:31:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "published": "Wed, 11 Nov 2026 17:30:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "published": "Wed, 11 Nov 2026 13:47:53 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "published": "Wed, 11 Nov 2026 13:19:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "published": "Wed, 11 Nov 2026 12:51:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "published": "Wed, 11 Nov 2026 11:34:02 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "published": "Wed, 11 Nov 2026 00:53:10 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "published": "Wed, 11 Nov 2026 00:49:39 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "published": "Tue, 10 Nov 2026 23:42:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "published": "Tue, 10 Nov 2026 23:13:23 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "Tue, 10 Nov 2026 21:30:55 +0530",
       "source": "The Hacker News"
     },
     {
