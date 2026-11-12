@@ -1,129 +1,7 @@
 {
-  "generated_at": "2026-11-12T02:42:44.920832Z",
-  "segment1": [
-    {
-      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
-      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
-      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
-      "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
-      "published": "Wed, 11 Nov 2026 21:45:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
-      "url": "https://databreaches.net/2026/11/11/the-26-million-cyber-heist-rocking-a-small-new-jersey-town/",
-      "published": "Wed, 11 Nov 2026 16:55:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ca: York University Breach Exposes 19 Years of Student Health and Financial Data",
-      "url": "https://databreaches.net/2026/11/11/ca-york-university-breach-exposes-19-years-of-student-health-and-financial-data/",
-      "published": "Wed, 11 Nov 2026 15:21:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "url": "https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "published": "Wed, 11 Nov 2026 15:04:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Grok’s security blind spot exposed users and Musk’s company secrets",
-      "url": "https://databreaches.net/2026/11/11/groks-security-blind-spot-exposed-users-and-musks-company-secrets/",
-      "published": "Wed, 11 Nov 2026 14:12:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims’ credentials",
-      "url": "https://databreaches.net/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/",
-      "published": "Wed, 11 Nov 2026 14:12:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyber threat prompts New Plymouth School District in Idaho to cancel classes",
-      "url": "https://databreaches.net/2026/11/11/cyber-threat-prompts-new-plymouth-school-district-in-idaho-to-cancel-classes/",
-      "published": "Wed, 11 Nov 2026 14:11:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SG: Fullerton Health server hit by cyberattack; personal data of migrant workers affected",
-      "url": "https://databreaches.net/2026/11/11/sg-fullerton-health-server-hit-by-cyberattack-personal-data-of-migrant-workers-affected/",
-      "published": "Wed, 11 Nov 2026 14:11:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French bank Credit Mutuel Arkea says €100m missing after cyberattack",
-      "url": "https://databreaches.net/2026/11/11/french-bank-credit-mutuel-arkea-says-e100m-missing-after-cyberattack/",
-      "published": "Wed, 11 Nov 2026 14:11:41 +0000",
-      "source": "DataBreaches.Net"
-    }
-  ],
-  "hacks": [
-    {
-      "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
-      "url": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
-      "published": "Wed, 11 Nov 2026 21:54:41 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
-      "url": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
-      "published": "Wed, 11 Nov 2026 21:45:18 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
-      "url": "https://databreaches.net/2026/11/11/the-26-million-cyber-heist-rocking-a-small-new-jersey-town/",
-      "published": "Wed, 11 Nov 2026 16:55:59 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ca: York University Breach Exposes 19 Years of Student Health and Financial Data",
-      "url": "https://databreaches.net/2026/11/11/ca-york-university-breach-exposes-19-years-of-student-health-and-financial-data/",
-      "published": "Wed, 11 Nov 2026 15:21:34 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "url": "https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "published": "Wed, 11 Nov 2026 15:04:50 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Grok’s security blind spot exposed users and Musk’s company secrets",
-      "url": "https://databreaches.net/2026/11/11/groks-security-blind-spot-exposed-users-and-musks-company-secrets/",
-      "published": "Wed, 11 Nov 2026 14:12:26 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims’ credentials",
-      "url": "https://databreaches.net/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/",
-      "published": "Wed, 11 Nov 2026 14:12:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Cyber threat prompts New Plymouth School District in Idaho to cancel classes",
-      "url": "https://databreaches.net/2026/11/11/cyber-threat-prompts-new-plymouth-school-district-in-idaho-to-cancel-classes/",
-      "published": "Wed, 11 Nov 2026 14:11:57 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "SG: Fullerton Health server hit by cyberattack; personal data of migrant workers affected",
-      "url": "https://databreaches.net/2026/11/11/sg-fullerton-health-server-hit-by-cyberattack-personal-data-of-migrant-workers-affected/",
-      "published": "Wed, 11 Nov 2026 14:11:49 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "French bank Credit Mutuel Arkea says €100m missing after cyberattack",
-      "url": "https://databreaches.net/2026/11/11/french-bank-credit-mutuel-arkea-says-e100m-missing-after-cyberattack/",
-      "published": "Wed, 11 Nov 2026 14:11:41 +0000",
-      "source": "DataBreaches.Net"
-    }
-  ],
+  "generated_at": "2026-11-12T10:41:35.147519Z",
+  "segment1": [],
+  "hacks": [],
   "segment3": [
     {
       "title": "Who Runs the Ransomware Group Qilin?",
@@ -184,6 +62,18 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "published": "Thu, 12 Nov 2026 05:24:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "published": "Thu, 12 Nov 2026 04:38:00 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -264,16 +154,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-      "published": "Tue, 10 Nov 2026 15:04:36 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "published": "Thu, 12 Nov 2026 14:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "published": "Tue, 10 Nov 2026 14:31:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "published": "Thu, 12 Nov 2026 13:50:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "published": "Thu, 12 Nov 2026 12:12:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "published": "Thu, 12 Nov 2026 10:42:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "published": "Thu, 12 Nov 2026 10:09:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
@@ -363,36 +271,6 @@
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
       "published": "Tue, 10 Nov 2026 21:30:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "published": "Tue, 10 Nov 2026 21:28:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "published": "Tue, 10 Nov 2026 21:03:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "published": "Tue, 10 Nov 2026 17:45:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "published": "Tue, 10 Nov 2026 17:08:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "published": "Tue, 10 Nov 2026 15:46:51 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +396,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "published": "Thu, 12 Nov 2026 05:24:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "published": "Thu, 12 Nov 2026 04:38:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
       "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
       "published": "Wed, 11 Nov 2026 18:01:31 -0500",
@@ -596,16 +486,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-      "published": "Tue, 10 Nov 2026 15:04:36 -0500",
-      "source": "BleepingComputer"
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "published": "Thu, 12 Nov 2026 14:55:00 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "published": "Tue, 10 Nov 2026 14:31:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "published": "Thu, 12 Nov 2026 13:50:37 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "published": "Thu, 12 Nov 2026 12:12:47 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "published": "Thu, 12 Nov 2026 10:42:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "published": "Thu, 12 Nov 2026 10:09:48 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
@@ -695,36 +603,6 @@
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
       "published": "Tue, 10 Nov 2026 21:30:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "published": "Tue, 10 Nov 2026 21:28:44 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "published": "Tue, 10 Nov 2026 21:03:59 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "published": "Tue, 10 Nov 2026 17:45:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "published": "Tue, 10 Nov 2026 17:08:13 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "published": "Tue, 10 Nov 2026 15:46:51 +0530",
       "source": "The Hacker News"
     },
     {
