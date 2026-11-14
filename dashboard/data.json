@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-14T08:39:36.896253Z",
+  "generated_at": "2026-11-14T15:35:44.566306Z",
   "segment1": [
+    {
+      "title": "Statement from Microsoft",
+      "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
+      "published": "Sat, 14 Nov 2026 13:08:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "White House AI Task Force Urges Leniency on Cyberattack Penalties",
+      "url": "https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/",
+      "published": "Sat, 14 Nov 2026 13:02:49 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Curious about “Curious Worm”",
       "url": "https://databreaches.net/2026/11/13/curious-about-curious-worm/",
@@ -47,23 +59,23 @@
       "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
       "url": "https://databreaches.net/2026/11/12/ransomware-without-data-theft-can-still-trigger-mandatory-breach-reporting-under-indias-dpdp-law-k7-cybersecurity/",
       "published": "Thu, 12 Nov 2026 21:19:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://databreaches.net/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "Thu, 12 Nov 2026 15:45:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hong Kong Sogo data breach puts personal information of 820,000 members at risk",
-      "url": "https://databreaches.net/2026/11/12/hong-kong-sogo-data-breach-puts-personal-information-of-820000-members-at-risk/",
-      "published": "Thu, 12 Nov 2026 15:42:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Statement from Microsoft",
+      "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
+      "published": "Sat, 14 Nov 2026 13:08:09 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "White House AI Task Force Urges Leniency on Cyberattack Penalties",
+      "url": "https://databreaches.net/2026/11/14/white-house-ai-task-force-urges-leniency-on-cyberattack-penalties/",
+      "published": "Sat, 14 Nov 2026 13:02:49 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Curious about “Curious Worm”",
       "url": "https://databreaches.net/2026/11/13/curious-about-curious-worm/",
       "published": "Fri, 13 Nov 2026 19:59:35 +0000",
@@ -109,18 +121,6 @@
       "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
       "url": "https://databreaches.net/2026/11/12/ransomware-without-data-theft-can-still-trigger-mandatory-breach-reporting-under-indias-dpdp-law-k7-cybersecurity/",
       "published": "Thu, 12 Nov 2026 21:19:09 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://databreaches.net/2026/11/12/police-dismantle-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "Thu, 12 Nov 2026 15:45:24 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Hong Kong Sogo data breach puts personal information of 820,000 members at risk",
-      "url": "https://databreaches.net/2026/11/12/hong-kong-sogo-data-breach-puts-personal-information-of-820000-members-at-risk/",
-      "published": "Thu, 12 Nov 2026 15:42:32 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "published": "Sat, 14 Nov 2026 10:15:49 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
@@ -270,10 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "Thu, 12 Nov 2026 10:07:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -387,12 +393,6 @@
       "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
       "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
       "published": "Thu, 12 Nov 2026 17:21:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "published": "Thu, 12 Nov 2026 17:03:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "published": "Sat, 14 Nov 2026 10:15:49 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
       "published": "Fri, 13 Nov 2026 14:38:36 -0500",
@@ -602,10 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "Thu, 12 Nov 2026 10:07:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -719,12 +725,6 @@
       "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
       "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
       "published": "Thu, 12 Nov 2026 17:21:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "published": "Thu, 12 Nov 2026 17:03:15 +0530",
       "source": "The Hacker News"
     },
     {
