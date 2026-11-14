@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-14T15:35:44.566306Z",
+  "generated_at": "2026-11-14T20:27:20.493615Z",
   "segment1": [
+    {
+      "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
+      "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+      "published": "Sat, 14 Nov 2026 15:55:27 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Statement from Microsoft",
       "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
@@ -53,17 +59,17 @@
       "title": "Resource: DysruptionHub’s Cyber Incident Registry completes its historical backfill",
       "url": "https://databreaches.net/2026/11/12/resource-dysruptionhubs-cyber-incident-registry-completes-its-historical-backfill/",
       "published": "Thu, 12 Nov 2026 21:25:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
-      "url": "https://databreaches.net/2026/11/12/ransomware-without-data-theft-can-still-trigger-mandatory-breach-reporting-under-indias-dpdp-law-k7-cybersecurity/",
-      "published": "Thu, 12 Nov 2026 21:19:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
+      "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+      "published": "Sat, 14 Nov 2026 15:55:27 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Statement from Microsoft",
       "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
       "published": "Sat, 14 Nov 2026 13:08:09 +0000",
@@ -115,12 +121,6 @@
       "title": "Resource: DysruptionHub’s Cyber Incident Registry completes its historical backfill",
       "url": "https://databreaches.net/2026/11/12/resource-dysruptionhubs-cyber-incident-registry-completes-its-historical-backfill/",
       "published": "Thu, 12 Nov 2026 21:25:56 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
-      "url": "https://databreaches.net/2026/11/12/ransomware-without-data-theft-can-still-trigger-mandatory-breach-reporting-under-indias-dpdp-law-k7-cybersecurity/",
-      "published": "Thu, 12 Nov 2026 21:19:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "published": "Sat, 14 Nov 2026 12:27:25 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -267,12 +273,6 @@
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
       "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
       "published": "Thu, 12 Nov 2026 14:12:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "published": "Thu, 12 Nov 2026 11:04:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "published": "Sat, 14 Nov 2026 12:27:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
       "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
       "published": "Sat, 14 Nov 2026 10:15:49 -0500",
@@ -599,12 +605,6 @@
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
       "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
       "published": "Thu, 12 Nov 2026 14:12:55 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "published": "Thu, 12 Nov 2026 11:04:00 -0500",
       "source": "BleepingComputer"
     },
     {
