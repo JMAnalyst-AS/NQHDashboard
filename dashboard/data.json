@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-15T14:37:54.495445Z",
+  "generated_at": "2026-11-15T20:09:31.732987Z",
   "segment1": [
+    {
+      "title": "Hack at French postal unit exposes 22 million people’s data",
+      "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
+      "published": "Sun, 15 Nov 2026 15:49:15 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
       "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
@@ -53,17 +59,17 @@
       "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
       "url": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
       "published": "Thu, 12 Nov 2026 21:26:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Resource: DysruptionHub’s Cyber Incident Registry completes its historical backfill",
-      "url": "https://databreaches.net/2026/11/12/resource-dysruptionhubs-cyber-incident-registry-completes-its-historical-backfill/",
-      "published": "Thu, 12 Nov 2026 21:25:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Hack at French postal unit exposes 22 million people’s data",
+      "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
+      "published": "Sun, 15 Nov 2026 15:49:15 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
       "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
       "published": "Sat, 14 Nov 2026 15:55:27 +0000",
@@ -115,12 +121,6 @@
       "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
       "url": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
       "published": "Thu, 12 Nov 2026 21:26:33 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Resource: DysruptionHub’s Cyber Incident Registry completes its historical backfill",
-      "url": "https://databreaches.net/2026/11/12/resource-dysruptionhubs-cyber-incident-registry-completes-its-historical-backfill/",
-      "published": "Thu, 12 Nov 2026 21:25:56 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,18 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -261,18 +273,6 @@
       "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
       "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
       "published": "Thu, 12 Nov 2026 15:15:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published": "Thu, 12 Nov 2026 14:51:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "published": "Thu, 12 Nov 2026 14:12:55 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,18 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
       "published": "Sat, 14 Nov 2026 12:27:25 -0500",
@@ -593,18 +605,6 @@
       "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
       "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
       "published": "Thu, 12 Nov 2026 15:15:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published": "Thu, 12 Nov 2026 14:51:16 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "published": "Thu, 12 Nov 2026 14:12:55 -0500",
       "source": "BleepingComputer"
     },
     {
