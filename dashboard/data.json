@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-15T20:09:31.732987Z",
+  "generated_at": "2026-11-16T00:10:18.848656Z",
   "segment1": [
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "published": "Sun, 15 Nov 2026 20:56:08 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Hack at French postal unit exposes 22 million people’s data",
       "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
@@ -53,17 +59,17 @@
       "title": "Over 144,000 Norwegian and Widerøe passengers affected by data breach",
       "url": "https://databreaches.net/2026/11/13/over-144000-norwegian-and-wideroe-passengers-affected-by-data-breach/",
       "published": "Fri, 13 Nov 2026 14:46:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
-      "url": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
-      "published": "Thu, 12 Nov 2026 21:26:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "published": "Sun, 15 Nov 2026 20:56:08 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Hack at French postal unit exposes 22 million people’s data",
       "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
       "published": "Sun, 15 Nov 2026 15:49:15 +0000",
@@ -115,12 +121,6 @@
       "title": "Over 144,000 Norwegian and Widerøe passengers affected by data breach",
       "url": "https://databreaches.net/2026/11/13/over-144000-norwegian-and-wideroe-passengers-affected-by-data-breach/",
       "published": "Fri, 13 Nov 2026 14:46:54 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
-      "url": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
-      "published": "Thu, 12 Nov 2026 21:26:33 +0000",
       "source": "DataBreaches.Net"
     }
   ],
