@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-17T00:57:11.237120Z",
+  "generated_at": "2026-11-17T08:56:02.835830Z",
   "segment1": [
+    {
+      "title": "Customer Personal Information Leak at Legoland… Even Annual Pass Barcodes Stolen",
+      "url": "https://databreaches.net/2026/11/16/customer-personal-information-leak-at-legoland-even-annual-pass-barcodes-stolen/",
+      "published": "Tue, 17 Nov 2026 03:04:19 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Bank outage reports spike: JPMorgan says issues are resolved, blames internal software bug for transaction delays",
+      "url": "https://databreaches.net/2026/11/16/bank-outage-reports-spike-jpmorgan-says-issues-are-resolved-blames-internal-software-bug-for-transaction-delays/",
+      "published": "Tue, 17 Nov 2026 03:03:59 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Roman Khlynovskiy, Alleged Member of “8-Digits Team” Ransomware Group Extradited for Role in Major Data Extortion Campaign Against U.S. Hospitals, Healthcare Entities, and Schools",
       "url": "https://databreaches.net/2026/11/16/roman-khlynovskiy-alleged-member-of-8-digits-team-ransomware-group-extradited-for-role-in-major-data-extortion-campaign-against-u-s-hospitals-healthcare-entities-and-schools/",
@@ -47,23 +59,23 @@
       "title": "Hack at French postal unit exposes 22 million people’s data",
       "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
       "published": "Sun, 15 Nov 2026 15:49:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
-      "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
-      "published": "Sat, 14 Nov 2026 15:55:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Statement from Microsoft",
-      "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
-      "published": "Sat, 14 Nov 2026 13:08:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Customer Personal Information Leak at Legoland… Even Annual Pass Barcodes Stolen",
+      "url": "https://databreaches.net/2026/11/16/customer-personal-information-leak-at-legoland-even-annual-pass-barcodes-stolen/",
+      "published": "Tue, 17 Nov 2026 03:04:19 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Bank outage reports spike: JPMorgan says issues are resolved, blames internal software bug for transaction delays",
+      "url": "https://databreaches.net/2026/11/16/bank-outage-reports-spike-jpmorgan-says-issues-are-resolved-blames-internal-software-bug-for-transaction-delays/",
+      "published": "Tue, 17 Nov 2026 03:03:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Roman Khlynovskiy, Alleged Member of “8-Digits Team” Ransomware Group Extradited for Role in Major Data Extortion Campaign Against U.S. Hospitals, Healthcare Entities, and Schools",
       "url": "https://databreaches.net/2026/11/16/roman-khlynovskiy-alleged-member-of-8-digits-team-ransomware-group-extradited-for-role-in-major-data-extortion-campaign-against-u-s-hospitals-healthcare-entities-and-schools/",
       "published": "Tue, 17 Nov 2026 00:30:50 +0000",
@@ -109,18 +121,6 @@
       "title": "Hack at French postal unit exposes 22 million people’s data",
       "url": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
       "published": "Sun, 15 Nov 2026 15:49:15 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
-      "url": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
-      "published": "Sat, 14 Nov 2026 15:55:27 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Statement from Microsoft",
-      "url": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
-      "published": "Sat, 14 Nov 2026 13:08:09 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "published": "Tue, 17 Nov 2026 03:35:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "published": "Tue, 17 Nov 2026 02:25:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "published": "Mon, 16 Nov 2026 21:12:17 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
@@ -258,22 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "published": "Mon, 16 Nov 2026 03:26:52 -0500",
-      "source": "BleepingComputer"
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "published": "Tue, 17 Nov 2026 12:42:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
-      "source": "BleepingComputer"
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "published": "Tue, 17 Nov 2026 11:59:27 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
-      "source": "BleepingComputer"
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -375,24 +393,6 @@
       "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
       "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
       "published": "Fri, 13 Nov 2026 16:25:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "published": "Fri, 13 Nov 2026 13:35:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "published": "Fri, 13 Nov 2026 11:13:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "published": "Thu, 12 Nov 2026 23:37:15 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "published": "Tue, 17 Nov 2026 03:35:42 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "published": "Tue, 17 Nov 2026 02:25:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "published": "Mon, 16 Nov 2026 21:12:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
       "published": "Mon, 16 Nov 2026 17:54:00 -0500",
@@ -590,22 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "published": "Mon, 16 Nov 2026 03:26:52 -0500",
-      "source": "BleepingComputer"
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "published": "Tue, 17 Nov 2026 12:42:13 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
-      "source": "BleepingComputer"
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "published": "Tue, 17 Nov 2026 11:59:27 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
-      "source": "BleepingComputer"
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -707,24 +725,6 @@
       "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
       "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
       "published": "Fri, 13 Nov 2026 16:25:03 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "published": "Fri, 13 Nov 2026 13:35:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "published": "Fri, 13 Nov 2026 11:13:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "published": "Thu, 12 Nov 2026 23:37:15 +0530",
       "source": "The Hacker News"
     },
     {
