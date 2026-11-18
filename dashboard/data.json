@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:09:10.933857Z",
+  "generated_at": "2026-11-18T08:53:56.494523Z",
   "segment1": [
     {
       "title": "Canada: Highland Shores Children’s Aid Reveals Cybersecurity Breach Involving Personal Information",
@@ -126,6 +126,12 @@
   ],
   "segment3": [
     {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "published": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "published": "Wed, 11 Nov 2026 18:06:01 +0000",
@@ -180,10 +186,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
-      "source": "Krebs on Security"
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "published": "Wed, 18 Nov 2026 03:24:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "published": "Mon, 16 Nov 2026 16:31:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "published": "Wed, 18 Nov 2026 12:15:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "published": "Wed, 18 Nov 2026 11:28:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "published": "Wed, 18 Nov 2026 09:57:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
@@ -375,24 +393,6 @@
       "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
       "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
       "published": "Mon, 16 Nov 2026 12:23:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "published": "Sun, 15 Nov 2026 16:57:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "published": "Sun, 15 Nov 2026 13:52:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
       "source": "The Hacker News"
     },
     {
@@ -458,6 +458,12 @@
   ],
   "rss": [
     {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "published": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "source": "Krebs on Security"
+    },
+    {
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "published": "Wed, 11 Nov 2026 18:06:01 +0000",
@@ -512,10 +518,10 @@
       "source": "Krebs on Security"
     },
     {
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
-      "source": "Krebs on Security"
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "published": "Wed, 18 Nov 2026 03:24:18 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "published": "Mon, 16 Nov 2026 16:31:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "published": "Wed, 18 Nov 2026 12:15:26 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "published": "Wed, 18 Nov 2026 11:28:04 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "published": "Wed, 18 Nov 2026 09:57:41 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
@@ -707,24 +725,6 @@
       "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
       "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
       "published": "Mon, 16 Nov 2026 12:23:34 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "published": "Sun, 15 Nov 2026 16:57:31 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "published": "Sun, 15 Nov 2026 13:52:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
       "source": "The Hacker News"
     },
     {
