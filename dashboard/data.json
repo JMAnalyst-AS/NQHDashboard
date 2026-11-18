@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-17T18:15:59.409177Z",
+  "generated_at": "2026-11-18T01:09:10.933857Z",
   "segment1": [
+    {
+      "title": "Canada: Highland Shores Children’s Aid Reveals Cybersecurity Breach Involving Personal Information",
+      "url": "https://databreaches.net/2026/11/17/canada-highland-shores-childrens-aid-reveals-cybersecurity-breach-involving-personal-information/",
+      "published": "Wed, 18 Nov 2026 00:15:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "IE: Suspected data breach at 43 credit unions could affect hundreds of thousands of members",
+      "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/",
+      "published": "Tue, 17 Nov 2026 18:28:55 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Highly classified NSA communications network is down — CNN sources",
       "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/",
@@ -47,23 +59,23 @@
       "title": "Delhi Gang Uses Stolen Patient Data to Sell Counterfeit Medicines, 12 Arrested",
       "url": "https://databreaches.net/2026/11/17/delhi-gang-uses-stolen-patient-data-to-sell-counterfeit-medicines-12-arrested/",
       "published": "Tue, 17 Nov 2026 13:44:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "iPhone Users Targeted in Major Website Security Breach",
-      "url": "https://databreaches.net/2026/11/17/iphone-users-targeted-in-major-website-security-breach/",
-      "published": "Tue, 17 Nov 2026 13:43:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Germany: Greiz Hospital Reopens Emergency Room After Ransom Attack",
-      "url": "https://databreaches.net/2026/11/17/germany-greiz-hospital-reopens-emergency-room-after-ransom-attack/",
-      "published": "Tue, 17 Nov 2026 13:43:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Canada: Highland Shores Children’s Aid Reveals Cybersecurity Breach Involving Personal Information",
+      "url": "https://databreaches.net/2026/11/17/canada-highland-shores-childrens-aid-reveals-cybersecurity-breach-involving-personal-information/",
+      "published": "Wed, 18 Nov 2026 00:15:28 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "IE: Suspected data breach at 43 credit unions could affect hundreds of thousands of members",
+      "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/",
+      "published": "Tue, 17 Nov 2026 18:28:55 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Highly classified NSA communications network is down — CNN sources",
       "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/",
       "published": "Tue, 17 Nov 2026 16:23:18 +0000",
@@ -109,18 +121,6 @@
       "title": "Delhi Gang Uses Stolen Patient Data to Sell Counterfeit Medicines, 12 Arrested",
       "url": "https://databreaches.net/2026/11/17/delhi-gang-uses-stolen-patient-data-to-sell-counterfeit-medicines-12-arrested/",
       "published": "Tue, 17 Nov 2026 13:44:04 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "iPhone Users Targeted in Major Website Security Breach",
-      "url": "https://databreaches.net/2026/11/17/iphone-users-targeted-in-major-website-security-breach/",
-      "published": "Tue, 17 Nov 2026 13:43:43 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Germany: Greiz Hospital Reopens Emergency Room After Ransom Attack",
-      "url": "https://databreaches.net/2026/11/17/germany-greiz-hospital-reopens-emergency-room-after-ransom-attack/",
-      "published": "Tue, 17 Nov 2026 13:43:25 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "published": "Tue, 17 Nov 2026 18:04:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "published": "Tue, 17 Nov 2026 16:27:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "published": "Tue, 17 Nov 2026 15:51:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "published": "Tue, 17 Nov 2026 14:24:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "published": "Tue, 17 Nov 2026 13:21:24 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "published": "Tue, 17 Nov 2026 13:04:15 -0500",
@@ -246,34 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "published": "Mon, 16 Nov 2026 15:59:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published": "Wed, 18 Nov 2026 01:04:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "published": "Mon, 16 Nov 2026 14:57:13 -0500",
-      "source": "BleepingComputer"
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": "Tue, 17 Nov 2026 20:47:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "published": "Mon, 16 Nov 2026 11:43:24 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "published": "Mon, 16 Nov 2026 10:44:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "published": "Mon, 16 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "published": "Tue, 17 Nov 2026 20:47:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -375,24 +393,6 @@
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
       "published": "Sat, 14 Nov 2026 18:08:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "published": "Fri, 13 Nov 2026 22:23:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "published": "Fri, 13 Nov 2026 20:57:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "published": "Fri, 13 Nov 2026 19:58:58 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "published": "Tue, 17 Nov 2026 18:04:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "published": "Tue, 17 Nov 2026 16:27:17 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "published": "Tue, 17 Nov 2026 15:51:21 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "published": "Tue, 17 Nov 2026 14:24:07 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "published": "Tue, 17 Nov 2026 13:21:24 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "published": "Tue, 17 Nov 2026 13:04:15 -0500",
@@ -578,34 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "published": "Mon, 16 Nov 2026 15:59:44 -0500",
-      "source": "BleepingComputer"
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published": "Wed, 18 Nov 2026 01:04:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "published": "Mon, 16 Nov 2026 14:57:13 -0500",
-      "source": "BleepingComputer"
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": "Tue, 17 Nov 2026 20:47:36 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "published": "Mon, 16 Nov 2026 11:43:24 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "published": "Mon, 16 Nov 2026 10:44:21 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "published": "Mon, 16 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "published": "Tue, 17 Nov 2026 20:47:28 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -707,24 +725,6 @@
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
       "published": "Sat, 14 Nov 2026 18:08:35 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "published": "Fri, 13 Nov 2026 22:23:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "published": "Fri, 13 Nov 2026 20:57:05 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "published": "Fri, 13 Nov 2026 19:58:58 +0530",
       "source": "The Hacker News"
     },
     {
