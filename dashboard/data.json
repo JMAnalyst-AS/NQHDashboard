@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:56:13.949501Z",
+  "generated_at": "2026-11-20T12:35:20.063909Z",
   "segment1": [
     {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
@@ -186,6 +186,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "published": "Fri, 20 Nov 2026 07:14:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "published": "Fri, 20 Nov 2026 05:57:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "published": "Fri, 20 Nov 2026 04:25:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
       "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "published": "Thu, 19 Nov 2026 19:26:25 -0500",
@@ -258,22 +276,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "published": "Wed, 18 Nov 2026 15:49:32 -0500",
-      "source": "BleepingComputer"
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "published": "Fri, 20 Nov 2026 16:08:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "published": "Wed, 18 Nov 2026 14:39:33 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "published": "Fri, 20 Nov 2026 16:02:50 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "published": "Wed, 18 Nov 2026 11:58:42 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "published": "Fri, 20 Nov 2026 15:08:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "published": "Fri, 20 Nov 2026 12:41:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "published": "Fri, 20 Nov 2026 11:00:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -318,7 +348,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
       "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
       "published": "Thu, 19 Nov 2026 14:12:11 +0530",
       "source": "The Hacker News"
@@ -363,36 +393,6 @@
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
       "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
       "published": "Wed, 18 Nov 2026 19:41:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": "Wed, 18 Nov 2026 17:58:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "published": "Wed, 18 Nov 2026 17:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "published": "Wed, 18 Nov 2026 17:25:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "published": "Wed, 18 Nov 2026 16:33:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "published": "Wed, 18 Nov 2026 13:54:31 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "published": "Fri, 20 Nov 2026 07:14:28 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "published": "Fri, 20 Nov 2026 05:57:43 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "published": "Fri, 20 Nov 2026 04:25:35 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
       "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "published": "Thu, 19 Nov 2026 19:26:25 -0500",
@@ -590,22 +608,34 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "published": "Wed, 18 Nov 2026 15:49:32 -0500",
-      "source": "BleepingComputer"
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "published": "Fri, 20 Nov 2026 16:08:22 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "published": "Wed, 18 Nov 2026 14:39:33 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "published": "Fri, 20 Nov 2026 16:02:50 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "published": "Wed, 18 Nov 2026 11:58:42 -0500",
-      "source": "BleepingComputer"
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "published": "Fri, 20 Nov 2026 15:08:15 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "published": "Fri, 20 Nov 2026 12:41:39 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "published": "Fri, 20 Nov 2026 11:00:01 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -650,7 +680,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
       "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
       "published": "Thu, 19 Nov 2026 14:12:11 +0530",
       "source": "The Hacker News"
@@ -695,36 +725,6 @@
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
       "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
       "published": "Wed, 18 Nov 2026 19:41:28 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": "Wed, 18 Nov 2026 17:58:30 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "published": "Wed, 18 Nov 2026 17:45:00 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "published": "Wed, 18 Nov 2026 17:25:49 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "published": "Wed, 18 Nov 2026 16:33:57 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "published": "Wed, 18 Nov 2026 13:54:31 +0530",
       "source": "The Hacker News"
     },
     {
