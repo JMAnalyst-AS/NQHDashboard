@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:59:36.686099Z",
+  "generated_at": "2026-11-20T03:56:13.949501Z",
   "segment1": [
     {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
@@ -186,6 +186,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
       "published": "Thu, 19 Nov 2026 17:25:42 -0500",
@@ -270,12 +276,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "published": "Wed, 18 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "published": "Fri, 20 Nov 2026 00:17:58 +0530",
@@ -294,7 +294,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "published": "Thu, 19 Nov 2026 20:41:06 +0530",
       "source": "The Hacker News"
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
       "published": "Thu, 19 Nov 2026 17:25:42 -0500",
@@ -602,12 +608,6 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "published": "Wed, 18 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "published": "Fri, 20 Nov 2026 00:17:58 +0530",
@@ -626,7 +626,7 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "published": "Thu, 19 Nov 2026 20:41:06 +0530",
       "source": "The Hacker News"
