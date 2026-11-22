@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:30:23.354820Z",
+  "generated_at": "2026-11-22T10:46:13.654457Z",
   "segment1": [
     {
       "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
@@ -276,6 +276,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
       "published": "Sat, 21 Nov 2026 17:23:07 +0530",
@@ -381,18 +393,6 @@
       "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "published": "Thu, 19 Nov 2026 20:41:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "published": "Thu, 19 Nov 2026 20:03:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "published": "Thu, 19 Nov 2026 17:22:23 +0530",
       "source": "The Hacker News"
     },
     {
@@ -608,6 +608,18 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+      "source": "The Hacker News"
+    },
+    {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
       "published": "Sat, 21 Nov 2026 17:23:07 +0530",
@@ -713,18 +725,6 @@
       "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "published": "Thu, 19 Nov 2026 20:41:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "published": "Thu, 19 Nov 2026 20:03:06 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "published": "Thu, 19 Nov 2026 17:22:23 +0530",
       "source": "The Hacker News"
     },
     {
