@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:36:15.008553Z",
+  "generated_at": "2026-11-24T04:11:33.087379Z",
   "segment1": [
     {
       "title": "GTA 6 hacker released on licence with warning ‘don’t let this happen again’",
@@ -186,6 +186,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "published": "Mon, 23 Nov 2026 15:54:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "published": "Mon, 23 Nov 2026 15:00:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "published": "Mon, 23 Nov 2026 14:42:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "published": "Mon, 23 Nov 2026 13:38:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
       "published": "Mon, 23 Nov 2026 11:50:01 -0500",
@@ -249,30 +273,6 @@
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "published": "Sat, 21 Nov 2026 13:01:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "published": "Sat, 21 Nov 2026 10:17:27 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "published": "Sat, 21 Nov 2026 09:26:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "published": "Fri, 20 Nov 2026 13:51:43 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "published": "Fri, 20 Nov 2026 12:30:00 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,30 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "published": "Mon, 23 Nov 2026 15:54:51 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "published": "Mon, 23 Nov 2026 15:00:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "published": "Mon, 23 Nov 2026 14:42:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "published": "Mon, 23 Nov 2026 13:38:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
       "published": "Mon, 23 Nov 2026 11:50:01 -0500",
@@ -581,30 +605,6 @@
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "published": "Sat, 21 Nov 2026 13:01:58 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "published": "Sat, 21 Nov 2026 10:17:27 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "published": "Sat, 21 Nov 2026 09:26:04 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "published": "Fri, 20 Nov 2026 13:51:43 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "published": "Fri, 20 Nov 2026 12:30:00 -0500",
       "source": "BleepingComputer"
     },
     {
