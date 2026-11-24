@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-24T15:06:52.040454Z",
+  "generated_at": "2026-11-24T23:59:46.360641Z",
   "segment1": [
+    {
+      "title": "Gingko Bioworks Holdings issued a statement on October 8 about a data breach. Getting an update from them has been difficult.",
+      "url": "https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/",
+      "published": "Tue, 24 Nov 2026 17:34:23 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "HK: Gleneagles Hospital suspends app after data breach",
       "url": "https://databreaches.net/2026/11/24/hk-gleneagles-hospital-suspends-app-after-data-breach/",
@@ -53,17 +59,17 @@
       "title": "New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper",
       "url": "https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/",
       "published": "Mon, 23 Nov 2026 12:45:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Peninsula Energy warns of disruption after Wyoming cyber incident",
-      "url": "https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/",
-      "published": "Mon, 23 Nov 2026 12:45:27 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "Gingko Bioworks Holdings issued a statement on October 8 about a data breach. Getting an update from them has been difficult.",
+      "url": "https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/",
+      "published": "Tue, 24 Nov 2026 17:34:23 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "HK: Gleneagles Hospital suspends app after data breach",
       "url": "https://databreaches.net/2026/11/24/hk-gleneagles-hospital-suspends-app-after-data-breach/",
       "published": "Tue, 24 Nov 2026 14:00:34 +0000",
@@ -115,12 +121,6 @@
       "title": "New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper",
       "url": "https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/",
       "published": "Mon, 23 Nov 2026 12:45:40 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Peninsula Energy warns of disruption after Wyoming cyber incident",
-      "url": "https://databreaches.net/2026/11/23/peninsula-energy-warns-of-disruption-after-wyoming-cyber-incident/",
-      "published": "Mon, 23 Nov 2026 12:45:27 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,54 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "published": "Tue, 24 Nov 2026 16:37:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "published": "Tue, 24 Nov 2026 15:21:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "published": "Tue, 24 Nov 2026 13:59:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "published": "Tue, 24 Nov 2026 12:49:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "published": "Tue, 24 Nov 2026 11:30:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "published": "Tue, 24 Nov 2026 11:22:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "published": "Tue, 24 Nov 2026 11:15:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "published": "Tue, 24 Nov 2026 10:10:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
       "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
       "published": "Tue, 24 Nov 2026 10:01:11 -0500",
@@ -228,52 +276,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "published": "Mon, 23 Nov 2026 11:50:01 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "published": "Mon, 23 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "published": "Mon, 23 Nov 2026 08:28:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "published": "Mon, 23 Nov 2026 07:02:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "published": "Mon, 23 Nov 2026 04:11:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "published": "Mon, 23 Nov 2026 02:44:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "published": "Sun, 22 Nov 2026 13:45:37 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "published": "Sun, 22 Nov 2026 10:43:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "published": "Tue, 24 Nov 2026 22:24:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -387,12 +393,6 @@
       "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
       "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
       "published": "Sun, 22 Nov 2026 10:33:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "published": "Sat, 21 Nov 2026 17:23:07 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,54 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "published": "Tue, 24 Nov 2026 16:37:30 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "published": "Tue, 24 Nov 2026 15:21:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "published": "Tue, 24 Nov 2026 13:59:52 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "published": "Tue, 24 Nov 2026 12:49:05 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "published": "Tue, 24 Nov 2026 11:30:19 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "published": "Tue, 24 Nov 2026 11:22:44 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "published": "Tue, 24 Nov 2026 11:15:23 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "published": "Tue, 24 Nov 2026 10:10:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
       "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
       "published": "Tue, 24 Nov 2026 10:01:11 -0500",
@@ -560,52 +608,10 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "published": "Mon, 23 Nov 2026 11:50:01 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "published": "Mon, 23 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "published": "Mon, 23 Nov 2026 08:28:45 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "published": "Mon, 23 Nov 2026 07:02:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "published": "Mon, 23 Nov 2026 04:11:15 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "published": "Mon, 23 Nov 2026 02:44:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "published": "Sun, 22 Nov 2026 13:45:37 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "published": "Sun, 22 Nov 2026 10:43:04 -0500",
-      "source": "BleepingComputer"
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "published": "Tue, 24 Nov 2026 22:24:07 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -719,12 +725,6 @@
       "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
       "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
       "published": "Sun, 22 Nov 2026 10:33:41 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "published": "Sat, 21 Nov 2026 17:23:07 +0530",
       "source": "The Hacker News"
     },
     {
