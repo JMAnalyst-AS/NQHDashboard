@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-24T23:59:46.360641Z",
+  "generated_at": "2026-11-25T08:13:54.202238Z",
   "segment1": [
+    {
+      "title": "A post using an old ShinyHunters account suggests that there’s more to come",
+      "url": "https://databreaches.net/2026/11/24/a-post-using-an-old-shinyhunters-account-suggests-that-theres-more-to-come/",
+      "published": "Wed, 25 Nov 2026 02:17:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "CIA system breached in latest cyberattack targeting US intelligence agencies",
+      "url": "https://databreaches.net/2026/11/24/cia-system-breached-in-latest-cyberattack-targeting-us-intelligence-agencies/",
+      "published": "Wed, 25 Nov 2026 01:52:45 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "Gingko Bioworks Holdings issued a statement on October 8 about a data breach. Getting an update from them has been difficult.",
       "url": "https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/",
@@ -47,23 +59,23 @@
       "title": "Samsung Securities Hacked: Names, Addresses And Account Details Of Thousands Of Customers Exposed Online",
       "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/",
       "published": "Mon, 23 Nov 2026 14:15:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jpn: Tower Records Online Hit by Cyberattack, 11 Million Customer Records Potentially Leaked",
-      "url": "https://databreaches.net/2026/11/23/jpn-tower-records-online-hit-by-cyberattack-11-million-customer-records-potentially-leaked/",
-      "published": "Mon, 23 Nov 2026 14:15:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper",
-      "url": "https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/",
-      "published": "Mon, 23 Nov 2026 12:45:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "A post using an old ShinyHunters account suggests that there’s more to come",
+      "url": "https://databreaches.net/2026/11/24/a-post-using-an-old-shinyhunters-account-suggests-that-theres-more-to-come/",
+      "published": "Wed, 25 Nov 2026 02:17:59 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "CIA system breached in latest cyberattack targeting US intelligence agencies",
+      "url": "https://databreaches.net/2026/11/24/cia-system-breached-in-latest-cyberattack-targeting-us-intelligence-agencies/",
+      "published": "Wed, 25 Nov 2026 01:52:45 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "Gingko Bioworks Holdings issued a statement on October 8 about a data breach. Getting an update from them has been difficult.",
       "url": "https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/",
       "published": "Tue, 24 Nov 2026 17:34:23 +0000",
@@ -109,18 +121,6 @@
       "title": "Samsung Securities Hacked: Names, Addresses And Account Details Of Thousands Of Customers Exposed Online",
       "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/",
       "published": "Mon, 23 Nov 2026 14:15:55 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Jpn: Tower Records Online Hit by Cyberattack, 11 Million Customer Records Potentially Leaked",
-      "url": "https://databreaches.net/2026/11/23/jpn-tower-records-online-hit-by-cyberattack-11-million-customer-records-potentially-leaked/",
-      "published": "Mon, 23 Nov 2026 14:15:28 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "New York State Department of Financial Services Secures $6.75 Million in Cybersecurity Settlements with Rocket Mortgage and Mr. Cooper",
-      "url": "https://databreaches.net/2026/11/23/new-york-state-department-of-financial-services-secures-6-75-million-in-cybersecurity-settlements-with-rocket-mortgage-and-mr-cooper/",
-      "published": "Mon, 23 Nov 2026 12:45:40 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,12 @@
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
       "published": "Tue, 13 Oct 2026 23:24:53 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "published": "Wed, 25 Nov 2026 02:45:03 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "Rackspace shuts down Spot cloud platform after security breach",
@@ -270,10 +276,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "published": "Mon, 23 Nov 2026 13:38:40 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "published": "Wed, 25 Nov 2026 12:20:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "published": "Wed, 25 Nov 2026 12:07:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "published": "Wed, 25 Nov 2026 11:51:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
@@ -375,24 +393,6 @@
       "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
       "published": "Mon, 23 Nov 2026 14:34:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "published": "Mon, 23 Nov 2026 13:54:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "published": "Sun, 22 Nov 2026 10:36:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "published": "Sun, 22 Nov 2026 10:33:41 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,12 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "published": "Wed, 25 Nov 2026 02:45:03 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
       "published": "Tue, 24 Nov 2026 16:37:30 -0500",
@@ -602,10 +608,22 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "published": "Mon, 23 Nov 2026 13:38:40 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "published": "Wed, 25 Nov 2026 12:20:19 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "published": "Wed, 25 Nov 2026 12:07:06 +0530",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "published": "Wed, 25 Nov 2026 11:51:12 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
@@ -707,24 +725,6 @@
       "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
       "published": "Mon, 23 Nov 2026 14:34:08 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "published": "Mon, 23 Nov 2026 13:54:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "published": "Sun, 22 Nov 2026 10:36:55 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "published": "Sun, 22 Nov 2026 10:33:41 +0530",
       "source": "The Hacker News"
     },
     {
