@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-25T08:13:54.202238Z",
+  "generated_at": "2026-11-25T18:45:15.255329Z",
   "segment1": [
+    {
+      "title": "‘We are not ShinyHunters,’ says criminal hacking crew that looks and acts just like ShinyHunters",
+      "url": "https://databreaches.net/2026/11/25/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/",
+      "published": "Wed, 25 Nov 2026 13:26:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Treasury’s FinCEN says ‘cybersecurity incident’ includes ‘unauthorized access’ of some systems",
+      "url": "https://databreaches.net/2026/11/25/treasurys-fincen-says-cybersecurity-incident-includes-unauthorized-access-of-some-systems/",
+      "published": "Wed, 25 Nov 2026 12:22:34 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "A post using an old ShinyHunters account suggests that there’s more to come",
       "url": "https://databreaches.net/2026/11/24/a-post-using-an-old-shinyhunters-account-suggests-that-theres-more-to-come/",
@@ -47,23 +59,23 @@
       "title": "Major cyberattack hits IT systems at Guadeloupe university hospital",
       "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/",
       "published": "Mon, 23 Nov 2026 14:16:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BabidiGhost: An AI-Augmented Cybercrime Operation",
-      "url": "https://databreaches.net/2026/11/23/babidighost-an-ai-augmented-cybercrime-operation/",
-      "published": "Mon, 23 Nov 2026 14:16:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Samsung Securities Hacked: Names, Addresses And Account Details Of Thousands Of Customers Exposed Online",
-      "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/",
-      "published": "Mon, 23 Nov 2026 14:15:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "‘We are not ShinyHunters,’ says criminal hacking crew that looks and acts just like ShinyHunters",
+      "url": "https://databreaches.net/2026/11/25/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/",
+      "published": "Wed, 25 Nov 2026 13:26:42 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
+      "title": "Treasury’s FinCEN says ‘cybersecurity incident’ includes ‘unauthorized access’ of some systems",
+      "url": "https://databreaches.net/2026/11/25/treasurys-fincen-says-cybersecurity-incident-includes-unauthorized-access-of-some-systems/",
+      "published": "Wed, 25 Nov 2026 12:22:34 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "A post using an old ShinyHunters account suggests that there’s more to come",
       "url": "https://databreaches.net/2026/11/24/a-post-using-an-old-shinyhunters-account-suggests-that-theres-more-to-come/",
       "published": "Wed, 25 Nov 2026 02:17:59 +0000",
@@ -109,18 +121,6 @@
       "title": "Major cyberattack hits IT systems at Guadeloupe university hospital",
       "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/",
       "published": "Mon, 23 Nov 2026 14:16:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "BabidiGhost: An AI-Augmented Cybercrime Operation",
-      "url": "https://databreaches.net/2026/11/23/babidighost-an-ai-augmented-cybercrime-operation/",
-      "published": "Mon, 23 Nov 2026 14:16:10 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Samsung Securities Hacked: Names, Addresses And Account Details Of Thousands Of Customers Exposed Online",
-      "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/",
-      "published": "Mon, 23 Nov 2026 14:15:55 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -186,6 +186,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "published": "Wed, 25 Nov 2026 11:13:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "published": "Wed, 25 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "published": "Wed, 25 Nov 2026 10:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "published": "Wed, 25 Nov 2026 06:16:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "published": "Wed, 25 Nov 2026 05:10:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms authentication issues after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "published": "Wed, 25 Nov 2026 04:02:57 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers reportedly breached CIA intelligence analysis system",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
       "published": "Wed, 25 Nov 2026 02:45:03 -0500",
@@ -240,40 +276,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "published": "Tue, 24 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "published": "Wed, 25 Nov 2026 18:18:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "published": "Tue, 24 Nov 2026 09:09:37 -0500",
-      "source": "BleepingComputer"
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "published": "Wed, 25 Nov 2026 18:00:08 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "published": "Tue, 24 Nov 2026 08:34:23 -0500",
-      "source": "BleepingComputer"
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "published": "Wed, 25 Nov 2026 17:21:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "published": "Mon, 23 Nov 2026 15:54:51 -0500",
-      "source": "BleepingComputer"
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "published": "Wed, 25 Nov 2026 16:53:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "published": "Mon, 23 Nov 2026 15:00:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "published": "Wed, 25 Nov 2026 16:13:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "published": "Mon, 23 Nov 2026 14:42:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "published": "Wed, 25 Nov 2026 14:36:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
@@ -357,42 +393,6 @@
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
       "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
       "published": "Mon, 23 Nov 2026 23:15:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "published": "Mon, 23 Nov 2026 20:40:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "published": "Mon, 23 Nov 2026 18:52:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "published": "Mon, 23 Nov 2026 18:11:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "published": "Mon, 23 Nov 2026 17:58:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "published": "Mon, 23 Nov 2026 14:41:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "published": "Mon, 23 Nov 2026 14:34:08 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,42 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "published": "Wed, 25 Nov 2026 11:13:40 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "published": "Wed, 25 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "published": "Wed, 25 Nov 2026 10:00:00 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "published": "Wed, 25 Nov 2026 06:16:32 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "published": "Wed, 25 Nov 2026 05:10:20 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft confirms authentication issues after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "published": "Wed, 25 Nov 2026 04:02:57 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "Hackers reportedly breached CIA intelligence analysis system",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
       "published": "Wed, 25 Nov 2026 02:45:03 -0500",
@@ -572,40 +608,40 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "published": "Tue, 24 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "published": "Wed, 25 Nov 2026 18:18:54 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "published": "Tue, 24 Nov 2026 09:09:37 -0500",
-      "source": "BleepingComputer"
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "published": "Wed, 25 Nov 2026 18:00:08 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "published": "Tue, 24 Nov 2026 08:34:23 -0500",
-      "source": "BleepingComputer"
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "published": "Wed, 25 Nov 2026 17:21:48 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "published": "Mon, 23 Nov 2026 15:54:51 -0500",
-      "source": "BleepingComputer"
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "published": "Wed, 25 Nov 2026 16:53:26 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "published": "Mon, 23 Nov 2026 15:00:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "published": "Wed, 25 Nov 2026 16:13:07 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "published": "Mon, 23 Nov 2026 14:42:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "published": "Wed, 25 Nov 2026 14:36:59 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
@@ -689,42 +725,6 @@
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
       "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
       "published": "Mon, 23 Nov 2026 23:15:15 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "published": "Mon, 23 Nov 2026 20:40:48 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "published": "Mon, 23 Nov 2026 18:52:20 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "published": "Mon, 23 Nov 2026 18:11:04 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "published": "Mon, 23 Nov 2026 17:58:09 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "published": "Mon, 23 Nov 2026 14:41:56 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "published": "Mon, 23 Nov 2026 14:34:08 +0530",
       "source": "The Hacker News"
     },
     {
