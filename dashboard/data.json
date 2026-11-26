@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-25T18:45:15.255329Z",
+  "generated_at": "2026-11-26T02:01:51.951462Z",
   "segment1": [
+    {
+      "title": "1Password says a hacker used an employee’s GitHub account to take customer data",
+      "url": "https://databreaches.net/2026/11/25/1password-says-a-hacker-used-an-employees-github-account-to-take-customer-data/",
+      "published": "Wed, 25 Nov 2026 20:37:39 +0000",
+      "source": "DataBreaches.Net"
+    },
     {
       "title": "‘We are not ShinyHunters,’ says criminal hacking crew that looks and acts just like ShinyHunters",
       "url": "https://databreaches.net/2026/11/25/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/",
@@ -53,17 +59,17 @@
       "title": "GTA 6 hacker released on licence with warning ‘don’t let this happen again’",
       "url": "https://databreaches.net/2026/11/23/gta-6-hacker-released-on-licence-with-warning-dont-let-this-happen-again/",
       "published": "Mon, 23 Nov 2026 17:54:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Major cyberattack hits IT systems at Guadeloupe university hospital",
-      "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/",
-      "published": "Mon, 23 Nov 2026 14:16:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
   "hacks": [
     {
+      "title": "1Password says a hacker used an employee’s GitHub account to take customer data",
+      "url": "https://databreaches.net/2026/11/25/1password-says-a-hacker-used-an-employees-github-account-to-take-customer-data/",
+      "published": "Wed, 25 Nov 2026 20:37:39 +0000",
+      "source": "DataBreaches.Net"
+    },
+    {
       "title": "‘We are not ShinyHunters,’ says criminal hacking crew that looks and acts just like ShinyHunters",
       "url": "https://databreaches.net/2026/11/25/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/",
       "published": "Wed, 25 Nov 2026 13:26:42 +0000",
@@ -115,12 +121,6 @@
       "title": "GTA 6 hacker released on licence with warning ‘don’t let this happen again’",
       "url": "https://databreaches.net/2026/11/23/gta-6-hacker-released-on-licence-with-warning-dont-let-this-happen-again/",
       "published": "Mon, 23 Nov 2026 17:54:13 +0000",
-      "source": "DataBreaches.Net"
-    },
-    {
-      "title": "Major cyberattack hits IT systems at Guadeloupe university hospital",
-      "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/",
-      "published": "Mon, 23 Nov 2026 14:16:13 +0000",
       "source": "DataBreaches.Net"
     }
   ],
@@ -184,6 +184,24 @@
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
       "published": "Tue, 13 Oct 2026 23:24:53 +0000",
       "source": "Krebs on Security"
+    },
+    {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "published": "Wed, 25 Nov 2026 17:05:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "published": "Wed, 25 Nov 2026 16:33:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "published": "Wed, 25 Nov 2026 14:39:31 -0500",
+      "source": "BleepingComputer"
     },
     {
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
@@ -255,24 +273,6 @@
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
       "published": "Tue, 24 Nov 2026 11:30:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "published": "Tue, 24 Nov 2026 11:22:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "published": "Tue, 24 Nov 2026 11:15:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "published": "Tue, 24 Nov 2026 10:10:10 -0500",
       "source": "BleepingComputer"
     },
     {
@@ -518,6 +518,24 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "published": "Wed, 25 Nov 2026 17:05:09 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "published": "Wed, 25 Nov 2026 16:33:33 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "published": "Wed, 25 Nov 2026 14:39:31 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
       "published": "Wed, 25 Nov 2026 11:13:40 -0500",
@@ -587,24 +605,6 @@
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
       "published": "Tue, 24 Nov 2026 11:30:19 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "published": "Tue, 24 Nov 2026 11:22:44 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "published": "Tue, 24 Nov 2026 11:15:23 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "published": "Tue, 24 Nov 2026 10:10:10 -0500",
       "source": "BleepingComputer"
     },
     {
