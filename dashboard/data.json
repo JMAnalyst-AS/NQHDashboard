@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:03:19.460815Z",
+  "generated_at": "2026-11-27T12:56:35.673560Z",
   "segment1": [
     {
       "title": "Happy Thanksgiving!",
@@ -186,6 +186,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "published": "Fri, 27 Nov 2026 06:18:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "published": "Fri, 27 Nov 2026 05:10:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "published": "Fri, 27 Nov 2026 04:56:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "published": "Fri, 27 Nov 2026 04:08:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "published": "Fri, 27 Nov 2026 03:06:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
       "published": "Thu, 26 Nov 2026 16:06:22 -0500",
@@ -246,34 +276,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "published": "Wed, 25 Nov 2026 10:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "published": "Fri, 27 Nov 2026 16:02:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "published": "Wed, 25 Nov 2026 06:16:32 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "published": "Fri, 27 Nov 2026 14:59:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "published": "Wed, 25 Nov 2026 05:10:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "published": "Fri, 27 Nov 2026 11:34:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "published": "Wed, 25 Nov 2026 04:02:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "published": "Wed, 25 Nov 2026 02:45:03 -0500",
-      "source": "BleepingComputer"
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "published": "Fri, 27 Nov 2026 11:18:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -369,30 +393,6 @@
       "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
       "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
       "published": "Wed, 25 Nov 2026 11:51:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "published": "Tue, 24 Nov 2026 22:24:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "published": "Tue, 24 Nov 2026 18:58:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "published": "Tue, 24 Nov 2026 18:58:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": "Tue, 24 Nov 2026 18:12:09 +0530",
       "source": "The Hacker News"
     },
     {
@@ -518,6 +518,36 @@
       "source": "Krebs on Security"
     },
     {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "published": "Fri, 27 Nov 2026 06:18:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "published": "Fri, 27 Nov 2026 05:10:15 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "published": "Fri, 27 Nov 2026 04:56:36 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "published": "Fri, 27 Nov 2026 04:08:16 -0500",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "published": "Fri, 27 Nov 2026 03:06:58 -0500",
+      "source": "BleepingComputer"
+    },
+    {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
       "published": "Thu, 26 Nov 2026 16:06:22 -0500",
@@ -578,34 +608,28 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "published": "Wed, 25 Nov 2026 10:00:00 -0500",
-      "source": "BleepingComputer"
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "published": "Fri, 27 Nov 2026 16:02:18 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "published": "Wed, 25 Nov 2026 06:16:32 -0500",
-      "source": "BleepingComputer"
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "published": "Fri, 27 Nov 2026 14:59:30 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "published": "Wed, 25 Nov 2026 05:10:20 -0500",
-      "source": "BleepingComputer"
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "published": "Fri, 27 Nov 2026 11:34:20 +0530",
+      "source": "The Hacker News"
     },
     {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "published": "Wed, 25 Nov 2026 04:02:57 -0500",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "published": "Wed, 25 Nov 2026 02:45:03 -0500",
-      "source": "BleepingComputer"
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "published": "Fri, 27 Nov 2026 11:18:20 +0530",
+      "source": "The Hacker News"
     },
     {
       "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -701,30 +725,6 @@
       "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
       "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
       "published": "Wed, 25 Nov 2026 11:51:12 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "published": "Tue, 24 Nov 2026 22:24:07 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "published": "Tue, 24 Nov 2026 18:58:26 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "published": "Tue, 24 Nov 2026 18:58:21 +0530",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": "Tue, 24 Nov 2026 18:12:09 +0530",
       "source": "The Hacker News"
     },
     {
